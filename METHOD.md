@@ -1,5 +1,7 @@
 # Method
 
+The results this method produces are published, with charts, at [gdeltcloud.com/benchmarks/events](https://gdeltcloud.com/benchmarks/events).
+
 This benchmark asks one question per occurrence: **when something happened in the world, does each service give you a record of it?** It then asks a second question of every record a service returns: **is it right, and is it the only one?**
 
 ## The three numbers

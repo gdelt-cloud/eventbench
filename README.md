@@ -1,4 +1,18 @@
+<p align="center">
+  <a href="https://gdeltcloud.com/benchmarks/events"><img src="assets/eventbench-logo.svg" alt="EventBench, an open event data benchmark" width="440"></a>
+</p>
+
+<p align="center">
+  <a href="https://gdeltcloud.com/benchmarks/events"><b>Results and charts</b></a> &middot;
+  <a href="METHOD.md">Method</a> &middot;
+  <a href="AGENTS.md">Run it on any service</a> &middot;
+  <a href="CHANGELOG.md">Changelog</a>
+</p>
+
 # GDELT Cloud EventBench
+
+**The full results, with charts and every figure explained, are at [gdeltcloud.com/benchmarks/events](https://gdeltcloud.com/benchmarks/events).**
+
 
 When something happens in the world, does a data service give you a record of it? Is the record right? What does it tell you?
 

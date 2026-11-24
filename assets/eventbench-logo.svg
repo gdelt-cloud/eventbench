@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120" role="img" aria-labelledby="eb-lock-title">
+  <title id="eb-lock-title">EventBench by GDELT Cloud</title>
+  <style>
+    .eb-w1 { fill: #1d6fc0; } .eb-w2 { fill: #0ea5e9; } .eb-sub { fill: #64748b; }
+    @media (prefers-color-scheme: dark) { .eb-w1 { fill: #e6edf3; } .eb-w2 { fill: #38bdf8; } .eb-sub { fill: #8b949e; } }
+  </style>
+  <defs>
+    <linearGradient id="eb-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2740"/><stop offset="1" stop-color="#07121f"/></linearGradient>
+    <linearGradient id="eb-peak" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2ad1f5"/><stop offset="1" stop-color="#1673c4"/></linearGradient>
+    <linearGradient id="eb-bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5d7a98"/><stop offset="1" stop-color="#2a4058"/></linearGradient>
+    <linearGradient id="eb-wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2ad1f5"/><stop offset="0.55" stop-color="#0ea5e9"/><stop offset="1" stop-color="#1d6fc0"/></linearGradient>
+  </defs>
+  <g><rect x="2" y="2" width="116" height="116" rx="28" fill="url(#eb-bg)"/>
+  <rect x="2.75" y="2.75" width="114.5" height="114.5" rx="27.25" fill="none" stroke="#2ad1f5" stroke-opacity="0.3" stroke-width="1.5"/>
+  <rect x="13.25" y="78" width="9.5" height="14" rx="4.75" fill="url(#eb-bar)"/><rect x="27.25" y="66" width="9.5" height="26" rx="4.75" fill="url(#eb-bar)"/><rect x="41.25" y="75" width="9.5" height="17" rx="4.75" fill="url(#eb-bar)"/><rect x="55.25" y="38" width="9.5" height="54" rx="4.75" fill="url(#eb-peak)"/><rect x="69.25" y="71" width="9.5" height="21" rx="4.75" fill="url(#eb-bar)"/><rect x="83.25" y="60" width="9.5" height="32" rx="4.75" fill="url(#eb-bar)"/><rect x="97.25" y="77" width="9.5" height="15" rx="4.75" fill="url(#eb-bar)"/>
+  <path d="M18.00 70.00 C20.33 68.00 27.33 58.50 32.00 58.00 C36.67 57.50 41.33 71.67 46.00 67.00 C50.67 62.33 55.33 30.67 60.00 30.00 C64.67 29.33 69.33 59.33 74.00 63.00 C78.67 66.67 83.33 51.00 88.00 52.00 C92.67 53.00 99.67 66.17 102.00 69.00" fill="none" stroke="url(#eb-wave)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="140" y="70" font-family="'Space Grotesk','Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5"><tspan class="eb-w1">Event</tspan><tspan class="eb-w2">Bench</tspan></text>
+  <text x="142" y="100" class="eb-sub" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3">OPEN EVENT DATA BENCHMARK</text>
+</svg>
