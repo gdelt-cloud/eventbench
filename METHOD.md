@@ -18,7 +18,7 @@ Recall needs a list of what happened that no tested service produced. Each panel
 
 | Panel | Category | What one item is | Why it is fair |
 |---|---|---|---|
-| UCDP Candidate Events, Oct 2026 (47 countries) | Conflict | One lethal event of organized violence (as small as one death) | Academic, coded from wire and local press independently of every service; random sample, seeded per round |
+| UCDP Candidate Events, Oct 2026 (47 countries) | Conflict | One event of organized violence, as small as one death (57 of the 428 sampled carry a best estimate of zero deaths and stay in every denominator) | Academic, coded from wire and local press independently of every service; random sample, seeded per round |
 | Wikipedia Current Events, Sep 20–Nov 20 | Conflict (armed conflicts and attacks) and non-conflict (crime, politics, disasters, business, diplomacy, health, science) | One news development | Editorial and independent of every service; a random sample stratified by Wikipedia's own category, plus every item with a clear country, with a bias toward English-language prominence that we disclose |
 | Indepaz massacre list, Aug–Oct 2026 | Conflict (Colombia) | Three or more people killed together | Independent monitor with a published definition; every case listed |
 | SATP timelines, Nov 2026 | Conflict (Pakistan, India) | A killing reported with date and district | Independent daily timeline; tests the current pipeline |

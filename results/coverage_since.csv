@@ -1,0 +1,4 @@
+scope,metric,before_from,before_to,before_events,after_from,after_to,after_events,measured_at,source
+Afghanistan,Events placed in the country,2026-10-01,2026-10-30,84,2026-10-31,2026-11-21,229,2026-11-22,"/api/v2/events/summary group_by=country, country_match=location"
+Afghanistan,conflict Events placed in the country,2026-10-01,2026-10-30,11,2026-10-31,2026-11-21,25,2026-11-22,"/api/v2/events/summary group_by=country, country_match=location, conflict categories"
+All countries,Events,2026-10-01,2026-10-30,97370,2026-10-31,2026-11-21,92293,2026-11-22,"/api/v2/events/summary group_by=country, country_match=location"
