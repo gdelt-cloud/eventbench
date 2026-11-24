@@ -1,0 +1,189 @@
+{
+"U646260": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"U646259": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"U646257": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"U646293": {
+"S": [],
+"A": [],
+"note": "Oct 16 Lakki Marwat mastermind killing is 3 days after; left out."
+},
+"U646508": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"U647818": {
+"S": [],
+"A": [],
+"note": "Nine killed in two Balochistan IBOs does not name Khuzdar/Kharak; left out."
+},
+"U646695": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"U647949": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK01": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK04": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK15": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK17": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK20": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK23": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK14": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK27": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK28": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK00": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK09": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK10": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"SATPPAK18": {
+"S": [],
+"A": [],
+"note": "No matching candidate."
+},
+"U647886": {
+"S": [
+"G01105",
+"G01100",
+"G01099",
+"G01095",
+"G01091",
+"G01103",
+"G01088",
+"G01110"
+],
+"A": [],
+"note": "Nine killed incl four commanders in N Waziristan IBO Oct 8; the 13-killed Oct 7 and seven-killed Oct 9 ops treated as different."
+},
+"U646289": {
+"S": [
+"G01193",
+"G01195",
+"G01194"
+],
+"A": [],
+"note": "Five terrorists killed four injured, Washuk IBO."
+},
+"SATPPAK02": {
+"S": [],
+"A": [
+"G01801",
+"G01802",
+"G01803"
+],
+"note": "17 killed in two IBOs roundup; headline does not name Kachhi, row does."
+},
+"SATPPAK16": {
+"S": [
+"G01805"
+],
+"A": [],
+"note": "3 killed in firing, Killa Abdullah coded."
+},
+"SATPPAK25": {
+"S": [],
+"A": [
+"G01810",
+"G01813",
+"G01811",
+"G01814",
+"G01812",
+"G01806",
+"G01807"
+],
+"note": "17 killed, soldier martyred across Kachhi and Kharan IBOs."
+},
+"SATPPAK08": {
+"S": [
+"G01820"
+],
+"A": [
+"G01817"
+],
+"note": "Four TTP killed in Bannu; KP roundup as A."
+},
+"SATPPAK13": {
+"S": [],
+"A": [
+"G01821"
+],
+"note": "27 militants killed SW Pakistan roundup, Mastung coded."
+},
+"SATPPAK05": {
+"S": [],
+"A": [],
+"note": "35 killed claim not matched; 16-killed Nov 14 reports left out as different count."
+},
+"SATPPAK24": {
+"S": [
+"G01868",
+"G01869",
+"G01870"
+],
+"A": [],
+"note": "Attack on Mastung post, Nov 13 reports."
+}
+}

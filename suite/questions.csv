@@ -1,0 +1,297 @@
+question_id,mode,start,end,web_question,covers
+COD-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in DR Congo October 5-11 2026",U646658;U646865;U646863;U646224
+COD-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in DR Congo October 12-18 2026",U647379;U645994
+COD-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in DR Congo October 19-25 2026",U648119;U646982
+COD-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in DR Congo October 26-31 2026",U647074;U647415
+COL-w40,monitor,2026-10-01,2026-10-04,"people killed in attacks, clashes or violence in Colombia October 1-4 2026",U646916;U647117;IDP094;IDP095;IDP096
+COL-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Colombia October 5-11 2026",U647312;U647912;IDP097
+COL-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Colombia October 12-18 2026",U648120;U647155;U647808
+COL-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Colombia October 19-25 2026",U647430;U647425;U647216
+EQ-nov,monitor,2026-11-01,2026-11-20,earthquakes magnitude 5.5 or greater worldwide November 1-20 2026,
+EQ-oct,monitor,2026-10-01,2026-10-31,earthquakes magnitude 5.5 or greater worldwide October 2026,
+ETH-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Ethiopia October 5-11 2026",U644809
+ETH-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Ethiopia October 12-18 2026",U645516;U649131;U650445
+ETH-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Ethiopia October 19-25 2026",U645628;U647509;U647498;U647567;U648415
+ETH-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Ethiopia October 26-31 2026",U648309
+IND-w40,monitor,2026-10-01,2026-10-04,"people killed in attacks, clashes or violence in India October 1-4 2026",U648660;U647301
+IND-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in India October 5-11 2026",U648636;U648481;U647298
+IND-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in India October 12-18 2026",U647328;U648649
+IND-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in India October 19-25 2026",U647329;U647327
+IND-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in India October 26-31 2026",U648683
+MEX-w40,monitor,2026-10-01,2026-10-04,"people killed in attacks, clashes or violence in Mexico October 1-4 2026",U649108
+MEX-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Mexico October 5-11 2026",U648776;U649201
+MEX-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Mexico October 12-18 2026",U648786;U649209;U649388
+MEX-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Mexico October 19-25 2026",U648815;U649381;U650536
+MEX-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Mexico October 26-31 2026",U650566
+MLI-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Mali October 5-11 2026",U648457;U644423;U644526;U644425;U648447;U644443
+MLI-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Mali October 12-18 2026",U648492
+MLI-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Mali October 19-25 2026",U648972
+MLI-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Mali October 26-31 2026",U648544;U648979
+MMR-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Myanmar October 5-11 2026",U648433;U644931;U646511
+MMR-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Myanmar October 12-18 2026",U647708;U647714
+MMR-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Myanmar October 19-25 2026",U647705;U647706;U646515;U646510
+MMR-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Myanmar October 26-31 2026",U648431
+NGA-w40,monitor,2026-10-01,2026-10-04,"people killed in attacks, clashes or violence in Nigeria October 1-4 2026",U645234
+NGA-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Nigeria October 5-11 2026",U645252;U645807;U645681
+NGA-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Nigeria October 12-18 2026",U647649;U645782
+NGA-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Nigeria October 19-25 2026",U647850;U646398
+NGA-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Nigeria October 26-31 2026",U646392;U647231
+PAK-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Pakistan October 5-11 2026",U646260;U647886;U646259;U646257
+PAK-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Pakistan October 12-18 2026",U646293;U646289
+PAK-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Pakistan October 19-25 2026",U646508
+PAK-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Pakistan October 26-31 2026",U647818;U646695;U647949;SATPPAK02;SATPPAK16;SATPPAK25
+R2-AFG-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Afghanistan September 28-4 2026",U644695;U644102
+R2-AFG-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Afghanistan October 5-11 2026",U644116;U644663;U644674
+R2-AFG-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Afghanistan October 12-18 2026",U646107;U646117;U646146;U646111
+R2-AFG-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Afghanistan October 26-1 2026",U647150
+R2-BFA-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Burkina Faso October 5-11 2026",U644440;U645320;U645319;U645321
+R2-BFA-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Burkina Faso October 12-18 2026",U648668
+R2-BFA-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Burkina Faso October 19-25 2026",U648516
+R2-BFA-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Burkina Faso October 26-1 2026",U648957;U648542;U648550;U648630
+R2-BRA-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Brazil September 28-4 2026",U648267
+R2-BRA-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Brazil October 5-11 2026",U648284;U648259;U648265;U648263;U648283;U648282;U648278
+R2-BRA-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Brazil October 12-18 2026",U648276
+R2-BRA-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Brazil October 19-25 2026",U648204
+R2-CB01,topic,2026-10-26,2026-11-02,central bank interest rate decisions in or affecting Canada around October 28 2026,CB01
+R2-CB02,topic,2026-11-01,2026-11-08,central bank interest rate decisions in or affecting Australia around November 3 2026,CB02
+R2-CB03,topic,2026-11-02,2026-11-09,central bank interest rate decisions in or affecting Sweden around November 4 2026,CB03
+R2-CB04,topic,2026-11-03,2026-11-10,central bank interest rate decisions in or affecting United Kingdom around November 5 2026,CB04
+R2-CB05,topic,2026-11-03,2026-11-10,central bank interest rate decisions in or affecting Mexico around November 5 2026,CB05
+R2-CMR-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Cameroon October 5-11 2026",U647016
+R2-CMR-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Cameroon October 12-18 2026",U647023
+R2-CMR-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Cameroon October 19-25 2026",U647054;U647027;U647055
+R2-CMR-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Cameroon October 26-1 2026",U647042;U647043;U647046;U647044;U647045
+R2-COL-w31,monitor,2026-07-27,2026-08-02,"people killed in attacks, clashes or violence in Colombia July 27-2 2026",IDP079;IDP080
+R2-COL-w32,monitor,2026-08-03,2026-08-09,"people killed in attacks, clashes or violence in Colombia August 3-9 2026",IDP081
+R2-COL-w33,monitor,2026-08-10,2026-08-16,"people killed in attacks, clashes or violence in Colombia August 10-16 2026",IDP082
+R2-COL-w34,monitor,2026-08-17,2026-08-23,"people killed in attacks, clashes or violence in Colombia August 17-23 2026",IDP083;IDP084;IDP085
+R2-COL-w35,monitor,2026-08-24,2026-08-30,"people killed in attacks, clashes or violence in Colombia August 24-30 2026",IDP086;IDP087
+R2-COL-w36,monitor,2026-08-31,2026-09-06,"people killed in attacks, clashes or violence in Colombia August 31-6 2026",IDP088;IDP089;IDP090
+R2-COL-w37,monitor,2026-09-07,2026-09-13,"people killed in attacks, clashes or violence in Colombia September 7-13 2026",IDP091;IDP092
+R2-COL-w38,monitor,2026-09-14,2026-09-20,"people killed in attacks, clashes or violence in Colombia September 14-20 2026",IDP093
+R2-COL-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Colombia September 28-4 2026",U646916;U647117;IDP094;IDP095;IDP096
+R2-COL-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Colombia October 5-11 2026",U647312;U647912;IDP097
+R2-ECU-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Ecuador September 28-4 2026",U646507
+R2-ECU-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Ecuador October 5-11 2026",U646757;U648488;U646552
+R2-ECU-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Ecuador October 12-18 2026",U646547
+R2-ECU-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Ecuador October 19-25 2026",U648321;U646529
+R2-ECU-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Ecuador October 26-1 2026",U648297;U646857;U648905
+R2-EL01,topic,2026-10-23,2026-10-30,elections in or affecting Bulgaria around October 25 2026,EL01
+R2-EL02,topic,2026-10-23,2026-10-30,elections in or affecting Serbia around October 25 2026,EL02
+R2-EL03,topic,2026-10-23,2026-10-30,elections in or affecting Brazil around October 25 2026,EL03
+R2-EL04,topic,2026-10-25,2026-11-01,elections in or affecting Israel around October 27 2026,EL04
+R2-EL05,topic,2026-10-30,2026-11-06,elections in or affecting Bulgaria around November 1 2026,EL05
+R2-EL06,topic,2026-11-01,2026-11-08,elections in or affecting United States around November 3 2026,EL06
+R2-EL07,topic,2026-11-03,2026-11-10,elections in or affecting Grenada around November 5 2026,EL07
+R2-EL08,topic,2026-11-05,2026-11-12,elections in or affecting New Zealand around November 7 2026,EL08
+R2-EL09,topic,2026-11-13,2026-11-20,elections in or affecting Cape Verde around November 15 2026,EL09
+R2-GD01,topic,2026-10-20,2026-10-27,earthquakes and natural disasters in or affecting China around October 22 2026,GD01
+R2-GD02,topic,2026-10-24,2026-10-31,"cyclones, storms and natural disasters in or affecting India around October 26 2026",GD02
+R2-GD03,topic,2026-10-30,2026-11-06,"cyclones, storms and natural disasters in or affecting India around November 1 2026",GD03
+R2-HTI-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Haiti October 5-11 2026",U644563;U644562
+R2-HTI-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Haiti October 12-18 2026",U648559;U648703
+R2-HTI-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Haiti October 19-25 2026",U648567;U648709
+R2-HTI-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Haiti October 26-1 2026",U648725;U648578
+R2-IND-w46,monitor,2026-11-09,2026-11-15,"people killed in attacks, clashes or violence in India November 9-15 2026",SATPIND30;SATPIND31;SATPIND32;SATPIND33;SATPIND34
+R2-IND-w47,monitor,2026-11-16,2026-11-22,"people killed in attacks, clashes or violence in India November 16-22 2026",SATPIND35
+R2-IRN-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Iran September 28-4 2026",U650407;U650408
+R2-IRN-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Iran October 5-11 2026",U650414;U650412;U650409;U650411
+R2-IRN-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Iran October 12-18 2026",U650416;U650417
+R2-IRN-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Iran October 19-25 2026",U650421
+R2-IRN-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Iran October 26-1 2026",U650422
+R2-ISR-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Israel September 28-4 2026",U644411;U644407
+R2-ISR-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Israel October 5-11 2026",U644434;U645328
+R2-ISR-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Israel October 12-18 2026",U646135;U645336
+R2-ISR-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Israel October 19-25 2026",U646720;U648138
+R2-ISR-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Israel October 26-1 2026",U648157;U648404
+R2-PAK-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Pakistan October 26-1 2026",U647818;U646695;U647949;SATPPAK02;SATPPAK16;SATPPAK25
+R2-PAK-w45,monitor,2026-11-02,2026-11-08,"people killed in attacks, clashes or violence in Pakistan November 2-8 2026",SATPPAK01;SATPPAK03;SATPPAK04;SATPPAK08;SATPPAK11;SATPPAK12;SATPPAK13;SATPPAK15;SATPPAK17;SATPPAK19;SATPPAK20;SATPPAK21;SATPPAK23;SATPPAK29
+R2-PAK-w46,monitor,2026-11-09,2026-11-15,"people killed in attacks, clashes or violence in Pakistan November 9-15 2026",SATPPAK05;SATPPAK06;SATPPAK14;SATPPAK22;SATPPAK24;SATPPAK26;SATPPAK27;SATPPAK28
+R2-PAK-w47,monitor,2026-11-16,2026-11-22,"people killed in attacks, clashes or violence in Pakistan November 16-22 2026",SATPPAK00;SATPPAK07;SATPPAK09;SATPPAK10;SATPPAK18
+R2-SYR-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Syria September 28-4 2026",U648107
+R2-SYR-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Syria October 5-11 2026",U648097
+R2-SYR-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Syria October 12-18 2026",U648051
+R2-SYR-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Syria October 19-25 2026",U648040;U648042;U647268;U647729;U647766
+R2-SYR-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Syria October 26-1 2026",U647751;U647734
+R2-WH01,topic,2026-10-21,2026-10-28,disease outbreaks and health emergencies in or affecting DR Congo around October 23 2026,WH01
+R2-WH02,topic,2026-10-31,2026-11-07,disease outbreaks and health emergencies in or affecting France around November 2 2026,WH02
+R2-WH03,topic,2026-11-04,2026-11-11,disease outbreaks and health emergencies in or affecting WHO African Region around November 6 2026,WH03
+R2-WH04,topic,2026-11-11,2026-11-18,disease outbreaks and health emergencies in or affecting Qatar around November 13 2026,WH04
+R2-WH05,topic,2026-11-15,2026-11-22,disease outbreaks and health emergencies in or affecting Switzerland around November 17 2026,WH05
+R2-YEM-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Yemen September 28-4 2026",U647870
+R2-YEM-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Yemen October 5-11 2026",U648733;U647291;U647336;U647168
+R2-YEM-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Yemen October 12-18 2026",U648289
+R2-YEM-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Yemen October 19-25 2026",U647794;U649158
+R2-YEM-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Yemen October 26-1 2026",U647833;U647821
+R3-BDI-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Burundi September 28-4 2026",U650694
+R3-BDI-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Burundi October 5-11 2026",U650695
+R3-BDI-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Burundi October 12-18 2026",U650697
+R3-BGD-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Bangladesh September 28-4 2026",U649327
+R3-BGD-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Bangladesh October 12-18 2026",U649349;U649352
+R3-BGD-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Bangladesh October 19-25 2026",U649354;U649356
+R3-CAF-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Central African Republic October 5-11 2026",U650690;U650599
+R3-CAF-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Central African Republic October 26-1 2026",U650687
+R3-IDN-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Indonesia October 5-11 2026",U647687;U647754
+R3-IDN-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Indonesia October 12-18 2026",U647755
+R3-IDN-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Indonesia October 19-25 2026",U647692;U647756
+R3-IRQ-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Iraq September 28-4 2026",U648833;U648835
+R3-IRQ-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Iraq October 5-11 2026",U648834
+R3-IRQ-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Iraq October 12-18 2026",U648836
+R3-KEN-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Kenya October 5-11 2026",U649129
+R3-KEN-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Kenya October 26-1 2026",U649251;U649248
+R3-LBN-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Lebanon October 5-11 2026",U647723;U647722;U648832
+R3-LBN-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Lebanon October 12-18 2026",U647720
+R3-LBN-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Lebanon October 19-25 2026",U647719
+R3-MOZ-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Mozambique October 5-11 2026",U648925
+R3-MOZ-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Mozambique October 12-18 2026",U649005;U648949;U649074
+R3-MOZ-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Mozambique October 19-25 2026",U648992
+R3-NER-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Niger October 5-11 2026",U645813;U646944;U646418
+R3-NER-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Niger October 19-25 2026",U647058;U647785
+R3-PHL-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Philippines October 12-18 2026",U648339;U648527
+R3-PHL-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Philippines October 19-25 2026",U648403
+R3-RUS-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Russia October 12-18 2026",U648877;U648876
+R3-RUS-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Russia October 19-25 2026",U648916;U648904;U648907
+R3-RUS-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Russia October 26-1 2026",U648923
+R3-SAU-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Saudi Arabia October 5-11 2026",U647136;U647686;U647602
+R3-SAU-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Saudi Arabia October 19-25 2026",U648466;U648409
+R3-SAU-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Saudi Arabia October 26-1 2026",U648490
+R3-TCD-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Chad October 5-11 2026",U648484
+R3-TCD-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Chad October 12-18 2026",U648448;U648462
+R3-TCD-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Chad October 19-25 2026",U646159
+R3-TCD-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Chad October 26-1 2026",U648473
+R3-VEN-w40,monitor,2026-09-28,2026-10-04,"people killed in attacks, clashes or violence in Venezuela September 28-4 2026",U647013
+R3-VEN-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Venezuela October 5-11 2026",U646940
+R3-VEN-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Venezuela October 12-18 2026",U646918
+R3-VEN-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Venezuela October 19-25 2026",U646913;U646924
+R3-VEN-w44,monitor,2026-10-26,2026-11-01,"people killed in attacks, clashes or violence in Venezuela October 26-1 2026",U646928
+R3-WK001,topic,2026-10-26,2026-11-02,"crimes, arrests, trials and court rulings in or affecting United Kingdom around October 28 2026",WK001
+R3-WK002,topic,2026-10-18,2026-10-25,"crimes, arrests, trials and court rulings in or affecting United States around October 20 2026",WK002
+R3-WK003,topic,2026-10-19,2026-10-26,"crimes, arrests, trials and court rulings in or affecting Italy around October 21 2026",WK003
+R3-WK004,topic,2026-10-25,2026-11-01,"crimes, arrests, trials and court rulings in or affecting Spain around October 27 2026",WK004
+R3-WK005,topic,2026-11-12,2026-11-19,"crimes, arrests, trials and court rulings in or affecting Bangladesh around November 14 2026",WK005
+R3-WK006,topic,2026-11-13,2026-11-20,"crimes, arrests, trials and court rulings in or affecting Philippines around November 15 2026",WK006
+R3-WK007,topic,2026-10-25,2026-11-01,"crimes, arrests, trials and court rulings in or affecting Nigeria around October 27 2026",WK007
+R3-WK008,topic,2026-11-11,2026-11-18,"crimes, arrests, trials and court rulings in or affecting Hungary around November 13 2026",WK008
+R3-WK009,topic,2026-11-10,2026-11-17,"crimes, arrests, trials and court rulings in or affecting United Kingdom around November 12 2026",WK009
+R3-WK010,topic,2026-11-02,2026-11-09,"crimes, arrests, trials and court rulings in or affecting France around November 4 2026",WK010
+R3-WK011,topic,2026-10-20,2026-10-27,"crimes, arrests, trials and court rulings in or affecting Indonesia around October 22 2026",WK011
+R3-WK012,topic,2026-11-09,2026-11-16,"crimes, arrests, trials and court rulings in or affecting Argentina around November 11 2026",WK012
+R3-WK013,topic,2026-11-05,2026-11-12,political developments and elections in or affecting France around November 7 2026,WK013
+R3-WK014,topic,2026-10-18,2026-10-25,political developments and elections in or affecting Malaysia around October 20 2026,WK014
+R3-WK015,topic,2026-11-01,2026-11-08,political developments and elections in or affecting United States around November 3 2026,WK015
+R3-WK016,topic,2026-11-01,2026-11-08,political developments and elections in or affecting Spain around November 3 2026,WK016
+R3-WK017,topic,2026-11-09,2026-11-16,political developments and elections in or affecting Brazil around November 11 2026,WK017
+R3-WK018,topic,2026-10-19,2026-10-26,political developments and elections in or affecting Greece around October 21 2026,WK018
+R3-WK019,topic,2026-10-22,2026-10-29,political developments and elections in or affecting France around October 24 2026,WK019
+R3-WK020,topic,2026-11-03,2026-11-10,political developments and elections in or affecting Nigeria around November 5 2026,WK020
+R3-WK021,topic,2026-10-29,2026-11-05,political developments and elections in or affecting France around October 31 2026,WK021
+R3-WK022,topic,2026-10-24,2026-10-31,political developments and elections in or affecting Spain around October 26 2026,WK022
+R3-WK023,topic,2026-10-18,2026-10-25,political developments and elections in or affecting Romania around October 20 2026,WK023
+R3-WK024,topic,2026-11-06,2026-11-13,political developments and elections in or affecting Netherlands around November 8 2026,WK024
+R3-WK025,topic,2026-11-15,2026-11-22,disasters and accidents in or affecting Senegal around November 17 2026,WK025
+R3-WK026,topic,2026-11-06,2026-11-13,disasters and accidents in or affecting Senegal around November 8 2026,WK026
+R3-WK027,topic,2026-11-02,2026-11-09,disasters and accidents in or affecting Philippines around November 4 2026,WK027
+R3-WK028,topic,2026-10-22,2026-10-29,disasters and accidents in or affecting Taiwan around October 24 2026,WK028
+R3-WK029,topic,2026-11-15,2026-11-22,disasters and accidents in or affecting Russia around November 17 2026,WK029
+R3-WK030,topic,2026-11-18,2026-11-25,disasters and accidents in or affecting Nigeria around November 20 2026,WK030
+R3-WK031,topic,2026-10-26,2026-11-02,disasters and accidents in or affecting Spain around October 28 2026,WK031
+R3-WK032,topic,2026-11-11,2026-11-18,disasters and accidents in or affecting United States around November 13 2026,WK032
+R3-WK033,topic,2026-11-06,2026-11-13,disasters and accidents in or affecting Japan around November 8 2026,WK033
+R3-WK034,topic,2026-10-23,2026-10-30,disasters and accidents in or affecting Kenya around October 25 2026,WK034
+R3-WK035,topic,2026-11-08,2026-11-15,disasters and accidents in or affecting Bulgaria around November 10 2026,WK035
+R3-WK036,topic,2026-10-25,2026-11-01,disasters and accidents in or affecting Turkey around October 27 2026,WK036
+R3-WK037,topic,2026-11-07,2026-11-14,business and economic developments in or affecting South Korea around November 9 2026,WK037
+R3-WK038,topic,2026-10-27,2026-11-03,business and economic developments in or affecting Canada around October 29 2026,WK038
+R3-WK039,topic,2026-10-31,2026-11-07,business and economic developments in or affecting United States around November 2 2026,WK039
+R3-WK040,topic,2026-11-15,2026-11-22,business and economic developments in or affecting Bangladesh around November 17 2026,WK040
+R3-WK041,topic,2026-11-09,2026-11-16,business and economic developments in or affecting Paraguay around November 11 2026,WK041
+R3-WK042,topic,2026-10-25,2026-11-01,business and economic developments in or affecting Cambodia around October 27 2026,WK042
+R3-WK043,topic,2026-11-17,2026-11-24,business and economic developments in or affecting Saudi Arabia around November 19 2026,WK043
+R3-WK044,topic,2026-10-28,2026-11-04,business and economic developments in or affecting Russia around October 30 2026,WK044
+R3-WK045,topic,2026-10-19,2026-10-26,business and economic developments in or affecting South Africa around October 21 2026,WK045
+R3-WK046,topic,2026-10-27,2026-11-03,business and economic developments in or affecting Seychelles around October 29 2026,WK046
+R3-WK047,topic,2026-10-18,2026-10-25,diplomatic and international developments in or affecting South Korea around October 20 2026,WK047
+R3-WK048,topic,2026-10-19,2026-10-26,diplomatic and international developments in or affecting Ireland around October 21 2026,WK048
+R3-WK049,topic,2026-10-18,2026-10-25,diplomatic and international developments in or affecting Libya around October 20 2026,WK049
+R3-WK050,topic,2026-10-29,2026-11-05,diplomatic and international developments in or affecting Poland around October 31 2026,WK050
+R3-WK051,topic,2026-11-11,2026-11-18,diplomatic and international developments in or affecting United States around November 13 2026,WK051
+R3-WK052,topic,2026-11-09,2026-11-16,diplomatic and international developments in or affecting Russia around November 11 2026,WK052
+R3-WK053,topic,2026-11-09,2026-11-16,diplomatic and international developments in or affecting Iran around November 11 2026,WK053
+R3-WK054,topic,2026-11-11,2026-11-18,diplomatic and international developments in or affecting Qatar around November 13 2026,WK054
+R3-WK055,topic,2026-11-09,2026-11-16,health and environmental developments in or affecting Kenya around November 11 2026,WK055
+R3-WK056,topic,2026-11-13,2026-11-20,health and environmental developments in or affecting Bangladesh around November 15 2026,WK056
+R3-WK057,topic,2026-11-10,2026-11-17,health and environmental developments in or affecting Bangladesh around November 12 2026,WK057
+R3-WK058,topic,2026-10-25,2026-11-01,health and environmental developments in or affecting global around October 27 2026,WK058
+R3-WK059,topic,2026-10-31,2026-11-07,health and environmental developments in or affecting United States around November 2 2026,WK059
+R3-WK060,topic,2026-11-12,2026-11-19,health and environmental developments in or affecting Bangladesh around November 14 2026,WK060
+R3-WK061,topic,2026-10-23,2026-10-30,health and environmental developments in or affecting Nigeria around October 25 2026,WK061
+R3-WK062,topic,2026-10-20,2026-10-27,health and environmental developments in or affecting France around October 22 2026,WK062
+R3-WK063,topic,2026-10-27,2026-11-03,science and technology developments in or affecting Mali around October 29 2026,WK063
+R3-WK064,topic,2026-11-12,2026-11-19,science and technology developments in or affecting Italy around November 14 2026,WK064
+R3-WK065,topic,2026-11-09,2026-11-16,science and technology developments in or affecting Kazakhstan around November 11 2026,WK065
+R3-WK066,topic,2026-11-15,2026-11-22,science and technology developments in or affecting United States around November 17 2026,WK066
+R3-WK067,topic,2026-10-19,2026-10-26,science and technology developments in or affecting United States around October 21 2026,WK067
+R3-WK068,topic,2026-10-18,2026-10-25,science and technology developments in or affecting India around October 20 2026,WK068
+R3-WX01,topic,2026-10-13,2026-10-20,disease outbreaks and health emergencies in or affecting Saudi Arabia around October 15 2026,WX01
+R3-WX02,topic,2026-10-08,2026-10-15,disease outbreaks and health emergencies in or affecting Russia around October 10 2026,WX02
+R3-WX03,topic,2026-10-06,2026-10-13,disease outbreaks and health emergencies in or affecting DR Congo around October 8 2026,WX03
+R3-ZAF-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in South Africa October 12-18 2026",U648839;U648831;U646128
+R3-ZAF-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in South Africa October 19-25 2026",U646125;U648862;U648875
+SDN-w40,monitor,2026-10-01,2026-10-04,"people killed in attacks, clashes or violence in Sudan October 1-4 2026",U649054;U644895
+SDN-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Sudan October 12-18 2026",U647332;U645736;U645711;U646321
+SDN-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Sudan October 19-25 2026",U646176;U646910;U649068
+SDN-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Sudan October 26-31 2026",U646906
+SOM-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Somalia October 5-11 2026",U645858
+SOM-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Somalia October 12-18 2026",U645862
+SOM-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Somalia October 19-25 2026",U649123;U649222;U649184;U649126
+SOM-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Somalia October 26-31 2026",U649188;U649264;U649271;U649198
+TX-CORPORATE-Brazil,list,2026-11-09,2026-11-15,"company and corporate developments (deals, layoffs, results, investments) in Brazil between November 9 and November 15, 2026",
+TX-CORPORATE-France,list,2026-11-09,2026-11-15,"company and corporate developments (deals, layoffs, results, investments) in France between November 9 and November 15, 2026",
+TX-CORPORATE-India,list,2026-11-09,2026-11-15,"company and corporate developments (deals, layoffs, results, investments) in India between November 9 and November 15, 2026",
+TX-CORPORATE-Indonesia,list,2026-11-09,2026-11-15,"company and corporate developments (deals, layoffs, results, investments) in Indonesia between November 9 and November 15, 2026",
+TX-CORPORATE-Nigeria,list,2026-11-09,2026-11-15,"company and corporate developments (deals, layoffs, results, investments) in Nigeria between November 9 and November 15, 2026",
+TX-CRIME-Brazil,list,2026-11-09,2026-11-15,"crimes, arrests, prosecutions and court cases in Brazil between November 9 and November 15, 2026",
+TX-CRIME-France,list,2026-11-09,2026-11-15,"crimes, arrests, prosecutions and court cases in France between November 9 and November 15, 2026",
+TX-CRIME-India,list,2026-11-09,2026-11-15,"crimes, arrests, prosecutions and court cases in India between November 9 and November 15, 2026",
+TX-CRIME-Indonesia,list,2026-11-09,2026-11-15,"crimes, arrests, prosecutions and court cases in Indonesia between November 9 and November 15, 2026",
+TX-CRIME-Nigeria,list,2026-11-09,2026-11-15,"crimes, arrests, prosecutions and court cases in Nigeria between November 9 and November 15, 2026",
+TX-ECONOMIC-Brazil,list,2026-11-09,2026-11-15,"economic policy, prices, trade and market developments in Brazil between November 9 and November 15, 2026",
+TX-ECONOMIC-France,list,2026-11-09,2026-11-15,"economic policy, prices, trade and market developments in France between November 9 and November 15, 2026",
+TX-ECONOMIC-India,list,2026-11-09,2026-11-15,"economic policy, prices, trade and market developments in India between November 9 and November 15, 2026",
+TX-ECONOMIC-Indonesia,list,2026-11-09,2026-11-15,"economic policy, prices, trade and market developments in Indonesia between November 9 and November 15, 2026",
+TX-ECONOMIC-Nigeria,list,2026-11-09,2026-11-15,"economic policy, prices, trade and market developments in Nigeria between November 9 and November 15, 2026",
+TX-ENVIRONMENT-Brazil,list,2026-11-09,2026-11-15,"environmental events, natural disasters and pollution in Brazil between November 9 and November 15, 2026",
+TX-ENVIRONMENT-France,list,2026-11-09,2026-11-15,"environmental events, natural disasters and pollution in France between November 9 and November 15, 2026",
+TX-ENVIRONMENT-India,list,2026-11-09,2026-11-15,"environmental events, natural disasters and pollution in India between November 9 and November 15, 2026",
+TX-ENVIRONMENT-Indonesia,list,2026-11-09,2026-11-15,"environmental events, natural disasters and pollution in Indonesia between November 9 and November 15, 2026",
+TX-ENVIRONMENT-Nigeria,list,2026-11-09,2026-11-15,"environmental events, natural disasters and pollution in Nigeria between November 9 and November 15, 2026",
+TX-GOVERNANCE-Brazil,list,2026-11-09,2026-11-15,"court rulings on government actions and public law in Brazil between November 9 and November 15, 2026",
+TX-GOVERNANCE-France,list,2026-11-09,2026-11-15,"court rulings on government actions and public law in France between November 9 and November 15, 2026",
+TX-GOVERNANCE-India,list,2026-11-09,2026-11-15,"court rulings on government actions and public law in India between November 9 and November 15, 2026",
+TX-GOVERNANCE-Indonesia,list,2026-11-09,2026-11-15,"court rulings on government actions and public law in Indonesia between November 9 and November 15, 2026",
+TX-GOVERNANCE-Nigeria,list,2026-11-09,2026-11-15,"court rulings on government actions and public law in Nigeria between November 9 and November 15, 2026",
+TX-HEALTH-Brazil,list,2026-11-09,2026-11-15,"health developments and disease outbreaks in Brazil between November 9 and November 15, 2026",
+TX-HEALTH-France,list,2026-11-09,2026-11-15,"health developments and disease outbreaks in France between November 9 and November 15, 2026",
+TX-HEALTH-India,list,2026-11-09,2026-11-15,"health developments and disease outbreaks in India between November 9 and November 15, 2026",
+TX-HEALTH-Indonesia,list,2026-11-09,2026-11-15,"health developments and disease outbreaks in Indonesia between November 9 and November 15, 2026",
+TX-HEALTH-Nigeria,list,2026-11-09,2026-11-15,"health developments and disease outbreaks in Nigeria between November 9 and November 15, 2026",
+TX-INFRASTRUCTURE-Brazil,list,2026-11-09,2026-11-15,"infrastructure, transport and utility disruptions or accidents in Brazil between November 9 and November 15, 2026",
+TX-INFRASTRUCTURE-France,list,2026-11-09,2026-11-15,"infrastructure, transport and utility disruptions or accidents in France between November 9 and November 15, 2026",
+TX-INFRASTRUCTURE-India,list,2026-11-09,2026-11-15,"infrastructure, transport and utility disruptions or accidents in India between November 9 and November 15, 2026",
+TX-INFRASTRUCTURE-Indonesia,list,2026-11-09,2026-11-15,"infrastructure, transport and utility disruptions or accidents in Indonesia between November 9 and November 15, 2026",
+TX-INFRASTRUCTURE-Nigeria,list,2026-11-09,2026-11-15,"infrastructure, transport and utility disruptions or accidents in Nigeria between November 9 and November 15, 2026",
+TX-Protests-Argentina,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Argentina between November 9 and November 15, 2026",
+TX-Protests-Brazil,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Brazil between November 9 and November 15, 2026",
+TX-Protests-France,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in France between November 9 and November 15, 2026",
+TX-Protests-Germany,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Germany between November 9 and November 15, 2026",
+TX-Protests-India,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in India between November 9 and November 15, 2026",
+TX-Protests-Indonesia,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Indonesia between November 9 and November 15, 2026",
+TX-Protests-Kenya,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Kenya between November 9 and November 15, 2026",
+TX-Protests-Mexico,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Mexico between November 9 and November 15, 2026",
+TX-Protests-Nigeria,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Nigeria between November 9 and November 15, 2026",
+TX-Protests-Pakistan,list,2026-11-09,2026-11-15,"protests, demonstrations and strikes in Pakistan between November 9 and November 15, 2026",
+UKR-w40,monitor,2026-10-01,2026-10-04,"people killed in attacks, clashes or violence in Ukraine October 1-4 2026",U645611;U645641
+UKR-w41,monitor,2026-10-05,2026-10-11,"people killed in attacks, clashes or violence in Ukraine October 5-11 2026",U646270
+UKR-w42,monitor,2026-10-12,2026-10-18,"people killed in attacks, clashes or violence in Ukraine October 12-18 2026",U646472;U646530
+UKR-w43,monitor,2026-10-19,2026-10-25,"people killed in attacks, clashes or violence in Ukraine October 19-25 2026",U646958;U646770;U647001
+UKR-w44,monitor,2026-10-26,2026-10-31,"people killed in attacks, clashes or violence in Ukraine October 26-31 2026",U647022;U646991

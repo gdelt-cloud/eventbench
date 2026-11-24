@@ -1,0 +1,2286 @@
+{
+ "Protests-Kenya": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "conflict_cccc8d2c4cc8b44c"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "conflict_cccc8d2c4cc8b44c"
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W8"
+   }
+  }
+ },
+ "Protests-Mexico": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_e579604ffc80fdff"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_e579604ffc80fdff"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_f9edd27814d7b858"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_e579604ffc80fdff"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_f9edd27814d7b858"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "conflict_bec88b43313e3ce3"
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": "conflict_5361dbfca3d982c4"
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_e579604ffc80fdff"
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": "W7"
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "Protests-Germany": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "conflict_60622cf940d402e1"
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": "W6"
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "Protests-Pakistan": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_1da639871f4e30af"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "conflict_9d4650b4fb8a0d8c"
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "conflict_9d4650b4fb8a0d8c"
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W1"
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": "W10"
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "Protests-Argentina": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "Protests-Nigeria": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_e184d72b110e6313"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_95ece4102cf049b0"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_e184d72b110e6313"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": "conflict_650c5f51ee68b1d9"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": "conflict_84c1c9ce9106f3ce"
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": "W1"
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": "W2"
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": "W5"
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": "W6"
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": "W6"
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CRIME-Nigeria": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_84eb840857e85d30"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_fb769447532806cf"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": "cameoplus_b45d2421b79bcbf1"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": "cameoplus_3a30b4f9b9d9cdb1"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": "cameoplus_9d038ed82940d438"
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": "cameoplus_3a30b4f9b9d9cdb1"
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ECONOMIC-Nigeria": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_01f06c7883b3cf58"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "J",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": "W3"
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CORPORATE-Nigeria": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_23156992a93b0c9a"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": "cameoplus_f68149b0e5d5aa88"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "J",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": "W3"
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "INFRASTRUCTURE-Nigeria": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_96991aafdf751c9f"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "no",
+    "in_web": null
+   }
+  }
+ },
+ "HEALTH-Nigeria": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_db1a22637a419c6b"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": "cameoplus_90c6b415b9b3d29d"
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "cameoplus_add88c7d0528063d"
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W8"
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": "W6"
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": "W3"
+   }
+  }
+ },
+ "ENVIRONMENT-Nigeria": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "Protests-France": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_1b4986a609ee552e"
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_32b66bc19387c9b1"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_32b66bc19387c9b1"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_1b4986a609ee552e"
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_32b66bc19387c9b1"
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_b4f399eb84d08593"
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": "conflict_cdeb9866b9ad97b6"
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W1"
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": "W9"
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": "W10"
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CRIME-France": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_c9bc4064951f6aac"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_c524e66558004065"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "cameoplus_9e3ba0ac1fbf5a84"
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "cameoplus_9e3ba0ac1fbf5a84"
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ECONOMIC-France": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CORPORATE-France": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_67495df8feb6a2f8"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": "cameoplus_d7212fedbe01cb55"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "cameoplus_9dbe06d1d4936c91"
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "J",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "INFRASTRUCTURE-France": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "no",
+    "in_web": null
+   }
+  }
+ },
+ "HEALTH-France": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ENVIRONMENT-France": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "no",
+    "in_web": null
+   }
+  }
+ },
+ "Protests-Indonesia": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_0b7ef4cdcd743d95"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_6e6844597616f271"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_a1d5a58379d9471b"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_a1d5a58379d9471b"
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_a1d5a58379d9471b"
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": "W2"
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CRIME-Indonesia": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_22bafaa954c868d1"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_02f43820fc9cf6a0"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": "cameoplus_67b0a9e1d7620719"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_02f43820fc9cf6a0"
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ECONOMIC-Indonesia": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CORPORATE-Indonesia": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_fe7d91fff08b9db7"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": "cameoplus_2fb5bd4da8df3195"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "J",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W4"
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": "W3"
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "INFRASTRUCTURE-Indonesia": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "J",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "no",
+    "in_web": null
+   }
+  }
+ },
+ "HEALTH-Indonesia": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_887887661e96a156"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": "W4"
+   },
+   "S7": {
+    "fits": "no",
+    "in_web": null
+   }
+  }
+ },
+ "ENVIRONMENT-Indonesia": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ }
+}

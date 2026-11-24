@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "extracted_records.schema.json",
+  "title": "Extracted records (web search + LLM)",
+  "description": "What the LLM step returns for one page of search results: de-duplicated records of the requested kind.",
+  "type": "object",
+  "required": ["records"],
+  "properties": {
+    "records": {"type": "array", "items": {
+      "type": "object",
+      "required": ["what", "source_urls"],
+      "properties": {
+        "date": {"type": ["string", "null"], "format": "date", "description": "Occurrence date, not publication date; null if the text does not say."},
+        "place": {"type": ["string", "null"]},
+        "actors": {"type": ["string", "null"], "description": "Who acted, and on whom, as the text names them."},
+        "what": {"type": "string"},
+        "deaths": {"type": ["number", "null"]},
+        "source_urls": {"type": "array", "items": {"type": "string"}, "description": "Every result URL that describes this record."}
+      }
+    }}
+  }
+}

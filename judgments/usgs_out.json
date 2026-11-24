@@ -1,0 +1,611 @@
+{
+ "Q01": {
+  "match": [
+   "E:cameoplus_0045db1fcefcaa27",
+   "E:cameoplus_bebf787f7e32373f"
+  ],
+  "note": ""
+ },
+ "Q02": {
+  "match": [
+   "E:cameoplus_f2fa06fa56e98502"
+  ],
+  "note": ""
+ },
+ "Q03": {
+  "match": [],
+  "note": ""
+ },
+ "Q04": {
+  "match": [],
+  "note": ""
+ },
+ "Q05": {
+  "match": [],
+  "note": ""
+ },
+ "Q06": {
+  "match": [
+   "E:cameoplus_d4e6982bc8b7b653"
+  ],
+  "note": "d704 (6.4) excluded as mismatched"
+ },
+ "Q07": {
+  "match": [
+   "E:cameoplus_0653bfa69b1be686"
+  ],
+  "note": ""
+ },
+ "Q08": {
+  "match": [],
+  "note": ""
+ },
+ "Q09": {
+  "match": [
+   "E:cameoplus_871cf971bc090321",
+   "E:cameoplus_2758443377132dbb",
+   "E:cameoplus_046650d5e2318f45",
+   "E:cameoplus_fa3aa5bba684248b",
+   "E:cameoplus_6ac03e34a992db6c",
+   "E:cameoplus_362887c4b9899f8c",
+   "E:cameoplus_9fd9df4fea2b022f",
+   "E:cameoplus_d69af17a4466fa1a",
+   "E:cameoplus_fe5d54b0813056d8",
+   "E:cameoplus_52207960519c6808",
+   "E:cameoplus_368e6ccb5709d63b",
+   "E:cameoplus_5744ccca778153fa",
+   "E:cameoplus_f3812a774508b9df",
+   "E:cameoplus_5ff74427024cfd17",
+   "E:cameoplus_0674c5a0b284ee28",
+   "E:cameoplus_817517ef7419c2f7",
+   "E:cameoplus_e3e02e8e8ac5b5e6",
+   "E:cameoplus_9dae5daf24e82847",
+   "E:conflict_95158a815eb7b741",
+   "S:c3a9e4017bcf",
+   "S:148ca939f27c",
+   "S:6356074d0663"
+  ],
+  "note": "Panama sequence"
+ },
+ "Q10": {
+  "match": [
+   "E:cameoplus_871cf971bc090321",
+   "E:cameoplus_2758443377132dbb",
+   "E:cameoplus_046650d5e2318f45",
+   "E:cameoplus_fa3aa5bba684248b",
+   "E:cameoplus_6ac03e34a992db6c",
+   "E:cameoplus_362887c4b9899f8c",
+   "E:cameoplus_9fd9df4fea2b022f",
+   "E:cameoplus_d69af17a4466fa1a",
+   "E:cameoplus_fe5d54b0813056d8",
+   "E:cameoplus_52207960519c6808",
+   "E:cameoplus_368e6ccb5709d63b",
+   "E:cameoplus_5744ccca778153fa",
+   "E:cameoplus_f3812a774508b9df",
+   "E:cameoplus_5ff74427024cfd17",
+   "E:cameoplus_0674c5a0b284ee28",
+   "E:cameoplus_817517ef7419c2f7",
+   "E:cameoplus_e3e02e8e8ac5b5e6",
+   "E:cameoplus_9dae5daf24e82847",
+   "E:conflict_95158a815eb7b741",
+   "S:c3a9e4017bcf",
+   "S:148ca939f27c",
+   "S:6356074d0663"
+  ],
+  "note": "Panama sequence"
+ },
+ "Q11": {
+  "match": [
+   "E:cameoplus_871cf971bc090321",
+   "E:cameoplus_2758443377132dbb",
+   "E:cameoplus_046650d5e2318f45",
+   "E:cameoplus_fa3aa5bba684248b",
+   "E:cameoplus_6ac03e34a992db6c",
+   "E:cameoplus_362887c4b9899f8c",
+   "E:cameoplus_9fd9df4fea2b022f",
+   "E:cameoplus_d69af17a4466fa1a",
+   "E:cameoplus_fe5d54b0813056d8",
+   "E:cameoplus_52207960519c6808",
+   "E:cameoplus_368e6ccb5709d63b",
+   "E:cameoplus_5744ccca778153fa",
+   "E:cameoplus_f3812a774508b9df",
+   "E:cameoplus_5ff74427024cfd17",
+   "E:cameoplus_0674c5a0b284ee28",
+   "E:cameoplus_817517ef7419c2f7",
+   "E:cameoplus_e3e02e8e8ac5b5e6",
+   "E:cameoplus_9dae5daf24e82847",
+   "E:conflict_95158a815eb7b741",
+   "S:c3a9e4017bcf",
+   "S:148ca939f27c",
+   "S:6356074d0663"
+  ],
+  "note": "Panama sequence"
+ },
+ "Q12": {
+  "match": [
+   "E:cameoplus_871cf971bc090321",
+   "E:cameoplus_2758443377132dbb",
+   "E:cameoplus_046650d5e2318f45",
+   "E:cameoplus_fa3aa5bba684248b",
+   "E:cameoplus_6ac03e34a992db6c",
+   "E:cameoplus_362887c4b9899f8c",
+   "E:cameoplus_9fd9df4fea2b022f",
+   "E:cameoplus_d69af17a4466fa1a",
+   "E:cameoplus_fe5d54b0813056d8",
+   "E:cameoplus_52207960519c6808",
+   "E:cameoplus_368e6ccb5709d63b",
+   "E:cameoplus_5744ccca778153fa",
+   "E:cameoplus_f3812a774508b9df",
+   "E:cameoplus_5ff74427024cfd17",
+   "E:cameoplus_0674c5a0b284ee28",
+   "E:cameoplus_817517ef7419c2f7",
+   "E:cameoplus_e3e02e8e8ac5b5e6",
+   "E:cameoplus_9dae5daf24e82847",
+   "E:conflict_95158a815eb7b741",
+   "S:c3a9e4017bcf",
+   "S:148ca939f27c",
+   "S:6356074d0663"
+  ],
+  "note": "Panama sequence"
+ },
+ "Q13": {
+  "match": [
+   "E:cameoplus_871cf971bc090321",
+   "E:cameoplus_2758443377132dbb",
+   "E:cameoplus_046650d5e2318f45",
+   "E:cameoplus_fa3aa5bba684248b",
+   "E:cameoplus_6ac03e34a992db6c",
+   "E:cameoplus_362887c4b9899f8c",
+   "E:cameoplus_9fd9df4fea2b022f",
+   "E:cameoplus_d69af17a4466fa1a",
+   "E:cameoplus_fe5d54b0813056d8",
+   "E:cameoplus_52207960519c6808",
+   "E:cameoplus_368e6ccb5709d63b",
+   "E:cameoplus_5744ccca778153fa",
+   "E:cameoplus_f3812a774508b9df",
+   "E:cameoplus_5ff74427024cfd17",
+   "E:cameoplus_0674c5a0b284ee28",
+   "E:cameoplus_817517ef7419c2f7",
+   "E:cameoplus_e3e02e8e8ac5b5e6",
+   "E:cameoplus_9dae5daf24e82847",
+   "E:conflict_95158a815eb7b741",
+   "S:c3a9e4017bcf",
+   "S:148ca939f27c",
+   "S:6356074d0663"
+  ],
+  "note": "Panama sequence"
+ },
+ "Q14": {
+  "match": [
+   "E:cameoplus_871cf971bc090321",
+   "E:cameoplus_2758443377132dbb",
+   "E:cameoplus_046650d5e2318f45",
+   "E:cameoplus_fa3aa5bba684248b",
+   "E:cameoplus_6ac03e34a992db6c",
+   "E:cameoplus_362887c4b9899f8c",
+   "E:cameoplus_9fd9df4fea2b022f",
+   "E:cameoplus_d69af17a4466fa1a",
+   "E:cameoplus_fe5d54b0813056d8",
+   "E:cameoplus_52207960519c6808",
+   "E:cameoplus_368e6ccb5709d63b",
+   "E:cameoplus_5744ccca778153fa",
+   "E:cameoplus_f3812a774508b9df",
+   "E:cameoplus_5ff74427024cfd17",
+   "E:cameoplus_0674c5a0b284ee28",
+   "E:cameoplus_817517ef7419c2f7",
+   "E:cameoplus_e3e02e8e8ac5b5e6",
+   "E:cameoplus_9dae5daf24e82847",
+   "E:conflict_95158a815eb7b741",
+   "S:c3a9e4017bcf",
+   "S:148ca939f27c",
+   "S:6356074d0663",
+   "E:cameoplus_cfb2a766e502b366",
+   "E:cameoplus_8e623f22662a5832",
+   "E:cameoplus_f87d623db996df75",
+   "E:cameoplus_80aede1a9ec75142",
+   "E:cameoplus_1358f8ced182de86",
+   "E:cameoplus_6dc18e316d31f189",
+   "E:cameoplus_8e465f8c59d8758c",
+   "E:cameoplus_31560485f3f0264d",
+   "S:801241a88f10"
+  ],
+  "note": "Panama sequence"
+ },
+ "Q15": {
+  "match": [],
+  "note": ""
+ },
+ "Q16": {
+  "match": [
+   "E:cameoplus_ffafafa3a292a36b"
+  ],
+  "note": ""
+ },
+ "Q17": {
+  "match": [
+   "E:cameoplus_eef4e1339c812e1b",
+   "E:cameoplus_368e6ccb5709d63b",
+   "E:cameoplus_75a734532005b9ab",
+   "E:cameoplus_2158899cb87fe08c",
+   "E:cameoplus_5150cacbbc35ffcb",
+   "E:cameoplus_cfb2a766e502b366",
+   "E:cameoplus_5744ccca778153fa",
+   "E:cameoplus_8e623f22662a5832",
+   "E:cameoplus_f3812a774508b9df",
+   "E:cameoplus_5ff74427024cfd17",
+   "E:cameoplus_f87d623db996df75",
+   "E:cameoplus_80aede1a9ec75142",
+   "E:cameoplus_1358f8ced182de86",
+   "E:cameoplus_0674c5a0b284ee28",
+   "E:cameoplus_6dc18e316d31f189",
+   "E:cameoplus_f2b808346b56e7ac",
+   "E:cameoplus_8e465f8c59d8758c",
+   "E:cameoplus_3b8383c5896681c5",
+   "E:cameoplus_817517ef7419c2f7",
+   "E:cameoplus_506dadaa04af2dea",
+   "E:cameoplus_3a5a356d3ea70ed5",
+   "E:cameoplus_16892c35cb0d3835",
+   "E:cameoplus_e3e02e8e8ac5b5e6",
+   "E:cameoplus_31560485f3f0264d",
+   "E:cameoplus_9dae5daf24e82847",
+   "E:conflict_95158a815eb7b741",
+   "S:148ca939f27c",
+   "S:7bf01010bf54"
+  ],
+  "note": "Panama sequence"
+ },
+ "Q18": {
+  "match": [],
+  "note": ""
+ },
+ "Q19": {
+  "match": [],
+  "note": ""
+ },
+ "Q20": {
+  "match": [],
+  "note": ""
+ },
+ "Q21": {
+  "match": [
+   "E:cameoplus_50e489b195adeb49"
+  ],
+  "note": ""
+ },
+ "Q22": {
+  "match": [],
+  "note": ""
+ },
+ "Q23": {
+  "match": [
+   "S:69cfe1ee1cc6"
+  ],
+  "note": ""
+ },
+ "Q24": {
+  "match": [],
+  "note": ""
+ },
+ "Q25": {
+  "match": [
+   "E:cameoplus_bef745a4ce251df4"
+  ],
+  "note": ""
+ },
+ "Q26": {
+  "match": [
+   "E:cameoplus_bef745a4ce251df4"
+  ],
+  "note": ""
+ },
+ "Q27": {
+  "match": [
+   "E:cameoplus_bef745a4ce251df4"
+  ],
+  "note": ""
+ },
+ "Q28": {
+  "match": [
+   "E:cameoplus_bef745a4ce251df4"
+  ],
+  "note": ""
+ },
+ "Q29": {
+  "match": [
+   "E:cameoplus_bef745a4ce251df4"
+  ],
+  "note": ""
+ },
+ "Q30": {
+  "match": [
+   "E:cameoplus_67398eff990459a7",
+   "E:cameoplus_b1a2eb2ea5985de6",
+   "E:cameoplus_9d3f965a73377a42",
+   "E:cameoplus_7b90cedfeca5d9cf",
+   "E:cameoplus_f2654d7405fbac14",
+   "E:cameoplus_806c70bc2afc4b04",
+   "E:cameoplus_1e39ad4ca4304314",
+   "E:cameoplus_f6a6be7a20929ea2"
+  ],
+  "note": ""
+ },
+ "Q31": {
+  "match": [
+   "E:cameoplus_00a3f111f12b6631",
+   "E:cameoplus_0a3c4b67874d0d87",
+   "E:cameoplus_d5a6416587c8c60d",
+   "S:ed8bbe5a40be"
+  ],
+  "note": ""
+ },
+ "Q32": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q33": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q34": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q35": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q36": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q37": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q38": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q39": {
+  "match": [],
+  "note": ""
+ },
+ "Q40": {
+  "match": [],
+  "note": ""
+ },
+ "Q41": {
+  "match": [],
+  "note": ""
+ },
+ "Q42": {
+  "match": [
+   "E:cameoplus_0656b9f60d9f10b6",
+   "S:05f1714c53b6"
+  ],
+  "note": ""
+ },
+ "Q43": {
+  "match": [
+   "E:cameoplus_b1a2eb2ea5985de6",
+   "E:cameoplus_9d3f965a73377a42",
+   "E:cameoplus_7b90cedfeca5d9cf",
+   "E:cameoplus_f2654d7405fbac14",
+   "E:cameoplus_1e39ad4ca4304314"
+  ],
+  "note": "Baqing sequence"
+ },
+ "Q44": {
+  "match": [],
+  "note": ""
+ },
+ "Q45": {
+  "match": [
+   "E:cameoplus_3780ea6e2a6cdb66",
+   "E:cameoplus_fd126408ba1fa568"
+  ],
+  "note": ""
+ },
+ "Q46": {
+  "match": [
+   "E:cameoplus_3780ea6e2a6cdb66",
+   "E:cameoplus_fd126408ba1fa568"
+  ],
+  "note": ""
+ },
+ "Q47": {
+  "match": [
+   "E:cameoplus_3780ea6e2a6cdb66",
+   "E:cameoplus_fd126408ba1fa568"
+  ],
+  "note": ""
+ },
+ "Q48": {
+  "match": [
+   "E:cameoplus_3780ea6e2a6cdb66",
+   "E:cameoplus_fd126408ba1fa568"
+  ],
+  "note": ""
+ },
+ "Q49": {
+  "match": [],
+  "note": ""
+ },
+ "Q50": {
+  "match": [
+   "E:cameoplus_035474972959711f"
+  ],
+  "note": ""
+ },
+ "Q51": {
+  "match": [
+   "E:cameoplus_41558f91eafcb039",
+   "E:cameoplus_a9655fa845da2be0"
+  ],
+  "note": "magnitude mismatch, uncertain"
+ },
+ "Q52": {
+  "match": [],
+  "note": ""
+ },
+ "Q53": {
+  "match": [
+   "E:cameoplus_baa93fa165bb2dd9"
+  ],
+  "note": ""
+ },
+ "Q54": {
+  "match": [
+   "E:cameoplus_24339b38af7d8078"
+  ],
+  "note": ""
+ },
+ "Q55": {
+  "match": [
+   "E:cameoplus_3780ea6e2a6cdb66"
+  ],
+  "note": ""
+ },
+ "Q56": {
+  "match": [
+   "E:cameoplus_fdb5a0b31c58f3bb"
+  ],
+  "note": ""
+ },
+ "Q57": {
+  "match": [
+   "E:cameoplus_100c4d4ce7af6f64"
+  ],
+  "note": ""
+ },
+ "Q58": {
+  "match": [],
+  "note": ""
+ },
+ "Q59": {
+  "match": [
+   "E:cameoplus_02f4a5c7ce81ed7f"
+  ],
+  "note": ""
+ },
+ "Q60": {
+  "match": [
+   "E:cameoplus_084ec56abd0f544a"
+  ],
+  "note": ""
+ },
+ "Q61": {
+  "match": [
+   "E:cameoplus_dd2f208ee46e5bb6",
+   "S:39ae47d3bd39"
+  ],
+  "note": ""
+ },
+ "Q62": {
+  "match": [],
+  "note": ""
+ },
+ "Q63": {
+  "match": [],
+  "note": ""
+ },
+ "Q64": {
+  "match": [],
+  "note": ""
+ },
+ "Q65": {
+  "match": [
+   "E:cameoplus_1e4819730339dac3"
+  ],
+  "note": ""
+ },
+ "Q66": {
+  "match": [
+   "E:cameoplus_29c4893380ca63f3"
+  ],
+  "note": ""
+ },
+ "Q67": {
+  "match": [],
+  "note": ""
+ },
+ "Q68": {
+  "match": [
+   "E:cameoplus_9b4ea58a422d6532",
+   "E:cameoplus_1d2a668e27f81106"
+  ],
+  "note": ""
+ },
+ "Q69": {
+  "match": [],
+  "note": ""
+ },
+ "Q70": {
+  "match": [],
+  "note": ""
+ },
+ "Q71": {
+  "match": [],
+  "note": ""
+ },
+ "Q72": {
+  "match": [
+   "E:cameoplus_ed63cc9a0032a5aa",
+   "E:cameoplus_e98c127f83bd650f"
+  ],
+  "note": ""
+ },
+ "Q73": {
+  "match": [
+   "E:cameoplus_dbd7b44b72ab4603"
+  ],
+  "note": ""
+ },
+ "Q74": {
+  "match": [
+   "E:cameoplus_fb547340d4214980"
+  ],
+  "note": ""
+ },
+ "Q75": {
+  "match": [
+   "E:cameoplus_6efa378de71e8dd5"
+  ],
+  "note": ""
+ },
+ "Q76": {
+  "match": [
+   "E:cameoplus_058ffcba2f7d3e62"
+  ],
+  "note": ""
+ },
+ "Q77": {
+  "match": [],
+  "note": ""
+ },
+ "Q78": {
+  "match": [],
+  "note": ""
+ }
+}

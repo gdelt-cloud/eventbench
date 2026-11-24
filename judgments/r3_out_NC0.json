@@ -1,0 +1,14 @@
+{
+"WX01":{"S":["T01811","T01810","T01808","T01815","T01818","T01812"],"A":[],"note":"Excluded EMRO monthly update, ECDC multi-country update and tracker page as different publications."},
+"WX02":{"S":["T01853","T01863","T01824","T01823","T01858","T01854","T01825","T01527","T01820","T01822"],"A":[],"note":"Irkutsk lab worker pneumonia/suspected plague; kept reports within about 2 days of 10-10, excluded embassy and Ukraine reactions."},
+"WX03":{"S":["T01899","T01906","T01909"],"A":[],"note":"Only the 8 Oct DON text and derivatives; general Ebola case-count news excluded as different reports."},
+"WK001":{"S":["T01911","T01912","T01913"],"A":[],"note":"Robinson conviction reports; T01913 dated 3 days later but same conviction; reaction piece excluded."},
+"WK002":{"S":["T01935","T01934"],"A":[],"note":"Quintana Road San Antonio 53 deaths, 30-year sentence."},
+"WK003":{"S":[],"A":[],"note":"No candidate reports Piantedosi's 1,339 identified/71 reported/242 fined announcement; only protests themselves."},
+"WK004":{"S":[],"A":[],"note":"No candidate mentions Saca release; all Spain-related."},
+"WK005":{"S":["T02096","T02106"],"A":[],"note":"48 explosives and 100 detonators near Sylhet border, 14 Nov."},
+"WK006":{"S":["T02181","T02143","T02156","T02157","T02172","T02155","T02142"],"A":[],"note":"Protest arrest reports; component Liwasang clash items with small counts left out as partial."},
+"WK007":{"S":["T02193","T02230","T02239"],"A":[],"note":"Benue police 34 foreigners; T02239 monthly briefing includes the same arrests."},
+"WK008":{"S":["T02245","T02287","T02292","T02247","T02257","T02258","T02256","T02255"],"A":[],"note":"Seszták cash recovery 13-14 Nov; later or reaction items (Tusk, party discipline) excluded."},
+"WK009":{"S":["T02294","T02338","T02293","T02328","T02299","T02319"],"A":[],"note":"Iran International spy conviction 12 Nov; embassy reaction and later reposts excluded."}
+}

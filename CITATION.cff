@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "GDELT Cloud EventBench: recall, precision and structure of event records against independent reference lists"
+type: dataset
+authors:
+  - name: "GDELT Cloud"
+version: "2026.11"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+url: "https://gdeltcloud.com"
+repository-code: "https://github.com/gdelt-cloud/eventbench"
+keywords:
+  - event data
+  - conflict monitoring
+  - benchmark
+  - recall
+  - web search

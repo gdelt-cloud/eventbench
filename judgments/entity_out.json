@@ -1,0 +1,2142 @@
+{
+"E001": {
+"link": "yes",
+"role_ok": "yes",
+"note": "same person"
+},
+"E002": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "duplicate spelling of Maryam Nawaz"
+},
+"E003": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Punjab student scholarship scheme"
+},
+"E004": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E005": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E006": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E007": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "BC governing party"
+},
+"E008": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trump"
+},
+"E009": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Putin"
+},
+"E010": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kremlin aide"
+},
+"E011": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kremlin spokesman"
+},
+"E012": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Chinese MFA spokesman"
+},
+"E013": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Italian deputy"
+},
+"E014": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "PD"
+},
+"E015": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Lega deputy"
+},
+"E016": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Lega"
+},
+"E017": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "AVS"
+},
+"E018": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Fergana Valley place; type label off"
+},
+"E019": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Cyprus Police"
+},
+"E020": {
+"link": "no",
+"role_ok": "no",
+"note": "Wikipedia Omega is generic; Dominican singer differs"
+},
+"E021": {
+"link": "no",
+"role_ok": "no",
+"note": "US label namesake, not Dominican label"
+},
+"E022": {
+"link": "unclear",
+"role_ok": "yes",
+"note": "Dominican label Allegro, no page"
+},
+"E023": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Mexican Senate"
+},
+"E024": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Armenian FM"
+},
+"E025": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Armenian PM"
+},
+"E026": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Armenian ministry"
+},
+"E027": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Lombardy region"
+},
+"E028": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E029": {
+"link": "no",
+"role_ok": "no",
+"note": "French post office, not Tunisia Post"
+},
+"E030": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Tunisian minister"
+},
+"E031": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Saudi Arabia"
+},
+"E032": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Houthis"
+},
+"E033": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Dominican hypermarket"
+},
+"E034": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Putin"
+},
+"E035": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Chinese official at APEC"
+},
+"E036": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E037": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Karnataka department"
+},
+"E038": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Ethiopia"
+},
+"E039": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Ethiopian army chief"
+},
+"E040": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "TPLF not mentioned"
+},
+"E041": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "victim"
+},
+"E042": {
+"link": "yes",
+"role_ok": "yes",
+"note": "speaker"
+},
+"E043": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Ozel"
+},
+"E044": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Turkish party"
+},
+"E045": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "PKK"
+},
+"E046": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "party named in record"
+},
+"E047": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Civil Contract"
+},
+"E048": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "named person"
+},
+"E049": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Tajikistan"
+},
+"E050": {
+"link": "yes",
+"role_ok": "yes",
+"note": "US"
+},
+"E051": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kosovo MP"
+},
+"E052": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kosovo media body"
+},
+"E053": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "University of Iceland"
+},
+"E054": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Malaysia"
+},
+"E055": {
+"link": "yes",
+"role_ok": "yes",
+"note": "France"
+},
+"E056": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Malaysian PM"
+},
+"E057": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "French rare earth firm"
+},
+"E058": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E059": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "BCL"
+},
+"E060": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Bangladesh PM"
+},
+"E061": {
+"link": "yes",
+"role_ok": "yes",
+"note": "France"
+},
+"E062": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Colorado CDE"
+},
+"E063": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "duplicate CDE"
+},
+"E064": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Russian forces"
+},
+"E065": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kharkiv governor"
+},
+"E066": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E067": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Takaichi"
+},
+"E068": {
+"link": "yes",
+"role_ok": "yes",
+"note": "China"
+},
+"E069": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "APEC"
+},
+"E070": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E071": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Guinea ministry"
+},
+"E072": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Mauritanian official"
+},
+"E073": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Inchiri governor"
+},
+"E074": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Dbeibah"
+},
+"E075": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "aircraft, type label off"
+},
+"E076": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Airbus"
+},
+"E077": {
+"link": "yes",
+"role_ok": "yes",
+"note": "CBI"
+},
+"E078": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "named person"
+},
+"E079": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Tirkey"
+},
+"E080": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E081": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E082": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Poland"
+},
+"E083": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E084": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Xu Yiding"
+},
+"E085": {
+"link": "yes",
+"role_ok": "yes",
+"note": "TGPSC"
+},
+"E086": {
+"link": "unclear",
+"role_ok": "yes",
+"note": "identity of party leader unclear"
+},
+"E087": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Yoon"
+},
+"E088": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Han"
+},
+"E089": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "DPK"
+},
+"E090": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Supreme Court"
+},
+"E091": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Tinubu"
+},
+"E092": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Meseko"
+},
+"E093": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Ododo"
+},
+"E094": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "APC"
+},
+"E095": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E096": {
+"link": "yes",
+"role_ok": "yes",
+"note": "named official"
+},
+"E097": {
+"link": "yes",
+"role_ok": "yes",
+"note": "named official"
+},
+"E098": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "journalist"
+},
+"E099": {
+"link": "yes",
+"role_ok": "yes",
+"note": "named official"
+},
+"E100": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E101": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Crosetto"
+},
+"E102": {
+"link": "yes",
+"role_ok": "yes",
+"note": "al-Jubeir"
+},
+"E103": {
+"link": "yes",
+"role_ok": "yes",
+"note": "UN as stated target"
+},
+"E104": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Russia"
+},
+"E105": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "detained activist"
+},
+"E106": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not clearly in record"
+},
+"E107": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "plausible but unstated"
+},
+"E108": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "plausible but unstated"
+},
+"E109": {
+"link": "no",
+"role_ok": "no",
+"note": "Albanian CEC, record is Kosovo"
+},
+"E110": {
+"link": "no",
+"role_ok": "no",
+"note": "generic page, not Kosovo Supreme Court"
+},
+"E111": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Sheinbaum"
+},
+"E112": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trump"
+},
+"E113": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "APEC China 2026"
+},
+"E114": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Xi"
+},
+"E115": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "charged person"
+},
+"E116": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "CJNG link unstated"
+},
+"E117": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Arredondo Pinzon"
+},
+"E118": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "CJNG link unstated"
+},
+"E119": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "parent of INL bureau"
+},
+"E120": {
+"link": "yes",
+"role_ok": "yes",
+"note": "BJP"
+},
+"E121": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Jharkhand police"
+},
+"E122": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "named MLA"
+},
+"E123": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E124": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E125": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Malaysian ministry"
+},
+"E126": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E127": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "employer"
+},
+"E128": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Tom Haan"
+},
+"E129": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Haan firm"
+},
+"E130": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Waterhouse CEO"
+},
+"E131": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Vasant Kunj police are Delhi Police"
+},
+"E132": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "commission namesake"
+},
+"E133": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Peja social work centre"
+},
+"E134": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Speaker"
+},
+"E135": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Tinubu"
+},
+"E136": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kaduna governor"
+},
+"E137": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "APC"
+},
+"E138": {
+"link": "yes",
+"role_ok": "yes",
+"note": "APC"
+},
+"E139": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "ADC"
+},
+"E140": {
+"link": "yes",
+"role_ok": "yes",
+"note": "ADC council"
+},
+"E141": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Tinubu"
+},
+"E142": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "ADC spokesman"
+},
+"E143": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Xi"
+},
+"E144": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trump"
+},
+"E145": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E146": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Putin"
+},
+"E147": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E148": {
+"link": "yes",
+"role_ok": "yes",
+"note": "India"
+},
+"E149": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "victim"
+},
+"E150": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Pina Gonzalez"
+},
+"E151": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "named"
+},
+"E152": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Furque"
+},
+"E153": {
+"link": "yes",
+"role_ok": "yes",
+"note": "source"
+},
+"E154": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Athens Metro"
+},
+"E155": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E156": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E157": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Ubisoft"
+},
+"E158": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E159": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E160": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "game, not an organisation"
+},
+"E161": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Razmyar"
+},
+"E162": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Purra"
+},
+"E163": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E164": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E165": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Tynkkynen"
+},
+"E166": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Nvidia"
+},
+"E167": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Cai Qi"
+},
+"E168": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Putin"
+},
+"E169": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Xi"
+},
+"E170": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E171": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E172": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Zukorlic"
+},
+"E173": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Cupic"
+},
+"E174": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E175": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E176": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Party of Justice and Reconciliation"
+},
+"E177": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Romeo"
+},
+"E178": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Lega"
+},
+"E179": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Dreosto"
+},
+"E180": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Lega leader"
+},
+"E181": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E182": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E183": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E184": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Speaker"
+},
+"E185": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Parliament"
+},
+"E186": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E187": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Putin"
+},
+"E188": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Tajikistan"
+},
+"E189": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Rahmon"
+},
+"E190": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E191": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Poland energy ministry"
+},
+"E192": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "fuel scheme, type off"
+},
+"E193": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E194": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Taliban leader"
+},
+"E195": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Taliban"
+},
+"E196": {
+"link": "yes",
+"role_ok": "yes",
+"note": "ECI"
+},
+"E197": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Hun Manet"
+},
+"E198": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Trump"
+},
+"E199": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Hungary"
+},
+"E200": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Connect Money"
+},
+"E201": {
+"link": "yes",
+"role_ok": "yes",
+"note": "investor"
+},
+"E202": {
+"link": "yes",
+"role_ok": "yes",
+"note": "investor"
+},
+"E203": {
+"link": "yes",
+"role_ok": "yes",
+"note": "investor"
+},
+"E204": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E205": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Lufthansa"
+},
+"E206": {
+"link": "yes",
+"role_ok": "yes",
+"note": "State Dept"
+},
+"E207": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "convert on trial"
+},
+"E208": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E209": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E210": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E211": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Al-Zaytouna"
+},
+"E212": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E213": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E214": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E215": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E216": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Maryam Nawaz"
+},
+"E217": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "programme named"
+},
+"E218": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Border Patrol"
+},
+"E219": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E220": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E221": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Taiwan"
+},
+"E222": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Taiwan interior ministry"
+},
+"E223": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Odisha department"
+},
+"E224": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "memorial namesake"
+},
+"E225": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Digvijaya Singh"
+},
+"E226": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Ghavari"
+},
+"E227": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Congress"
+},
+"E228": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "family head"
+},
+"E229": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E230": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Georgian ministry"
+},
+"E231": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "PA finance minister"
+},
+"E232": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "duplicate spelling"
+},
+"E233": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "PA finance ministry"
+},
+"E234": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "World Bank Group page acceptable"
+},
+"E235": {
+"link": "yes",
+"role_ok": "yes",
+"note": "MP"
+},
+"E236": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Azerbaijan parliament"
+},
+"E237": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E238": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Advans Ghana"
+},
+"E239": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trans-Sahara"
+},
+"E240": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E241": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Propam Riau"
+},
+"E242": {
+"link": "yes",
+"role_ok": "yes",
+"note": "MQM-P"
+},
+"E243": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Pakistan government"
+},
+"E244": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Russia"
+},
+"E245": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Isamaa"
+},
+"E246": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Estonian FM"
+},
+"E247": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Estonian MFA"
+},
+"E248": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Estonian parliament"
+},
+"E249": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Boakai"
+},
+"E250": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Jakarta governor"
+},
+"E251": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Yashar leader"
+},
+"E252": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Yashar party"
+},
+"E253": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "MK"
+},
+"E254": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "MK"
+},
+"E255": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Hungary"
+},
+"E256": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kosovo president"
+},
+"E257": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Hungarian ambassador"
+},
+"E258": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Al-Asmari"
+},
+"E259": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Huffines"
+},
+"E260": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Texas comptroller"
+},
+"E261": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "streaming service"
+},
+"E262": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "streaming service"
+},
+"E263": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "streaming service"
+},
+"E264": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trump"
+},
+"E265": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Pete Rose"
+},
+"E266": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E267": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Louisiana BESE"
+},
+"E268": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Chiasson"
+},
+"E269": {
+"link": "yes",
+"role_ok": "yes",
+"note": "ICC"
+},
+"E270": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "UN"
+},
+"E271": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E272": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E273": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E274": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "KRA"
+},
+"E275": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E276": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kenya ODPP"
+},
+"E277": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Anwar"
+},
+"E278": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E279": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E280": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Anwar"
+},
+"E281": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E282": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Belarus"
+},
+"E283": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Dubai council"
+},
+"E284": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E285": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E286": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Caricom"
+},
+"E287": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Caricom Secretariat"
+},
+"E288": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E289": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Hezbollah"
+},
+"E290": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "source cited"
+},
+"E291": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Mercadona"
+},
+"E292": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Spanish defence ministry"
+},
+"E293": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Radikale Venstre"
+},
+"E294": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E295": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "spokesman"
+},
+"E296": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "EU"
+},
+"E297": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "first name unknown"
+},
+"E298": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Ram Kripal Yadav"
+},
+"E299": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Rahul Gandhi"
+},
+"E300": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "SP"
+},
+"E301": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Congress"
+},
+"E302": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "SP leader"
+},
+"E303": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Bangladesh Police"
+},
+"E304": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "BCL"
+},
+"E305": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Jubo League"
+},
+"E306": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Awami League"
+},
+"E307": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "company unidentified"
+},
+"E308": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Fiji fire authority"
+},
+"E309": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "unclear"
+},
+"E310": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "contractor"
+},
+"E311": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Aeffe"
+},
+"E312": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Oxy Capital"
+},
+"E313": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Septwolves"
+},
+"E314": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E315": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Italian ministry"
+},
+"E316": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Colombian police"
+},
+"E317": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Los Nkd"
+},
+"E318": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "country unstated"
+},
+"E319": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Mendes"
+},
+"E320": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Campos"
+},
+"E321": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Uniao Brasil"
+},
+"E322": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Sonowal"
+},
+"E323": {
+"link": "yes",
+"role_ok": "yes",
+"note": "named"
+},
+"E324": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Indonesian police"
+},
+"E325": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "ethics commission"
+},
+"E326": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E327": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E328": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Rolls-Royce SMR"
+},
+"E329": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Skanska UK"
+},
+"E330": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E331": {
+"link": "no",
+"role_ok": "no",
+"note": "parent group, record names Skanska UK"
+},
+"E332": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Taliban"
+},
+"E333": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Bajaj Group"
+},
+"E334": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "brand"
+},
+"E335": {
+"link": "yes",
+"role_ok": "yes",
+"note": "BIHS"
+},
+"E336": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E337": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Alves"
+},
+"E338": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "PAS"
+},
+"E339": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Chisinau transport firm"
+},
+"E340": {
+"link": "no",
+"role_ok": "no",
+"note": "generic Man page, not a person"
+},
+"E341": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "diplomat"
+},
+"E342": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "deputy minister"
+},
+"E343": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Belarus MFA"
+},
+"E344": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Androulakis"
+},
+"E345": {
+"link": "yes",
+"role_ok": "yes",
+"note": "New Democracy"
+},
+"E346": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "PASOK"
+},
+"E347": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "convicted man"
+},
+"E348": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Brazil central bank"
+},
+"E349": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Awami League"
+},
+"E350": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E351": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E352": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E353": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E354": {
+"link": "yes",
+"role_ok": "yes",
+"note": "KMT"
+},
+"E355": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E356": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E357": {
+"link": "yes",
+"role_ok": "yes",
+"note": "library"
+},
+"E358": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "library head"
+},
+"E359": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E360": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Stubb"
+},
+"E361": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trump"
+},
+"E362": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Estonia"
+},
+"E363": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trump"
+},
+"E364": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Lee"
+},
+"E365": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Xi"
+},
+"E366": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Korean official"
+},
+"E367": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Korean presidency"
+},
+"E368": {
+"link": "yes",
+"role_ok": "yes",
+"note": "EU"
+},
+"E369": {
+"link": "yes",
+"role_ok": "yes",
+"note": "UK"
+},
+"E370": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "UK PM"
+},
+"E371": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "UK PM"
+},
+"E372": {
+"link": "yes",
+"role_ok": "yes",
+"note": "minister"
+},
+"E373": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Sikorski"
+},
+"E374": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Orban"
+},
+"E375": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Tusk"
+},
+"E376": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Magyar"
+},
+"E377": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E378": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Guler"
+},
+"E379": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Libyan HoR"
+},
+"E380": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E381": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Burnham"
+},
+"E382": {
+"link": "yes",
+"role_ok": "yes",
+"note": "EU"
+},
+"E383": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Indian government"
+},
+"E384": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "CCMB"
+},
+"E385": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E386": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Indian health ministry"
+},
+"E387": {
+"link": "yes",
+"role_ok": "yes",
+"note": "NCDC"
+},
+"E388": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Kurti"
+},
+"E389": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E390": {
+"link": "yes",
+"role_ok": "yes",
+"note": "INC"
+},
+"E391": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "BJP"
+},
+"E392": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Sana Satish"
+},
+"E393": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Jana Sena"
+},
+"E394": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "TDP"
+},
+"E395": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "BJP"
+},
+"E396": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E397": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Trump"
+},
+"E398": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Niger ministry"
+},
+"E399": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Niger ministry"
+},
+"E400": {
+"link": "yes",
+"role_ok": "yes",
+"note": "North Korea"
+},
+"E401": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "LPRP"
+},
+"E402": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Sheinbaum"
+},
+"E403": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "INBAL"
+},
+"E404": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E405": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Helsing"
+},
+"E406": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E407": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E408": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E409": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Ukraine"
+},
+"E410": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Russia"
+},
+"E411": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Zelensky"
+},
+"E412": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E413": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E414": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Hegseth"
+},
+"E415": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "suspect"
+},
+"E416": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E417": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E418": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Supreme Court of India"
+},
+"E419": {
+"link": "no",
+"role_ok": "no",
+"note": "generic page, not Supreme Court of India"
+},
+"E420": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Azam Khan"
+},
+"E421": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Allahabad HC"
+},
+"E422": {
+"link": "unclear",
+"role_ok": "n/a",
+"note": "not in record"
+},
+"E423": {
+"link": "yes",
+"role_ok": "yes",
+"note": "Kazakhstan"
+},
+"E424": {
+"link": "yes",
+"role_ok": "yes",
+"note": "UN"
+},
+"E425": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "FM"
+},
+"E426": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "UN centre"
+},
+"E427": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Kazakh MFA"
+},
+"E428": {
+"link": "yes",
+"role_ok": "n/a",
+"note": "Iraq cabinet"
+}
+}

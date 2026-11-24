@@ -1,0 +1,7 @@
+{
+"WK022":{"S":["T02930","T02946"],"A":["T02949"],"note":"Bilbao riots after Quiles event; T02931 dated 10-31 excluded as outside date window."},
+"WK023":{"S":["T02996","T03026","T03024","T03017","T03020","T03027","T03018","T02994","T03025","T02997","T02995","T03019","T03021"],"A":["T03023"],"note":"RRI morning newsflash says vote is today, so treated as roundup; reactions and follow-on appointments excluded."},
+"WK024":{"S":["T03034","T03029","T03042","T03063"],"A":[],"note":"T03038 and T03030 describe the march but are dated 11-12, more than 2 days off; excluded under strict date rule."},
+"WK025":{"S":["T03119","T03077","T03123","T03078","T03117","T03121"],"A":[],"note":"T03116 generic Senegal shipwreck commentary left out as not clearly Yenne."},
+"WK026":{"S":["T03141","T03160","T03157","T03152","T03163","T03128","T03156","T03159","T03168","T03155","T03154","T03161","T03164","T03148","T03165","T03150","T03131","T03133","T03132","T03167","T03153","T03166","T03162","T03169","T03142","T03129"],"A":[],"note":"Kebemer/Lompoul shipwreck; toll-42/43 reports dated 11-11 or later excluded as outside 2 days."}
+}

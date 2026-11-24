@@ -1,0 +1,13 @@
+{
+"CB03":{"S":["Q03662","Q03687","Q03688","Q03697","Q03693","Q03690","Q03661","Q03692","Q03691","Q03689"],"A":[],"note":"Excluded preview (Q03695), minutes dated 11-10, and bank follow-on reaction."},
+"CB04":{"S":["Q03740","Q03737","Q03743","Q03741","Q03735","Q03738","Q03733","Q03734","Q03736"],"A":["Q03739"],"note":"Q03736 dated 10-28 but content is the November decision page; Q03739 is a global central-bank roundup."},
+"CB05":{"S":["Q03787","Q03785","Q03780","Q03781","Q03744","Q03782","Q03786","Q03784","Q03789","Q03788","Q03779","Q03783"],"A":[],"note":"Q03784 is Banxico list page with 11/05/26 entry; Q03786 is Banamex reaction to the cut."},
+"WH01":{"S":["Q03796","Q03810","Q03806","Q03825","Q03835","Q03828","Q03797","Q03793","Q03791","Q03826","Q03827"],"A":[],"note":"Kept outbreak-status reports within 2 days; excluded vaccine trial, border screening and travel-measure items."},
+"WH02":{"S":["Q03843","Q03880","Q03871"],"A":[],"note":"Q03845 dated 11-07 excluded as outside 2 days."},
+"WH03":{"S":["Q03921","Q03917","Q03926"],"A":[],"note":"Q03917 dated 10-12 but content is the 6 Nov yellow fever DON."},
+"WH04":{"S":["Q03938","Q03931","Q03941","Q03927","Q03940","Q03937","Q03936","Q03939"],"A":[],"note":"Q03934 published 16 Nov excluded; ECDC monthly and ESCMID roundup excluded."},
+"WH05":{"S":["Q03944","Q03962","Q03970","Q03971"],"A":[],"note":"Q03967 expert comment dated 4 Nov excluded as outside date window."},
+"GD01":{"S":["Q04020","Q04006","Q04019","Q03997","Q03989","Q03985","Q03996","Q04011","Q04013","Q04012","Q04014","Q04000","Q04002","Q03995","Q04018","Q04004","Q04003","Q04017"],"A":[],"note":"Baqing M7.0 quake; aftermath items 10-23/24 kept, items from 10-25 onward excluded; other quakes excluded."},
+"GD02":{"S":["Q04025","Q04031","Q04059","Q04028","Q04038","Q04044","Q04039","Q04032","Q04036","Q04041","Q04051","Q04027","Q04060","Q04068","Q04034","Q04065","Q04058","Q04057","Q04047","Q04050","Q04043","Q04067","Q04064","Q04046","Q04063","Q04066","Q04062","Q04061"],"A":[],"note":"Cyclone Arnab 10-24 to 10-28 window; later aftermath (10-29+) excluded. Q04044 is precursor-system item."},
+"GD03":{"S":["Q04072","Q04096","Q04098","Q04069","Q04071","Q04092","Q04070","Q04075","Q04106","Q04078","Q04097","Q04105","Q04049"],"A":[],"note":"Cyclone Murasu; Q04105 and Q04049 are 10-31 precursor-system items, borderline."}
+}

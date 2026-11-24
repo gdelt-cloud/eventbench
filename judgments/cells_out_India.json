@@ -1,0 +1,729 @@
+{
+ "Protests-India": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_2d9b4fea3d5201ea"
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_91986bd4cc6743ac"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "conflict_2d9b4fea3d5201ea"
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "conflict_03a9073d4852661d"
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CRIME-India": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_d2269ad14092a7a9"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": "cameoplus_da7304de8dfb937e"
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": "cameoplus_f77f20c138abbc29"
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ECONOMIC-India": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_ae88af17a91c63af"
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_ae88af17a91c63af"
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CORPORATE-India": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_2acc66d83c4eebd0"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_2acc66d83c4eebd0"
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "INFRASTRUCTURE-India": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_bdf8cdda700e9e52"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_bdf8cdda700e9e52"
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "cameoplus_bdf8cdda700e9e52"
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": "W2"
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "HEALTH-India": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ENVIRONMENT-India": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_2e4edd0498be57b4"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_2e4edd0498be57b4"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_4f7a7af5482766e5"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_4f7a7af5482766e5"
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": "cameoplus_4f7a7af5482766e5"
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W9"
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": "W1"
+   },
+   "S3": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": "W1"
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "GOVERNANCE-India": {
+  "web": {
+   "W1": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {}
+ }
+}

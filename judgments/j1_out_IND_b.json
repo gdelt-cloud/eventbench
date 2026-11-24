@@ -1,0 +1,12 @@
+{
+"U648660": {"S": ["R03348","R03338","R03350","R03349","R03278","R03277","R00769","R03318"], "A": [], "note": "BSF killing two Pakistani civilians near Kasur/Tarn Taran border; Indian-side records lack village. R03307 (Ferozepur claims) excluded."},
+"U647301": {"S": ["R03320","R03329","R03323","R03328","R03327","R03321","R03319","R03336","R03332","R03331","R03322","R03325","R03526","R03523","R03527"], "A": [], "note": "Mad Sandhu shot dead Amritsar; Jalandhar-placed records (R03279, R03525) excluded for place mismatch; opaque prokerala URLs excluded."},
+"U648636": {"S": ["R03369"], "A": ["R03399"], "note": "Tapon village ambush of Naga volunteer; severed-head records assigned to Makui incident instead, which is uncertain."},
+"U648481": {"S": ["R03340","R03417","R03435","R03429","R03425"], "A": [], "note": "Reference built from 'five killed' Kamjong/Ukhrul roundup; those headlines judged same incident. Village-level match uncertain."},
+"U647298": {"S": ["R03409","R03372","R03371","R03401"], "A": [], "note": "Makui killings and beheaded Naga man in Kangpokpi; could instead belong to Tapon incident."},
+"U648649": {"S": [], "A": [], "note": "Molnoi-Phaikoh Kamjong Oct 15; only injury report (R03556) and head-recovery follow-ups, none matching."},
+"U647328": {"S": ["R03440","R03470","R03472"], "A": [], "note": "Thoubal Khangabok/Sangaiyumpham clash one killed; three-Meitei-men killing is a separate incident."},
+"U647327": {"S": ["R03597","R03600","R03598","R03605","R03441","R03347","R03344","R03339","R03346","R03476","R03475","R03477"], "A": ["R03604","R03342"], "note": "Three Meitei firewood collectors killed; Reuters 'three killed four injured' judged same; R03475 URL-based."},
+"U647329": {"S": ["R03444","R03471","R03481","R03448"], "A": [], "note": "Kuki man shot dead Kangpokpi Oct 20; R03448 has no location but same description."},
+"U648683": {"S": [], "A": [], "note": "Asal Road Khemkaran Tarn Taran; Amritsar Jithe Kalan shootings are a different place."}
+}

@@ -1,0 +1,12 @@
+{
+"U645711":{"S":["C03109","C03110","C03162","C03165","C03160","C03119","C03157"],"A":[],"note":"Excluded C03115 (Oct 20 toll update, >2 days) and C03150 (Oct 19); included army-strike claim reports Oct 17-18 as same Nyala strike."},
+"U646910":{"S":["C03184"],"A":[],"note":"Single civilian shot dead in West Kordofan Oct 24; place only state-level, matched on date and count."},
+"U646321":{"S":["C03221"],"A":["C03210"],"note":"Um Darfa drone strike Oct 15 taken as same; C03210 roundup names Blue Nile volunteer killed but not Umm Darfa."},
+"U649068":{"S":[],"A":[],"note":"No Furawiya record; C03264 two drone attacks Darfur names no place."},
+"U646658":{"S":[],"A":[],"note":"11-civilian Djugu attack (Maze village) on Oct 10 left out: villages and death count differ from reference."},
+"U647379":{"S":[],"A":[],"note":"No Uvira-territory Masango/Rubarati record."},
+"U648119":{"S":[],"A":[],"note":"Kaziba/Walungu clashes are not Shabunda."},
+"U646865":{"S":[],"A":[],"note":"No Fizi Rugezi/Kuwihene record."},
+"U646863":{"S":[],"A":[],"note":"No Masango Uvira record."},
+"U646224":{"S":[],"A":[],"note":"No Walikale Buray beheading record."}
+}

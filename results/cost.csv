@@ -1,0 +1,16 @@
+task,service,calls_per_question_mean,calls_per_question_p50,latency_s_p50,api_usd_per_question_mean,llm_usd_per_question,questions,reference_found,reference_total,note
+monitor_conflict,web_a,1,1,1.7,0.0052,,158,50,343,top 10 results; one shared question per country-week
+monitor_conflict,web_b,1,1,2.0,0.0070,,158,69,343,top 10 results
+monitor_conflict,web_c,1,1,2.4,0.0080,,158,20,343,"keyword-style query, news mode, top 20"
+monitor_conflict,web_a_llm,2,2,8.6,0.0052,0.0006,158,47,343,search plus one LLM call that turns the results into incident records
+monitor_conflict,web_b_llm,2,2,8.9,0.0070,0.0006,158,67,343,search plus one LLM call
+monitor_conflict,cloud_full,6.31,3,4.8,0.208,,156,86,343,"every Event in the country-week (any role) + conflict Stories, all pages; QU priced at $0.033 (plan); overage up to $0.067"
+monitor_conflict,cloud_filtered,4.12,2,2.4,0.136,,156,81,343,"Events gated has_fatalities=true + conflict Stories, all pages"
+monitor_conflict,cloud_monitor,0,0,,0,,,,,scheduled Monitors run on the plan and use no QU
+lookup_nonconflict,web_a,1,1,1.7,0.0052,,93,56,93,topic question per item
+lookup_nonconflict,web_b,1,1,2.0,0.0070,,93,69,93,topic question per item
+lookup_nonconflict,cloud_full,12.77,9,9.6,0.421,,93,80,93,"every Event in the country and window + topical Stories, all pages"
+lookup_nonconflict,cloud_filtered,7.34,3,4.8,0.242,,93,71,93,"Events in the category + topical Stories, all pages"
+listing_cell,web_a,1,1,1.7,0.0050,,40,158,,distinct verified in-cell occurrences returned
+listing_cell,web_b,1,1,2.0,0.0070,,40,293,,distinct verified in-cell occurrences returned
+listing_cell,cloud_full,1.2,1,2.4,0.039,,40,1490,,"fitting records (1,634 returned x 91% fit)"

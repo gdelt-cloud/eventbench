@@ -1,0 +1,12 @@
+{
+"U650407":{"S":["Q02142","Q02167","Q02159","Q02158"],"A":[],"note":"Roadside bomb Oct 2 near Zahedan; Q02158 Fatemiyoun-vehicle URL inferred; Q02156 is the later Oct 9 bombing."},
+"U650408":{"S":["Q02141"],"A":[],"note":"IRGC clash with two armed-group members killed Oct 2; place only province-level."},
+"U650414":{"S":[],"A":[],"note":""},
+"U650412":{"S":[],"A":["Q02110","Q02117"],"note":"Faryab named only in roundups of Oct 7-8 attacks; Zahedan police killing is a different place."},
+"U650409":{"S":["Q02192","Q02194"],"A":[],"note":"Bampur two police killed Oct 5."},
+"U650411":{"S":["Q02116","Q02184","Q02198"],"A":["Q02186","Q02110","Q02117","Q02202"],"note":"Army minibus attack Oct 8 near Karinduk; multi-attack roundups as A."},
+"U650416":{"S":["Q02136","Q02130","Q02127","Q02126"],"A":[],"note":"Mehrestan police officer killed Oct 14; Basij commander location unspecified, excluded."},
+"U650417":{"S":["Q02136","Q02130","Q02127","Q02126"],"A":[],"note":"Same Oct 14 pair as U650416; cannot tell which of the two deaths this uid is."},
+"U650421":{"S":["Q02217","Q02218","Q02214"],"A":[],"note":"Khash police kill gunman Oct 21."},
+"U650422":{"S":[],"A":[],"note":""}
+}

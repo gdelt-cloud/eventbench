@@ -1,0 +1,721 @@
+{
+ "Protests-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": "conflict_e2ff95f9c9c58571"
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": "W2"
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CRIME-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": "cameoplus_150596ff4b528a77"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": "W5"
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ECONOMIC-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "CORPORATE-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_d7e387d4cfb5104c"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_d7e387d4cfb5104c"
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_d7e387d4cfb5104c"
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_d7e387d4cfb5104c"
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "cameoplus_cfcc892beefe2113"
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_d7e387d4cfb5104c"
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": "W9"
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "no",
+    "in_web": null
+   }
+  }
+ },
+ "INFRASTRUCTURE-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": "cameoplus_b5f50d834b64eea3"
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "H",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "I",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "J",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W6"
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "no",
+    "in_web": null
+   }
+  }
+ },
+ "HEALTH-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_23f871bbf76813e3"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": "W1"
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "no",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "ENVIRONMENT-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_995441e8760a4088"
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": "cameoplus_995441e8760a4088"
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   }
+  },
+  "sample": {
+   "S1": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S2": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S3": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S4": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S5": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S6": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S7": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S8": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S9": {
+    "fits": "yes",
+    "in_web": null
+   },
+   "S10": {
+    "fits": "yes",
+    "in_web": null
+   }
+  }
+ },
+ "GOVERNANCE-Brazil": {
+  "web": {
+   "W1": {
+    "in_cell": "yes",
+    "group": "A",
+    "cloud_match": null
+   },
+   "W2": {
+    "in_cell": "yes",
+    "group": "C",
+    "cloud_match": null
+   },
+   "W3": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W4": {
+    "in_cell": "yes",
+    "group": "D",
+    "cloud_match": null
+   },
+   "W5": {
+    "in_cell": "yes",
+    "group": "E",
+    "cloud_match": null
+   },
+   "W6": {
+    "in_cell": "yes",
+    "group": "B",
+    "cloud_match": null
+   },
+   "W7": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W8": {
+    "in_cell": "no",
+    "group": null,
+    "cloud_match": null
+   },
+   "W9": {
+    "in_cell": "yes",
+    "group": "F",
+    "cloud_match": null
+   },
+   "W10": {
+    "in_cell": "yes",
+    "group": "G",
+    "cloud_match": null
+   }
+  },
+  "sample": {}
+ }
+}

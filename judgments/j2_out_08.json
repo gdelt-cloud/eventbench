@@ -1,0 +1,286 @@
+{
+ "I161": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "161.1": "supported",
+   "161.2": "unsupported"
+  },
+  "duplicates": [],
+  "note": ""
+ },
+ "I162": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "162.1": "supported"
+  },
+  "duplicates": [],
+  "note": "PAS Chisinau council faction announced referral."
+ },
+ "I163": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "unknown",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "163.1": "partial",
+   "163.2": "unsupported",
+   "163.3": "unsupported",
+   "163.4": "supported",
+   "163.5": "partial",
+   "163.6": "partial"
+  },
+  "duplicates": [],
+  "note": "Article does not state meeting location."
+ },
+ "I164": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "164.1": "supported"
+  },
+  "duplicates": [],
+  "note": ""
+ },
+ "I165": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "165.1": "unsupported",
+   "165.2": "unsupported",
+   "165.3": "unsupported",
+   "165.4": "supported"
+  },
+  "duplicates": [],
+  "note": "Defendant Bolivian; coded Bolivia rows unsupported."
+ },
+ "I166": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "166.1": "supported",
+   "166.2": "unsupported"
+  },
+  "duplicates": [],
+  "note": ""
+ },
+ "I167": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [],
+  "note": "Source blocked; not fetched."
+ },
+ "I168": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "unknown",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "168.1": "supported"
+  },
+  "duplicates": [],
+  "note": "KMT disowned online plan by Chiu Chin-yi; statement made."
+ },
+ "I169": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [],
+  "note": "Source blocked; not fetched."
+ },
+ "I170": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [],
+  "note": "Source blocked; not fetched."
+ },
+ "I171": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "171.1": "supported",
+   "171.2": "partial"
+  },
+  "duplicates": [],
+  "note": "Sentencing, not arrest; second row date off by one."
+ },
+ "I172": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [],
+  "note": "Source blocked; not fetched."
+ },
+ "I173": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [],
+  "note": "Source blocked; not fetched."
+ },
+ "I174": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "174.1": "supported",
+   "174.2": "partial"
+  },
+  "duplicates": [],
+  "note": ""
+ },
+ "I175": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [],
+  "note": "Source blocked; not fetched."
+ },
+ "I176": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "176.1": "supported",
+   "176.2": "unsupported"
+  },
+  "duplicates": [],
+  "note": ""
+ },
+ "I177": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "yes",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "177.1": "supported",
+   "177.2": "unsupported"
+  },
+  "duplicates": [
+   "cameoplus_a703fde14c8a92a1"
+  ],
+  "note": ""
+ },
+ "I178": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [
+   "cameoplus_a8be00b93661f6d9"
+  ],
+  "note": "Source blocked; headline suggests same Sikorski/Hungary interview as listed duplicate."
+ },
+ "I179": {
+  "source": "unavailable",
+  "action": null,
+  "actors": null,
+  "place": null,
+  "date": null,
+  "category": null,
+  "overall": null,
+  "rows": {},
+  "duplicates": [],
+  "note": "Source blocked; not fetched."
+ },
+ "I180": {
+  "source": "ok",
+  "action": "yes",
+  "actors": "yes",
+  "place": "unknown",
+  "date": "yes",
+  "category": "yes",
+  "overall": "supported",
+  "rows": {
+   "180.1": "supported",
+   "180.2": "unsupported",
+   "180.3": "unsupported"
+  },
+  "duplicates": [],
+  "note": "Remarks made to travelling reporters; location not stated."
+ }
+}

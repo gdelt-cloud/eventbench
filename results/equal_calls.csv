@@ -1,0 +1,7 @@
+task,service,calls_per_question,reference_found,reference_total,note
+monitor_conflict,cloud,1,186,604,first page (up to 100) of conflict Stories for the country-week
+monitor_conflict,cloud,2,233,604,first page of conflict Stories + first page of lethal Events
+monitor_conflict,cloud,all_pages_filtered,245,604,every page of the two filtered lists (mean 4.5 calls)
+monitor_conflict,web_a,1,110,604,top 10 results
+monitor_conflict,web_b,1,148,604,top 10 results
+monitor_conflict,web_c,1,74,604,"top 20 results, keyword-style query"

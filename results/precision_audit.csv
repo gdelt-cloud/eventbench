@@ -1,0 +1,201 @@
+item,event_id,family,category,country,source,action,actors,place,date,category_fit,overall
+I001,cameoplus_fa0cc37919e08d91,cameoplus,CRIME,United States,ok,yes,yes,yes,yes,yes,supported
+I002,cameoplus_de2a0f7d9112f8bd,cameoplus,POLITICAL,Pakistan,ok,yes,yes,yes,yes,yes,supported
+I003,cameoplus_684deba65de1b5be,cameoplus,POLITICAL,Belarus,ok,yes,partly,yes,yes,yes,supported
+I004,cameoplus_a87cfa5420778494,cameoplus,POLITICAL,Canada,unavailable,,,,,,
+I005,cameoplus_0f888ef3592406b3,cameoplus,POLITICAL,Argentina,unavailable,,,,,,
+I006,cameoplus_1b005dfaaf416992,cameoplus,POLITICAL,China,ok,partly,yes,yes,yes,yes,minor
+I007,cameoplus_a96ff64d07b7df1d,cameoplus,CRIME,Panama,ok,partly,partly,yes,yes,yes,minor
+I008,cameoplus_0720f1d2d2fd8002,cameoplus,POLITICAL,Italy,ok,yes,yes,yes,yes,yes,supported
+I009,cameoplus_4b384af0e6129810,cameoplus,INFRASTRUCTURE,Tajikistan,ok,yes,yes,yes,yes,yes,supported
+I010,cameoplus_c00d2e63ab517723,cameoplus,CRIME,Cyprus,ok,yes,yes,yes,yes,yes,supported
+I011,cameoplus_daf4211cfd07b604,cameoplus,CORPORATE,Dominican Republic,ok,yes,partly,yes,yes,yes,supported
+I012,cameoplus_d8768b3fe196f29f,cameoplus,POLITICAL,Mexico,ok,yes,yes,yes,yes,yes,supported
+I013,cameoplus_637eb979f2e03089,cameoplus,POLITICAL,Armenia,ok,yes,yes,no,yes,yes,minor
+I014,cameoplus_9eb4dccc994941dc,cameoplus,ENVIRONMENT,Italy,ok,yes,yes,yes,yes,yes,supported
+I015,cameoplus_82f9964402c67304,cameoplus,POLITICAL,Tunisia,ok,yes,yes,yes,yes,yes,supported
+I016,cameoplus_aefb70c3b6d3a763,cameoplus,POLITICAL,Saudi Arabia,ok,yes,yes,no,yes,yes,minor
+I017,cameoplus_e828b56f0df07b57,cameoplus,CRIME,Dominican Republic,ok,yes,partly,yes,yes,yes,supported
+I018,cameoplus_7253088f2ca4922f,cameoplus,POLITICAL,China,ok,yes,yes,yes,yes,yes,supported
+I019,cameoplus_e3a1c8287c52f130,cameoplus,POLITICAL,India,ok,yes,yes,yes,yes,yes,supported
+I020,cameoplus_cfc69f12b67354d2,cameoplus,POLITICAL,Eritrea,ok,yes,yes,yes,yes,yes,supported
+I021,cameoplus_7bbef8c88542db50,cameoplus,CRIME,Italy,ok,yes,partly,yes,unknown,yes,supported
+I022,cameoplus_93728d1f4d08dadf,cameoplus,POLITICAL,Turkey,ok,yes,yes,yes,yes,yes,supported
+I023,cameoplus_3c1d390dbcdfc195,cameoplus,TECHNOLOGY,Finland,ok,yes,partly,unknown,yes,yes,supported
+I024,cameoplus_abad4ef9faf84b31,cameoplus,POLITICAL,Armenia,ok,yes,yes,yes,yes,yes,supported
+I025,cameoplus_e45b58dfcde8fa17,cameoplus,POLITICAL,Tajikistan,ok,yes,yes,yes,yes,yes,supported
+I026,cameoplus_a1c5199bb62a7613,cameoplus,POLITICAL,Kosovo,unavailable,,,,,,
+I027,conflict_beb4fb7704505717,conflict,Protests,Iceland,unavailable,,,,,,
+I028,cameoplus_bfe39f11bced8261,cameoplus,POLITICAL,Malaysia,ok,partly,yes,yes,yes,yes,minor
+I029,conflict_84eb2bfe8bf732c6,conflict,Riots,Bangladesh,ok,yes,yes,yes,yes,yes,supported
+I030,cameoplus_62918156b659afde,cameoplus,POLITICAL,Bangladesh,ok,yes,yes,yes,yes,yes,supported
+I031,cameoplus_f33aabfba778b0eb,cameoplus,ENVIRONMENT,France,unavailable,,,,,,
+I032,cameoplus_7988b9c603781236,cameoplus,POLITICAL,United States,unavailable,,,,,,
+I033,conflict_002ec2e43fcc8d04,conflict,Explosions/Remote violence,Ukraine,ok,yes,yes,yes,yes,yes,supported
+I034,cameoplus_606d6f19eb209101,cameoplus,CRIME,China,ok,yes,yes,partly,no,yes,minor
+I035,cameoplus_da4018c3ee2c2c93,cameoplus,POLITICAL,China,ok,yes,yes,yes,yes,yes,supported
+I036,cameoplus_5d49332f325359b7,cameoplus,POLITICAL,Slovenia,ok,yes,yes,yes,yes,yes,supported
+I037,conflict_ce3b27e0b158c938,conflict,Protests,UNK,unavailable,,,,,,
+I038,cameoplus_b11d2facb937be1c,cameoplus,POLITICAL,Guinea,ok,yes,yes,yes,yes,yes,supported
+I039,cameoplus_72e53b08a7b6abd8,cameoplus,POLITICAL,Mauritania,unavailable,,,,,,
+I040,cameoplus_1a220470fbe40490,cameoplus,POLITICAL,Libya,ok,yes,yes,unknown,yes,yes,supported
+I041,cameoplus_2c2e85e917bc10e9,cameoplus,POLITICAL,Germany,ok,yes,yes,yes,yes,yes,supported
+I042,cameoplus_c5e97473f751f19b,cameoplus,CRIME,India,unavailable,,,,,,unavailable
+I043,cameoplus_96b10b6d101c3fa5,cameoplus,CRIME,India,unavailable,,,,,,unavailable
+I044,cameoplus_c95e0d664a89127e,cameoplus,POLITICAL,Poland,ok,yes,yes,yes,yes,yes,supported
+I045,cameoplus_5218e81781171cef,cameoplus,HEALTH,Thailand,unavailable,,,,,,unavailable
+I046,cameoplus_4fd2df207acf7568,cameoplus,CRIME,China,unavailable,,,,,,unavailable
+I047,cameoplus_f2b2808e9a976a9e,cameoplus,POLITICAL,India,ok,yes,yes,unknown,yes,yes,supported
+I048,cameoplus_823f9e799a0e97b9,cameoplus,POLITICAL,South Korea,ok,yes,yes,yes,yes,yes,supported
+I049,cameoplus_accb3611b9125481,cameoplus,POLITICAL,Nigeria,ok,yes,yes,yes,yes,yes,supported
+I050,cameoplus_73c231708e011620,cameoplus,POLITICAL,Costa Rica,ok,yes,yes,yes,yes,yes,supported
+I051,cameoplus_50b9ffc72b4dc087,cameoplus,POLITICAL,Italy,ok,yes,yes,yes,yes,yes,supported
+I052,cameoplus_ec7c5cccac426cbc,cameoplus,POLITICAL,Saudi Arabia,ok,yes,yes,no,yes,yes,minor
+I053,cameoplus_f8e860e0d0d04ef8,cameoplus,POLITICAL,Cameroon,unavailable,,,,,,unavailable
+I054,cameoplus_37f94f764bbd15de,cameoplus,CRIME,India,ok,yes,yes,yes,yes,yes,supported
+I055,cameoplus_ba6370427544521a,cameoplus,POLITICAL,Russia,ok,yes,yes,yes,yes,yes,supported
+I056,cameoplus_fc54b857c7bcafd7,cameoplus,GOVERNANCE,Kosovo,unavailable,,,,,,unavailable
+I057,cameoplus_5fde810f6631e2b7,cameoplus,CRIME,United States,ok,yes,yes,yes,yes,yes,supported
+I058,cameoplus_c64f7fccc59ceea4,cameoplus,POLITICAL,Mexico,ok,yes,yes,unknown,yes,yes,supported
+I059,cameoplus_23ed0d7fe4d118cf,cameoplus,CRIME,India,unavailable,,,,,,unavailable
+I060,cameoplus_fb449a5f020695ef,cameoplus,CRIME,United States,ok,yes,yes,unknown,yes,yes,supported
+I061,cameoplus_948e1bba8e8d9e6a,cameoplus,POLITICAL,India,unavailable,,,,,,
+I062,cameoplus_8d51b05c6b321604,cameoplus,POLITICAL,Malaysia,ok,yes,yes,yes,yes,yes,supported
+I063,cameoplus_b24169b5506fb17d,cameoplus,CORPORATE,United States,ok,yes,yes,yes,yes,yes,supported
+I064,cameoplus_3a965ffecf32c076,cameoplus,POLITICAL,Chile,ok,yes,yes,yes,yes,yes,supported
+I065,cameoplus_c9a492accb427724,cameoplus,CRIME,Uruguay,ok,yes,yes,yes,unknown,yes,supported
+I066,conflict_787a104aab1e4caa,conflict,Protests,United States,ok,yes,yes,yes,yes,yes,supported
+I067,cameoplus_f6ef173b3c7de953,cameoplus,CRIME,India,unavailable,,,,,,
+I068,cameoplus_9ef9fa07602b857f,cameoplus,CRIME,Croatia,ok,yes,yes,yes,yes,yes,supported
+I069,cameoplus_a18158e9d49c94e1,cameoplus,POLITICAL,UNK,unavailable,,,,,,
+I070,cameoplus_b5b872d7d878039f,cameoplus,POLITICAL,Nigeria,ok,yes,yes,yes,yes,yes,supported
+I071,cameoplus_0690600ae4f682c2,cameoplus,POLITICAL,Nigeria,ok,yes,yes,unknown,yes,yes,supported
+I072,cameoplus_af88b9a8bc622068,cameoplus,POLITICAL,China,ok,yes,yes,yes,yes,yes,supported
+I073,cameoplus_5d5e6c2132dc06b1,cameoplus,CRIME,India,ok,yes,yes,yes,yes,yes,supported
+I074,cameoplus_be970a8b0aa0553b,cameoplus,CRIME,United States,ok,yes,yes,yes,yes,yes,supported
+I075,cameoplus_470b4e9240ec77a2,cameoplus,POLITICAL,Nepal,ok,yes,partly,yes,yes,yes,supported
+I076,cameoplus_3ceb9b4d61b65ead,cameoplus,ENVIRONMENT,Brazil,ok,yes,yes,yes,yes,yes,supported
+I077,cameoplus_79b3eb2720a94f1f,cameoplus,CRIME,Italy,ok,yes,yes,yes,yes,yes,supported
+I078,cameoplus_b8c5cb7107da75b9,cameoplus,POLITICAL,Argentina,ok,yes,yes,yes,yes,yes,supported
+I079,cameoplus_2946c607b41991ff,cameoplus,POLITICAL,Benin,ok,yes,yes,yes,yes,yes,supported
+I080,cameoplus_7ae7abb1360eb031,cameoplus,CRIME,Spain,ok,yes,yes,yes,yes,yes,supported
+I081,cameoplus_34fd264c04fe720c,cameoplus,INFRASTRUCTURE,Greece,ok,yes,yes,yes,no,yes,minor
+I082,cameoplus_a69c4304f8bb33cc,cameoplus,CRIME,Canada,unavailable,,,,,,
+I083,cameoplus_500b38bfa58bb477,cameoplus,CORPORATE,Canada,ok,yes,yes,yes,yes,yes,supported
+I084,cameoplus_d6f0b5f125cd6b71,cameoplus,POLITICAL,Dominican Republic,ok,yes,yes,no,yes,yes,minor
+I085,cameoplus_7c0218d30abf6453,cameoplus,POLITICAL,Finland,unavailable,,,,,,
+I086,cameoplus_5bfabfb25d1a5f5a,cameoplus,CORPORATE,United States,ok,yes,yes,unknown,yes,yes,supported
+I087,cameoplus_cd8f3e5cc38cac44,cameoplus,POLITICAL,China,unavailable,,,,,,
+I088,cameoplus_6843ff646c6dd21c,cameoplus,POLITICAL,Serbia,ok,yes,yes,unknown,yes,yes,supported
+I089,cameoplus_4b206d63645844fb,cameoplus,POLITICAL,Italy,ok,yes,yes,yes,yes,yes,supported
+I090,cameoplus_b09346ae0e18b986,cameoplus,CORPORATE,United States,ok,yes,yes,unknown,no,yes,minor
+I091,cameoplus_44970f647fe46ed4,cameoplus,POLITICAL,Bangladesh,ok,yes,yes,yes,yes,yes,supported
+I092,cameoplus_50027af4808b1194,cameoplus,POLITICAL,Tajikistan,ok,yes,yes,unknown,yes,yes,supported
+I093,cameoplus_3c17acd83d1278c0,cameoplus,ECONOMIC,Poland,unavailable,,,,,,
+I094,cameoplus_f71b09d32abf62eb,cameoplus,INFORMATION,Hungary,ok,yes,yes,unknown,yes,yes,supported
+I095,cameoplus_d2dffaea15a8dd12,cameoplus,POLITICAL,Afghanistan,ok,yes,yes,yes,yes,yes,supported
+I096,cameoplus_8ca1a61231880372,cameoplus,POLITICAL,India,ok,yes,yes,unknown,unknown,yes,supported
+I097,cameoplus_2244d5a3a4ecbeb3,cameoplus,POLITICAL,Cambodia,unavailable,,,,,,
+I098,cameoplus_32f1e9e2bd623082,cameoplus,HEALTH,Hungary,ok,yes,yes,unknown,yes,yes,supported
+I099,cameoplus_bc70130e69513fbe,cameoplus,CORPORATE,Egypt,ok,yes,yes,unknown,yes,yes,supported
+I100,cameoplus_7aa24177d8fc60a7,cameoplus,CORPORATE,Germany,ok,yes,yes,yes,unknown,yes,supported
+I101,cameoplus_218db36b5f6d1293,cameoplus,POLITICAL,United States,unavailable,,,,,,
+I102,cameoplus_620994a3f1a886b3,cameoplus,POLITICAL,Palestine,ok,yes,yes,yes,yes,yes,supported
+I103,cameoplus_7e64fc5e29988ac6,cameoplus,CRIME,Greece,ok,yes,yes,yes,yes,yes,supported
+I104,cameoplus_2556dc2517738ced,cameoplus,POLITICAL,Pakistan,ok,yes,yes,yes,yes,yes,supported
+I105,cameoplus_33c1c04abb32b05a,cameoplus,CRIME,United States,ok,yes,yes,yes,yes,yes,supported
+I106,cameoplus_aaa5108720d46b87,cameoplus,INFRASTRUCTURE,Taiwan,ok,yes,yes,yes,yes,no,minor
+I107,cameoplus_6a799109ebb6f8d1,cameoplus,POLITICAL,Vanuatu,ok,yes,yes,yes,yes,yes,supported
+I108,cameoplus_5ec40b180e836800,cameoplus,POLITICAL,India,ok,yes,yes,unknown,yes,yes,supported
+I109,conflict_2d48f0fa13dd3c9a,conflict,Riots,India,unavailable,,,,,,
+I110,cameoplus_cb478e5835e53e28,cameoplus,POLITICAL,India,unavailable,,,,,,
+I111,cameoplus_5f83673cc105127c,cameoplus,CORPORATE,Rwanda,ok,yes,partly,yes,unknown,yes,supported
+I112,cameoplus_987b69062ed4272e,cameoplus,CRIME,Kenya,ok,yes,yes,yes,yes,yes,supported
+I113,conflict_edcfd6caa994d9da,conflict,Protests,Georgia,unavailable,,,,,,
+I114,cameoplus_486e560aca4df07a,cameoplus,POLITICAL,Palestine,ok,yes,yes,unknown,yes,yes,supported
+I115,conflict_31e2c2d66bbaa3be,conflict,Explosions/Remote violence,Sudan,ok,yes,partly,yes,no,yes,minor
+I116,cameoplus_b2bfe1df5cc5690f,cameoplus,POLITICAL,Azerbaijan,ok,yes,yes,yes,yes,yes,supported
+I117,cameoplus_18094203d30daef3,cameoplus,CORPORATE,Ghana,ok,yes,yes,yes,yes,yes,supported
+I118,cameoplus_64cada91ca4057c1,cameoplus,CRIME,Indonesia,ok,yes,yes,yes,yes,yes,supported
+I119,cameoplus_d43a2d2b71bbdb0b,cameoplus,POLITICAL,Pakistan,ok,yes,yes,yes,yes,yes,supported
+I120,cameoplus_8908211f0ebaeaff,cameoplus,POLITICAL,Estonia,ok,yes,yes,yes,yes,yes,supported
+I121,cameoplus_1deecc180ba61ff8,cameoplus,CORPORATE,Greece,ok,yes,partly,yes,yes,yes,supported
+I122,cameoplus_ba89657f8a981547,cameoplus,POLITICAL,Liberia,ok,yes,yes,yes,yes,yes,supported
+I123,cameoplus_bb791047dd413227,cameoplus,POLITICAL,Indonesia,ok,yes,yes,yes,yes,yes,supported
+I124,cameoplus_7867da26cc8f9e8e,cameoplus,POLITICAL,Israel,ok,yes,yes,unknown,yes,yes,supported
+I125,cameoplus_06fc85c401c2757c,cameoplus,POLITICAL,UNK,ok,yes,yes,unknown,yes,yes,supported
+I126,cameoplus_cf287444ac382c4c,cameoplus,POLITICAL,Saudi Arabia,ok,yes,yes,no,yes,no,minor
+I127,cameoplus_6af465a13a224fb1,cameoplus,POLITICAL,United States,ok,yes,yes,unknown,yes,yes,supported
+I128,cameoplus_90ea759b2ac5b933,cameoplus,CRIME,Austria,ok,yes,yes,yes,yes,yes,minor
+I129,cameoplus_6a575666d8730c76,cameoplus,POLITICAL,United States,ok,yes,yes,yes,yes,yes,supported
+I130,cameoplus_c73a39da66714e42,cameoplus,POLITICAL,United States,ok,yes,yes,unknown,yes,no,minor
+I131,cameoplus_078a23d9ae83e791,cameoplus,POLITICAL,United States,ok,yes,yes,unknown,yes,yes,supported
+I132,cameoplus_5ba8f0799ab98759,cameoplus,CRIME,Kenya,unavailable,,,,,,
+I133,cameoplus_ebf22db41edb3474,cameoplus,POLITICAL,Malaysia,ok,yes,yes,yes,yes,yes,supported
+I134,cameoplus_efb7c731d3c3ae91,cameoplus,POLITICAL,Belarus,ok,yes,partly,yes,yes,yes,minor
+I135,cameoplus_b6ed28105e4f8638,cameoplus,ENVIRONMENT,Montenegro,unavailable,,,,,,
+I136,cameoplus_67bc1517ef426d07,cameoplus,ENVIRONMENT,United Arab Emirates,ok,yes,yes,yes,unknown,yes,supported
+I137,cameoplus_b23a22c37485af0b,cameoplus,CRIME,Hong Kong,ok,yes,yes,yes,yes,yes,supported
+I138,cameoplus_f7c1227248ca4bca,cameoplus,POLITICAL,Grenada,unavailable,,,,,,
+I139,conflict_3fa76d7ac5420dda,conflict,Strategic developments,Lebanon,ok,yes,yes,yes,yes,yes,supported
+I140,conflict_ab425631c7c5a789,conflict,Strategic developments,Palestine,ok,yes,yes,yes,yes,yes,supported
+I141,cameoplus_102b8fbb32e16153,cameoplus,POLITICAL,Barbados,ok,yes,yes,yes,yes,yes,supported
+I142,cameoplus_a86df1365d47e686,cameoplus,CORPORATE,Spain,unavailable,,,,,,unavailable
+I143,cameoplus_f8d58ddc75f1149c,cameoplus,POLITICAL,Denmark,ok,yes,yes,unknown,yes,yes,supported
+I144,cameoplus_e5e34b606550cd18,cameoplus,POLITICAL,Cyprus,ok,yes,yes,yes,yes,yes,supported
+I145,cameoplus_f873e057908a3ba7,cameoplus,POLITICAL,India,ok,yes,yes,yes,yes,yes,supported
+I146,cameoplus_3cec564b2cdb7f3b,cameoplus,POLITICAL,Turkey,ok,yes,yes,yes,yes,no,minor
+I147,conflict_9b2fecb4b5561334,conflict,Strategic developments,Bangladesh,unavailable,,,,,,unavailable
+I148,cameoplus_0c22448b7b2614e3,cameoplus,CORPORATE,Latvia,ok,yes,yes,unknown,yes,yes,supported
+I149,cameoplus_0b6ef9e36b908a23,cameoplus,ENVIRONMENT,Fiji,ok,yes,partly,yes,no,yes,minor
+I150,cameoplus_82c2d3eb741f9f23,cameoplus,CORPORATE,Italy,unavailable,,,,,,unavailable
+I151,cameoplus_16acf5a4ea86c65c,cameoplus,CRIME,Colombia,ok,yes,yes,yes,no,yes,minor
+I152,cameoplus_16ee916fb55e4a27,cameoplus,POLITICAL,Brazil,ok,yes,yes,unknown,yes,yes,supported
+I153,cameoplus_b60aa37687dddc96,cameoplus,ECONOMIC,India,unavailable,,,,,,unavailable
+I154,cameoplus_293e3e507422ab78,cameoplus,POLITICAL,Indonesia,ok,yes,yes,yes,yes,yes,supported
+I155,cameoplus_19ead9a1af559be9,cameoplus,TECHNOLOGY,United Kingdom,ok,yes,yes,yes,yes,yes,supported
+I156,cameoplus_57c99704f0bcefac,cameoplus,POLITICAL,Switzerland,ok,yes,yes,unknown,yes,yes,supported
+I157,cameoplus_81c580abd4857e4b,cameoplus,CORPORATE,India,unavailable,,,,,,unavailable
+I158,cameoplus_030683b1547de171,cameoplus,POLITICAL,Finland,unavailable,,,,,,unavailable
+I159,cameoplus_8deb339b263cc1eb,cameoplus,POLITICAL,Mexico,ok,yes,yes,yes,yes,yes,supported
+I160,cameoplus_77144e16481c474e,cameoplus,POLITICAL,Cape Verde,ok,yes,yes,unknown,yes,yes,supported
+I161,cameoplus_cfc981b15742afd9,cameoplus,POLITICAL,Spain,ok,yes,yes,yes,yes,yes,supported
+I162,cameoplus_d47a93500b2a5570,cameoplus,POLITICAL,Moldova,ok,yes,yes,yes,yes,yes,supported
+I163,cameoplus_5c1b183da779e895,cameoplus,POLITICAL,Colombia,ok,yes,yes,unknown,yes,yes,supported
+I164,cameoplus_020d8a12f26c53da,cameoplus,POLITICAL,Greece,ok,yes,yes,yes,yes,yes,supported
+I165,cameoplus_55abd3712196d259,cameoplus,CRIME,Ireland,ok,yes,yes,yes,yes,yes,supported
+I166,cameoplus_e43cc5fbf310a8a3,cameoplus,ECONOMIC,Brazil,ok,yes,yes,yes,yes,yes,supported
+I167,cameoplus_c8a9df6ce332066c,cameoplus,POLITICAL,Bangladesh,unavailable,,,,,,
+I168,cameoplus_fbb630cbb7a0d88b,cameoplus,POLITICAL,Taiwan,ok,yes,yes,unknown,yes,yes,supported
+I169,cameoplus_993ff1bcec0bfd74,cameoplus,TECHNOLOGY,United States,unavailable,,,,,,
+I170,cameoplus_02380bdba3eca8a3,cameoplus,POLITICAL,Finland,unavailable,,,,,,
+I171,cameoplus_cb84d937a58d6f47,cameoplus,CRIME,United States,ok,yes,yes,yes,yes,yes,supported
+I172,cameoplus_a96ecb11ec675b71,cameoplus,POLITICAL,Estonia,unavailable,,,,,,
+I173,cameoplus_aa7843912a91c4b9,cameoplus,POLITICAL,China,unavailable,,,,,,
+I174,cameoplus_efe00330aab5fb30,cameoplus,POLITICAL,Belgium,ok,yes,yes,yes,yes,yes,supported
+I175,cameoplus_193751df4e3fe107,cameoplus,POLITICAL,Azerbaijan,unavailable,,,,,,
+I176,cameoplus_a190d7ffb03ab01f,cameoplus,POLITICAL,Poland,ok,yes,yes,yes,yes,yes,supported
+I177,cameoplus_caca159d88114975,cameoplus,POLITICAL,Brazil,ok,yes,yes,yes,yes,yes,supported
+I178,cameoplus_8010a4d77c968827,cameoplus,POLITICAL,Poland,unavailable,,,,,,
+I179,cameoplus_d319345d4b78c0b5,cameoplus,POLITICAL,Turkey,unavailable,,,,,,
+I180,cameoplus_46f893e468fe3b04,cameoplus,POLITICAL,United Kingdom,ok,yes,yes,unknown,yes,yes,supported
+I181,cameoplus_1371e47c6d0b84d4,cameoplus,HEALTH,India,unavailable,,,,,,
+I182,cameoplus_d237b88b6ee8c8bb,cameoplus,POLITICAL,Ghana,ok,yes,yes,unknown,yes,yes,supported
+I183,cameoplus_6411711ad1b793b2,cameoplus,POLITICAL,Kosovo,unavailable,,,,,,
+I184,cameoplus_d0ed358beeb0f9eb,cameoplus,POLITICAL,India,unavailable,,,,,,
+I185,cameoplus_f6d8eb55a44f2895,cameoplus,POLITICAL,India,ok,yes,yes,yes,yes,yes,supported
+I186,cameoplus_f5bc7c772e88dfaf,cameoplus,POLITICAL,United States,unavailable,,,,,,
+I187,cameoplus_65a56aafd0da645f,cameoplus,CRIME,Iceland,ok,yes,no,no,no,yes,unsupported
+I188,cameoplus_aa754b804ec15778,cameoplus,POLITICAL,Niger,ok,yes,yes,yes,yes,no,minor
+I189,conflict_d9f15bc18dc21a31,conflict,Strategic developments,Sudan,ok,yes,yes,yes,yes,yes,supported
+I190,cameoplus_01522a3d082c9e05,cameoplus,POLITICAL,North Korea,ok,yes,yes,yes,yes,yes,supported
+I191,cameoplus_d6bcd9d386d3725b,cameoplus,POLITICAL,Mexico,ok,yes,yes,yes,yes,yes,supported
+I192,cameoplus_94184fc5fb086c9d,cameoplus,CORPORATE,United Kingdom,unavailable,,,,,,
+I193,cameoplus_5a408c225712ba9a,cameoplus,POLITICAL,Germany,ok,yes,yes,yes,yes,yes,supported
+I194,cameoplus_2f5fde5a549b6502,cameoplus,POLITICAL,Colombia,ok,yes,yes,unknown,yes,yes,supported
+I195,cameoplus_1214462e43f1404e,cameoplus,CRIME,Bangladesh,unavailable,,,,,,
+I196,cameoplus_5d5aaaa1aafa4d39,cameoplus,POLITICAL,Israel,ok,yes,yes,yes,yes,yes,supported
+I197,cameoplus_2b9b6e75c4c1e9e5,cameoplus,CRIME,India,ok,yes,yes,yes,unknown,yes,supported
+I198,cameoplus_7aee28af472dc75f,cameoplus,POLITICAL,Belgium,ok,yes,yes,yes,yes,yes,supported
+I199,cameoplus_8c432eaddea8ca5d,cameoplus,POLITICAL,Iraq,ok,yes,yes,yes,yes,yes,supported
+I200,cameoplus_8ab6aea3101217bb,cameoplus,POLITICAL,Austria,unavailable,,,,,,

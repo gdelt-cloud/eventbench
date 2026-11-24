@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "event_list.schema.json",
+  "title": "Event list row",
+  "description": "One row of any event list you want to compare (another dataset's export, your own log). CSV with these columns, or JSONL with these keys. See templates/event_list.csv.",
+  "type": "object",
+  "required": ["id", "date", "country"],
+  "properties": {
+    "id": {"type": "string", "description": "Your stable row id."},
+    "date": {"type": "string", "format": "date", "description": "Occurrence date."},
+    "country": {"type": "string", "description": "Country name or ISO3 code."},
+    "admin1": {"type": ["string", "null"], "description": "State, province or region."},
+    "locality": {"type": ["string", "null"], "description": "Town, village or site."},
+    "lat": {"type": ["number", "string", "null"]},
+    "lon": {"type": ["number", "string", "null"]},
+    "category": {"type": ["string", "null"], "description": "Your own category label; compared with the case category for non-conflict items."},
+    "actors": {"type": ["string", "null"]},
+    "deaths": {"type": ["number", "string", "null"]},
+    "source_url": {"type": ["string", "null"]},
+    "description": {"type": ["string", "null"], "description": "One line on what happened. Reviewers judge from this."}
+  },
+  "additionalProperties": true
+}

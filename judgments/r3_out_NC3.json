@@ -1,0 +1,14 @@
+{
+"WK034":{"S":["T03542","T03541","T03534","T03538","T03543","T03536","T03545"],"A":[],"note":"Makueni/Kanga bus-truck crash; excluded government road-safety plan T03522 as policy follow-up."},
+"WK035":{"S":["T03591","T03546","T03588","T03589","T03562","T03586","T03572","T03582","T03581","T03566","T03560","T03552","T03590","T03564","T03583","T03565","T03585","T03554","T03587","T03548","T03556","T03563","T03561","T03549"],"A":[],"note":"Excluded mourning, investigation, condolence and later-dated (11-13/14) follow-ups; kept crash/toll reports 11-10 to 11-12."},
+"WK036":{"S":["T03632","T03637","T03627","T03596","T03605","T03634","T03597","T03633","T03601","T03595","T03603","T03630","T03628","T03629","T03592","T03604","T03593","T03631","T03594"],"A":[],"note":"T03604 says Ankara but clearly same tornado; T03602 tourist-experience piece left out."},
+"WK037":{"S":["T03642","T03640"],"A":[],"note":"KFTC fines on Baemin and Coupang; bank bond-auction fines are a different action."},
+"WK038":{"S":["T03689","T03691"],"A":[],"note":"Government investment in Cohere; T03690 Series E initial close on 10-30 left out as different development."},
+"WK039":{"S":["T03744","T03742"],"A":[],"note":"AGOA suspension of SA and Rwanda; T03741 is dated 3 days later, ANC reaction T03743 is a response."},
+"WK040":{"S":["T03790","T03812","T03807","T03793","T03803","T02120","T03794"],"A":[],"note":"Only 11-17 garment protest crackdown and 42-platoon BGB deployment; other-day clashes excluded."},
+"WK041":{"S":["T03839","T03856","T03846","T03841"],"A":[],"note":"Partial refunds to Ueno depositors from guarantee fund; reports 11-10 to 11-12 on disbursement counted."},
+"WK042":{"S":["T03895","T03887","T03896","T03888","T03892","T03889","T03897","T03901"],"A":[],"note":"Villa Vie Odyssey suspension; 10-31 and later stranded/lender reports excluded by date."},
+"WK043":{"S":["T03929"],"A":[],"note":"Saudi September crude exports up 21%; Houthi attack items are different developments."},
+"WK044":{"S":["T03986"],"A":[],"note":"T03987 describes the same announcement but is dated 11-04, outside the 2-day window; left out."},
+"WK045":{"S":["T04069","T04038","T04079"],"A":[],"note":"Fuel levy cuts announced in MTBPS on 10-21; earlier Ramaphosa consideration not counted."}
+}

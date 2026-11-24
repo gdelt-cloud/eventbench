@@ -1,0 +1,3 @@
+id,date,country,admin1,locality,lat,lon,category,actors,deaths,source_url,description
+EXAMPLE-0001,2026-10-21,Ukraine,Kharkiv oblast,Example village,48.888,36.308,armed clash,Side A; Side B,1,https://example.org/your-source,EXAMPLE ROW: replace with your data. One line on what happened.
+EXAMPLE-0002,2026-11-03,United States,,,,,election,,,https://example.org/your-source,EXAMPLE ROW: a non-conflict item without coordinates matches by country and words.

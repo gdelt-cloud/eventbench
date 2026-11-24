@@ -1,0 +1,12 @@
+{
+"U648433":{"S":[],"A":[],"note":"Tanintharyi Thayetchaung single death; no matching record in candidates or week records."},
+"U644931":{"S":["R02859"],"A":["R02865","R02871","R02872","R02864"],"note":"R02876 two killed at unspecified Rakhine camp was excluded for lack of place; Reuters eight-in-two-camps rolled up as aggregate."},
+"U646511":{"S":["R02975","R02909"],"A":[],"note":"Sin Ai village Pauktaw Oct 11 counts differ (7, 5 vs 4); R02909 gives only township Pauktaw, accepted at district precision."},
+"U647708":{"S":[],"A":[],"note":"Kyaikto monthly roundup R02911 has no explicit date; Wetlet strikes are Sagaing, not Mon."},
+"U647714":{"S":["R02979","R02914"],"A":[],"note":"Oct 17 airstrike killing 11 in central Myanmar village; R02914 lacks Magway name but matches count and date; R02919 undated."},
+"U646515":{"S":[],"A":[],"note":"Shwegu Kachin single death; nothing matching."},
+"U646510":{"S":[],"A":[],"note":"Werathani area; Le Myo dock and Pauktaw strikes are different places."},
+"U647706":{"S":["R02901"],"A":[],"note":"RFA Kanbalu Township Oct 23 airstrike, deaths unspecified; RFA three-location roundup R02896 not explicit enough."},
+"U647705":{"S":[],"A":[],"note":"Hpapun Kayin single death; nothing matching."},
+"U648431":{"S":["R02951","R02945"],"A":[],"note":"HURFOM report dated Nov 2 is 3 days after Oct 30 but identical event (4 killed, 3 injured, Kanyin Chaung)."}
+}

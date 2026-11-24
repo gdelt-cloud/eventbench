@@ -1,0 +1,12 @@
+{
+"U645611": {"S": ["R00509","R00539"], "A": [], "note": "Haivoron drone death Oct 3 matched by two records; the Oct 3 national roundups do not name Haivoron."},
+"U645641": {"S": ["R00598","R00532"], "A": [], "note": "Nikopol artillery, 1 killed 1 wounded Oct 4; Kharkiv and Dnipropetrovsk roundups do not name Nikopol."},
+"U646270": {"S": [], "A": [], "note": "Rivne/Sarny Oct 9 records (R00151, R00152) describe injuries, not the boy's death or Rokytniv; left out."},
+"U646472": {"S": [], "A": [], "note": "No Dnipro Oct 16 record with a death; nine-region roundups do not name Dnipro."},
+"U646530": {"S": ["R00653","R00362","R00378"], "A": [], "note": "Kherson airstrike Oct 17, 1 killed 19 wounded; R00648 URL is generic so excluded."},
+"U646770": {"S": ["R00096","R00116"], "A": [], "note": "Lymanivka shelling reported Oct 22 (woman killed, 4 hurt) vs reference Oct 21; within 2 days, same village."},
+"U646958": {"S": [], "A": [], "note": "Kramatorsk 1 killed 6 injured is a different place from Yarova; Donetsk roundups do not name Yarova."},
+"U647001": {"S": ["R00503","R00504","R00236","R00502"], "A": [], "note": "Canadian animal rescuer killed by drone near Kramatorsk; R00236 is dated Oct 28 (3 days), included as clearly the same person."},
+"U646991": {"S": [], "A": [], "note": "No record names Slavyanska community Oct 27; regional counts found are for Oct 26 or Oct 30."},
+"U647022": {"S": [], "A": [], "note": "Oct 30 Dnipropetrovsk four-district roundups (R00455, R00462) do not name Nikopol district; excluded."}
+}

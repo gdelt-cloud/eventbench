@@ -1,0 +1,13 @@
+{
+"WK058":{"S":[],"A":[],"note":"WMO greenhouse gas bulletin not found; Lancet Countdown items are a different report."},
+"WK059":{"S":["T04630","T04631","T04632","T04635","T04654"],"A":[],"note":"Generic lenacapavir FDA approval; several same-day/next-day reports."},
+"WK060":{"S":["T04543","T04549"],"A":[],"note":"Eight dengue deaths, 1,674 hospitalized on 14 Nov; 15-16 Nov toll reports are later days."},
+"WK061":{"S":["T04702","T04720","T04719","T04728"],"A":[],"note":"NCDC 25 Oct update with 44 contacts; payments/travel declaration items are separate developments."},
+"WK062":{"S":["T04768","T04777","T04730","T04745","T04741","T04740","T04742","T04747","T04738","T04744","T04746","T04732","T04739","T04733","T04743","T04734"],"A":[],"note":"Shamonda first human case; excluded reports dated 26-27 Oct and Italy midge monitoring."},
+"WK063":{"S":[],"A":[],"note":"No Teghaza meteorite record."},
+"WK064":{"S":["T04800","T04796","T04799","T04793","T04794"],"A":[],"note":"Meta fine; excluded 17-18 Nov dated reports and appeal statement."},
+"WK065":{"S":["T04846","T04845"],"A":[],"note":"Silent Lynx Tajikistan breach."},
+"WK066":{"S":["T04894","T04892"],"A":["T04893"],"note":"Apple outage; Rubio piece is a multi-outage roundup naming Apple."},
+"WK067":{"S":[],"A":[],"note":"BioWare closure record dated 25 Oct, four days after reference; excluded as strict."},
+"WK068":{"S":["T04978","T04979"],"A":[],"note":"eMudhra key incident; 24 Oct reports and exit-business items excluded as other dates/developments."}
+}

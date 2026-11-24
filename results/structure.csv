@@ -1,0 +1,16 @@
+field,gdelt_cloud_event_present,gdelt_cloud_event_correct,search_plus_llm_record_present,web_result_present,notes
+typed occurrence date,100%,91% within 1 day (135/149),90%,published date only (web A 95%; web C 86%),Cloud also records how the date was established
+category from a fixed taxonomy,100%,97% (144/149),none,none,
+subcategory (leaf code),100%,not separately judged,none,none,
+country,100%,see place,yes (asked for),none,
+admin1 (state or province),52%,,77% any sub-national place,none,
+named locality,94%,,(included above),none,
+coordinates,100%,,none,none,
+acting party named,99.7%,91% actors right (136/149),77% names a party,none,
+receiving party named,81%,(included above),28% names victims or target,none,
+actor linked to an entity ID,57%,95% role correct (156/164),none,none,
+entity reference with Wikipedia or registry ID,55%,98% link correct (322/330 decidable),none,none,
+fatality count (conflict family),100%,,27%,none,
+linked Story and its sources,100% (mean 11.2 articles),,source URLs 100%,URL,
+source languages,100% (62% non-English sources),,none,none,
+one record per occurrence,8% of Events have a copy (17/200),,1-4% repeats after extraction,52% of on-topic results repeat,

@@ -1,0 +1,12 @@
+{
+"U645234": {"S": [], "A": [], "note": "R02401 (Ungushi, army dismisses 111-death Sokoto report, Oct 10) is possibly related but unclear; excluded."},
+"U645252": {"S": ["R02169","R02223"], "A": [], "note": "Abakuradi village Yobe troops neutralise one terrorist; clear match."},
+"U645807": {"S": ["R02199","R02191","R02405","R02403","R02406"], "A": [], "note": "Maiyama FOB attack, Chinese national and two security personnel; R02191 base-attack report judged same incident."},
+"U645681": {"S": [], "A": [], "note": "Magi Mbar Bokkos vigilante death; only different Plateau incidents (Foron, Jamus) present."},
+"U645782": {"S": [], "A": [], "note": "No Shinkafi-Kaura Namoda road record found."},
+"U647649": {"S": [], "A": [], "note": "Burdinga mining site two killed Oct 16; no matching record, other Plateau incidents differ."},
+"U646398": {"S": [], "A": [], "note": "Gadan Oli Borgu; nothing matching."},
+"U647850": {"S": ["R02308","R02339","R02346","R02348","R02351","R02345","R02349"], "A": [], "note": "Ebonyi NDC candidate convoy attack at Amazekewe; Enugu NDC member killing is a different incident."},
+"U646392": {"S": ["R02274","R02281","R02289","R02280","R02282","R02287","R02278","R02284","R02268","R02267","R02279","R02277","R02271","R02276","R02266","R02270","R02269","R02286","R01502"], "A": [], "note": "Masussuka cleric killing Dutsin-Ma; excluded opaque URLs (BBC, pidgin) and Shehu Sani commentary."},
+"U647231": {"S": [], "A": [], "note": "Kishika Bassa Plateau Oct 31; no matching record."}
+}

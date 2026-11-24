@@ -1,0 +1,72 @@
+{
+ "U644563": {
+  "S": [
+   "Q01982"
+  ],
+  "A": [],
+  "note": "URL-only GSF operation killing suspects in Port-au-Prince; city not specific."
+ },
+ "U644562": {
+  "S": [
+   "Q01982"
+  ],
+  "A": [],
+  "note": "URL-only GSF operation killing suspects in Port-au-Prince; Tabarre not specific."
+ },
+ "U648559": {
+  "S": [
+   "Q02065",
+   "Q01960",
+   "Q01959",
+   "Q02057",
+   "Q02050",
+   "Q02043",
+   "Q02039",
+   "Q02041",
+   "Q02061",
+   "Q02042",
+   "Q02044",
+   "Q02055",
+   "Q02056",
+   "Q02060",
+   "Q02051"
+  ],
+  "A": [],
+  "note": "Excluded follow-ups (rescue mission, Bukele threats) and commentary."
+ },
+ "U648703": {
+  "S": [
+   "Q02072"
+  ],
+  "A": [],
+  "note": "Exact headline match."
+ },
+ "U648567": {
+  "S": [
+   "Q01944"
+  ],
+  "A": [],
+  "note": "Bel-Air drone strikes killing gunmen, Oct 26."
+ },
+ "U648709": {
+  "S": [
+   "Q01902",
+   "Q01948",
+   "Q01949"
+  ],
+  "A": [],
+  "note": "Remains reported as possibly the four Salvadorans; later denial pieces excluded."
+ },
+ "U648725": {
+  "S": [],
+  "A": [],
+  "note": ""
+ },
+ "U648578": {
+  "S": [
+   "Q01970"
+  ],
+  "A": [],
+  "note": "Same headline as reference but dated Nov 1; Oct 31 'gangs return' left out."
+ }
+}

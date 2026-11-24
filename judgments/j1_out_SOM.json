@@ -1,0 +1,79 @@
+{
+ "U645858": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U645862": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U649123": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U649222": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U649126": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U649184": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U649188": {
+  "S": [
+   "R03086",
+   "R03092",
+   "R03131",
+   "R03136",
+   "R03090",
+   "R03093",
+   "R03135",
+   "R03137",
+   "R03134",
+   "R03133",
+   "R03117",
+   "R03121",
+   "R03110",
+   "R03108",
+   "R03118",
+   "R03124",
+   "R03112",
+   "R03109",
+   "R03111",
+   "R03120",
+   "R03105",
+   "R03119",
+   "R03198",
+   "R03128",
+   "R03197",
+   "R03206"
+  ],
+  "A": [],
+  "note": "Excluded the 20-soldiers ambush reports (Oct 28) as possibly a separate ambush; included battle/claim reports"
+ },
+ "U649198": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U649264": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ },
+ "U649271": {
+  "S": [],
+  "A": [],
+  "note": "no candidate matches place/date"
+ }
+}

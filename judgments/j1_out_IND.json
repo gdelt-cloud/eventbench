@@ -1,0 +1,119 @@
+{
+ "U648660": {
+  "S": [
+   "R03277",
+   "R03278",
+   "R00769",
+   "R03318"
+  ],
+  "A": [],
+  "note": "BSF killing of two Pakistani intruders near border; Kasur-side reports vs Tarn Taran village; Ferozepur summons item excluded"
+ },
+ "U647301": {
+  "S": [
+   "R03320",
+   "R03322",
+   "R03321",
+   "R03319",
+   "R03323",
+   "R03327",
+   "R03328",
+   "R03329",
+   "R03325",
+   "R03336",
+   "R03332",
+   "R03331",
+   "R03527",
+   "R03526",
+   "R03523",
+   "R03279",
+   "R03525"
+  ],
+  "A": [],
+  "note": "Jalandhar-labelled Mad Sandhu shooting records included as same incident despite place label"
+ },
+ "U648636": {
+  "S": [
+   "R03369",
+   "R03399",
+   "R03372",
+   "R03401"
+  ],
+  "A": [
+   "R03431",
+   "R03400",
+   "R03430",
+   "R03370"
+  ],
+  "note": "Beheaded Naga man assumed to be Tapon victim; Kangpokpi roundups as A"
+ },
+ "U648481": {
+  "S": [
+   "R03435"
+  ],
+  "A": [
+   "R03431",
+   "R03430"
+  ],
+  "note": "Five-killed Kamjong/Ukhrul report matched by headline; KNA-B gunfight record undated so excluded"
+ },
+ "U647298": {
+  "S": [],
+  "A": [
+   "R03431",
+   "R03400",
+   "R03430",
+   "R03370"
+  ],
+  "note": "IT Road Kangpokpi roundups as A; no village-specific record"
+ },
+ "U648649": {
+  "S": [],
+  "A": [],
+  "note": "no Molnoi/Phaikoh record"
+ },
+ "U647328": {
+  "S": [
+   "R03440",
+   "R03470",
+   "R03599",
+   "R03472",
+   "R03606",
+   "R03602"
+  ],
+  "A": [
+   "R03604"
+  ],
+  "note": "Thoubal clash; 'four killed' roundup likely includes it"
+ },
+ "U647327": {
+  "S": [
+   "R03441",
+   "R03605",
+   "R03600",
+   "R03598",
+   "R03344",
+   "R03347"
+  ],
+  "A": [
+   "R03342",
+   "R03604"
+  ],
+  "note": "Firewood collectors killed; separate-incidents roundups as A"
+ },
+ "U647329": {
+  "S": [
+   "R03444",
+   "R03471",
+   "R03481",
+   "R03448"
+  ],
+  "A": [],
+  "note": "Kuki man killed Kangpokpi; R03448 undetailed but same day/type"
+ },
+ "U648683": {
+  "S": [],
+  "A": [],
+  "note": "no Khemkaran Asal Road killing record"
+ }
+}

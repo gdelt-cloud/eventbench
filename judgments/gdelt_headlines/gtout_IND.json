@@ -1,0 +1,18 @@
+{
+"U648660":{"S":["G00415","G00424"],"A":[],"note":"BSF shooting two Pakistani intruders near Punjab border; headlines do not name Rajoke but match date and deaths."},
+"U647301":{"S":["G00444","G00443","G00451","G00446","G00456","G00447","G00460","G00461","G00457","G00442","G00441","G00459","G00438","G00439"],"A":[],"note":"Mad Sandhu killing; included reaction pieces naming the killing, excluded BJP chief generic law-and-order piece."},
+"U648636":{"S":[],"A":["G00468","G00472","G00465","G00483","G00476"],"note":"Single village death not named in any headline; only district/state roundups of Oct 10 clashes counted as A."},
+"U648481":{"S":["G00505","G00509"],"A":["G00506","G00502"],"note":"Five-killed Oct 10 headlines likely Ningchou but village unnamed; moderate confidence."},
+"U647298":{"S":["G00518"],"A":["G00523","G00514","G00522","G00524","G00519"],"note":"URL names Makui killings; Oct 13 Biren Singh piece left out for date."},
+"U648649":{"S":["G00541"],"A":[],"note":"Kuki woman killed in Kamjong mob attack reported Oct 16; probable match, not certain."},
+"U647328":{"S":["G00556","G00553"],"A":[],"note":"One killed in clashes between two communities Oct 19, Thoubal coded; place not in headline."},
+"U647327":{"S":["G00564","G00565"],"A":["G00563","G00567"],"note":"Three civilians killed Oct 19; four-deaths roundups as A."},
+"U647329":{"S":["G00586"],"A":[],"note":"Kuki man killed Oct 20 shutdown report; place not named."},
+"U648683":{"S":[],"A":[],"note":"No candidate mentions Khemkaran; October crime roundups do not name the place and date."},
+"SATPIND30":{"S":["G01241","G01243","G01239","G01240"],"A":[],"note":"Nov 15 Congress friendly-fire piece excluded for date; editorial excluded."},
+"SATPIND31":{"S":["G01248","G01249","G01250","G01246","G01244"],"A":[],"note":"Same two SPOs killed in Kishtwar."},
+"SATPIND32":{"S":["G01252","G01253","G01254","G01251"],"A":[],"note":"All about Gurdaspur head constable killing."},
+"SATPIND33":{"S":["G01259","G01267","G01268","G01260","G01263","G01264","G01257","G01255","G01262"],"A":["G01261"],"note":"Treated as Nov 10-11 Kulgam CRPF attack per date field; text mentions later Nov 16 encounter."},
+"SATPIND34":{"S":["G01271","G01272","G01282","G01277","G01275","G01270","G01274","G01273","G01269"],"A":["G01278"],"note":"Same Kulgam CRPF attack candidates as previous."},
+"SATPIND35":{"S":["G01294","G01291","G01288","G01305","G01299","G01300","G01287","G01298","G01306","G01296","G01303","G01286","G01289","G01295"],"A":[],"note":"Lateef Bhat killing Nov 18; Nov 16 overnight op killing Dar judged a different occurrence."}
+}

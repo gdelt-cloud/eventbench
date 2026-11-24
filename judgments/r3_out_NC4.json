@@ -1,0 +1,14 @@
+{
+"WK046":{"S":["T04085","T04086"],"A":[],"note":"Seychelles-based exchange; only KuCoin records match, Seychelles news is unrelated."},
+"WK047":{"S":["T04105","T04141","T04102","T04104","T04144","T04138","T04140","T04103","T04131","T04148"],"A":[],"note":"Left out T04106 (apology standoff, unclear) and T04146 commentary."},
+"WK048":{"S":["T04198","T04151","T04188","T04190","T04153"],"A":[],"note":"Dail vote 79-71 on UN triple lock; scheduling and debate-time items excluded."},
+"WK049":{"S":["T04231","T04235","T04238","T04242","T04236","T04243","T04248","T04219","T04211","T04245","T04214"],"A":[],"note":"Excluded pure reactions (EU, Egypt, Greece, Turkey welcomes) and entry-into-force items."},
+"WK050":{"S":["T04255","T04276","T04284"],"A":[],"note":"T04269 dated 11-04 and includes US ambassador; excluded as outside date window."},
+"WK051":{"S":["T04301"],"A":[],"note":"Only the Treasury/State Guatemalan groups designation record matches."},
+"WK052":{"S":["T04351","T04352"],"A":[],"note":"Russia entry bans on four French citizens."},
+"WK053":{"S":["T04434","T04412","T04438","T04444","T04413","T04408","T04421"],"A":[],"note":"T04396 dated 11-14, 3 days off; excluded."},
+"WK054":{"S":["T04448","T04462","T04459","T04486","T04457","T04458","T04447","T04446","T04491","T04456","T04449","T04481","T04488"],"A":[],"note":"Excluded 11-16/17 items and the strategic committee communique."},
+"WK055":{"S":["T04528","T04496","T04494","T04538","T04510","T04511","T04513","T04512","T04495"],"A":["T04499"],"note":"T04499 combines DRC totals with Kenya discharge; treated as roundup."},
+"WK056":{"S":["T04548"],"A":[],"note":"Only 11-15 dengue record near 500; 11-14 eight-death bulletins are the prior day."},
+"WK057":{"S":["T04590","T04591"],"A":[],"note":"Four more measles deaths, toll nearly 1,300, dated 11-12."}
+}
