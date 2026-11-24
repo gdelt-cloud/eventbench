@@ -49,11 +49,26 @@ The question is the one a monitoring customer asks, and it never names the incid
 | AI web search A and B (well-known AI web search APIs) | Conflict: one natural-language question per country-week (*"people killed in attacks, clashes or violence in {country}, {week}"*). Non-conflict: one question per item naming the topic, country and approximate date, but not the incident | 10 results, in each service's news or date-window mode |
 | AI web search C | The same questions as short keyword queries (*"{country} attack killed"*, *"{country} arrest court trial"*), the style its documentation recommends, in its news mode with the date range. Its run with the long question is kept as a disclosed variant: that run returned mostly off-topic pages | 20 results |
 | Web search + LLM | Each results page above, handed to an LLM that returns de-duplicated records (see below) | Whatever the search returned |
+| News API A\* (a news-database API with article clusters) | The same questions through its own filters: the country, the date window and the keyword form, two calls (article clusters, and article search). Asked inside its 30-day window only; see below | 50 clusters and 100 articles, one call each |
 | Any service you add | The same request through an adapter ([adapters/README.md](adapters/README.md)) | You set `--max-results` |
 
 Depth differs on purpose: a database lists everything that matches, and a search engine returns a ranked page. A run can page the web services further by issuing more queries; the runner records every request and its cost.
 
 **GDELT Cloud's two figures.** The first review counts what the place-and-week calls returned (`cloud_filters`). Reviewers then took a second look at the candidates the same calls returned, and rechecked each incident that only web search had found: it was looked up through the API's search and counts only when a monitoring call (the country in any role, all categories) also returns the record. The headline figure (`cloud_monitor`) includes both; both are published.
+
+**A second look for web search.** Web reviewers saw each result's title, date and opening excerpt, never the article. The equivalent of GDELT Cloud's second look is to re-read the full articles behind the results the same question already returned, with no new searches. It was run on a seeded sample of 40 conflict incidents the best web search missed (`results/web_second_look.md`): it adds an estimated 2–4 points to web search A and B and none to C. These estimates are published beside, not inside, the scored tables.
+
+### News API A, asked inside its 30-day window
+
+News API A is a news database: it stores articles, clusters them into events, and takes structured filters rather than a sentence. It was asked the published questions (`suite/questions_2026_11.csv`) through `bench.py web` with two adapters, one call each:
+- **Article clusters:** events whose location is the question's country and whose event date falls in the question's window, matching any of the question's keywords (`attack`, `killed` for a conflict week; the topic words otherwise), ranked by relevance, up to 50.
+- **Article search:** de-duplicated articles about the country (as a concept, because its location filter matches datelines only), published from the window start to a week after its end, with the same keywords, ranked by relevance, up to 100. Each article records when the service stored it, which gives the timing figures.
+
+The plan we ran on searches only the last 30 days, so the arm answered the 311 questions whose window started on or after 25 October (438 occurrences: 213 conflict, 225 non-conflict; clusters on 296 questions, articles on all 311). Its records were judged blind like every other source, in packets that show each question's records once (second reviewer on 18 occurrences: κ = 0.92).
+
+**Projection to the full suite.** The window holds a different mix of reference lists from the full suite (more Wikipedia items, only the last week of October from UCDP, no Indepaz), so the in-window figure is reweighted by list: recall within each list times that list's share of the full suite, with Indepaz taking the UCDP rate. Applied to the services measured on every question, this lands within 0.4–3.3 points of their real conflict figure, always below it, and 0.7–3.6 points of their non-conflict figure. The published projection adds the average of those errors and widens the 95% interval by their spread. Every figure that rests on it carries an asterisk.
+
+**Not measured for this arm:** questions older than 30 days (searching them costs 4–5 times as much per call), precision, and timing for clusters, which carry no creation time.
 
 ### What we searched in the GDELT Project
 

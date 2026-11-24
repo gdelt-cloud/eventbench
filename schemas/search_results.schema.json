@@ -4,23 +4,106 @@
   "title": "Search results",
   "description": "What an adapter returns: a list of results, or an object carrying the list plus the real cost and status.",
   "oneOf": [
-    {"type": "array", "items": {"$ref": "#/$defs/result"}},
-    {"type": "object", "required": ["results"], "properties": {
-      "results": {"type": "array", "items": {"$ref": "#/$defs/result"}},
-      "usd": {"type": ["number", "null"], "description": "Actual cost of this request in US dollars, if the service reports it."},
-      "status": {"type": "integer", "description": "HTTP status, 200 on success."},
-      "error": {"type": ["string", "null"]}
-    }}
+    {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/result"
+      }
+    },
+    {
+      "type": "object",
+      "required": [
+        "results"
+      ],
+      "properties": {
+        "results": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/result"
+          }
+        },
+        "usd": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "Actual cost of this request in US dollars, if the service reports it."
+        },
+        "status": {
+          "type": "integer",
+          "description": "HTTP status, 200 on success."
+        },
+        "error": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "units": {
+          "description": "Optional. The cost in the service's own billing units (tokens, credits), e.g. {\"tokens\": 5}."
+        },
+        "total": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Optional. How many records matched in all, when the service says (a database lists more than one call returns)."
+        }
+      }
+    }
   ],
   "$defs": {
     "result": {
       "type": "object",
-      "required": ["url"],
+      "required": [
+        "url"
+      ],
       "properties": {
-        "url": {"type": "string"},
-        "title": {"type": ["string", "null"]},
-        "published": {"type": ["string", "null"], "description": "ISO date or timestamp, or an RFC 2822 date. Unknown is null."},
-        "excerpt": {"type": ["string", "null"], "description": "The text the service returned for the result; the runner keeps 700 characters."}
+        "url": {
+          "type": "string",
+          "description": "A web URL, or any stable identifier for a record with none (e.g. urn:event:<id>). Non-web identifiers are never shown to reviewers."
+        },
+        "title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "published": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ISO date or timestamp, or an RFC 2822 date. Unknown is null."
+        },
+        "excerpt": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The text the service returned for the result; the runner keeps 700 characters."
+        },
+        "occurred": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Optional. The date the service gives the occurrence itself (clusters and event records), ISO."
+        },
+        "first_seen": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Optional. When the service first stored the record (ingest time), ISO timestamp. Used for timeliness."
+        },
+        "place": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Optional. The place the service assigns."
+        }
       }
     }
   }

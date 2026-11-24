@@ -65,8 +65,13 @@ No question named the incident. GDELT Cloud got the filters its customers use: c
 | Web search B + LLM | 23% (19–26) | 66% (61–71) |
 | Web search C + LLM | 8% (6–11) | 39% (34–45) |
 | GDELT Cloud, the GDELT Project or any web search | 60% (364) | 98% (345) |
+| News API A\*, article search and clusters (2 calls) | 28%\* (21–36) | 67%\* (59–74) |
+| News API A\*, article search, top 100 | 21%\* (15–28) | 48%\* (40–55) |
+| News API A\*, article clusters, top 50 | 18%\* (11–24) | 46%\* (38–54) |
 
 95% Wilson intervals are in brackets.
+
+\* News API A is a news-database API that stores articles and clusters them into events. The plan we ran on searches only the last 30 days, so it answered the 311 questions inside that window (438 occurrences: 213 conflict, 225 non-conflict), and its full-suite figure is projected by reference list. Applied to the services measured on every question, the same projection lands within 0.4–3.3 points of their real conflict figure (always below it) and 0.7–3.6 points of their non-conflict figure; we correct by the average of those errors and widen the interval by their spread. Inside the window it found 38% of conflict incidents (both calls), against GDELT Cloud's 64% and web search B's 25% on the same incidents. Details: `results/news_api_a_window.csv` and [METHOD.md](METHOD.md#news-api-a-asked-inside-its-30-day-window).
 
 - **Conflict:** GDELT Cloud found 79 incidents that neither the GDELT Project nor any web search returned. Web search alone found 39, mostly from specialist monitors outside the news stream. 240 of 604 were found by no service.
 - **Non-conflict:** the 25 official, scheduled items work like lookups: web search A and B found all 25, C 24 and GDELT Cloud 23. On Wikipedia's 326 news developments, GDELT Cloud found 309, web search B 228, A 182 and C 123.
@@ -167,11 +172,11 @@ On the same 98 articles, 9% of the GDELT Project's rows were fully right, agains
 | Criticism | Answer |
 |---|---|
 | "UCDP is the wrong denominator." | It is independent of every service, public, and counts single deaths, so it is hard for everyone. We add Indepaz, SATP and five non-conflict lists, and report each panel separately. |
-| "Web search was not given a fair chance." | Each web service was asked in the query style its own documentation recommends, with its own news or date-window mode. Depth differs on purpose: a database lists, a search engine ranks. At an equal number of calls GDELT Cloud still returns more: 31% of conflict incidents from one call, against 25% for the best web search. The next release adds a deeper-search configuration (50 results, several queries) and a lookup mode where web search is strongest. |
+| "Web search was not given a fair chance." | Each web service was asked in the query style its own documentation recommends, with its own news or date-window mode. Depth differs on purpose: a database lists, a search engine ranks. At an equal number of calls GDELT Cloud still returns more: 31% of conflict incidents from one call, against 25% for the best web search. All three web searches together reached 33% (37% with an LLM step). A sample second look at the full articles behind web search's own results, the equivalent of GDELT Cloud's, adds about 2 points to the best web search (24.5% to 26%, at most 34%), and recall by depth extrapolates to 30–32% at twice the results and 37–42% at five times (`results/web_second_look.md`, `results/web_depth.csv`). The next release measures a deeper-search configuration directly, and a lookup mode where web search is strongest. |
 | "Web search + LLM is as good as GDELT Cloud." | Its 97% is relevance: the LLM keeps records of the kind asked. It does not check fields against the source, it adds no recall (A 17% against A's 18%, B 23% against 25%, C 8% against 12%), and its records carry fewer fields. It adds about 0.06¢ and 7 seconds a question. |
 | "An AI judged it." | Reviewers were Claude models, a different model family from the one GDELT Cloud uses for coding. Records were shuffled and stripped of source names. A second reviewer re-judged 40 incidents (κ = 0.83). Every verdict is published in `judgments/`. |
 | "You picked categories that suit you." | Conflict and non-conflict lists were sampled at random or taken in full, across every category we code, including those where Cloud loses. |
-| "Searching after the fact flatters web search." | It does. Web indexes gain follow-up coverage with hindsight, so web figures are, if anything, high. Timeliness is not measured here. |
+| "Searching after the fact flatters web search." | It does. Web indexes gain follow-up coverage with hindsight, so web figures are, if anything, high. Timeliness is not measured directly; `results/timeliness_estimate.md` estimates it from the publication dates of each service's matches. |
 | "Why are the web services anonymous?" | Their terms restrict publishing named performance comparisons. The scores describe how this kind of tool behaves on monitoring questions. To compare a service you use, plug it in: any web search service works through a small adapter ([AGENTS.md](AGENTS.md)). |
 | "Wikipedia Current Events favours English-language prominence." | Yes. We disclose it and stratify by Wikipedia's own categories. |
 | "GDELT Cloud's figures depend on how you queried it." | They do. Place filters alone returned 44% of conflict incidents and 93% of non-conflict items. A second look at the candidates the same calls returned, and a recheck of the incidents only web search found, raised that to 52% and 95%. Both are published (`cloud_filters` and `cloud_monitor` in `results/occurrences.csv`). |
@@ -255,6 +260,8 @@ A call does different work on each side. One GDELT Cloud call returns up to 100 
 | AI web search C | 0.80¢ | 2.4 s |
 | LLM step (web search + LLM) | 0.06¢ | 6.9 s more |
 | GDELT Cloud | 3.3¢ (6.7¢ at overage) | 2.4 s |
+| News API A\*, article search (up to 100 articles) | 1.5¢ (0.6–1.8¢ by plan; 5× for dates over 30 days old) | 1.4 s |
+| News API A\*, article clusters (up to 50) | 7.5¢ (3–9¢ by plan; 4× for dates over 30 days old) | 1.5 s |
 
 **Conflict recall at an equal number of calls** (604 incidents):
 

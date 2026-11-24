@@ -4,17 +4,77 @@
   "title": "Search request",
   "description": "One benchmark question, as the runner sends it to an adapter. No field ever names the incident.",
   "type": "object",
-  "required": ["id", "mode", "query", "keyword_query", "intent", "country", "start_date", "end_date", "max_results"],
+  "required": [
+    "id",
+    "mode",
+    "query",
+    "keyword_query",
+    "intent",
+    "country",
+    "start_date",
+    "end_date",
+    "max_results"
+  ],
   "properties": {
-    "id": {"type": "string", "description": "Stable question id, e.g. UKR-2026-10-19 (conflict country-week) or WK037 (one non-conflict item)."},
-    "mode": {"enum": ["monitor", "topic", "list", "lookup"], "description": "monitor: what happened here this week; topic: what {topic} happened around a date; list: every {category} in a country-week; lookup: a named incident (planned)."},
-    "query": {"type": "string", "description": "The natural-language question a person would type."},
-    "keyword_query": {"type": "string", "description": "The same question as a short keyword query, for services whose guidance prefers keywords."},
-    "intent": {"type": "string", "description": "One sentence on what a good answer contains. Useful as a goal field or a prompt."},
-    "country": {"type": "string"},
-    "start_date": {"type": "string", "format": "date"},
-    "end_date": {"type": "string", "format": "date"},
-    "max_results": {"type": "integer", "minimum": 1, "description": "Depth the run was configured with (--max-results)."}
+    "id": {
+      "type": "string",
+      "description": "Stable question id, e.g. UKR-2026-10-19 (conflict country-week) or WK037 (one non-conflict item)."
+    },
+    "mode": {
+      "enum": [
+        "monitor",
+        "topic",
+        "list",
+        "lookup"
+      ],
+      "description": "monitor: what happened here this week; topic: what {topic} happened around a date; list: every {category} in a country-week; lookup: a named incident (planned)."
+    },
+    "query": {
+      "type": "string",
+      "description": "The natural-language question a person would type."
+    },
+    "keyword_query": {
+      "type": "string",
+      "description": "The same question as a short keyword query, for services whose guidance prefers keywords."
+    },
+    "intent": {
+      "type": "string",
+      "description": "One sentence on what a good answer contains. Useful as a goal field or a prompt."
+    },
+    "country": {
+      "type": "string"
+    },
+    "start_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "end_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "max_results": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Depth the run was configured with (--max-results)."
+    },
+    "keywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "The keyword form without the country, for services that take the country as a filter (news databases)."
+    },
+    "family": {
+      "enum": [
+        "conflict",
+        "non-conflict"
+      ],
+      "description": "Present in the fixed question set (suite/questions_2026_11.csv)."
+    },
+    "topic": {
+      "type": "string",
+      "description": "Non-conflict questions: the topic asked about."
+    }
   },
   "additionalProperties": true
 }

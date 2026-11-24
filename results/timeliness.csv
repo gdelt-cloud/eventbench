@@ -1,0 +1,9 @@
+family,service,hits,measured,t0,t1,t3,t7
+conflict,cloud,312,0.517,0.295,0.449,0.505,0.508
+conflict,web_b,148,0.245,0.134,0.209,0.235,0.245
+conflict,web_a,110,0.182,0.106,0.149,0.167,0.179
+conflict,web_c,74,0.123,0.083,0.118,0.119,0.123
+non-conflict,cloud,332,0.946,0.726,0.926,0.946,0.946
+non-conflict,web_b,253,0.721,0.707,0.721,0.721,0.721
+non-conflict,web_a,207,0.590,0.544,0.581,0.587,0.587
+non-conflict,web_c,147,0.419,0.228,0.325,0.376,0.419

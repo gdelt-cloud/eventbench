@@ -59,7 +59,13 @@ def http_json(url, body=None, headers=None, timeout=90):
         return 0, {'error': str(e)}
 
 def wjson(p: Path, o):
-    p.parent.mkdir(parents=True, exist_ok=True); p.write_text(json.dumps(o, ensure_ascii=False, indent=1))
+    """Write atomically: a failed write never leaves a partial file that a rerun would then skip."""
+    p.parent.mkdir(parents=True, exist_ok=True); tmp = p.with_name(p.name + '.tmp')
+    tmp.write_text(json.dumps(o, ensure_ascii=False, indent=1), encoding='utf-8'); tmp.replace(p)
+
+def clean(s) -> str:
+    """Text as UTF-8 can hold it: a service's text can carry half of an emoji pair (a lone surrogate)."""
+    return str(s).encode('utf-8', 'replace').decode('utf-8')
 
 def rjson(p: Path):
     return json.loads(p.read_text())
@@ -282,6 +288,11 @@ def keyword_query(country: str, family: str, subject: str | None = None) -> str:
     kw = TOPIC_KEYWORDS.get(subject or '') or ' '.join(w for w in re.findall(r'[a-z]+', (subject or '').lower()) if w not in KW_STOP)[:60]
     return f'{country} {kw}'.strip()
 
+def keywords_of(keyword_query: str, country: str) -> list[str]:
+    """The keyword form without the country, as a list: for news databases that take the country as a filter."""
+    rest = keyword_query[len(country):] if keyword_query.lower().startswith(country.lower()) else keyword_query
+    return [w for w in rest.split() if w]
+
 def week_label(mon: dt.date, sun: dt.date) -> str:
     return f'{mon:%B} {mon.day}-{sun.day} {mon.year}' if mon.month == sun.month else f'{mon:%B} {mon.day}-{sun:%B} {sun.day} {sun.year}'
 
@@ -303,7 +314,27 @@ def web_questions(refs):
                      'query': f"{subject} in or affecting {x['country']} around {d0:%B} {d0.day} {d0.year}",
                      'keyword_query': keyword_query(x['country'], 'non-conflict', subject),
                      'intent': f"What {subject} were reported in or affecting {x['country']} around {d0}? Give distinct developments with dated sources."})
+    for j in jobs: j['keywords'] = keywords_of(j['keyword_query'], j['country'])
     return jobs
+
+def read_questions(path: Path):
+    """A fixed question set (CSV or JSON list) in the request shape, e.g. suite/questions_2026_11.csv: the exact
+    questions the published round asked. `covers` lists the occurrence uids each question answers (; separated)."""
+    rows = rjson(path) if path.suffix.lower() == '.json' else list(csv.DictReader(path.open(newline='', encoding='utf-8')))
+    out = []
+    for r in rows:
+        q = {k: v for k, v in r.items() if v not in (None, '')}
+        for k in ('covers', 'keywords'):
+            if isinstance(q.get(k), str): q[k] = [s for s in re.split(r'[;|]', q[k]) if s]
+        q.setdefault('keywords', keywords_of(q['keyword_query'], q['country']))
+        out.append(q)
+    return out
+
+def pick_ids(spec: str | None):
+    if not spec: return None
+    p = Path(spec)
+    if p.is_file(): return set(rjson(p)) if p.suffix == '.json' else {l.strip() for l in p.read_text().splitlines() if l.strip()}
+    return set(spec.split(','))
 
 def load_adapter(spec: str):
     """Return (search_fn, declared_usd_per_call). spec is a .py path, an importable module, or a shell command."""
@@ -337,13 +368,19 @@ def normalize_results(o):
     """An adapter returns a list of results, or a dict with "results" and optional "usd", "status", "error"."""
     meta = {}
     if isinstance(o, dict):
-        meta = {k: o[k] for k in ('usd', 'status', 'error') if k in o}; o = o.get('results') or []
+        meta = {k: o[k] for k in ('usd', 'status', 'error', 'units', 'total') if k in o}; o = o.get('results') or []
     if not isinstance(o, list): raise AdapterError('expected a list of results or {"results": [...]}')
     out = []
     for r in o:
         if isinstance(r, dict) and r.get('url'):
-            out.append({'url': str(r['url']), 'title': str(r.get('title') or '')[:300], 'published': as_date(r.get('published')),
-                        'excerpt': str(r.get('excerpt') or '')[:700]})
+            x = {'url': clean(r['url']), 'title': clean(r.get('title') or '')[:300], 'published': as_date(r.get('published')),
+                 'excerpt': clean(r.get('excerpt') or '')[:700]}
+            # Optional, for news databases: the date the service gives the occurrence itself, when it first had the
+            # item (an ingest or first-seen timestamp, kept as given), and the place it assigns.
+            if r.get('occurred'): x['occurred'] = as_date(r['occurred'])
+            if r.get('first_seen'): x['first_seen'] = str(r['first_seen'])[:40]
+            if r.get('place'): x['place'] = clean(r['place'])[:200]
+            out.append(x)
     return out, meta
 
 def call_adapter(search, req):
@@ -362,7 +399,10 @@ def cmd_web(a):
     search, declared = load_adapter(a.adapter)
     usd = a.usd_per_call if a.usd_per_call is not None else declared
     if usd is None: sys.exit('--usd-per-call is required: the adapter does not declare USD_PER_CALL')
-    jobs = web_questions(rjson(RUN / 'refs.json'))
+    jobs = read_questions(Path(a.questions)) if a.questions else web_questions(rjson(RUN / 'refs.json'))
+    ids = pick_ids(a.ids)
+    if ids is not None: jobs = [j for j in jobs if j['id'] in ids]
+    if a.start_after: jobs = [j for j in jobs if j['start_date'] >= a.start_after]
     if a.only: jobs = [j for j in jobs if j['id'].startswith(a.only)]
     if a.limit: jobs = jobs[:a.limit]
     led = Ledger('web_' + a.label, a.max_usd); ok = bad = 0
@@ -371,11 +411,13 @@ def cmd_web(a):
         if f.exists(): continue
         rid = f"{j['id']}-{a.label}"
         if not led.reserve(rid, usd): print(f'spend cap ${a.max_usd:.2f} reached'); break
-        req = dict(j, max_results=a.max_results)
+        covers = j.get('covers')
+        req = dict({k: v for k, v in j.items() if k != 'covers'}, max_results=a.max_results)
         res, meta, st, err, secs = call_adapter(search, req)
         cost = meta['usd'] if isinstance(meta.get('usd'), (int, float)) else (usd if st == 200 else 0)
         led.settle(rid, cost, str(st)); ok += st == 200; bad += st != 200
         wjson(f, {'id': j['id'], 'label': a.label, 'status': st, 'error': err, 'request': req, 'results': res, 'usd': cost,
+                  'units': meta.get('units'), 'total': meta.get('total'), 'covers': covers,
                   'secs': secs, 't': time.strftime('%FT%TZ', time.gmtime())})
         print(f"{j['id']:28s} {st} {len(res):3d} results {secs:5.1f}s", flush=True)
         if a.sleep: time.sleep(a.sleep)
@@ -391,6 +433,7 @@ def cmd_check_adapter(a):
     req = {'id': 'check', 'mode': 'monitor', 'country': 'Ukraine', 'start_date': mon.isoformat(), 'end_date': sun.isoformat(),
            'query': f'people killed in attacks, clashes or violence in Ukraine {week_label(mon, sun)}', 'keyword_query': keyword_query('Ukraine', 'conflict'),
            'intent': f'Find news reports of distinct lethal violent incidents that occurred in Ukraine between {mon} and {sun}.', 'max_results': a.max_results}
+    req['keywords'] = keywords_of(req['keyword_query'], req['country'])
     res, meta, st, err, secs = call_adapter(search, req)
     problems = []
     if st != 200: problems.append(f'status {st}: {err}')
@@ -400,7 +443,9 @@ def cmd_check_adapter(a):
     if undated: problems.append(f'{undated} results have no parseable published date (ISO or RFC 2822)')
     if outside: problems.append(f'{outside} results were published outside the window (is the date filter applied?)')
     if not any(r['excerpt'] for r in res): problems.append('no excerpts; reviewers judge from title and excerpt')
-    print(json.dumps({'status': st, 'secs': secs, 'results': len(res), 'usd': meta.get('usd', usd), 'first': res[:2], 'problems': problems}, indent=1, ensure_ascii=False))
+    optional = {k: sum(1 for r in res if r.get(k)) for k in ('occurred', 'first_seen', 'place')}  # news-database fields, informational
+    print(json.dumps({'status': st, 'secs': secs, 'results': len(res), 'usd': meta.get('usd', usd), 'units': meta.get('units'),
+                      'optional_fields': optional, 'first': res[:2], 'problems': problems}, indent=1, ensure_ascii=False))
     sys.exit(1 if st != 200 or not res else 0)
 
 # ---------------------------------------------------------------- web search + LLM
@@ -526,9 +571,23 @@ def cmd_packets(a):
     ext = {p.stem: rjson(p) for p in (RUN / 'extract').glob('*.json')} if (RUN / 'extract').exists() else {}
     lists = {p.stem: rjson(p) for p in (RUN / 'eventlists').glob('*.json')} if (RUN / 'eventlists').exists() else {}
     rng, key, n, packets = random.Random(7), {}, 0, {}
-    def rid(src, ref_id, text):
+    def rid(src, ref_id, text, **extra):
         nonlocal n
-        n += 1; k = f'R{n:05d}'; key[k] = {'source': src, 'ref': ref_id}; return f'{k}: {text}'
+        n += 1; k = f'R{n:05d}'; key[k] = {'source': src, 'ref': ref_id, **extra}; return f'{k}: {text}'
+    def web_lines(stem, o):
+        label = o.get('label') or o.get('provider')
+        # One line per record; a non-web identifier (a cluster id, say) is kept in the key, never shown to reviewers.
+        return [rid('web_' + label, r['url'], ' '.join((f"[{(r.get('occurred') or r.get('published') or '')[:10]}] {r.get('title')}. {(r.get('excerpt') or '')[:a.excerpt]}"
+                    + (f" Place: {r['place']}." if r.get('place') else '') + (f" URL: {r['url']}" if r['url'].startswith('http') else '')).split()),
+                    question=stem.rsplit('-', 1)[0], rank=i + 1)
+                for i, r in enumerate(o.get('results') or [])]
+    def ext_lines(stem, o):
+        label = o.get('label') or o.get('provider')
+        return [rid('extract_' + label, f'{stem}#{i}', f"[{r.get('date')}] {r.get('what') or r.get('description')} Place: {r.get('place') or r.get('locality')}. Actors: {r.get('actors')}. Deaths: {r.get('deaths')}.")
+                for i, r in enumerate(o.get('records') or o.get('incidents') or [])]
+    qof, shared_occ = {}, {}  # occurrence uid -> the fixed question that covers it (bench.py web --questions)
+    for stem, o in web.items():
+        for u in o.get('covers') or []: qof.setdefault(u, stem.rsplit('-', 1)[0])
     for x in refs:
         lines = []
         for c in cc.get(x['uid'], {}).get('candidates', []):
@@ -540,19 +599,30 @@ def cmd_packets(a):
                 lines.append(rid('list_' + label, str(r.get('id')), f"[{r.get('date')}] {r.get('description') or ''} Place: {r.get('locality') or ''} {r.get('admin1') or ''} {r.get('country') or ''}. Actors: {r.get('actors') or '?'}. Deaths: {r.get('deaths') or '?'}. Category: {r.get('category') or '?'}."))
         wk = dt.date.fromisocalendar(*dt.date.fromisoformat(x['date']).isocalendar()[:2], 1).isoformat()
         qid = f"{x['iso']}-{wk}" if x['family'] == 'conflict' else x['uid']
+        if x['uid'] in qof:  # asked through a fixed question set: its records are shared in the question's block
+            rng.shuffle(lines); shared_occ.setdefault(qof[x['uid']], []).append((x, lines)); continue
         for stem, o in web.items():
-            if stem.rsplit('-', 1)[0] == qid:
-                label = o.get('label') or o.get('provider')
-                for r in o.get('results') or []:
-                    lines.append(rid('web_' + label, r['url'], f"[{(r.get('published') or '')[:10]}] {r.get('title')}. {(r.get('excerpt') or '')[:260]} URL: {r['url']}"))
+            if stem.rsplit('-', 1)[0] == qid and not o.get('covers'): lines += web_lines(stem, o)
         for stem, o in ext.items():
-            if stem.rsplit('-', 1)[0] == qid:
-                label = o.get('label') or o.get('provider')
-                for i, r in enumerate(o.get('records') or o.get('incidents') or []):
-                    lines.append(rid('extract_' + label, f'{stem}#{i}', f"[{r.get('date')}] {r.get('what') or r.get('description')} Place: {r.get('place') or r.get('locality')}. Actors: {r.get('actors')}. Deaths: {r.get('deaths')}."))
+            if stem.rsplit('-', 1)[0] == qid and not (web.get(stem) or {}).get('covers'): lines += ext_lines(stem, o)
         rng.shuffle(lines)
         packets.setdefault(x.get('iso') or 'XX', []).append(
             f"\n## OCCURRENCE {x['uid']}\nSource: {x['source']} | Date: {x['date']} | Place: {x['place']} | What: {x['what']}\nCandidates ({len(lines)}):\n" + '\n'.join(lines))
+    # One block per question: its shared records once, then each occurrence it covers (as the published packets did).
+    blocks, size, chunk = [], 0, 0
+    for q in sorted(shared_occ):
+        sl = [l for stem, o in web.items() if stem.rsplit('-', 1)[0] == q and o.get('covers') for l in web_lines(stem, o)]
+        sl += [l for stem, o in ext.items() if stem.rsplit('-', 1)[0] == q and (web.get(stem) or {}).get('covers') for l in ext_lines(stem, o)]
+        rng.shuffle(sl)
+        b = [f"\n## QUESTION {q}: shared candidate records (apply to every occurrence under this question)"] + (sl or ['(no records)'])
+        for x, own in shared_occ[q]:
+            b.append(f"\n### OCCURRENCE {x['uid']}\nSource: {x['source']} | Date: {x['date']} | Place: {x['place']} | What: {x['what']}\n"
+                     f"Occurrence-specific candidates ({len(own)}), also consider the QUESTION records above:" + ('\n' + '\n'.join(own) if own else ''))
+        b = '\n'.join(b)
+        if blocks and size + len(b) > 200_000:
+            packets[f'Q{chunk:02d}'] = blocks; chunk += 1; blocks, size = [], 0
+        blocks.append(b); size += len(b)
+    if blocks: packets[f'Q{chunk:02d}'] = blocks
     for iso, blocks in packets.items():
         (RUN / 'packets').mkdir(parents=True, exist_ok=True)
         (RUN / 'packets' / f'{iso}.md').write_text((ROOT / 'JUDGING.md').read_text() + '\n' + '\n'.join(blocks))
@@ -679,6 +749,9 @@ def main():
     p.add_argument('--usd-per-call', type=float, help='price reserved per call (defaults to the adapter\'s USD_PER_CALL)')
     p.add_argument('--max-usd', type=float, required=True); p.add_argument('--max-results', type=int, default=10)
     p.add_argument('--limit', type=int, help='only the first N questions (a capped trial)'); p.add_argument('--only', help='only question ids with this prefix')
+    p.add_argument('--questions', help='a fixed question set (CSV or JSON), e.g. suite/questions_2026_11.csv: the questions the published round asked')
+    p.add_argument('--ids', help='only these question ids: comma-separated, or a file (one per line, or a JSON list)')
+    p.add_argument('--start-after', help='only questions whose window starts on or after this date (for plans limited to recent data)')
     p.add_argument('--sleep', type=float, default=0.2)
     p = sp.add_parser('extract', help='web search + LLM: turn each results page into de-duplicated records')
     p.add_argument('--label', help='only this adapter label (default: every label)'); p.add_argument('--base-url', help='LLM endpoint base URL (or LLM_BASE_URL)')
@@ -689,7 +762,8 @@ def main():
     p = sp.add_parser('eventlist', help='match rows of any event list (CSV or JSONL) to the cases')
     p.add_argument('--file', required=True); p.add_argument('--label', required=True); p.add_argument('--km', type=float, default=100)
     p.add_argument('--days-before', type=int, default=1); p.add_argument('--days-after', type=int, default=3); p.add_argument('--cap', type=int, default=25)
-    sp.add_parser('packets'); sp.add_parser('score')
+    p = sp.add_parser('packets'); p.add_argument('--excerpt', type=int, default=260, help='characters of each web result shown to reviewers')
+    sp.add_parser('score')
     p = sp.add_parser('cells'); p.add_argument('--countries', default='Nigeria,Brazil,India,France,Indonesia')
     p.add_argument('--categories', default=','.join(CELL_LABEL)); p.add_argument('--start', default='2026-11-09'); p.add_argument('--end', default='2026-11-15')
     p.add_argument('--adapter', help='search adapter for the one web search per cell'); p.add_argument('--usd-per-call', type=float)

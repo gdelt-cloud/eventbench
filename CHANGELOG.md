@@ -22,3 +22,5 @@
 - `schemas/` (search request, search results, extracted records, event-list row), `adapters/` (Python and shell templates, an offline mock), `templates/event_list.csv`, `AGENTS.md`, and an offline end-to-end test in `tests/`.
 - Every question now also carries a short keyword form (`keyword_query`); weeks that cross a month boundary are written in full ("October 26-November 1").
 - Web search C re-run in the keyword style its documentation recommends; the long-question run is kept as a disclosed variant.
+- `suite/questions_2026_11.csv` holds the 582 questions the round asked, each with the occurrences it covers. `bench.py web --questions` asks exactly those; `--ids` and `--start-after` run a subset.
+- News databases (article search or article clusters) plug in through `adapters/template_news_api.py`. Results may carry `occurred`, `place`, `first_seen` and `units`; packets built from a question file show each question's records once, above the occurrences it covers.

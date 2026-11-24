@@ -1,0 +1,4 @@
+service,second_look_checked,second_look_hits,lift_pp,lift_lo_pp,lift_hi_pp,recall_before,recall_after,recall_after_lo,recall_after_hi,at1,at3,at5,at10,at20,x2_lo,x2_hi,x5_lo,x5_hi,usd_as_run,usd_x2,usd_daily,questions
+web_a,38,2,4.3,1.2,14.1,0.182,0.225,0.194,0.323,0.097,0.151,0.169,0.182,,0.20,0.21,0.21,0.25,1.17,2.34,8.19,234
+web_b,40,1,1.9,0.3,9.7,0.245,0.264,0.248,0.342,0.075,0.151,0.194,0.245,,0.30,0.32,0.37,0.42,1.64,3.28,11.47,234
+web_c,38,0,0,0,8.1,0.123,0.123,0.123,0.203,0.087,0.110,0.115,0.117,0.123,0.13,0.13,0.13,0.14,1.87,3.74,13.10,234

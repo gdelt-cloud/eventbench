@@ -91,6 +91,48 @@ class RunnerTest(unittest.TestCase):
         self.assertEqual((rows['T001']['mylist'], rows['T001']['mock']), ('1', '0'))
         self.assertEqual((rows['T002']['mylist'], rows['T002']['mock']), ('0', '1'))
 
+    def test_news_database_through_fixed_questions(self):
+        """A news-database adapter (clusters without web URLs, articles with ingest times) asked a fixed question set:
+        optional fields survive, each question's records are shared once in the packets, ids and labels stay hidden."""
+        qfile = self.run / 'questions.csv'
+        with qfile.open('w', newline='') as fo:
+            w = csv.writer(fo); w.writerow(['id', 'mode', 'family', 'country', 'start_date', 'end_date', 'query', 'keyword_query', 'intent', 'covers'])
+            for qid, s, e, cov in (('Q-MLI-w41', '2026-10-05', '2026-10-11', 'T001'), ('Q-MLI-w42', '2026-10-12', '2026-10-18', 'T002'), ('Q-OLD', '2026-09-01', '2026-09-07', 'T999')):
+                w.writerow([qid, 'monitor', 'conflict', 'Mali', s, e, f'people killed in Mali {s}', 'Mali attack killed', 'Find lethal incidents.', cov])
+        ad = ROOT / 'tests' / '_news_adapter.py'
+        ad.write_text(
+            'USD_PER_CALL = 0.01\n'
+            'def search(r):\n'
+            '    assert r["keywords"] == ["attack", "killed"] and "covers" not in r\n'
+            '    return {"status": 200, "usd": 0.0, "units": {"tokens": 1}, "total": 2, "results": [\n'
+            '        {"url": "urn:event:c-" + r["id"], "title": "Clash near Example town", "published": r["start_date"], "occurred": r["start_date"],\n'
+            '         "place": "Example town, Mali", "excerpt": "Three killed."},\n'
+            '        {"url": "https://news.example/" + r["id"], "title": "Attack report", "published": r["start_date"] + "T09:00:00Z",\n'
+            '         "first_seen": r["start_date"] + "T09:12:00Z", "excerpt": "Gunmen attacked."}]}\n')
+        try:
+            p = bench(self.run, 'web', '--questions', str(qfile), '--start-after', '2026-10-01', '--adapter', str(ad), '--label', 'mynews', '--max-usd', '0.05')
+        finally:
+            ad.unlink()
+        self.assertEqual(p.returncode, 0, p.stderr)
+        files = self.web_files('mynews'); self.assertEqual([f.name for f in files], ['Q-MLI-w41-mynews.json', 'Q-MLI-w42-mynews.json'])
+        o = json.loads(files[0].read_text())
+        self.assertEqual(o['covers'], ['T001']); self.assertEqual(o['units'], {'tokens': 1}); self.assertEqual(o['total'], 2)
+        self.assertEqual((o['results'][0]['occurred'], o['results'][0]['place']), ('2026-10-05', 'Example town, Mali'))
+        self.assertEqual(o['results'][1]['first_seen'], '2026-10-05T09:12:00Z')
+        self.assertEqual(bench(self.run, 'packets').returncode, 0)
+        packet = (self.run / 'packets' / 'Q00.md').read_text()
+        self.assertEqual(packet.count('## QUESTION Q-MLI-w41'), 1); self.assertIn('### OCCURRENCE T001', packet)
+        for hidden in ('mynews', 'urn:event'): self.assertNotIn(hidden, packet)
+        key = json.loads((self.run / 'packet_key.json').read_text())
+        cl = next(k for k, v in key.items() if v['ref'] == 'urn:event:c-Q-MLI-w41')
+        ar = next(k for k, v in key.items() if v['ref'] == 'https://news.example/Q-MLI-w42')
+        self.assertEqual((key[cl]['question'], key[cl]['rank']), ('Q-MLI-w41', 1))
+        (self.run / 'judgments').mkdir()
+        (self.run / 'judgments' / 'Q00.json').write_text(json.dumps({'T001': {'S': [cl], 'A': []}, 'T002': {'S': [ar], 'A': []}}))
+        self.assertEqual(bench(self.run, 'score').returncode, 0)
+        rows = {r['uid']: r for r in csv.DictReader((self.run / 'occurrences.csv').open())}
+        self.assertEqual((rows['T001']['mynews'], rows['T002']['mynews']), ('1', '1'))
+
     def test_extract_through_any_chat_endpoint(self):
         self.assertEqual(bench(self.run, 'web', '--adapter', 'adapters/mock.py', '--label', 'mock', '--max-usd', '0').returncode, 0)
         seen = []

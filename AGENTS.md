@@ -65,6 +65,11 @@ python bench.py web --adapter adapters/<name>.py --label <name> --max-usd 5
 - Output: one file per question, `run/web/<question_id>-<label>.json`, holding the request, results, status,
   cost and latency. A rerun skips files that exist.
 - A full run of the 2026.11 suite is about 300 questions per service in rounds 1–3, and 630 with suite v2.
+- To ask exactly the published 2026.11 questions (582: 231 conflict country-weeks covering 604 incidents and 351
+  non-conflict items), add `--questions suite/questions_2026_11.csv`. Pilot on a few with `--ids a,b,c` (or a file),
+  and keep to the dates your plan can search with `--start-after <date>`.
+- **News databases** (article search or article clusters) map `country`, the dates and `keywords` onto their own
+  filters: see `adapters/template_news_api.py` and the news-database section of `adapters/README.md`.
 
 ## 5. Optional: web search + LLM
 

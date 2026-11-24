@@ -35,6 +35,25 @@ either a list, or a dict that also reports the real cost and status.
 
 [mock.py](mock.py) works both ways and costs nothing. Use it for a dry run.
 
+## News databases (article search, or clusters of articles)
+
+A news database is not a search engine: it takes structured filters and lists everything that matches. Start from
+[template_news_api.py](template_news_api.py).
+
+- **Ask the published questions.** `--questions suite/questions_2026_11.csv` sends the exact 582 questions the
+  2026.11 round asked, each listing the occurrences it covers (`covers`), so your service is judged on what every
+  other service was asked. `--ids` picks a subset for a pilot; `--start-after <date>` keeps only questions your plan
+  can search (some plans reach only recent data; say so beside the results).
+- **Use its filters.** Each request carries `country`, `start_date`, `end_date` and `keywords` (the keyword form
+  without the country). Map them onto the service's country, location or concept filter, its date filter and its
+  keyword filter.
+- **Take a full call.** Set `--max-results` to what one call returns (often 50 or 100). Paging further is allowed;
+  every call is counted and priced.
+- **Optional fields.** `occurred` (the date the service gives the occurrence itself, for clusters), `place`,
+  `first_seen` (when the service first stored the record, for timeliness), and `units` (cost in the service's own
+  billing units). A record with no web URL can carry any stable id such as `urn:event:<id>`; reviewers never see it.
+- Packets built from `--questions` runs share each question's records once, above the occurrences it covers.
+
 ## Fair-comparison rules
 
 - Never add the incident's name, place or the reference list to the request. Use the fields as given.
