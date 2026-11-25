@@ -1,1674 +1,3698 @@
 {
- "R0001": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0002": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0003": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0004": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0005": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0006": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0007": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0008": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0009": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0010": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0011": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0012": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0013": {
-  "on_topic": "yes",
-  "incident": "Caquetá · 9 Aug · Segunda Marquetalia finance chief killed"
- },
- "R0014": {
-  "on_topic": "yes",
-  "incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
- },
- "R0015": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0016": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0017": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0018": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0019": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0020": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0021": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0022": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0023": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0024": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0025": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0026": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0027": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0028": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0029": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0030": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0031": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0032": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0033": {
-  "on_topic": "yes",
-  "incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
- },
- "R0034": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0035": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0036": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0037": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0038": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0039": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0040": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0041": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0042": {
-  "on_topic": "yes",
-  "incident": "Soledad · 4 Aug · 17-year-old mototaxi driver murdered"
- },
- "R0043": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0044": {
-  "on_topic": "yes",
-  "incident": "Barranquilla · 3 Aug · 17-year-old girl shot dead with mini Uzi"
- },
- "R0045": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0046": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0047": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0048": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0049": {
-  "on_topic": "yes",
-  "incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
- },
- "R0050": {
-  "on_topic": "yes",
-  "incident": "Fortalecillas, Neiva · 9 Aug · Brawl kills José Salazar"
- },
- "R0051": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0052": {
-  "on_topic": "yes",
-  "incident": "Abejorral, Antioquia · 7 Aug · Three men killed in massacre"
- },
- "R0053": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0054": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0055": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0056": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0057": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0058": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0059": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0060": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0061": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0062": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0063": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0064": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0065": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0066": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0067": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0068": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0069": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0070": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0071": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0072": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0073": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0074": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0075": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0076": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0077": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0078": {
-  "on_topic": "yes",
-  "incident": "Bosa, Bogotá · 4 Aug · Man kills ex-partner"
- },
- "R0079": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0080": {
-  "on_topic": "yes",
-  "incident": "Florida, Valle del Cauca · 3 Aug · Indigenous governor and two others killed"
- },
- "R0081": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0082": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0083": {
-  "on_topic": "yes",
-  "incident": "Comuneros II, Cali · 3 Aug · Armed attack kills two, aged 13 and 23"
- },
- "R0084": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0085": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0086": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0087": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0088": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0089": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0090": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0091": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0092": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0093": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0094": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0095": {
-  "on_topic": "yes",
-  "incident": "Aguachica, Cesar · 4 Aug · Woman shot dead in bar"
- },
- "R0096": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0097": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0098": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0099": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0100": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0101": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0102": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0103": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0104": {
-  "on_topic": "yes",
-  "incident": "Usme, Bogotá · 8 Aug · Body found in hammock, three arrested"
- },
- "R0105": {
-  "on_topic": "yes",
-  "incident": "Meta · 9 Aug · Army kills FARC dissident faction leader"
- },
- "R0106": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0107": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0108": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0109": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0110": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0111": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0112": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0113": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0114": {
-  "on_topic": "yes",
-  "incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
- },
- "R0115": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0116": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0117": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0118": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0119": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0120": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0121": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0122": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0123": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0124": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0125": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0126": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0127": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0128": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0129": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0130": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0131": {
-  "on_topic": "yes",
-  "incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
- },
- "R0132": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0133": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0134": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0135": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0136": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0137": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0138": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0139": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0140": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0141": {
-  "on_topic": "yes",
-  "incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
- },
- "R0142": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0143": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0144": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0145": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0146": {
-  "on_topic": "yes",
-  "incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
- },
- "R0147": {
-  "on_topic": "yes",
-  "incident": "Colombia · 8 Aug · Helen Nicoll Martínez, 20, killed while visiting her mother"
- },
- "R0148": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0149": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0150": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0151": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0152": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0153": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0154": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0155": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0156": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0157": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0158": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0159": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0160": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0161": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0162": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0163": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0164": {
-  "on_topic": "yes",
-  "incident": "Bogotá · 6 Aug · Rideshare driver murdered for his car"
- },
- "R0165": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0166": {
-  "on_topic": "yes",
-  "incident": "Nariño · 3 Aug · Army operations kill three Comuneros del Sur fighters"
- },
- "R0167": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0168": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0169": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0170": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0171": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0172": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0173": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0174": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0175": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0176": {
-  "on_topic": "yes",
-  "incident": "Tolima · 3 Aug · Two police officers killed, reward offered"
- },
- "R0177": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0178": {
-  "on_topic": "yes",
-  "incident": "Pitalito, Huila · 3 Aug · Man shot dead"
- },
- "R0179": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0180": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0181": {
-  "on_topic": "yes",
-  "incident": "Girón, Santander · 6 Aug · INPEC prison guard shot dead"
- },
- "R0182": {
-  "on_topic": "yes",
-  "incident": "Colombia · 4 Aug · US flight attendant found dead, two arrested"
- },
- "R0183": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0184": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0185": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0186": {
-  "on_topic": "yes",
-  "incident": "Fusagasugá · 3 Aug · Gunman kills two in downtown bar"
- },
- "R0187": {
-  "on_topic": "yes",
-  "incident": "Caribe Campestre · 5 Aug · Woman murdered by hitmen in residential complex"
- },
- "R0188": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0189": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0190": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0191": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0192": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0193": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0194": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0195": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0196": {
-  "on_topic": "yes",
-  "incident": "Colombia · 7 Aug · Journalist Carlos Sourdis Pinedo found dead at home"
- },
- "R0197": {
-  "on_topic": "yes",
-  "incident": "Fortalecillas, Neiva · 9 Aug · Brawl kills José Salazar"
- },
- "R0198": {
-  "on_topic": "yes",
-  "incident": "Tolima · 3 Aug · Two police officers killed, reward offered"
- },
- "R0199": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0200": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0201": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0202": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0203": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0204": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0205": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0206": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0207": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0208": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0209": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0210": {
-  "on_topic": "yes",
-  "incident": "Briceño, Antioquia · 3 Aug · Drone clashes kill three"
- },
- "R0211": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0212": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0213": {
-  "on_topic": "yes",
-  "incident": "Armenia, Quindío · 5 Aug · Homicide in city centre"
- },
- "R0214": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0215": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0216": {
-  "on_topic": "yes",
-  "incident": "Aguachica, Cesar · 4 Aug · Woman shot dead in bar"
- },
- "R0217": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0218": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0219": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0220": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0221": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0222": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0223": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0224": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0225": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0226": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0227": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0228": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0229": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0230": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0231": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0232": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0233": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0234": {
-  "on_topic": "yes",
-  "incident": "Cúcuta · 7–8 Aug · Venezuelan woman murdered"
- },
- "R0235": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0236": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0237": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0238": {
-  "on_topic": "yes",
-  "incident": "Malambo, Atlántico · 7 Aug · Hitman kills one man"
- },
- "R0239": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0240": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0241": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0242": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0243": {
-  "on_topic": "yes",
-  "incident": "Los Olivos, Colombia · 5 Aug · Man, 32, shot dead"
- },
- "R0244": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0245": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0246": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0247": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0248": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0249": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0250": {
-  "on_topic": "yes",
-  "incident": "Girón, Santander · 6 Aug · INPEC prison guard shot dead"
- },
- "R0251": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0252": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0253": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0254": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0255": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0256": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0257": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0258": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0259": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0260": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0261": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0262": {
-  "on_topic": "yes",
-  "incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
- },
- "R0263": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0264": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0265": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0266": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0267": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0268": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0269": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0270": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0271": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0272": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0273": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0274": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0275": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0276": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0277": {
-  "on_topic": "yes",
-  "incident": "Abejorral, Antioquia · 7 Aug · Three men killed in massacre"
- },
- "R0278": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0279": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0280": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0281": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0282": {
-  "on_topic": "yes",
-  "incident": "Fusagasugá · 3 Aug · Gunman kills two in downtown bar"
- },
- "R0283": {
-  "on_topic": "yes",
-  "incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
- },
- "R0284": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0285": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0286": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0287": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0288": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0289": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0290": {
-  "on_topic": "yes",
-  "incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
- },
- "R0291": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0292": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0293": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0294": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0295": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0296": {
-  "on_topic": "yes",
-  "incident": "Colombia · 2–3 Aug · Alias 'Mojarra' killed by hitmen in park"
- },
- "R0297": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0298": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0299": {
-  "on_topic": "yes",
-  "incident": "Meta · 9 Aug · Army kills FARC dissident faction leader"
- },
- "R0300": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0301": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0302": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0303": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0304": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0305": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0306": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0307": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0308": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0309": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0310": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0311": {
-  "on_topic": "yes",
-  "incident": "Pereira · 3 Aug · Homicide of 24-year-old, second in a week in same sector"
- },
- "R0312": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0313": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0314": {
-  "on_topic": "yes",
-  "incident": "Arroyohondo · 7 Aug · Eder Ramos found dead with facial injury"
- },
- "R0315": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0316": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0317": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0318": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0319": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0320": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0321": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0322": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0323": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0324": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0325": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0326": {
-  "on_topic": "yes",
-  "incident": "Cauca · 8–9 Aug · Military offensive kills at least five dissidents"
- },
- "R0327": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0328": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0329": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0330": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0331": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0332": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0333": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0334": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0335": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0336": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0337": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0338": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0339": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0340": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0341": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0342": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0343": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0344": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0345": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0346": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0347": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0348": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0349": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0350": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0351": {
-  "on_topic": "yes",
-  "incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
- },
- "R0352": {
-  "on_topic": "yes",
-  "incident": "Cauca · 8–9 Aug · Military offensive kills at least five dissidents"
- },
- "R0353": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0354": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0355": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0356": {
-  "on_topic": "yes",
-  "incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
- },
- "R0357": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0358": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0359": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0360": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0361": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0362": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0363": {
-  "on_topic": "yes",
-  "incident": "Tolima · 3 Aug · Two police officers killed, reward offered"
- },
- "R0364": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0365": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0366": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0367": {
-  "on_topic": "yes",
-  "incident": "Barranquilla · 6 Aug · Mother of three shot dead"
- },
- "R0368": {
-  "on_topic": "yes",
-  "incident": "Fusagasugá · 3 Aug · Gunman kills two in downtown bar"
- },
- "R0369": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0370": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0371": {
-  "on_topic": "yes",
-  "incident": "Mercaderes, Cauca · 3 Aug · Army lieutenant killed in clash with ELN"
- },
- "R0372": {
-  "on_topic": "yes",
-  "incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
- },
- "R0373": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0374": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0375": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0376": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0377": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0378": {
-  "on_topic": "yes",
-  "incident": "Bucaramanga · 8–9 Aug · Deyner Sleyder Estevez shot dead by assailants"
- },
- "R0379": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0380": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0381": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0382": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0383": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0384": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0385": {
-  "on_topic": "yes",
-  "incident": "Ocaña, Norte de Santander · 6 Aug · Peace signatory murdered"
- },
- "R0386": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0387": {
-  "on_topic": "yes",
-  "incident": "Maicao · 5 Aug · Two men murdered inside vehicle"
- },
- "R0388": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0389": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0390": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0391": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0392": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0393": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0394": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0395": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0396": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0397": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0398": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0399": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0400": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0401": {
-  "on_topic": "yes",
-  "incident": "Briceño, Antioquia · 3 Aug · Drone clashes kill three"
- },
- "R0402": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0403": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0404": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0405": {
-  "on_topic": "yes",
-  "incident": "Girón, Santander · 6 Aug · INPEC prison guard shot dead"
- },
- "R0406": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0407": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0408": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0409": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0410": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0411": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0412": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0413": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0414": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0415": {
-  "on_topic": "yes",
-  "incident": "Colombia · 4 Aug · US flight attendant found dead, two arrested"
- },
- "R0416": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0417": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0418": {
-  "on_topic": "no",
-  "incident": null
- }
+"R0001": {
+"on_topic": "no",
+"incident": null
+},
+"R0002": {
+"on_topic": "no",
+"incident": null
+},
+"R0003": {
+"on_topic": "no",
+"incident": null
+},
+"R0004": {
+"on_topic": "no",
+"incident": null
+},
+"R0005": {
+"on_topic": "no",
+"incident": null
+},
+"R0006": {
+"on_topic": "no",
+"incident": null
+},
+"R0007": {
+"on_topic": "no",
+"incident": null
+},
+"R0008": {
+"on_topic": "no",
+"incident": null
+},
+"R0009": {
+"on_topic": "no",
+"incident": null
+},
+"R0010": {
+"on_topic": "no",
+"incident": null
+},
+"R0011": {
+"on_topic": "no",
+"incident": null
+},
+"R0012": {
+"on_topic": "no",
+"incident": null
+},
+"R0013": {
+"on_topic": "yes",
+"incident": "Caquetá · 9 Aug · Segunda Marquetalia finance chief killed"
+},
+"R0014": {
+"on_topic": "yes",
+"incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
+},
+"R0015": {
+"on_topic": "no",
+"incident": null
+},
+"R0016": {
+"on_topic": "no",
+"incident": null
+},
+"R0017": {
+"on_topic": "no",
+"incident": null
+},
+"R0018": {
+"on_topic": "no",
+"incident": null
+},
+"R0019": {
+"on_topic": "no",
+"incident": null
+},
+"R0020": {
+"on_topic": "no",
+"incident": null
+},
+"R0021": {
+"on_topic": "no",
+"incident": null
+},
+"R0022": {
+"on_topic": "no",
+"incident": null
+},
+"R0023": {
+"on_topic": "no",
+"incident": null
+},
+"R0024": {
+"on_topic": "no",
+"incident": null
+},
+"R0025": {
+"on_topic": "no",
+"incident": null
+},
+"R0026": {
+"on_topic": "no",
+"incident": null
+},
+"R0027": {
+"on_topic": "no",
+"incident": null
+},
+"R0028": {
+"on_topic": "no",
+"incident": null
+},
+"R0029": {
+"on_topic": "no",
+"incident": null
+},
+"R0030": {
+"on_topic": "no",
+"incident": null
+},
+"R0031": {
+"on_topic": "no",
+"incident": null
+},
+"R0032": {
+"on_topic": "no",
+"incident": null
+},
+"R0033": {
+"on_topic": "yes",
+"incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
+},
+"R0034": {
+"on_topic": "no",
+"incident": null
+},
+"R0035": {
+"on_topic": "no",
+"incident": null
+},
+"R0036": {
+"on_topic": "no",
+"incident": null
+},
+"R0037": {
+"on_topic": "no",
+"incident": null
+},
+"R0038": {
+"on_topic": "no",
+"incident": null
+},
+"R0039": {
+"on_topic": "no",
+"incident": null
+},
+"R0040": {
+"on_topic": "no",
+"incident": null
+},
+"R0041": {
+"on_topic": "no",
+"incident": null
+},
+"R0042": {
+"on_topic": "yes",
+"incident": "Soledad · 4 Aug · 17-year-old mototaxi driver murdered"
+},
+"R0043": {
+"on_topic": "no",
+"incident": null
+},
+"R0044": {
+"on_topic": "yes",
+"incident": "Barranquilla · 3 Aug · 17-year-old girl shot dead with mini Uzi"
+},
+"R0045": {
+"on_topic": "no",
+"incident": null
+},
+"R0046": {
+"on_topic": "no",
+"incident": null
+},
+"R0047": {
+"on_topic": "no",
+"incident": null
+},
+"R0048": {
+"on_topic": "no",
+"incident": null
+},
+"R0049": {
+"on_topic": "yes",
+"incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
+},
+"R0050": {
+"on_topic": "yes",
+"incident": "Fortalecillas, Neiva · 9 Aug · Brawl kills José Salazar"
+},
+"R0051": {
+"on_topic": "no",
+"incident": null
+},
+"R0052": {
+"on_topic": "yes",
+"incident": "Abejorral, Antioquia · 7 Aug · Three men killed in massacre"
+},
+"R0053": {
+"on_topic": "no",
+"incident": null
+},
+"R0054": {
+"on_topic": "no",
+"incident": null
+},
+"R0055": {
+"on_topic": "no",
+"incident": null
+},
+"R0056": {
+"on_topic": "no",
+"incident": null
+},
+"R0057": {
+"on_topic": "no",
+"incident": null
+},
+"R0058": {
+"on_topic": "no",
+"incident": null
+},
+"R0059": {
+"on_topic": "no",
+"incident": null
+},
+"R0060": {
+"on_topic": "no",
+"incident": null
+},
+"R0061": {
+"on_topic": "no",
+"incident": null
+},
+"R0062": {
+"on_topic": "no",
+"incident": null
+},
+"R0063": {
+"on_topic": "no",
+"incident": null
+},
+"R0064": {
+"on_topic": "no",
+"incident": null
+},
+"R0065": {
+"on_topic": "no",
+"incident": null
+},
+"R0066": {
+"on_topic": "no",
+"incident": null
+},
+"R0067": {
+"on_topic": "no",
+"incident": null
+},
+"R0068": {
+"on_topic": "no",
+"incident": null
+},
+"R0069": {
+"on_topic": "no",
+"incident": null
+},
+"R0070": {
+"on_topic": "no",
+"incident": null
+},
+"R0071": {
+"on_topic": "no",
+"incident": null
+},
+"R0072": {
+"on_topic": "no",
+"incident": null
+},
+"R0073": {
+"on_topic": "no",
+"incident": null
+},
+"R0074": {
+"on_topic": "no",
+"incident": null
+},
+"R0075": {
+"on_topic": "no",
+"incident": null
+},
+"R0076": {
+"on_topic": "no",
+"incident": null
+},
+"R0077": {
+"on_topic": "no",
+"incident": null
+},
+"R0078": {
+"on_topic": "yes",
+"incident": "Bosa, Bogotá · 4 Aug · Man kills ex-partner"
+},
+"R0079": {
+"on_topic": "no",
+"incident": null
+},
+"R0080": {
+"on_topic": "yes",
+"incident": "Florida, Valle del Cauca · 3 Aug · Indigenous governor and two others killed"
+},
+"R0081": {
+"on_topic": "no",
+"incident": null
+},
+"R0082": {
+"on_topic": "no",
+"incident": null
+},
+"R0083": {
+"on_topic": "yes",
+"incident": "Comuneros II, Cali · 3 Aug · Armed attack kills two, aged 13 and 23"
+},
+"R0084": {
+"on_topic": "no",
+"incident": null
+},
+"R0085": {
+"on_topic": "no",
+"incident": null
+},
+"R0086": {
+"on_topic": "no",
+"incident": null
+},
+"R0087": {
+"on_topic": "no",
+"incident": null
+},
+"R0088": {
+"on_topic": "no",
+"incident": null
+},
+"R0089": {
+"on_topic": "no",
+"incident": null
+},
+"R0090": {
+"on_topic": "no",
+"incident": null
+},
+"R0091": {
+"on_topic": "no",
+"incident": null
+},
+"R0092": {
+"on_topic": "no",
+"incident": null
+},
+"R0093": {
+"on_topic": "no",
+"incident": null
+},
+"R0094": {
+"on_topic": "no",
+"incident": null
+},
+"R0095": {
+"on_topic": "yes",
+"incident": "Aguachica, Cesar · 4 Aug · Woman shot dead in bar"
+},
+"R0096": {
+"on_topic": "no",
+"incident": null
+},
+"R0097": {
+"on_topic": "no",
+"incident": null
+},
+"R0098": {
+"on_topic": "no",
+"incident": null
+},
+"R0099": {
+"on_topic": "no",
+"incident": null
+},
+"R0100": {
+"on_topic": "no",
+"incident": null
+},
+"R0101": {
+"on_topic": "no",
+"incident": null
+},
+"R0102": {
+"on_topic": "no",
+"incident": null
+},
+"R0103": {
+"on_topic": "no",
+"incident": null
+},
+"R0104": {
+"on_topic": "yes",
+"incident": "Usme, Bogotá · 8 Aug · Body found in hammock, three arrested"
+},
+"R0105": {
+"on_topic": "yes",
+"incident": "Meta · 9 Aug · Army kills FARC dissident faction leader"
+},
+"R0106": {
+"on_topic": "no",
+"incident": null
+},
+"R0107": {
+"on_topic": "no",
+"incident": null
+},
+"R0108": {
+"on_topic": "no",
+"incident": null
+},
+"R0109": {
+"on_topic": "no",
+"incident": null
+},
+"R0110": {
+"on_topic": "no",
+"incident": null
+},
+"R0111": {
+"on_topic": "no",
+"incident": null
+},
+"R0112": {
+"on_topic": "no",
+"incident": null
+},
+"R0113": {
+"on_topic": "no",
+"incident": null
+},
+"R0114": {
+"on_topic": "yes",
+"incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
+},
+"R0115": {
+"on_topic": "no",
+"incident": null
+},
+"R0116": {
+"on_topic": "no",
+"incident": null
+},
+"R0117": {
+"on_topic": "no",
+"incident": null
+},
+"R0118": {
+"on_topic": "no",
+"incident": null
+},
+"R0119": {
+"on_topic": "no",
+"incident": null
+},
+"R0120": {
+"on_topic": "no",
+"incident": null
+},
+"R0121": {
+"on_topic": "no",
+"incident": null
+},
+"R0122": {
+"on_topic": "no",
+"incident": null
+},
+"R0123": {
+"on_topic": "no",
+"incident": null
+},
+"R0124": {
+"on_topic": "no",
+"incident": null
+},
+"R0125": {
+"on_topic": "no",
+"incident": null
+},
+"R0126": {
+"on_topic": "no",
+"incident": null
+},
+"R0127": {
+"on_topic": "no",
+"incident": null
+},
+"R0128": {
+"on_topic": "no",
+"incident": null
+},
+"R0129": {
+"on_topic": "no",
+"incident": null
+},
+"R0130": {
+"on_topic": "no",
+"incident": null
+},
+"R0131": {
+"on_topic": "yes",
+"incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
+},
+"R0132": {
+"on_topic": "no",
+"incident": null
+},
+"R0133": {
+"on_topic": "no",
+"incident": null
+},
+"R0134": {
+"on_topic": "no",
+"incident": null
+},
+"R0135": {
+"on_topic": "no",
+"incident": null
+},
+"R0136": {
+"on_topic": "no",
+"incident": null
+},
+"R0137": {
+"on_topic": "no",
+"incident": null
+},
+"R0138": {
+"on_topic": "no",
+"incident": null
+},
+"R0139": {
+"on_topic": "no",
+"incident": null
+},
+"R0140": {
+"on_topic": "no",
+"incident": null
+},
+"R0141": {
+"on_topic": "yes",
+"incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
+},
+"R0142": {
+"on_topic": "no",
+"incident": null
+},
+"R0143": {
+"on_topic": "no",
+"incident": null
+},
+"R0144": {
+"on_topic": "no",
+"incident": null
+},
+"R0145": {
+"on_topic": "no",
+"incident": null
+},
+"R0146": {
+"on_topic": "yes",
+"incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
+},
+"R0147": {
+"on_topic": "yes",
+"incident": "Colombia · 8 Aug · Helen Nicoll Martínez, 20, killed while visiting her mother"
+},
+"R0148": {
+"on_topic": "no",
+"incident": null
+},
+"R0149": {
+"on_topic": "no",
+"incident": null
+},
+"R0150": {
+"on_topic": "no",
+"incident": null
+},
+"R0151": {
+"on_topic": "no",
+"incident": null
+},
+"R0152": {
+"on_topic": "no",
+"incident": null
+},
+"R0153": {
+"on_topic": "no",
+"incident": null
+},
+"R0154": {
+"on_topic": "no",
+"incident": null
+},
+"R0155": {
+"on_topic": "no",
+"incident": null
+},
+"R0156": {
+"on_topic": "no",
+"incident": null
+},
+"R0157": {
+"on_topic": "no",
+"incident": null
+},
+"R0158": {
+"on_topic": "no",
+"incident": null
+},
+"R0159": {
+"on_topic": "no",
+"incident": null
+},
+"R0160": {
+"on_topic": "no",
+"incident": null
+},
+"R0161": {
+"on_topic": "no",
+"incident": null
+},
+"R0162": {
+"on_topic": "no",
+"incident": null
+},
+"R0163": {
+"on_topic": "no",
+"incident": null
+},
+"R0164": {
+"on_topic": "yes",
+"incident": "Bogotá · 6 Aug · Rideshare driver murdered for his car"
+},
+"R0165": {
+"on_topic": "no",
+"incident": null
+},
+"R0166": {
+"on_topic": "yes",
+"incident": "Nariño · 3 Aug · Army operations kill three Comuneros del Sur fighters"
+},
+"R0167": {
+"on_topic": "no",
+"incident": null
+},
+"R0168": {
+"on_topic": "no",
+"incident": null
+},
+"R0169": {
+"on_topic": "no",
+"incident": null
+},
+"R0170": {
+"on_topic": "no",
+"incident": null
+},
+"R0171": {
+"on_topic": "no",
+"incident": null
+},
+"R0172": {
+"on_topic": "no",
+"incident": null
+},
+"R0173": {
+"on_topic": "no",
+"incident": null
+},
+"R0174": {
+"on_topic": "no",
+"incident": null
+},
+"R0175": {
+"on_topic": "no",
+"incident": null
+},
+"R0176": {
+"on_topic": "yes",
+"incident": "Tolima · 3 Aug · Two police officers killed, reward offered"
+},
+"R0177": {
+"on_topic": "no",
+"incident": null
+},
+"R0178": {
+"on_topic": "yes",
+"incident": "Pitalito, Huila · 3 Aug · Man shot dead"
+},
+"R0179": {
+"on_topic": "no",
+"incident": null
+},
+"R0180": {
+"on_topic": "no",
+"incident": null
+},
+"R0181": {
+"on_topic": "yes",
+"incident": "Girón, Santander · 6 Aug · INPEC prison guard shot dead"
+},
+"R0182": {
+"on_topic": "yes",
+"incident": "Colombia · 4 Aug · US flight attendant found dead, two arrested"
+},
+"R0183": {
+"on_topic": "no",
+"incident": null
+},
+"R0184": {
+"on_topic": "no",
+"incident": null
+},
+"R0185": {
+"on_topic": "no",
+"incident": null
+},
+"R0186": {
+"on_topic": "yes",
+"incident": "Fusagasugá · 3 Aug · Gunman kills two in downtown bar"
+},
+"R0187": {
+"on_topic": "yes",
+"incident": "Caribe Campestre · 5 Aug · Woman murdered by hitmen in residential complex"
+},
+"R0188": {
+"on_topic": "no",
+"incident": null
+},
+"R0189": {
+"on_topic": "no",
+"incident": null
+},
+"R0190": {
+"on_topic": "no",
+"incident": null
+},
+"R0191": {
+"on_topic": "no",
+"incident": null
+},
+"R0192": {
+"on_topic": "no",
+"incident": null
+},
+"R0193": {
+"on_topic": "no",
+"incident": null
+},
+"R0194": {
+"on_topic": "no",
+"incident": null
+},
+"R0195": {
+"on_topic": "no",
+"incident": null
+},
+"R0196": {
+"on_topic": "yes",
+"incident": "Colombia · 7 Aug · Journalist Carlos Sourdis Pinedo found dead at home"
+},
+"R0197": {
+"on_topic": "yes",
+"incident": "Fortalecillas, Neiva · 9 Aug · Brawl kills José Salazar"
+},
+"R0198": {
+"on_topic": "yes",
+"incident": "Tolima · 3 Aug · Two police officers killed, reward offered"
+},
+"R0199": {
+"on_topic": "no",
+"incident": null
+},
+"R0200": {
+"on_topic": "no",
+"incident": null
+},
+"R0201": {
+"on_topic": "no",
+"incident": null
+},
+"R0202": {
+"on_topic": "no",
+"incident": null
+},
+"R0203": {
+"on_topic": "no",
+"incident": null
+},
+"R0204": {
+"on_topic": "no",
+"incident": null
+},
+"R0205": {
+"on_topic": "no",
+"incident": null
+},
+"R0206": {
+"on_topic": "no",
+"incident": null
+},
+"R0207": {
+"on_topic": "no",
+"incident": null
+},
+"R0208": {
+"on_topic": "no",
+"incident": null
+},
+"R0209": {
+"on_topic": "no",
+"incident": null
+},
+"R0210": {
+"on_topic": "yes",
+"incident": "Briceño, Antioquia · 3 Aug · Drone clashes kill three"
+},
+"R0211": {
+"on_topic": "no",
+"incident": null
+},
+"R0212": {
+"on_topic": "no",
+"incident": null
+},
+"R0213": {
+"on_topic": "yes",
+"incident": "Armenia, Quindío · 5 Aug · Homicide in city centre"
+},
+"R0214": {
+"on_topic": "no",
+"incident": null
+},
+"R0215": {
+"on_topic": "no",
+"incident": null
+},
+"R0216": {
+"on_topic": "yes",
+"incident": "Aguachica, Cesar · 4 Aug · Woman shot dead in bar"
+},
+"R0217": {
+"on_topic": "no",
+"incident": null
+},
+"R0218": {
+"on_topic": "no",
+"incident": null
+},
+"R0219": {
+"on_topic": "no",
+"incident": null
+},
+"R0220": {
+"on_topic": "no",
+"incident": null
+},
+"R0221": {
+"on_topic": "no",
+"incident": null
+},
+"R0222": {
+"on_topic": "no",
+"incident": null
+},
+"R0223": {
+"on_topic": "no",
+"incident": null
+},
+"R0224": {
+"on_topic": "no",
+"incident": null
+},
+"R0225": {
+"on_topic": "no",
+"incident": null
+},
+"R0226": {
+"on_topic": "no",
+"incident": null
+},
+"R0227": {
+"on_topic": "no",
+"incident": null
+},
+"R0228": {
+"on_topic": "no",
+"incident": null
+},
+"R0229": {
+"on_topic": "no",
+"incident": null
+},
+"R0230": {
+"on_topic": "no",
+"incident": null
+},
+"R0231": {
+"on_topic": "no",
+"incident": null
+},
+"R0232": {
+"on_topic": "no",
+"incident": null
+},
+"R0233": {
+"on_topic": "no",
+"incident": null
+},
+"R0234": {
+"on_topic": "yes",
+"incident": "Cúcuta · 7–8 Aug · Venezuelan woman murdered"
+},
+"R0235": {
+"on_topic": "no",
+"incident": null
+},
+"R0236": {
+"on_topic": "no",
+"incident": null
+},
+"R0237": {
+"on_topic": "no",
+"incident": null
+},
+"R0238": {
+"on_topic": "yes",
+"incident": "Malambo, Atlántico · 7 Aug · Hitman kills one man"
+},
+"R0239": {
+"on_topic": "no",
+"incident": null
+},
+"R0240": {
+"on_topic": "no",
+"incident": null
+},
+"R0241": {
+"on_topic": "no",
+"incident": null
+},
+"R0242": {
+"on_topic": "no",
+"incident": null
+},
+"R0243": {
+"on_topic": "yes",
+"incident": "Los Olivos, Colombia · 5 Aug · Man, 32, shot dead"
+},
+"R0244": {
+"on_topic": "no",
+"incident": null
+},
+"R0245": {
+"on_topic": "no",
+"incident": null
+},
+"R0246": {
+"on_topic": "no",
+"incident": null
+},
+"R0247": {
+"on_topic": "no",
+"incident": null
+},
+"R0248": {
+"on_topic": "no",
+"incident": null
+},
+"R0249": {
+"on_topic": "no",
+"incident": null
+},
+"R0250": {
+"on_topic": "yes",
+"incident": "Girón, Santander · 6 Aug · INPEC prison guard shot dead"
+},
+"R0251": {
+"on_topic": "no",
+"incident": null
+},
+"R0252": {
+"on_topic": "no",
+"incident": null
+},
+"R0253": {
+"on_topic": "no",
+"incident": null
+},
+"R0254": {
+"on_topic": "no",
+"incident": null
+},
+"R0255": {
+"on_topic": "no",
+"incident": null
+},
+"R0256": {
+"on_topic": "no",
+"incident": null
+},
+"R0257": {
+"on_topic": "no",
+"incident": null
+},
+"R0258": {
+"on_topic": "no",
+"incident": null
+},
+"R0259": {
+"on_topic": "no",
+"incident": null
+},
+"R0260": {
+"on_topic": "no",
+"incident": null
+},
+"R0261": {
+"on_topic": "no",
+"incident": null
+},
+"R0262": {
+"on_topic": "yes",
+"incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
+},
+"R0263": {
+"on_topic": "no",
+"incident": null
+},
+"R0264": {
+"on_topic": "no",
+"incident": null
+},
+"R0265": {
+"on_topic": "no",
+"incident": null
+},
+"R0266": {
+"on_topic": "no",
+"incident": null
+},
+"R0267": {
+"on_topic": "no",
+"incident": null
+},
+"R0268": {
+"on_topic": "no",
+"incident": null
+},
+"R0269": {
+"on_topic": "no",
+"incident": null
+},
+"R0270": {
+"on_topic": "no",
+"incident": null
+},
+"R0271": {
+"on_topic": "no",
+"incident": null
+},
+"R0272": {
+"on_topic": "no",
+"incident": null
+},
+"R0273": {
+"on_topic": "no",
+"incident": null
+},
+"R0274": {
+"on_topic": "no",
+"incident": null
+},
+"R0275": {
+"on_topic": "no",
+"incident": null
+},
+"R0276": {
+"on_topic": "no",
+"incident": null
+},
+"R0277": {
+"on_topic": "yes",
+"incident": "Abejorral, Antioquia · 7 Aug · Three men killed in massacre"
+},
+"R0278": {
+"on_topic": "no",
+"incident": null
+},
+"R0279": {
+"on_topic": "no",
+"incident": null
+},
+"R0280": {
+"on_topic": "no",
+"incident": null
+},
+"R0281": {
+"on_topic": "no",
+"incident": null
+},
+"R0282": {
+"on_topic": "yes",
+"incident": "Fusagasugá · 3 Aug · Gunman kills two in downtown bar"
+},
+"R0283": {
+"on_topic": "yes",
+"incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
+},
+"R0284": {
+"on_topic": "no",
+"incident": null
+},
+"R0285": {
+"on_topic": "no",
+"incident": null
+},
+"R0286": {
+"on_topic": "no",
+"incident": null
+},
+"R0287": {
+"on_topic": "no",
+"incident": null
+},
+"R0288": {
+"on_topic": "no",
+"incident": null
+},
+"R0289": {
+"on_topic": "no",
+"incident": null
+},
+"R0290": {
+"on_topic": "yes",
+"incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
+},
+"R0291": {
+"on_topic": "no",
+"incident": null
+},
+"R0292": {
+"on_topic": "no",
+"incident": null
+},
+"R0293": {
+"on_topic": "no",
+"incident": null
+},
+"R0294": {
+"on_topic": "no",
+"incident": null
+},
+"R0295": {
+"on_topic": "no",
+"incident": null
+},
+"R0296": {
+"on_topic": "yes",
+"incident": "Colombia · 2–3 Aug · Alias 'Mojarra' killed by hitmen in park"
+},
+"R0297": {
+"on_topic": "no",
+"incident": null
+},
+"R0298": {
+"on_topic": "no",
+"incident": null
+},
+"R0299": {
+"on_topic": "yes",
+"incident": "Meta · 9 Aug · Army kills FARC dissident faction leader"
+},
+"R0300": {
+"on_topic": "no",
+"incident": null
+},
+"R0301": {
+"on_topic": "no",
+"incident": null
+},
+"R0302": {
+"on_topic": "no",
+"incident": null
+},
+"R0303": {
+"on_topic": "no",
+"incident": null
+},
+"R0304": {
+"on_topic": "no",
+"incident": null
+},
+"R0305": {
+"on_topic": "no",
+"incident": null
+},
+"R0306": {
+"on_topic": "no",
+"incident": null
+},
+"R0307": {
+"on_topic": "no",
+"incident": null
+},
+"R0308": {
+"on_topic": "no",
+"incident": null
+},
+"R0309": {
+"on_topic": "no",
+"incident": null
+},
+"R0310": {
+"on_topic": "no",
+"incident": null
+},
+"R0311": {
+"on_topic": "yes",
+"incident": "Pereira · 3 Aug · Homicide of 24-year-old, second in a week in same sector"
+},
+"R0312": {
+"on_topic": "no",
+"incident": null
+},
+"R0313": {
+"on_topic": "no",
+"incident": null
+},
+"R0314": {
+"on_topic": "yes",
+"incident": "Arroyohondo · 7 Aug · Eder Ramos found dead with facial injury"
+},
+"R0315": {
+"on_topic": "no",
+"incident": null
+},
+"R0316": {
+"on_topic": "no",
+"incident": null
+},
+"R0317": {
+"on_topic": "no",
+"incident": null
+},
+"R0318": {
+"on_topic": "no",
+"incident": null
+},
+"R0319": {
+"on_topic": "no",
+"incident": null
+},
+"R0320": {
+"on_topic": "no",
+"incident": null
+},
+"R0321": {
+"on_topic": "no",
+"incident": null
+},
+"R0322": {
+"on_topic": "no",
+"incident": null
+},
+"R0323": {
+"on_topic": "no",
+"incident": null
+},
+"R0324": {
+"on_topic": "no",
+"incident": null
+},
+"R0325": {
+"on_topic": "no",
+"incident": null
+},
+"R0326": {
+"on_topic": "yes",
+"incident": "Cauca · 8–9 Aug · Military offensive kills at least five dissidents"
+},
+"R0327": {
+"on_topic": "no",
+"incident": null
+},
+"R0328": {
+"on_topic": "no",
+"incident": null
+},
+"R0329": {
+"on_topic": "no",
+"incident": null
+},
+"R0330": {
+"on_topic": "no",
+"incident": null
+},
+"R0331": {
+"on_topic": "no",
+"incident": null
+},
+"R0332": {
+"on_topic": "no",
+"incident": null
+},
+"R0333": {
+"on_topic": "no",
+"incident": null
+},
+"R0334": {
+"on_topic": "no",
+"incident": null
+},
+"R0335": {
+"on_topic": "no",
+"incident": null
+},
+"R0336": {
+"on_topic": "no",
+"incident": null
+},
+"R0337": {
+"on_topic": "no",
+"incident": null
+},
+"R0338": {
+"on_topic": "no",
+"incident": null
+},
+"R0339": {
+"on_topic": "no",
+"incident": null
+},
+"R0340": {
+"on_topic": "no",
+"incident": null
+},
+"R0341": {
+"on_topic": "no",
+"incident": null
+},
+"R0342": {
+"on_topic": "no",
+"incident": null
+},
+"R0343": {
+"on_topic": "no",
+"incident": null
+},
+"R0344": {
+"on_topic": "no",
+"incident": null
+},
+"R0345": {
+"on_topic": "no",
+"incident": null
+},
+"R0346": {
+"on_topic": "no",
+"incident": null
+},
+"R0347": {
+"on_topic": "no",
+"incident": null
+},
+"R0348": {
+"on_topic": "no",
+"incident": null
+},
+"R0349": {
+"on_topic": "no",
+"incident": null
+},
+"R0350": {
+"on_topic": "no",
+"incident": null
+},
+"R0351": {
+"on_topic": "yes",
+"incident": "Meta and Antioquia · 8–9 Aug · Army operations kill six armed-group members"
+},
+"R0352": {
+"on_topic": "yes",
+"incident": "Cauca · 8–9 Aug · Military offensive kills at least five dissidents"
+},
+"R0353": {
+"on_topic": "no",
+"incident": null
+},
+"R0354": {
+"on_topic": "no",
+"incident": null
+},
+"R0355": {
+"on_topic": "no",
+"incident": null
+},
+"R0356": {
+"on_topic": "yes",
+"incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
+},
+"R0357": {
+"on_topic": "no",
+"incident": null
+},
+"R0358": {
+"on_topic": "no",
+"incident": null
+},
+"R0359": {
+"on_topic": "no",
+"incident": null
+},
+"R0360": {
+"on_topic": "no",
+"incident": null
+},
+"R0361": {
+"on_topic": "no",
+"incident": null
+},
+"R0362": {
+"on_topic": "no",
+"incident": null
+},
+"R0363": {
+"on_topic": "yes",
+"incident": "Tolima · 3 Aug · Two police officers killed, reward offered"
+},
+"R0364": {
+"on_topic": "no",
+"incident": null
+},
+"R0365": {
+"on_topic": "no",
+"incident": null
+},
+"R0366": {
+"on_topic": "no",
+"incident": null
+},
+"R0367": {
+"on_topic": "yes",
+"incident": "Barranquilla · 6 Aug · Mother of three shot dead"
+},
+"R0368": {
+"on_topic": "yes",
+"incident": "Fusagasugá · 3 Aug · Gunman kills two in downtown bar"
+},
+"R0369": {
+"on_topic": "no",
+"incident": null
+},
+"R0370": {
+"on_topic": "no",
+"incident": null
+},
+"R0371": {
+"on_topic": "yes",
+"incident": "Mercaderes, Cauca · 3 Aug · Army lieutenant killed in clash with ELN"
+},
+"R0372": {
+"on_topic": "yes",
+"incident": "San Roque, Cesar · 8 Aug · Explosive attack on police substation kills 1"
+},
+"R0373": {
+"on_topic": "no",
+"incident": null
+},
+"R0374": {
+"on_topic": "no",
+"incident": null
+},
+"R0375": {
+"on_topic": "no",
+"incident": null
+},
+"R0376": {
+"on_topic": "no",
+"incident": null
+},
+"R0377": {
+"on_topic": "no",
+"incident": null
+},
+"R0378": {
+"on_topic": "yes",
+"incident": "Bucaramanga · 8–9 Aug · Deyner Sleyder Estevez shot dead by assailants"
+},
+"R0379": {
+"on_topic": "no",
+"incident": null
+},
+"R0380": {
+"on_topic": "no",
+"incident": null
+},
+"R0381": {
+"on_topic": "no",
+"incident": null
+},
+"R0382": {
+"on_topic": "no",
+"incident": null
+},
+"R0383": {
+"on_topic": "no",
+"incident": null
+},
+"R0384": {
+"on_topic": "no",
+"incident": null
+},
+"R0385": {
+"on_topic": "yes",
+"incident": "Ocaña, Norte de Santander · 6 Aug · Peace signatory murdered"
+},
+"R0386": {
+"on_topic": "no",
+"incident": null
+},
+"R0387": {
+"on_topic": "yes",
+"incident": "Maicao · 5 Aug · Two men murdered inside vehicle"
+},
+"R0388": {
+"on_topic": "no",
+"incident": null
+},
+"R0389": {
+"on_topic": "no",
+"incident": null
+},
+"R0390": {
+"on_topic": "no",
+"incident": null
+},
+"R0391": {
+"on_topic": "no",
+"incident": null
+},
+"R0392": {
+"on_topic": "no",
+"incident": null
+},
+"R0393": {
+"on_topic": "no",
+"incident": null
+},
+"R0394": {
+"on_topic": "no",
+"incident": null
+},
+"R0395": {
+"on_topic": "no",
+"incident": null
+},
+"R0396": {
+"on_topic": "no",
+"incident": null
+},
+"R0397": {
+"on_topic": "no",
+"incident": null
+},
+"R0398": {
+"on_topic": "no",
+"incident": null
+},
+"R0399": {
+"on_topic": "no",
+"incident": null
+},
+"R0400": {
+"on_topic": "no",
+"incident": null
+},
+"R0401": {
+"on_topic": "yes",
+"incident": "Briceño, Antioquia · 3 Aug · Drone clashes kill three"
+},
+"R0402": {
+"on_topic": "no",
+"incident": null
+},
+"R0403": {
+"on_topic": "no",
+"incident": null
+},
+"R0404": {
+"on_topic": "no",
+"incident": null
+},
+"R0405": {
+"on_topic": "yes",
+"incident": "Girón, Santander · 6 Aug · INPEC prison guard shot dead"
+},
+"R0406": {
+"on_topic": "no",
+"incident": null
+},
+"R0407": {
+"on_topic": "no",
+"incident": null
+},
+"R0408": {
+"on_topic": "no",
+"incident": null
+},
+"R0409": {
+"on_topic": "no",
+"incident": null
+},
+"R0410": {
+"on_topic": "no",
+"incident": null
+},
+"R0411": {
+"on_topic": "no",
+"incident": null
+},
+"R0412": {
+"on_topic": "no",
+"incident": null
+},
+"R0413": {
+"on_topic": "no",
+"incident": null
+},
+"R0414": {
+"on_topic": "no",
+"incident": null
+},
+"R0415": {
+"on_topic": "yes",
+"incident": "Colombia · 4 Aug · US flight attendant found dead, two arrested"
+},
+"R0416": {
+"on_topic": "no",
+"incident": null
+},
+"R0417": {
+"on_topic": "no",
+"incident": null
+},
+"R0418": {
+"on_topic": "no",
+"incident": null
+},
+"G00001": {
+"on_topic": "no",
+"incident": null
+},
+"G00002": {
+"on_topic": "no",
+"incident": null
+},
+"G00003": {
+"on_topic": "no",
+"incident": null
+},
+"G00004": {
+"on_topic": "no",
+"incident": null
+},
+"G00005": {
+"on_topic": "no",
+"incident": null
+},
+"G00006": {
+"on_topic": "no",
+"incident": null
+},
+"G00007": {
+"on_topic": "yes",
+"incident": "florida, valle del cauca · 3 aug · indigenous governor and two others killed"
+},
+"G00008": {
+"on_topic": "no",
+"incident": null
+},
+"G00009": {
+"on_topic": "no",
+"incident": null
+},
+"G00010": {
+"on_topic": "no",
+"incident": null
+},
+"G00011": {
+"on_topic": "no",
+"incident": null
+},
+"G00012": {
+"on_topic": "no",
+"incident": null
+},
+"G00013": {
+"on_topic": "no",
+"incident": null
+},
+"G00014": {
+"on_topic": "yes",
+"incident": "florida, valle del cauca · 3 aug · indigenous governor and two others killed"
+},
+"G00015": {
+"on_topic": "yes",
+"incident": "tolima · 3 aug · two police officers killed, reward offered"
+},
+"G00016": {
+"on_topic": "no",
+"incident": null
+},
+"G00017": {
+"on_topic": "no",
+"incident": null
+},
+"G00018": {
+"on_topic": "no",
+"incident": null
+},
+"G00019": {
+"on_topic": "no",
+"incident": null
+},
+"G00020": {
+"on_topic": "no",
+"incident": null
+},
+"G00021": {
+"on_topic": "no",
+"incident": null
+},
+"G00022": {
+"on_topic": "no",
+"incident": null
+},
+"G00023": {
+"on_topic": "no",
+"incident": null
+},
+"G00024": {
+"on_topic": "no",
+"incident": null
+},
+"G00025": {
+"on_topic": "no",
+"incident": null
+},
+"G00026": {
+"on_topic": "no",
+"incident": null
+},
+"G00027": {
+"on_topic": "no",
+"incident": null
+},
+"G00028": {
+"on_topic": "no",
+"incident": null
+},
+"G00029": {
+"on_topic": "yes",
+"incident": "colombia · 4 aug · us flight attendant found dead, two arrested"
+},
+"G00030": {
+"on_topic": "no",
+"incident": null
+},
+"G00031": {
+"on_topic": "no",
+"incident": null
+},
+"G00032": {
+"on_topic": "no",
+"incident": null
+},
+"G00033": {
+"on_topic": "no",
+"incident": null
+},
+"G00034": {
+"on_topic": "no",
+"incident": null
+},
+"G00035": {
+"on_topic": "no",
+"incident": null
+},
+"G00036": {
+"on_topic": "yes",
+"incident": "aguachica, cesar · 4 aug · woman shot dead in bar"
+},
+"G00037": {
+"on_topic": "no",
+"incident": null
+},
+"G00038": {
+"on_topic": "no",
+"incident": null
+},
+"G00039": {
+"on_topic": "no",
+"incident": null
+},
+"G00040": {
+"on_topic": "no",
+"incident": null
+},
+"G00041": {
+"on_topic": "no",
+"incident": null
+},
+"G00042": {
+"on_topic": "no",
+"incident": null
+},
+"G00043": {
+"on_topic": "no",
+"incident": null
+},
+"G00044": {
+"on_topic": "no",
+"incident": null
+},
+"G00045": {
+"on_topic": "no",
+"incident": null
+},
+"G00046": {
+"on_topic": "yes",
+"incident": "envigado, antioquia · 3 aug · merchant shot dead leaving armored suv"
+},
+"G00047": {
+"on_topic": "no",
+"incident": null
+},
+"G00048": {
+"on_topic": "no",
+"incident": null
+},
+"G00049": {
+"on_topic": "no",
+"incident": null
+},
+"G00050": {
+"on_topic": "no",
+"incident": null
+},
+"G00051": {
+"on_topic": "no",
+"incident": null
+},
+"G00052": {
+"on_topic": "yes",
+"incident": "viva palmas, antioquia · 3 aug · businessman shot dead, partner dispute"
+},
+"G00053": {
+"on_topic": "no",
+"incident": null
+},
+"G00054": {
+"on_topic": "no",
+"incident": null
+},
+"G00055": {
+"on_topic": "no",
+"incident": null
+},
+"G00056": {
+"on_topic": "no",
+"incident": null
+},
+"G00057": {
+"on_topic": "no",
+"incident": null
+},
+"G00058": {
+"on_topic": "no",
+"incident": null
+},
+"G00059": {
+"on_topic": "no",
+"incident": null
+},
+"G00060": {
+"on_topic": "no",
+"incident": null
+},
+"G00061": {
+"on_topic": "no",
+"incident": null
+},
+"G00062": {
+"on_topic": "no",
+"incident": null
+},
+"G00063": {
+"on_topic": "no",
+"incident": null
+},
+"G00064": {
+"on_topic": "no",
+"incident": null
+},
+"G00065": {
+"on_topic": "no",
+"incident": null
+},
+"G00066": {
+"on_topic": "no",
+"incident": null
+},
+"G00067": {
+"on_topic": "no",
+"incident": null
+},
+"G00068": {
+"on_topic": "no",
+"incident": null
+},
+"G00069": {
+"on_topic": "no",
+"incident": null
+},
+"G00070": {
+"on_topic": "no",
+"incident": null
+},
+"G00071": {
+"on_topic": "no",
+"incident": null
+},
+"G00072": {
+"on_topic": "no",
+"incident": null
+},
+"G00073": {
+"on_topic": "no",
+"incident": null
+},
+"G00074": {
+"on_topic": "no",
+"incident": null
+},
+"G00075": {
+"on_topic": "no",
+"incident": null
+},
+"G00076": {
+"on_topic": "no",
+"incident": null
+},
+"G00077": {
+"on_topic": "yes",
+"incident": "caribe campestre · 5 aug · woman murdered by hitmen in residential complex"
+},
+"G00078": {
+"on_topic": "no",
+"incident": null
+},
+"G00079": {
+"on_topic": "yes",
+"incident": "colombia · 4 aug · us flight attendant found dead, two arrested"
+},
+"G00080": {
+"on_topic": "no",
+"incident": null
+},
+"G00081": {
+"on_topic": "no",
+"incident": null
+},
+"G00082": {
+"on_topic": "no",
+"incident": null
+},
+"G00083": {
+"on_topic": "no",
+"incident": null
+},
+"G00084": {
+"on_topic": "no",
+"incident": null
+},
+"G00085": {
+"on_topic": "no",
+"incident": null
+},
+"G00086": {
+"on_topic": "yes",
+"incident": "mercaderes, cauca · 3 aug · army lieutenant killed in clash with eln"
+},
+"G00087": {
+"on_topic": "no",
+"incident": null
+},
+"G00088": {
+"on_topic": "no",
+"incident": null
+},
+"G00089": {
+"on_topic": "no",
+"incident": null
+},
+"G00090": {
+"on_topic": "no",
+"incident": null
+},
+"G00091": {
+"on_topic": "no",
+"incident": null
+},
+"G00092": {
+"on_topic": "no",
+"incident": null
+},
+"G00093": {
+"on_topic": "no",
+"incident": null
+},
+"G00094": {
+"on_topic": "no",
+"incident": null
+},
+"G00095": {
+"on_topic": "no",
+"incident": null
+},
+"G00096": {
+"on_topic": "no",
+"incident": null
+},
+"G00097": {
+"on_topic": "no",
+"incident": null
+},
+"G00098": {
+"on_topic": "no",
+"incident": null
+},
+"G00099": {
+"on_topic": "no",
+"incident": null
+},
+"G00100": {
+"on_topic": "no",
+"incident": null
+},
+"G00101": {
+"on_topic": "no",
+"incident": null
+},
+"G00102": {
+"on_topic": "yes",
+"incident": "colombia · 4 aug · us flight attendant found dead, two arrested"
+},
+"G00103": {
+"on_topic": "no",
+"incident": null
+},
+"G00104": {
+"on_topic": "no",
+"incident": null
+},
+"G00105": {
+"on_topic": "no",
+"incident": null
+},
+"G00106": {
+"on_topic": "no",
+"incident": null
+},
+"G00107": {
+"on_topic": "no",
+"incident": null
+},
+"G00108": {
+"on_topic": "no",
+"incident": null
+},
+"G00109": {
+"on_topic": "no",
+"incident": null
+},
+"G00110": {
+"on_topic": "yes",
+"incident": "los olivos, colombia · 5 aug · man, 32, shot dead"
+},
+"G00111": {
+"on_topic": "no",
+"incident": null
+},
+"G00112": {
+"on_topic": "no",
+"incident": null
+},
+"G00113": {
+"on_topic": "no",
+"incident": null
+},
+"G00114": {
+"on_topic": "no",
+"incident": null
+},
+"G00115": {
+"on_topic": "no",
+"incident": null
+},
+"G00116": {
+"on_topic": "no",
+"incident": null
+},
+"G00117": {
+"on_topic": "yes",
+"incident": "maicao · 5 aug · two men murdered inside vehicle"
+},
+"G00118": {
+"on_topic": "no",
+"incident": null
+},
+"G00119": {
+"on_topic": "no",
+"incident": null
+},
+"G00120": {
+"on_topic": "no",
+"incident": null
+},
+"G00121": {
+"on_topic": "no",
+"incident": null
+},
+"G00122": {
+"on_topic": "no",
+"incident": null
+},
+"G00123": {
+"on_topic": "no",
+"incident": null
+},
+"G00124": {
+"on_topic": "no",
+"incident": null
+},
+"G00125": {
+"on_topic": "no",
+"incident": null
+},
+"G00126": {
+"on_topic": "no",
+"incident": null
+},
+"G00127": {
+"on_topic": "no",
+"incident": null
+},
+"G00128": {
+"on_topic": "no",
+"incident": null
+},
+"G00129": {
+"on_topic": "no",
+"incident": null
+},
+"G00130": {
+"on_topic": "no",
+"incident": null
+},
+"G00131": {
+"on_topic": "no",
+"incident": null
+},
+"G00132": {
+"on_topic": "no",
+"incident": null
+},
+"G00133": {
+"on_topic": "no",
+"incident": null
+},
+"G00134": {
+"on_topic": "no",
+"incident": null
+},
+"G00135": {
+"on_topic": "no",
+"incident": null
+},
+"G00136": {
+"on_topic": "no",
+"incident": null
+},
+"G00137": {
+"on_topic": "no",
+"incident": null
+},
+"G00138": {
+"on_topic": "no",
+"incident": null
+},
+"G00139": {
+"on_topic": "no",
+"incident": null
+},
+"G00140": {
+"on_topic": "no",
+"incident": null
+},
+"G00141": {
+"on_topic": "no",
+"incident": null
+},
+"G00142": {
+"on_topic": "yes",
+"incident": "barranquilla · 5 aug · hitman feigns patient to kill in icu"
+},
+"G00143": {
+"on_topic": "no",
+"incident": null
+},
+"G00144": {
+"on_topic": "no",
+"incident": null
+},
+"G00145": {
+"on_topic": "no",
+"incident": null
+},
+"G00146": {
+"on_topic": "no",
+"incident": null
+},
+"G00147": {
+"on_topic": "no",
+"incident": null
+},
+"G00148": {
+"on_topic": "no",
+"incident": null
+},
+"G00149": {
+"on_topic": "no",
+"incident": null
+},
+"G00150": {
+"on_topic": "no",
+"incident": null
+},
+"G00151": {
+"on_topic": "no",
+"incident": null
+},
+"G00152": {
+"on_topic": "no",
+"incident": null
+},
+"G00153": {
+"on_topic": "no",
+"incident": null
+},
+"G00154": {
+"on_topic": "no",
+"incident": null
+},
+"G00155": {
+"on_topic": "no",
+"incident": null
+},
+"G00156": {
+"on_topic": "no",
+"incident": null
+},
+"G00157": {
+"on_topic": "no",
+"incident": null
+},
+"G00158": {
+"on_topic": "yes",
+"incident": "colombia · 4 aug · us flight attendant found dead, two arrested"
+},
+"G00159": {
+"on_topic": "no",
+"incident": null
+},
+"G00160": {
+"on_topic": "no",
+"incident": null
+},
+"G00161": {
+"on_topic": "yes",
+"incident": "colombia · 4 aug · us flight attendant found dead, two arrested"
+},
+"G00162": {
+"on_topic": "no",
+"incident": null
+},
+"G00163": {
+"on_topic": "no",
+"incident": null
+},
+"G00164": {
+"on_topic": "no",
+"incident": null
+},
+"G00165": {
+"on_topic": "no",
+"incident": null
+},
+"G00166": {
+"on_topic": "no",
+"incident": null
+},
+"G00167": {
+"on_topic": "no",
+"incident": null
+},
+"G00168": {
+"on_topic": "yes",
+"incident": "barranquilla · 6 aug · mother of three shot dead"
+},
+"G00169": {
+"on_topic": "no",
+"incident": null
+},
+"G00170": {
+"on_topic": "no",
+"incident": null
+},
+"G00171": {
+"on_topic": "no",
+"incident": null
+},
+"G00172": {
+"on_topic": "no",
+"incident": null
+},
+"G00173": {
+"on_topic": "no",
+"incident": null
+},
+"G00174": {
+"on_topic": "no",
+"incident": null
+},
+"G00175": {
+"on_topic": "no",
+"incident": null
+},
+"G00176": {
+"on_topic": "no",
+"incident": null
+},
+"G00177": {
+"on_topic": "yes",
+"incident": "bogotá · 6 aug · rideshare driver murdered for his car"
+},
+"G00178": {
+"on_topic": "no",
+"incident": null
+},
+"G00179": {
+"on_topic": "no",
+"incident": null
+},
+"G00180": {
+"on_topic": "no",
+"incident": null
+},
+"G00181": {
+"on_topic": "no",
+"incident": null
+},
+"G00182": {
+"on_topic": "no",
+"incident": null
+},
+"G00183": {
+"on_topic": "no",
+"incident": null
+},
+"G00184": {
+"on_topic": "no",
+"incident": null
+},
+"G00185": {
+"on_topic": "no",
+"incident": null
+},
+"G00186": {
+"on_topic": "no",
+"incident": null
+},
+"G00187": {
+"on_topic": "no",
+"incident": null
+},
+"G00188": {
+"on_topic": "no",
+"incident": null
+},
+"G00189": {
+"on_topic": "no",
+"incident": null
+},
+"G00190": {
+"on_topic": "no",
+"incident": null
+},
+"G00191": {
+"on_topic": "no",
+"incident": null
+},
+"G00192": {
+"on_topic": "no",
+"incident": null
+},
+"G00193": {
+"on_topic": "no",
+"incident": null
+},
+"G00194": {
+"on_topic": "no",
+"incident": null
+},
+"G00195": {
+"on_topic": "no",
+"incident": null
+},
+"G00196": {
+"on_topic": "no",
+"incident": null
+},
+"G00197": {
+"on_topic": "no",
+"incident": null
+},
+"G00198": {
+"on_topic": "no",
+"incident": null
+},
+"G00199": {
+"on_topic": "no",
+"incident": null
+},
+"G00200": {
+"on_topic": "no",
+"incident": null
+},
+"G00201": {
+"on_topic": "no",
+"incident": null
+},
+"G00202": {
+"on_topic": "no",
+"incident": null
+},
+"G00203": {
+"on_topic": "no",
+"incident": null
+},
+"G00204": {
+"on_topic": "no",
+"incident": null
+},
+"G00205": {
+"on_topic": "no",
+"incident": null
+},
+"G00206": {
+"on_topic": "no",
+"incident": null
+},
+"G00207": {
+"on_topic": "no",
+"incident": null
+},
+"G00208": {
+"on_topic": "no",
+"incident": null
+},
+"G00209": {
+"on_topic": "no",
+"incident": null
+},
+"G00210": {
+"on_topic": "no",
+"incident": null
+},
+"G00211": {
+"on_topic": "no",
+"incident": null
+},
+"G00212": {
+"on_topic": "no",
+"incident": null
+},
+"G00213": {
+"on_topic": "no",
+"incident": null
+},
+"G00214": {
+"on_topic": "no",
+"incident": null
+},
+"G00215": {
+"on_topic": "no",
+"incident": null
+},
+"G00216": {
+"on_topic": "no",
+"incident": null
+},
+"G00217": {
+"on_topic": "no",
+"incident": null
+},
+"G00218": {
+"on_topic": "no",
+"incident": null
+},
+"G00219": {
+"on_topic": "no",
+"incident": null
+},
+"G00220": {
+"on_topic": "no",
+"incident": null
+},
+"G00221": {
+"on_topic": "no",
+"incident": null
+},
+"G00222": {
+"on_topic": "no",
+"incident": null
+},
+"G00223": {
+"on_topic": "no",
+"incident": null
+},
+"G00224": {
+"on_topic": "no",
+"incident": null
+},
+"G00225": {
+"on_topic": "no",
+"incident": null
+},
+"G00226": {
+"on_topic": "yes",
+"incident": "barranquilla · 6 aug · venezuelan woman shot dead, caribe verde"
+},
+"G00227": {
+"on_topic": "no",
+"incident": null
+},
+"G00228": {
+"on_topic": "yes",
+"incident": "girón, santander · 6 aug · inpec prison guard shot dead"
+},
+"G00229": {
+"on_topic": "no",
+"incident": null
+},
+"G00230": {
+"on_topic": "no",
+"incident": null
+},
+"G00231": {
+"on_topic": "no",
+"incident": null
+},
+"G00232": {
+"on_topic": "no",
+"incident": null
+},
+"G00233": {
+"on_topic": "no",
+"incident": null
+},
+"G00234": {
+"on_topic": "no",
+"incident": null
+},
+"G00235": {
+"on_topic": "no",
+"incident": null
+},
+"G00236": {
+"on_topic": "no",
+"incident": null
+},
+"G00237": {
+"on_topic": "yes",
+"incident": "girón, santander · 6 aug · inpec prison guard shot dead"
+},
+"G00238": {
+"on_topic": "no",
+"incident": null
+},
+"G00239": {
+"on_topic": "no",
+"incident": null
+},
+"G00240": {
+"on_topic": "no",
+"incident": null
+},
+"G00241": {
+"on_topic": "no",
+"incident": null
+},
+"G00242": {
+"on_topic": "no",
+"incident": null
+},
+"G00243": {
+"on_topic": "no",
+"incident": null
+},
+"G00244": {
+"on_topic": "no",
+"incident": null
+},
+"G00245": {
+"on_topic": "no",
+"incident": null
+},
+"G00246": {
+"on_topic": "no",
+"incident": null
+},
+"G00247": {
+"on_topic": "no",
+"incident": null
+},
+"G00248": {
+"on_topic": "no",
+"incident": null
+},
+"G00249": {
+"on_topic": "no",
+"incident": null
+},
+"G00250": {
+"on_topic": "no",
+"incident": null
+},
+"G00251": {
+"on_topic": "no",
+"incident": null
+},
+"G00252": {
+"on_topic": "no",
+"incident": null
+},
+"G00253": {
+"on_topic": "no",
+"incident": null
+},
+"G00254": {
+"on_topic": "no",
+"incident": null
+},
+"G00255": {
+"on_topic": "no",
+"incident": null
+},
+"G00256": {
+"on_topic": "no",
+"incident": null
+},
+"G00257": {
+"on_topic": "no",
+"incident": null
+},
+"G00258": {
+"on_topic": "no",
+"incident": null
+},
+"G00259": {
+"on_topic": "no",
+"incident": null
+},
+"G00260": {
+"on_topic": "no",
+"incident": null
+},
+"G00261": {
+"on_topic": "no",
+"incident": null
+},
+"G00262": {
+"on_topic": "no",
+"incident": null
+},
+"G00263": {
+"on_topic": "no",
+"incident": null
+},
+"G00264": {
+"on_topic": "no",
+"incident": null
+},
+"G00265": {
+"on_topic": "no",
+"incident": null
+},
+"G00266": {
+"on_topic": "no",
+"incident": null
+},
+"G00267": {
+"on_topic": "no",
+"incident": null
+},
+"G00268": {
+"on_topic": "no",
+"incident": null
+},
+"G00269": {
+"on_topic": "no",
+"incident": null
+},
+"G00270": {
+"on_topic": "no",
+"incident": null
+},
+"G00271": {
+"on_topic": "no",
+"incident": null
+},
+"G00272": {
+"on_topic": "no",
+"incident": null
+},
+"G00273": {
+"on_topic": "no",
+"incident": null
+},
+"G00274": {
+"on_topic": "no",
+"incident": null
+},
+"G00275": {
+"on_topic": "no",
+"incident": null
+},
+"G00276": {
+"on_topic": "no",
+"incident": null
+},
+"G00277": {
+"on_topic": "no",
+"incident": null
+},
+"G00278": {
+"on_topic": "no",
+"incident": null
+},
+"G00279": {
+"on_topic": "no",
+"incident": null
+},
+"G00280": {
+"on_topic": "no",
+"incident": null
+},
+"G00281": {
+"on_topic": "no",
+"incident": null
+},
+"G00282": {
+"on_topic": "no",
+"incident": null
+},
+"G00283": {
+"on_topic": "no",
+"incident": null
+},
+"G00284": {
+"on_topic": "no",
+"incident": null
+},
+"G00285": {
+"on_topic": "no",
+"incident": null
+},
+"G00286": {
+"on_topic": "no",
+"incident": null
+},
+"G00287": {
+"on_topic": "no",
+"incident": null
+},
+"G00288": {
+"on_topic": "no",
+"incident": null
+},
+"G00289": {
+"on_topic": "no",
+"incident": null
+},
+"G00290": {
+"on_topic": "no",
+"incident": null
+},
+"G00291": {
+"on_topic": "no",
+"incident": null
+},
+"G00292": {
+"on_topic": "no",
+"incident": null
+},
+"G00293": {
+"on_topic": "yes",
+"incident": "abejorral, antioquia · 7 aug · three men killed in massacre"
+},
+"G00294": {
+"on_topic": "no",
+"incident": null
+},
+"G00295": {
+"on_topic": "no",
+"incident": null
+},
+"G00296": {
+"on_topic": "no",
+"incident": null
+},
+"G00297": {
+"on_topic": "no",
+"incident": null
+},
+"G00298": {
+"on_topic": "no",
+"incident": null
+},
+"G00299": {
+"on_topic": "no",
+"incident": null
+},
+"G00300": {
+"on_topic": "no",
+"incident": null
+},
+"G00301": {
+"on_topic": "no",
+"incident": null
+},
+"G00302": {
+"on_topic": "no",
+"incident": null
+},
+"G00303": {
+"on_topic": "no",
+"incident": null
+},
+"G00304": {
+"on_topic": "no",
+"incident": null
+},
+"G00305": {
+"on_topic": "no",
+"incident": null
+},
+"G00306": {
+"on_topic": "no",
+"incident": null
+},
+"G00307": {
+"on_topic": "no",
+"incident": null
+},
+"G00308": {
+"on_topic": "no",
+"incident": null
+},
+"G00309": {
+"on_topic": "no",
+"incident": null
+},
+"G00310": {
+"on_topic": "no",
+"incident": null
+},
+"G00311": {
+"on_topic": "no",
+"incident": null
+},
+"G00312": {
+"on_topic": "no",
+"incident": null
+},
+"G00313": {
+"on_topic": "no",
+"incident": null
+},
+"G00314": {
+"on_topic": "no",
+"incident": null
+},
+"G00315": {
+"on_topic": "no",
+"incident": null
+},
+"G00316": {
+"on_topic": "no",
+"incident": null
+},
+"G00317": {
+"on_topic": "no",
+"incident": null
+},
+"G00318": {
+"on_topic": "no",
+"incident": null
+},
+"G00319": {
+"on_topic": "no",
+"incident": null
+},
+"G00320": {
+"on_topic": "no",
+"incident": null
+},
+"G00321": {
+"on_topic": "no",
+"incident": null
+},
+"G00322": {
+"on_topic": "no",
+"incident": null
+},
+"G00323": {
+"on_topic": "no",
+"incident": null
+},
+"G00324": {
+"on_topic": "no",
+"incident": null
+},
+"G00325": {
+"on_topic": "no",
+"incident": null
+},
+"G00326": {
+"on_topic": "no",
+"incident": null
+},
+"G00327": {
+"on_topic": "no",
+"incident": null
+},
+"G00328": {
+"on_topic": "no",
+"incident": null
+},
+"G00329": {
+"on_topic": "no",
+"incident": null
+},
+"G00330": {
+"on_topic": "no",
+"incident": null
+},
+"G00331": {
+"on_topic": "no",
+"incident": null
+},
+"G00332": {
+"on_topic": "no",
+"incident": null
+},
+"G00333": {
+"on_topic": "no",
+"incident": null
+},
+"G00334": {
+"on_topic": "no",
+"incident": null
+},
+"G00335": {
+"on_topic": "no",
+"incident": null
+},
+"G00336": {
+"on_topic": "no",
+"incident": null
+},
+"G00337": {
+"on_topic": "no",
+"incident": null
+},
+"G00338": {
+"on_topic": "no",
+"incident": null
+},
+"G00339": {
+"on_topic": "no",
+"incident": null
+},
+"G00340": {
+"on_topic": "no",
+"incident": null
+},
+"G00341": {
+"on_topic": "no",
+"incident": null
+},
+"G00342": {
+"on_topic": "no",
+"incident": null
+},
+"G00343": {
+"on_topic": "no",
+"incident": null
+},
+"G00344": {
+"on_topic": "no",
+"incident": null
+},
+"G00345": {
+"on_topic": "no",
+"incident": null
+},
+"G00346": {
+"on_topic": "no",
+"incident": null
+},
+"G00347": {
+"on_topic": "no",
+"incident": null
+},
+"G00348": {
+"on_topic": "no",
+"incident": null
+},
+"G00349": {
+"on_topic": "no",
+"incident": null
+},
+"G00350": {
+"on_topic": "no",
+"incident": null
+},
+"G00351": {
+"on_topic": "no",
+"incident": null
+},
+"G00352": {
+"on_topic": "no",
+"incident": null
+},
+"G00353": {
+"on_topic": "no",
+"incident": null
+},
+"G00354": {
+"on_topic": "no",
+"incident": null
+},
+"G00355": {
+"on_topic": "no",
+"incident": null
+},
+"G00356": {
+"on_topic": "no",
+"incident": null
+},
+"G00357": {
+"on_topic": "no",
+"incident": null
+},
+"G00358": {
+"on_topic": "no",
+"incident": null
+},
+"G00359": {
+"on_topic": "no",
+"incident": null
+},
+"G00360": {
+"on_topic": "no",
+"incident": null
+},
+"G00361": {
+"on_topic": "no",
+"incident": null
+},
+"G00362": {
+"on_topic": "no",
+"incident": null
+},
+"G00363": {
+"on_topic": "no",
+"incident": null
+},
+"G00364": {
+"on_topic": "no",
+"incident": null
+},
+"G00365": {
+"on_topic": "no",
+"incident": null
+},
+"G00366": {
+"on_topic": "no",
+"incident": null
+},
+"G00367": {
+"on_topic": "no",
+"incident": null
+},
+"G00368": {
+"on_topic": "no",
+"incident": null
+},
+"G00369": {
+"on_topic": "no",
+"incident": null
+},
+"G00370": {
+"on_topic": "no",
+"incident": null
+},
+"G00371": {
+"on_topic": "no",
+"incident": null
+},
+"G00372": {
+"on_topic": "no",
+"incident": null
+},
+"G00373": {
+"on_topic": "no",
+"incident": null
+},
+"G00374": {
+"on_topic": "no",
+"incident": null
+},
+"G00375": {
+"on_topic": "no",
+"incident": null
+},
+"G00376": {
+"on_topic": "no",
+"incident": null
+},
+"G00377": {
+"on_topic": "no",
+"incident": null
+},
+"G00378": {
+"on_topic": "no",
+"incident": null
+},
+"G00379": {
+"on_topic": "no",
+"incident": null
+},
+"G00380": {
+"on_topic": "no",
+"incident": null
+},
+"G00381": {
+"on_topic": "no",
+"incident": null
+},
+"G00382": {
+"on_topic": "no",
+"incident": null
+},
+"G00383": {
+"on_topic": "no",
+"incident": null
+},
+"G00384": {
+"on_topic": "no",
+"incident": null
+},
+"G00385": {
+"on_topic": "no",
+"incident": null
+},
+"G00386": {
+"on_topic": "no",
+"incident": null
+},
+"G00387": {
+"on_topic": "no",
+"incident": null
+},
+"G00388": {
+"on_topic": "no",
+"incident": null
+},
+"G00389": {
+"on_topic": "no",
+"incident": null
+},
+"G00390": {
+"on_topic": "no",
+"incident": null
+},
+"G00391": {
+"on_topic": "no",
+"incident": null
+},
+"G00392": {
+"on_topic": "no",
+"incident": null
+},
+"G00393": {
+"on_topic": "no",
+"incident": null
+},
+"G00394": {
+"on_topic": "no",
+"incident": null
+},
+"G00395": {
+"on_topic": "no",
+"incident": null
+},
+"G00396": {
+"on_topic": "no",
+"incident": null
+},
+"G00397": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00398": {
+"on_topic": "no",
+"incident": null
+},
+"G00399": {
+"on_topic": "no",
+"incident": null
+},
+"G00400": {
+"on_topic": "no",
+"incident": null
+},
+"G00401": {
+"on_topic": "no",
+"incident": null
+},
+"G00402": {
+"on_topic": "no",
+"incident": null
+},
+"G00403": {
+"on_topic": "no",
+"incident": null
+},
+"G00404": {
+"on_topic": "no",
+"incident": null
+},
+"G00405": {
+"on_topic": "no",
+"incident": null
+},
+"G00406": {
+"on_topic": "no",
+"incident": null
+},
+"G00407": {
+"on_topic": "no",
+"incident": null
+},
+"G00408": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00409": {
+"on_topic": "no",
+"incident": null
+},
+"G00410": {
+"on_topic": "no",
+"incident": null
+},
+"G00411": {
+"on_topic": "no",
+"incident": null
+},
+"G00412": {
+"on_topic": "no",
+"incident": null
+},
+"G00413": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00414": {
+"on_topic": "no",
+"incident": null
+},
+"G00415": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00416": {
+"on_topic": "no",
+"incident": null
+},
+"G00417": {
+"on_topic": "no",
+"incident": null
+},
+"G00418": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00419": {
+"on_topic": "no",
+"incident": null
+},
+"G00420": {
+"on_topic": "no",
+"incident": null
+},
+"G00421": {
+"on_topic": "no",
+"incident": null
+},
+"G00422": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00423": {
+"on_topic": "no",
+"incident": null
+},
+"G00424": {
+"on_topic": "no",
+"incident": null
+},
+"G00425": {
+"on_topic": "no",
+"incident": null
+},
+"G00426": {
+"on_topic": "no",
+"incident": null
+},
+"G00427": {
+"on_topic": "no",
+"incident": null
+},
+"G00428": {
+"on_topic": "no",
+"incident": null
+},
+"G00429": {
+"on_topic": "no",
+"incident": null
+},
+"G00430": {
+"on_topic": "no",
+"incident": null
+},
+"G00431": {
+"on_topic": "no",
+"incident": null
+},
+"G00432": {
+"on_topic": "no",
+"incident": null
+},
+"G00433": {
+"on_topic": "no",
+"incident": null
+},
+"G00434": {
+"on_topic": "no",
+"incident": null
+},
+"G00435": {
+"on_topic": "no",
+"incident": null
+},
+"G00436": {
+"on_topic": "no",
+"incident": null
+},
+"G00437": {
+"on_topic": "no",
+"incident": null
+},
+"G00438": {
+"on_topic": "no",
+"incident": null
+},
+"G00439": {
+"on_topic": "no",
+"incident": null
+},
+"G00440": {
+"on_topic": "no",
+"incident": null
+},
+"G00441": {
+"on_topic": "no",
+"incident": null
+},
+"G00442": {
+"on_topic": "no",
+"incident": null
+},
+"G00443": {
+"on_topic": "no",
+"incident": null
+},
+"G00444": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00445": {
+"on_topic": "no",
+"incident": null
+},
+"G00446": {
+"on_topic": "no",
+"incident": null
+},
+"G00447": {
+"on_topic": "no",
+"incident": null
+},
+"G00448": {
+"on_topic": "no",
+"incident": null
+},
+"G00449": {
+"on_topic": "no",
+"incident": null
+},
+"G00450": {
+"on_topic": "no",
+"incident": null
+},
+"G00451": {
+"on_topic": "no",
+"incident": null
+},
+"G00452": {
+"on_topic": "no",
+"incident": null
+},
+"G00453": {
+"on_topic": "no",
+"incident": null
+},
+"G00454": {
+"on_topic": "yes",
+"incident": "colombia · 8 aug · police chief killed as prisoner transfer attacked"
+},
+"G00455": {
+"on_topic": "no",
+"incident": null
+},
+"G00456": {
+"on_topic": "no",
+"incident": null
+},
+"G00457": {
+"on_topic": "no",
+"incident": null
+},
+"G00458": {
+"on_topic": "no",
+"incident": null
+},
+"G00459": {
+"on_topic": "no",
+"incident": null
+},
+"G00460": {
+"on_topic": "no",
+"incident": null
+},
+"G00461": {
+"on_topic": "no",
+"incident": null
+},
+"G00462": {
+"on_topic": "no",
+"incident": null
+},
+"G00463": {
+"on_topic": "no",
+"incident": null
+},
+"G00464": {
+"on_topic": "no",
+"incident": null
+},
+"G00465": {
+"on_topic": "no",
+"incident": null
+},
+"G00466": {
+"on_topic": "no",
+"incident": null
+},
+"G00467": {
+"on_topic": "no",
+"incident": null
+},
+"G00468": {
+"on_topic": "yes",
+"incident": "cúcuta · 7–8 aug · venezuelan woman murdered"
+},
+"G00469": {
+"on_topic": "no",
+"incident": null
+},
+"G00470": {
+"on_topic": "no",
+"incident": null
+},
+"G00471": {
+"on_topic": "no",
+"incident": null
+},
+"G00472": {
+"on_topic": "no",
+"incident": null
+},
+"G00473": {
+"on_topic": "no",
+"incident": null
+},
+"G00474": {
+"on_topic": "no",
+"incident": null
+},
+"G00475": {
+"on_topic": "no",
+"incident": null
+},
+"G00476": {
+"on_topic": "no",
+"incident": null
+},
+"G00477": {
+"on_topic": "no",
+"incident": null
+},
+"G00478": {
+"on_topic": "no",
+"incident": null
+},
+"G00479": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00480": {
+"on_topic": "no",
+"incident": null
+},
+"G00481": {
+"on_topic": "no",
+"incident": null
+},
+"G00482": {
+"on_topic": "no",
+"incident": null
+},
+"G00483": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00484": {
+"on_topic": "no",
+"incident": null
+},
+"G00485": {
+"on_topic": "no",
+"incident": null
+},
+"G00486": {
+"on_topic": "no",
+"incident": null
+},
+"G00487": {
+"on_topic": "no",
+"incident": null
+},
+"G00488": {
+"on_topic": "no",
+"incident": null
+},
+"G00489": {
+"on_topic": "no",
+"incident": null
+},
+"G00490": {
+"on_topic": "no",
+"incident": null
+},
+"G00491": {
+"on_topic": "no",
+"incident": null
+},
+"G00492": {
+"on_topic": "yes",
+"incident": "barranquilla · 6 aug · mother of three shot dead"
+},
+"G00493": {
+"on_topic": "yes",
+"incident": "san roque, cesar · 8 aug · explosive attack on police substation kills 1"
+},
+"G00494": {
+"on_topic": "no",
+"incident": null
+},
+"G00495": {
+"on_topic": "no",
+"incident": null
+},
+"G00496": {
+"on_topic": "no",
+"incident": null
+},
+"G00497": {
+"on_topic": "no",
+"incident": null
+},
+"G00498": {
+"on_topic": "no",
+"incident": null
+},
+"G00499": {
+"on_topic": "yes",
+"incident": "anolaima, cundinamarca · 9 aug · 20-month-old baby dies, stepfather arrested"
+},
+"G00500": {
+"on_topic": "yes",
+"incident": "ibagué, tolima · 9 aug · brawl leaves one dead, two injured"
+},
+"G00501": {
+"on_topic": "no",
+"incident": null
+},
+"G00502": {
+"on_topic": "no",
+"incident": null
+},
+"G00503": {
+"on_topic": "no",
+"incident": null
+},
+"G00504": {
+"on_topic": "no",
+"incident": null
+},
+"G00505": {
+"on_topic": "no",
+"incident": null
+},
+"G00506": {
+"on_topic": "yes",
+"incident": "anolaima, cundinamarca · 9 aug · 20-month-old baby dies, stepfather arrested"
+}
 }

@@ -1,3974 +1,6746 @@
 {
- "R0001": {
-  "on_topic": "yes",
-  "incident": "Brazil · 19 Oct · man kills rival"
- },
- "R0002": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0003": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0004": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0005": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0006": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0007": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0008": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0009": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0010": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0011": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0012": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0013": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0014": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0015": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0016": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0017": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0018": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0019": {
-  "on_topic": "yes",
-  "incident": "Mato Grosso do Sul · 23 Oct · hooded men invade home and kill resident"
- },
- "R0020": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0021": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0022": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0023": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0024": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0025": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0026": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0027": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0028": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0029": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0030": {
-  "on_topic": "yes",
-  "incident": "Timon · 23 Oct · armed group kills young man and beats others"
- },
- "R0031": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0032": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0033": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0034": {
-  "on_topic": "yes",
-  "incident": "Volta Redonda · 25 Oct · gang clashes kill two and burn vehicles"
- },
- "R0035": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0036": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0037": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0038": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0039": {
-  "on_topic": "yes",
-  "incident": "Búzios · 23 Oct · woman dies after being stabbed by ex-partner"
- },
- "R0040": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0041": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0042": {
-  "on_topic": "yes",
-  "incident": "Rio de Janeiro South Zone · 22 Oct · robbery gang leader dies in police pursuit"
- },
- "R0043": {
-  "on_topic": "yes",
-  "incident": "Campo Grande · 19 Oct · robbery-murder suspect dies in police shootout"
- },
- "R0044": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0045": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0046": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0047": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0048": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0049": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0050": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0051": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0052": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0053": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0054": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0055": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0056": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0057": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0058": {
-  "on_topic": "yes",
-  "incident": "Downtown João Pessoa · 20 Oct · homicide leaves one dead and one injured"
- },
- "R0059": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0060": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0061": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0062": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0063": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0064": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0065": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0066": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0067": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0068": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0069": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0070": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0071": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0072": {
-  "on_topic": "yes",
-  "incident": "Maceió · 22 Oct · 24-year-old killed on a staircase"
- },
- "R0073": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0074": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0075": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0076": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0077": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0078": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0079": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0080": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0081": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0082": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0083": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0084": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0085": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0086": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0087": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0088": {
-  "on_topic": "yes",
-  "incident": "Muca, Macapá · 21 Oct · young man shot dead"
- },
- "R0089": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0090": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0091": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0092": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0093": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0094": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0095": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0096": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0097": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0098": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0099": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0100": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0101": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0102": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0103": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0104": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0105": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0106": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0107": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0108": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0109": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0110": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0111": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0112": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0113": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0114": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0115": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0116": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0117": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0118": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0119": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0120": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0121": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0122": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0123": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0124": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0125": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0126": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0127": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0128": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0129": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0130": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0131": {
-  "on_topic": "yes",
-  "incident": "Duque de Caxias · 22 Oct · man shot dead during attempted robbery"
- },
- "R0132": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0133": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0134": {
-  "on_topic": "yes",
-  "incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
- },
- "R0135": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0136": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0137": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0138": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0139": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0140": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0141": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0142": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0143": {
-  "on_topic": "yes",
-  "incident": "Duque de Caxias · 23 Oct · shooting kills one man and wounds another"
- },
- "R0144": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0145": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0146": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0147": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0148": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0149": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0150": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0151": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0152": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0153": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0154": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0155": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0156": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0157": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0158": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0159": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0160": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0161": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0162": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0163": {
-  "on_topic": "yes",
-  "incident": "Catanduva · 20 Oct · doctor killed in police shootout"
- },
- "R0164": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0165": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0166": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0167": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0168": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0169": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0170": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0171": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0172": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0173": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0174": {
-  "on_topic": "yes",
-  "incident": "Catanduva · 20 Oct · doctor killed in police shootout"
- },
- "R0175": {
-  "on_topic": "yes",
-  "incident": "Paraná · 21 Oct · man shot dead over cellphone debt"
- },
- "R0176": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0177": {
-  "on_topic": "yes",
-  "incident": "Botafogo, Rio de Janeiro · 21 Oct · man killed after chase and shootout"
- },
- "R0178": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0179": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0180": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0181": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0182": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0183": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0184": {
-  "on_topic": "yes",
-  "incident": "Nova Iguaçu · 22 Oct · woman killed in femicide"
- },
- "R0185": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0186": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0187": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0188": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0189": {
-  "on_topic": "yes",
-  "incident": "Maranhão · 20 Oct · professor killed by his brother"
- },
- "R0190": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0191": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0192": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0193": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0194": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0195": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0196": {
-  "on_topic": "yes",
-  "incident": "Recôncavo, Bahia · 22 Oct · businessman shoots and kills wife"
- },
- "R0197": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0198": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0199": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0200": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0201": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0202": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0203": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0204": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0205": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0206": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0207": {
-  "on_topic": "yes",
-  "incident": "Brazil · 20 Oct · motorcycle gunmen kill man outside fish market"
- },
- "R0208": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0209": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0210": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0211": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0212": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0213": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0214": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0215": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0216": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0217": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0218": {
-  "on_topic": "yes",
-  "incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
- },
- "R0219": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0220": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0221": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0222": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0223": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0224": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0225": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0226": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0227": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0228": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0229": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0230": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0231": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0232": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0233": {
-  "on_topic": "yes",
-  "incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
- },
- "R0234": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0235": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0236": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0237": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0238": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0239": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0240": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0241": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0242": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0243": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0244": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0245": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0246": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0247": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0248": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0249": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0250": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0251": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0252": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0253": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0254": {
-  "on_topic": "yes",
-  "incident": "Volta Redonda · 25 Oct · gang clashes kill two and burn vehicles"
- },
- "R0255": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0256": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0257": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0258": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0259": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0260": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0261": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0262": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0263": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0264": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0265": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0266": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0267": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0268": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0269": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0270": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0271": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0272": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0273": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0274": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0275": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0276": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0277": {
-  "on_topic": "yes",
-  "incident": "Maceió · 20 Oct · 24-year-old man killed in a square"
- },
- "R0278": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0279": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0280": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0281": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0282": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0283": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0284": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0285": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0286": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0287": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0288": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0289": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0290": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0291": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0292": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0293": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0294": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0295": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0296": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0297": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0298": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0299": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0300": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0301": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0302": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0303": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0304": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0305": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0306": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0307": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0308": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0309": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0310": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0311": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0312": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0313": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0314": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0315": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0316": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0317": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0318": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0319": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0320": {
-  "on_topic": "yes",
-  "incident": "Brazil · 19 Oct · hit-and-run driver kills homeless man"
- },
- "R0321": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0322": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0323": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0324": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0325": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0326": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0327": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0328": {
-  "on_topic": "yes",
-  "incident": "Japeri · 19 Oct · police shootout kills four suspects"
- },
- "R0329": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0330": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0331": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0332": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0333": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0334": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0335": {
-  "on_topic": "yes",
-  "incident": "Mato Grosso · 24 Oct · man dies in police shootout"
- },
- "R0336": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0337": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0338": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0339": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0340": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0341": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0342": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0343": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0344": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0345": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0346": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0347": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0348": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0349": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0350": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0351": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0352": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0353": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0354": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0355": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0356": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0357": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0358": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0359": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0360": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0361": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0362": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0363": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0364": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0365": {
-  "on_topic": "yes",
-  "incident": "Posse, Petrópolis · 21 Oct · shooting kills one and injures two"
- },
- "R0366": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0367": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0368": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0369": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0370": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0371": {
-  "on_topic": "yes",
-  "incident": "Recife · 25 Oct · city employee killed by partner during vote count"
- },
- "R0372": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0373": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0374": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0375": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0376": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0377": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0378": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0379": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0380": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0381": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0382": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0383": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0384": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0385": {
-  "on_topic": "yes",
-  "incident": "North Zone, São Paulo · 24 Oct · pai de santo shot dead"
- },
- "R0386": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0387": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0388": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0389": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0390": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0391": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0392": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0393": {
-  "on_topic": "yes",
-  "incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
- },
- "R0394": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0395": {
-  "on_topic": "yes",
-  "incident": "Sepetiba, Rio de Janeiro · 23 Oct · man shot dead on Estrada do Piaí"
- },
- "R0396": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0397": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0398": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0399": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0400": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0401": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0402": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0403": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0404": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0405": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0406": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0407": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0408": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0409": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0410": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0411": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0412": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0413": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0414": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0415": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0416": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0417": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0418": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0419": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0420": {
-  "on_topic": "yes",
-  "incident": "Brazil · 19 Oct · Ana Clara killed by ex-partner"
- },
- "R0421": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0422": {
-  "on_topic": "yes",
-  "incident": "Mato Grosso do Sul · 22 Oct · neighbor killed amid longstanding feud"
- },
- "R0423": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0424": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0425": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0426": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0427": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0428": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0429": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0430": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0431": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0432": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0433": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0434": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0435": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0436": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0437": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0438": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0439": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0440": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0441": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0442": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0443": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0444": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0445": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0446": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0447": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0448": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0449": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0450": {
-  "on_topic": "yes",
-  "incident": "Taquara, Rio de Janeiro · 22 Oct · shooting kills two and wounds one"
- },
- "R0451": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0452": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0453": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0454": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0455": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0456": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0457": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0458": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0459": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0460": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0461": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0462": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0463": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0464": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0465": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0466": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0467": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0468": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0469": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0470": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0471": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0472": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0473": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0474": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0475": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0476": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0477": {
-  "on_topic": "yes",
-  "incident": "Potirendaba · 25 Oct · stabbing kills one"
- },
- "R0478": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0479": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0480": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0481": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0482": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0483": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0484": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0485": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0486": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0487": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0488": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0489": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0490": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0491": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0492": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0493": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0494": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0495": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0496": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0497": {
-  "on_topic": "yes",
-  "incident": "Brazil · 23 Oct · two men killed in police shootout after chase"
- },
- "R0498": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0499": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0500": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0501": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0502": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0503": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0504": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0505": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0506": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0507": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0508": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0509": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0510": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0511": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0512": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0513": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0514": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0515": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0516": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0517": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0518": {
-  "on_topic": "yes",
-  "incident": "João Pessoa · 20 Oct · father and son die in police clash"
- },
- "R0519": {
-  "on_topic": "yes",
-  "incident": "Alagoas · 20 Oct · threatened man found dead in sugarcane field"
- },
- "R0520": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0521": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0522": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0523": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0524": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0525": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0526": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0527": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0528": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0529": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0530": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0531": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0532": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0533": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0534": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0535": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0536": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0537": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0538": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0539": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0540": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0541": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0542": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0543": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0544": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0545": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0546": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0547": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0548": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0549": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0550": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0551": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0552": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0553": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0554": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0555": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0556": {
-  "on_topic": "yes",
-  "incident": "Ribeirão Preto · 21 Oct · police operation kills two"
- },
- "R0557": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0558": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0559": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0560": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0561": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0562": {
-  "on_topic": "yes",
-  "incident": "Ceará · 23 Oct · councilwoman Cely Arrais killed in political retaliation"
- },
- "R0563": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0564": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0565": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0566": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0567": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0568": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0569": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0570": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0571": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0572": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0573": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0574": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0575": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0576": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0577": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0578": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0579": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0580": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0581": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0582": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0583": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0584": {
-  "on_topic": "yes",
-  "incident": "Viracopos Airport, Campinas · 21 Oct · police kill gang member"
- },
- "R0585": {
-  "on_topic": "yes",
-  "incident": "Rondônia · 21 Oct · rancher killed by his wife"
- },
- "R0586": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0587": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0588": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0589": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0590": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0591": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0592": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0593": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0594": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0595": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0596": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0597": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0598": {
-  "on_topic": "yes",
-  "incident": "Brazil · 19 Oct · police officer stabs 32-year-old woman to death"
- },
- "R0599": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0600": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0601": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0602": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0603": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0604": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0605": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0606": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0607": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0608": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0609": {
-  "on_topic": "yes",
-  "incident": "Macapá · 19 Oct · young man shot dead in execution"
- },
- "R0610": {
-  "on_topic": "yes",
-  "incident": "Bonito · 24 Oct · Lula supporter shot dead during political motorcade"
- },
- "R0611": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0612": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0613": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0614": {
-  "on_topic": "yes",
-  "incident": "North Zone, São Paulo · 24 Oct · pai de santo shot dead"
- },
- "R0615": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0616": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0617": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0618": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0619": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0620": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0621": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0622": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0623": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0624": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0625": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0626": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0627": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0628": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0629": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0630": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0631": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0632": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0633": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0634": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0635": {
-  "on_topic": "yes",
-  "incident": "João Pessoa · 20 Oct · father and son die in police clash"
- },
- "R0636": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0637": {
-  "on_topic": "yes",
-  "incident": "São José do Rio Preto · 20 Oct · man shot dead after intervening in debt dispute"
- },
- "R0638": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0639": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0640": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0641": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0642": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0643": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0644": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0645": {
-  "on_topic": "yes",
-  "incident": "Búzios · 23 Oct · woman dies after being stabbed by ex-partner"
- },
- "R0646": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0647": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0648": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0649": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0650": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0651": {
-  "on_topic": "yes",
-  "incident": "Rio de Janeiro · 22 Oct · lawyer Rodrigo Marinho Crespo shot dead outside OAB headquarters"
- },
- "R0652": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0653": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0654": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0655": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0656": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0657": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0658": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0659": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0660": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0661": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0662": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0663": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0664": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0665": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0666": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0667": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0668": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0669": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0670": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0671": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0672": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0673": {
-  "on_topic": "yes",
-  "incident": "Rio de Janeiro · 22 Oct · lawyer Rodrigo Marinho Crespo shot dead outside OAB headquarters"
- },
- "R0674": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0675": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0676": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0677": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0678": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0679": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0680": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0681": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0682": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0683": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0684": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0685": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0686": {
-  "on_topic": "yes",
-  "incident": "Minas Gerais · 22 Oct · suspect in teenager’s killing dies in police shootout"
- },
- "R0687": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0688": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0689": {
-  "on_topic": "yes",
-  "incident": "Ribeirão Preto · 21 Oct · police operation kills two"
- },
- "R0690": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0691": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0692": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0693": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0694": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0695": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0696": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0697": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0698": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0699": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0700": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0701": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0702": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0703": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0704": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0705": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0706": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0707": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0708": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0709": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0710": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0711": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0712": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0713": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0714": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0715": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0716": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0717": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0718": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0719": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0720": {
-  "on_topic": "yes",
-  "incident": "Brazil · 19 Oct · business couple killed in shooting"
- },
- "R0721": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0722": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0723": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0724": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0725": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0726": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0727": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0728": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0729": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0730": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0731": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0732": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0733": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0734": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0735": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0736": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0737": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0738": {
-  "on_topic": "yes",
-  "incident": "Paraná · 19 Oct · stepfather kills Venezuelan teenager"
- },
- "R0739": {
-  "on_topic": "yes",
-  "incident": "Brás, São Paulo · 20 Oct · man stabbed to death during cellphone robbery"
- },
- "R0740": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0741": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0742": {
-  "on_topic": "yes",
-  "incident": "Paraná · 21 Oct · boyfriend kills woman at home"
- },
- "R0743": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0744": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0745": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0746": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0747": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0748": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0749": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0750": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0751": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0752": {
-  "on_topic": "yes",
-  "incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
- },
- "R0753": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0754": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0755": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0756": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0757": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0758": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0759": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0760": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0761": {
-  "on_topic": "yes",
-  "incident": "Zona Leste, São Paulo · 20 Oct · police officer shoots knife-wielding woman dead"
- },
- "R0762": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0763": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0764": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0765": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0766": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0767": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0768": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0769": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0770": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0771": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0772": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0773": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0774": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0775": {
-  "on_topic": "yes",
-  "incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
- },
- "R0776": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0777": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0778": {
-  "on_topic": "yes",
-  "incident": "Espírito Santo · 20 Oct · man kills pregnant partner in femicide"
- },
- "R0779": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0780": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0781": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0782": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0783": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0784": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0785": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0786": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0787": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0788": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0789": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0790": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0791": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0792": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0793": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0794": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0795": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0796": {
-  "on_topic": "yes",
-  "incident": "Bonito · 24 Oct · Lula supporter shot dead during political motorcade"
- },
- "R0797": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0798": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0799": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0800": {
-  "on_topic": "yes",
-  "incident": "Brazil · 22 Oct · man shoots 7-month-old baby dead"
- },
- "R0801": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0802": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0803": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0804": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0805": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0806": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0807": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0808": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0809": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0810": {
-  "on_topic": "yes",
-  "incident": "Brazil · 19 Oct · gang feud kills delivery worker and injures another"
- },
- "R0811": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0812": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0813": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0814": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0815": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0816": {
-  "on_topic": "yes",
-  "incident": "Timon · 23 Oct · armed group kills young man and beats others"
- },
- "R0817": {
-  "on_topic": "yes",
-  "incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
- },
- "R0818": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0819": {
-  "on_topic": "yes",
-  "incident": "Macapá · 22 Oct · man known as Chapolin shot dead"
- },
- "R0820": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0821": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0822": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0823": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0824": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0825": {
-  "on_topic": "yes",
-  "incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
- },
- "R0826": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0827": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0828": {
-  "on_topic": "yes",
-  "incident": "Brazil · 19 Oct · Ana Clara killed by ex-partner"
- },
- "R0829": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0830": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0831": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0832": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0833": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0834": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0835": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0836": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0837": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0838": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0839": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0840": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0841": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0842": {
-  "on_topic": "yes",
-  "incident": "Belo Horizonte · 21 Oct · former prison officer kills cousin after argument"
- },
- "R0843": {
-  "on_topic": "yes",
-  "incident": "Timon · 23 Oct · armed group kills young man and beats others"
- },
- "R0844": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0845": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0846": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0847": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0848": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0849": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0850": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0851": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0852": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0853": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0854": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0855": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0856": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0857": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0858": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0859": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0860": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0861": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0862": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0863": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0864": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0865": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0866": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0867": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0868": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0869": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0870": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0871": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0872": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0873": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0874": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0875": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0876": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0877": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0878": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0879": {
-  "on_topic": "yes",
-  "incident": "Uberaba · 22 Oct · man shot over workplace debt dies"
- },
- "R0880": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0881": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0882": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0883": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0884": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0885": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0886": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0887": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0888": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0889": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0890": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0891": {
-  "on_topic": "yes",
-  "incident": "Cocal do Sul · 25 Oct · woman shot dead while holding her grandson"
- },
- "R0892": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0893": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0894": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0895": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0896": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0897": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0898": {
-  "on_topic": "yes",
-  "incident": "Várzea Grande · 20 Oct · woman stabbed to death by partner in supermarket"
- },
- "R0899": {
-  "on_topic": "yes",
-  "incident": "Brazil · 20 Oct · man nicknamed Metralha shot dead inside a home"
- },
- "R0900": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0901": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0902": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0903": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0904": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0905": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0906": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0907": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0908": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0909": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0910": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0911": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0912": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0913": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0914": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0915": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0916": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0917": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0918": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0919": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0920": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0921": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0922": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0923": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0924": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0925": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0926": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0927": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0928": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0929": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0930": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0931": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0932": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0933": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0934": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0935": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0936": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0937": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0938": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0939": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0940": {
-  "on_topic": "yes",
-  "incident": "Greater Belo Horizonte · 22 Oct · Beatriz Vitória tied and buried in shallow grave"
- },
- "R0941": {
-  "on_topic": "yes",
-  "incident": "Santa Catarina · 20 Oct · three bodies found charred"
- },
- "R0942": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0943": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0944": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0945": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0946": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0947": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0948": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0949": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0950": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0951": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0952": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0953": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0954": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0955": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0956": {
-  "on_topic": "yes",
-  "incident": "Axixá · 22 Oct · hooded gunmen shoot a man dead"
- },
- "R0957": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0958": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0959": {
-  "on_topic": "yes",
-  "incident": "Minas Gerais · 21 Oct · man kills wife and suspends her body"
- },
- "R0960": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0961": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0962": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0963": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0964": {
-  "on_topic": "yes",
-  "incident": "Campo Novo do Parecis · 25 Oct · police investigator shot dead"
- },
- "R0965": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0966": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0967": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0968": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0969": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0970": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0971": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0972": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0973": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0974": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0975": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0976": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0977": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0978": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0979": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0980": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0981": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0982": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0983": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0984": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0985": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0986": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0987": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0988": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0989": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0990": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0991": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0992": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0993": {
-  "on_topic": "no",
-  "incident": null
- }
+"R0001": {
+"on_topic": "yes",
+"incident": "Brazil · 19 Oct · man kills rival"
+},
+"R0002": {
+"on_topic": "no",
+"incident": null
+},
+"R0003": {
+"on_topic": "no",
+"incident": null
+},
+"R0004": {
+"on_topic": "no",
+"incident": null
+},
+"R0005": {
+"on_topic": "no",
+"incident": null
+},
+"R0006": {
+"on_topic": "no",
+"incident": null
+},
+"R0007": {
+"on_topic": "no",
+"incident": null
+},
+"R0008": {
+"on_topic": "no",
+"incident": null
+},
+"R0009": {
+"on_topic": "no",
+"incident": null
+},
+"R0010": {
+"on_topic": "no",
+"incident": null
+},
+"R0011": {
+"on_topic": "no",
+"incident": null
+},
+"R0012": {
+"on_topic": "no",
+"incident": null
+},
+"R0013": {
+"on_topic": "no",
+"incident": null
+},
+"R0014": {
+"on_topic": "no",
+"incident": null
+},
+"R0015": {
+"on_topic": "no",
+"incident": null
+},
+"R0016": {
+"on_topic": "no",
+"incident": null
+},
+"R0017": {
+"on_topic": "no",
+"incident": null
+},
+"R0018": {
+"on_topic": "no",
+"incident": null
+},
+"R0019": {
+"on_topic": "yes",
+"incident": "Mato Grosso do Sul · 23 Oct · hooded men invade home and kill resident"
+},
+"R0020": {
+"on_topic": "no",
+"incident": null
+},
+"R0021": {
+"on_topic": "no",
+"incident": null
+},
+"R0022": {
+"on_topic": "no",
+"incident": null
+},
+"R0023": {
+"on_topic": "no",
+"incident": null
+},
+"R0024": {
+"on_topic": "no",
+"incident": null
+},
+"R0025": {
+"on_topic": "no",
+"incident": null
+},
+"R0026": {
+"on_topic": "no",
+"incident": null
+},
+"R0027": {
+"on_topic": "no",
+"incident": null
+},
+"R0028": {
+"on_topic": "no",
+"incident": null
+},
+"R0029": {
+"on_topic": "no",
+"incident": null
+},
+"R0030": {
+"on_topic": "yes",
+"incident": "Timon · 23 Oct · armed group kills young man and beats others"
+},
+"R0031": {
+"on_topic": "no",
+"incident": null
+},
+"R0032": {
+"on_topic": "no",
+"incident": null
+},
+"R0033": {
+"on_topic": "no",
+"incident": null
+},
+"R0034": {
+"on_topic": "yes",
+"incident": "Volta Redonda · 25 Oct · gang clashes kill two and burn vehicles"
+},
+"R0035": {
+"on_topic": "no",
+"incident": null
+},
+"R0036": {
+"on_topic": "no",
+"incident": null
+},
+"R0037": {
+"on_topic": "no",
+"incident": null
+},
+"R0038": {
+"on_topic": "no",
+"incident": null
+},
+"R0039": {
+"on_topic": "yes",
+"incident": "Búzios · 23 Oct · woman dies after being stabbed by ex-partner"
+},
+"R0040": {
+"on_topic": "no",
+"incident": null
+},
+"R0041": {
+"on_topic": "no",
+"incident": null
+},
+"R0042": {
+"on_topic": "yes",
+"incident": "Rio de Janeiro South Zone · 22 Oct · robbery gang leader dies in police pursuit"
+},
+"R0043": {
+"on_topic": "yes",
+"incident": "Campo Grande · 19 Oct · robbery-murder suspect dies in police shootout"
+},
+"R0044": {
+"on_topic": "no",
+"incident": null
+},
+"R0045": {
+"on_topic": "no",
+"incident": null
+},
+"R0046": {
+"on_topic": "no",
+"incident": null
+},
+"R0047": {
+"on_topic": "no",
+"incident": null
+},
+"R0048": {
+"on_topic": "no",
+"incident": null
+},
+"R0049": {
+"on_topic": "no",
+"incident": null
+},
+"R0050": {
+"on_topic": "no",
+"incident": null
+},
+"R0051": {
+"on_topic": "no",
+"incident": null
+},
+"R0052": {
+"on_topic": "no",
+"incident": null
+},
+"R0053": {
+"on_topic": "no",
+"incident": null
+},
+"R0054": {
+"on_topic": "no",
+"incident": null
+},
+"R0055": {
+"on_topic": "no",
+"incident": null
+},
+"R0056": {
+"on_topic": "no",
+"incident": null
+},
+"R0057": {
+"on_topic": "no",
+"incident": null
+},
+"R0058": {
+"on_topic": "yes",
+"incident": "Downtown João Pessoa · 20 Oct · homicide leaves one dead and one injured"
+},
+"R0059": {
+"on_topic": "no",
+"incident": null
+},
+"R0060": {
+"on_topic": "no",
+"incident": null
+},
+"R0061": {
+"on_topic": "no",
+"incident": null
+},
+"R0062": {
+"on_topic": "no",
+"incident": null
+},
+"R0063": {
+"on_topic": "no",
+"incident": null
+},
+"R0064": {
+"on_topic": "no",
+"incident": null
+},
+"R0065": {
+"on_topic": "no",
+"incident": null
+},
+"R0066": {
+"on_topic": "no",
+"incident": null
+},
+"R0067": {
+"on_topic": "no",
+"incident": null
+},
+"R0068": {
+"on_topic": "no",
+"incident": null
+},
+"R0069": {
+"on_topic": "no",
+"incident": null
+},
+"R0070": {
+"on_topic": "no",
+"incident": null
+},
+"R0071": {
+"on_topic": "no",
+"incident": null
+},
+"R0072": {
+"on_topic": "yes",
+"incident": "Maceió · 22 Oct · 24-year-old killed on a staircase"
+},
+"R0073": {
+"on_topic": "no",
+"incident": null
+},
+"R0074": {
+"on_topic": "no",
+"incident": null
+},
+"R0075": {
+"on_topic": "no",
+"incident": null
+},
+"R0076": {
+"on_topic": "no",
+"incident": null
+},
+"R0077": {
+"on_topic": "no",
+"incident": null
+},
+"R0078": {
+"on_topic": "no",
+"incident": null
+},
+"R0079": {
+"on_topic": "no",
+"incident": null
+},
+"R0080": {
+"on_topic": "no",
+"incident": null
+},
+"R0081": {
+"on_topic": "no",
+"incident": null
+},
+"R0082": {
+"on_topic": "no",
+"incident": null
+},
+"R0083": {
+"on_topic": "no",
+"incident": null
+},
+"R0084": {
+"on_topic": "no",
+"incident": null
+},
+"R0085": {
+"on_topic": "no",
+"incident": null
+},
+"R0086": {
+"on_topic": "no",
+"incident": null
+},
+"R0087": {
+"on_topic": "no",
+"incident": null
+},
+"R0088": {
+"on_topic": "yes",
+"incident": "Muca, Macapá · 21 Oct · young man shot dead"
+},
+"R0089": {
+"on_topic": "no",
+"incident": null
+},
+"R0090": {
+"on_topic": "no",
+"incident": null
+},
+"R0091": {
+"on_topic": "no",
+"incident": null
+},
+"R0092": {
+"on_topic": "no",
+"incident": null
+},
+"R0093": {
+"on_topic": "no",
+"incident": null
+},
+"R0094": {
+"on_topic": "no",
+"incident": null
+},
+"R0095": {
+"on_topic": "no",
+"incident": null
+},
+"R0096": {
+"on_topic": "no",
+"incident": null
+},
+"R0097": {
+"on_topic": "no",
+"incident": null
+},
+"R0098": {
+"on_topic": "no",
+"incident": null
+},
+"R0099": {
+"on_topic": "no",
+"incident": null
+},
+"R0100": {
+"on_topic": "no",
+"incident": null
+},
+"R0101": {
+"on_topic": "no",
+"incident": null
+},
+"R0102": {
+"on_topic": "no",
+"incident": null
+},
+"R0103": {
+"on_topic": "no",
+"incident": null
+},
+"R0104": {
+"on_topic": "no",
+"incident": null
+},
+"R0105": {
+"on_topic": "no",
+"incident": null
+},
+"R0106": {
+"on_topic": "no",
+"incident": null
+},
+"R0107": {
+"on_topic": "no",
+"incident": null
+},
+"R0108": {
+"on_topic": "no",
+"incident": null
+},
+"R0109": {
+"on_topic": "no",
+"incident": null
+},
+"R0110": {
+"on_topic": "no",
+"incident": null
+},
+"R0111": {
+"on_topic": "no",
+"incident": null
+},
+"R0112": {
+"on_topic": "no",
+"incident": null
+},
+"R0113": {
+"on_topic": "no",
+"incident": null
+},
+"R0114": {
+"on_topic": "no",
+"incident": null
+},
+"R0115": {
+"on_topic": "no",
+"incident": null
+},
+"R0116": {
+"on_topic": "no",
+"incident": null
+},
+"R0117": {
+"on_topic": "no",
+"incident": null
+},
+"R0118": {
+"on_topic": "no",
+"incident": null
+},
+"R0119": {
+"on_topic": "no",
+"incident": null
+},
+"R0120": {
+"on_topic": "no",
+"incident": null
+},
+"R0121": {
+"on_topic": "no",
+"incident": null
+},
+"R0122": {
+"on_topic": "no",
+"incident": null
+},
+"R0123": {
+"on_topic": "no",
+"incident": null
+},
+"R0124": {
+"on_topic": "no",
+"incident": null
+},
+"R0125": {
+"on_topic": "no",
+"incident": null
+},
+"R0126": {
+"on_topic": "no",
+"incident": null
+},
+"R0127": {
+"on_topic": "no",
+"incident": null
+},
+"R0128": {
+"on_topic": "no",
+"incident": null
+},
+"R0129": {
+"on_topic": "no",
+"incident": null
+},
+"R0130": {
+"on_topic": "no",
+"incident": null
+},
+"R0131": {
+"on_topic": "yes",
+"incident": "Duque de Caxias · 22 Oct · man shot dead during attempted robbery"
+},
+"R0132": {
+"on_topic": "no",
+"incident": null
+},
+"R0133": {
+"on_topic": "no",
+"incident": null
+},
+"R0134": {
+"on_topic": "yes",
+"incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
+},
+"R0135": {
+"on_topic": "no",
+"incident": null
+},
+"R0136": {
+"on_topic": "no",
+"incident": null
+},
+"R0137": {
+"on_topic": "no",
+"incident": null
+},
+"R0138": {
+"on_topic": "no",
+"incident": null
+},
+"R0139": {
+"on_topic": "no",
+"incident": null
+},
+"R0140": {
+"on_topic": "no",
+"incident": null
+},
+"R0141": {
+"on_topic": "no",
+"incident": null
+},
+"R0142": {
+"on_topic": "no",
+"incident": null
+},
+"R0143": {
+"on_topic": "yes",
+"incident": "Duque de Caxias · 23 Oct · shooting kills one man and wounds another"
+},
+"R0144": {
+"on_topic": "no",
+"incident": null
+},
+"R0145": {
+"on_topic": "no",
+"incident": null
+},
+"R0146": {
+"on_topic": "no",
+"incident": null
+},
+"R0147": {
+"on_topic": "no",
+"incident": null
+},
+"R0148": {
+"on_topic": "no",
+"incident": null
+},
+"R0149": {
+"on_topic": "no",
+"incident": null
+},
+"R0150": {
+"on_topic": "no",
+"incident": null
+},
+"R0151": {
+"on_topic": "no",
+"incident": null
+},
+"R0152": {
+"on_topic": "no",
+"incident": null
+},
+"R0153": {
+"on_topic": "no",
+"incident": null
+},
+"R0154": {
+"on_topic": "no",
+"incident": null
+},
+"R0155": {
+"on_topic": "no",
+"incident": null
+},
+"R0156": {
+"on_topic": "no",
+"incident": null
+},
+"R0157": {
+"on_topic": "no",
+"incident": null
+},
+"R0158": {
+"on_topic": "no",
+"incident": null
+},
+"R0159": {
+"on_topic": "no",
+"incident": null
+},
+"R0160": {
+"on_topic": "no",
+"incident": null
+},
+"R0161": {
+"on_topic": "no",
+"incident": null
+},
+"R0162": {
+"on_topic": "no",
+"incident": null
+},
+"R0163": {
+"on_topic": "yes",
+"incident": "Catanduva · 20 Oct · doctor killed in police shootout"
+},
+"R0164": {
+"on_topic": "no",
+"incident": null
+},
+"R0165": {
+"on_topic": "no",
+"incident": null
+},
+"R0166": {
+"on_topic": "no",
+"incident": null
+},
+"R0167": {
+"on_topic": "no",
+"incident": null
+},
+"R0168": {
+"on_topic": "no",
+"incident": null
+},
+"R0169": {
+"on_topic": "no",
+"incident": null
+},
+"R0170": {
+"on_topic": "no",
+"incident": null
+},
+"R0171": {
+"on_topic": "no",
+"incident": null
+},
+"R0172": {
+"on_topic": "no",
+"incident": null
+},
+"R0173": {
+"on_topic": "no",
+"incident": null
+},
+"R0174": {
+"on_topic": "yes",
+"incident": "Catanduva · 20 Oct · doctor killed in police shootout"
+},
+"R0175": {
+"on_topic": "yes",
+"incident": "Paraná · 21 Oct · man shot dead over cellphone debt"
+},
+"R0176": {
+"on_topic": "no",
+"incident": null
+},
+"R0177": {
+"on_topic": "yes",
+"incident": "Botafogo, Rio de Janeiro · 21 Oct · man killed after chase and shootout"
+},
+"R0178": {
+"on_topic": "no",
+"incident": null
+},
+"R0179": {
+"on_topic": "no",
+"incident": null
+},
+"R0180": {
+"on_topic": "no",
+"incident": null
+},
+"R0181": {
+"on_topic": "no",
+"incident": null
+},
+"R0182": {
+"on_topic": "no",
+"incident": null
+},
+"R0183": {
+"on_topic": "no",
+"incident": null
+},
+"R0184": {
+"on_topic": "yes",
+"incident": "Nova Iguaçu · 22 Oct · woman killed in femicide"
+},
+"R0185": {
+"on_topic": "no",
+"incident": null
+},
+"R0186": {
+"on_topic": "no",
+"incident": null
+},
+"R0187": {
+"on_topic": "no",
+"incident": null
+},
+"R0188": {
+"on_topic": "no",
+"incident": null
+},
+"R0189": {
+"on_topic": "yes",
+"incident": "Maranhão · 20 Oct · professor killed by his brother"
+},
+"R0190": {
+"on_topic": "no",
+"incident": null
+},
+"R0191": {
+"on_topic": "no",
+"incident": null
+},
+"R0192": {
+"on_topic": "no",
+"incident": null
+},
+"R0193": {
+"on_topic": "no",
+"incident": null
+},
+"R0194": {
+"on_topic": "no",
+"incident": null
+},
+"R0195": {
+"on_topic": "no",
+"incident": null
+},
+"R0196": {
+"on_topic": "yes",
+"incident": "Recôncavo, Bahia · 22 Oct · businessman shoots and kills wife"
+},
+"R0197": {
+"on_topic": "no",
+"incident": null
+},
+"R0198": {
+"on_topic": "no",
+"incident": null
+},
+"R0199": {
+"on_topic": "no",
+"incident": null
+},
+"R0200": {
+"on_topic": "no",
+"incident": null
+},
+"R0201": {
+"on_topic": "no",
+"incident": null
+},
+"R0202": {
+"on_topic": "no",
+"incident": null
+},
+"R0203": {
+"on_topic": "no",
+"incident": null
+},
+"R0204": {
+"on_topic": "no",
+"incident": null
+},
+"R0205": {
+"on_topic": "no",
+"incident": null
+},
+"R0206": {
+"on_topic": "no",
+"incident": null
+},
+"R0207": {
+"on_topic": "yes",
+"incident": "Brazil · 20 Oct · motorcycle gunmen kill man outside fish market"
+},
+"R0208": {
+"on_topic": "no",
+"incident": null
+},
+"R0209": {
+"on_topic": "no",
+"incident": null
+},
+"R0210": {
+"on_topic": "no",
+"incident": null
+},
+"R0211": {
+"on_topic": "no",
+"incident": null
+},
+"R0212": {
+"on_topic": "no",
+"incident": null
+},
+"R0213": {
+"on_topic": "no",
+"incident": null
+},
+"R0214": {
+"on_topic": "no",
+"incident": null
+},
+"R0215": {
+"on_topic": "no",
+"incident": null
+},
+"R0216": {
+"on_topic": "no",
+"incident": null
+},
+"R0217": {
+"on_topic": "no",
+"incident": null
+},
+"R0218": {
+"on_topic": "yes",
+"incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
+},
+"R0219": {
+"on_topic": "no",
+"incident": null
+},
+"R0220": {
+"on_topic": "no",
+"incident": null
+},
+"R0221": {
+"on_topic": "no",
+"incident": null
+},
+"R0222": {
+"on_topic": "no",
+"incident": null
+},
+"R0223": {
+"on_topic": "no",
+"incident": null
+},
+"R0224": {
+"on_topic": "no",
+"incident": null
+},
+"R0225": {
+"on_topic": "no",
+"incident": null
+},
+"R0226": {
+"on_topic": "no",
+"incident": null
+},
+"R0227": {
+"on_topic": "no",
+"incident": null
+},
+"R0228": {
+"on_topic": "no",
+"incident": null
+},
+"R0229": {
+"on_topic": "no",
+"incident": null
+},
+"R0230": {
+"on_topic": "no",
+"incident": null
+},
+"R0231": {
+"on_topic": "no",
+"incident": null
+},
+"R0232": {
+"on_topic": "no",
+"incident": null
+},
+"R0233": {
+"on_topic": "yes",
+"incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
+},
+"R0234": {
+"on_topic": "no",
+"incident": null
+},
+"R0235": {
+"on_topic": "no",
+"incident": null
+},
+"R0236": {
+"on_topic": "no",
+"incident": null
+},
+"R0237": {
+"on_topic": "no",
+"incident": null
+},
+"R0238": {
+"on_topic": "no",
+"incident": null
+},
+"R0239": {
+"on_topic": "no",
+"incident": null
+},
+"R0240": {
+"on_topic": "no",
+"incident": null
+},
+"R0241": {
+"on_topic": "no",
+"incident": null
+},
+"R0242": {
+"on_topic": "no",
+"incident": null
+},
+"R0243": {
+"on_topic": "no",
+"incident": null
+},
+"R0244": {
+"on_topic": "no",
+"incident": null
+},
+"R0245": {
+"on_topic": "no",
+"incident": null
+},
+"R0246": {
+"on_topic": "no",
+"incident": null
+},
+"R0247": {
+"on_topic": "no",
+"incident": null
+},
+"R0248": {
+"on_topic": "no",
+"incident": null
+},
+"R0249": {
+"on_topic": "no",
+"incident": null
+},
+"R0250": {
+"on_topic": "no",
+"incident": null
+},
+"R0251": {
+"on_topic": "no",
+"incident": null
+},
+"R0252": {
+"on_topic": "no",
+"incident": null
+},
+"R0253": {
+"on_topic": "no",
+"incident": null
+},
+"R0254": {
+"on_topic": "yes",
+"incident": "Volta Redonda · 25 Oct · gang clashes kill two and burn vehicles"
+},
+"R0255": {
+"on_topic": "no",
+"incident": null
+},
+"R0256": {
+"on_topic": "no",
+"incident": null
+},
+"R0257": {
+"on_topic": "no",
+"incident": null
+},
+"R0258": {
+"on_topic": "no",
+"incident": null
+},
+"R0259": {
+"on_topic": "no",
+"incident": null
+},
+"R0260": {
+"on_topic": "no",
+"incident": null
+},
+"R0261": {
+"on_topic": "no",
+"incident": null
+},
+"R0262": {
+"on_topic": "no",
+"incident": null
+},
+"R0263": {
+"on_topic": "no",
+"incident": null
+},
+"R0264": {
+"on_topic": "no",
+"incident": null
+},
+"R0265": {
+"on_topic": "no",
+"incident": null
+},
+"R0266": {
+"on_topic": "no",
+"incident": null
+},
+"R0267": {
+"on_topic": "no",
+"incident": null
+},
+"R0268": {
+"on_topic": "no",
+"incident": null
+},
+"R0269": {
+"on_topic": "no",
+"incident": null
+},
+"R0270": {
+"on_topic": "no",
+"incident": null
+},
+"R0271": {
+"on_topic": "no",
+"incident": null
+},
+"R0272": {
+"on_topic": "no",
+"incident": null
+},
+"R0273": {
+"on_topic": "no",
+"incident": null
+},
+"R0274": {
+"on_topic": "no",
+"incident": null
+},
+"R0275": {
+"on_topic": "no",
+"incident": null
+},
+"R0276": {
+"on_topic": "no",
+"incident": null
+},
+"R0277": {
+"on_topic": "yes",
+"incident": "Maceió · 20 Oct · 24-year-old man killed in a square"
+},
+"R0278": {
+"on_topic": "no",
+"incident": null
+},
+"R0279": {
+"on_topic": "no",
+"incident": null
+},
+"R0280": {
+"on_topic": "no",
+"incident": null
+},
+"R0281": {
+"on_topic": "no",
+"incident": null
+},
+"R0282": {
+"on_topic": "no",
+"incident": null
+},
+"R0283": {
+"on_topic": "no",
+"incident": null
+},
+"R0284": {
+"on_topic": "no",
+"incident": null
+},
+"R0285": {
+"on_topic": "no",
+"incident": null
+},
+"R0286": {
+"on_topic": "no",
+"incident": null
+},
+"R0287": {
+"on_topic": "no",
+"incident": null
+},
+"R0288": {
+"on_topic": "no",
+"incident": null
+},
+"R0289": {
+"on_topic": "no",
+"incident": null
+},
+"R0290": {
+"on_topic": "no",
+"incident": null
+},
+"R0291": {
+"on_topic": "no",
+"incident": null
+},
+"R0292": {
+"on_topic": "no",
+"incident": null
+},
+"R0293": {
+"on_topic": "no",
+"incident": null
+},
+"R0294": {
+"on_topic": "no",
+"incident": null
+},
+"R0295": {
+"on_topic": "no",
+"incident": null
+},
+"R0296": {
+"on_topic": "no",
+"incident": null
+},
+"R0297": {
+"on_topic": "no",
+"incident": null
+},
+"R0298": {
+"on_topic": "no",
+"incident": null
+},
+"R0299": {
+"on_topic": "no",
+"incident": null
+},
+"R0300": {
+"on_topic": "no",
+"incident": null
+},
+"R0301": {
+"on_topic": "no",
+"incident": null
+},
+"R0302": {
+"on_topic": "no",
+"incident": null
+},
+"R0303": {
+"on_topic": "no",
+"incident": null
+},
+"R0304": {
+"on_topic": "no",
+"incident": null
+},
+"R0305": {
+"on_topic": "no",
+"incident": null
+},
+"R0306": {
+"on_topic": "no",
+"incident": null
+},
+"R0307": {
+"on_topic": "no",
+"incident": null
+},
+"R0308": {
+"on_topic": "no",
+"incident": null
+},
+"R0309": {
+"on_topic": "no",
+"incident": null
+},
+"R0310": {
+"on_topic": "no",
+"incident": null
+},
+"R0311": {
+"on_topic": "no",
+"incident": null
+},
+"R0312": {
+"on_topic": "no",
+"incident": null
+},
+"R0313": {
+"on_topic": "no",
+"incident": null
+},
+"R0314": {
+"on_topic": "no",
+"incident": null
+},
+"R0315": {
+"on_topic": "no",
+"incident": null
+},
+"R0316": {
+"on_topic": "no",
+"incident": null
+},
+"R0317": {
+"on_topic": "no",
+"incident": null
+},
+"R0318": {
+"on_topic": "no",
+"incident": null
+},
+"R0319": {
+"on_topic": "no",
+"incident": null
+},
+"R0320": {
+"on_topic": "yes",
+"incident": "Brazil · 19 Oct · hit-and-run driver kills homeless man"
+},
+"R0321": {
+"on_topic": "no",
+"incident": null
+},
+"R0322": {
+"on_topic": "no",
+"incident": null
+},
+"R0323": {
+"on_topic": "no",
+"incident": null
+},
+"R0324": {
+"on_topic": "no",
+"incident": null
+},
+"R0325": {
+"on_topic": "no",
+"incident": null
+},
+"R0326": {
+"on_topic": "no",
+"incident": null
+},
+"R0327": {
+"on_topic": "no",
+"incident": null
+},
+"R0328": {
+"on_topic": "yes",
+"incident": "Japeri · 19 Oct · police shootout kills four suspects"
+},
+"R0329": {
+"on_topic": "no",
+"incident": null
+},
+"R0330": {
+"on_topic": "no",
+"incident": null
+},
+"R0331": {
+"on_topic": "no",
+"incident": null
+},
+"R0332": {
+"on_topic": "no",
+"incident": null
+},
+"R0333": {
+"on_topic": "no",
+"incident": null
+},
+"R0334": {
+"on_topic": "no",
+"incident": null
+},
+"R0335": {
+"on_topic": "yes",
+"incident": "Mato Grosso · 24 Oct · man dies in police shootout"
+},
+"R0336": {
+"on_topic": "no",
+"incident": null
+},
+"R0337": {
+"on_topic": "no",
+"incident": null
+},
+"R0338": {
+"on_topic": "no",
+"incident": null
+},
+"R0339": {
+"on_topic": "no",
+"incident": null
+},
+"R0340": {
+"on_topic": "no",
+"incident": null
+},
+"R0341": {
+"on_topic": "no",
+"incident": null
+},
+"R0342": {
+"on_topic": "no",
+"incident": null
+},
+"R0343": {
+"on_topic": "no",
+"incident": null
+},
+"R0344": {
+"on_topic": "no",
+"incident": null
+},
+"R0345": {
+"on_topic": "no",
+"incident": null
+},
+"R0346": {
+"on_topic": "no",
+"incident": null
+},
+"R0347": {
+"on_topic": "no",
+"incident": null
+},
+"R0348": {
+"on_topic": "no",
+"incident": null
+},
+"R0349": {
+"on_topic": "no",
+"incident": null
+},
+"R0350": {
+"on_topic": "no",
+"incident": null
+},
+"R0351": {
+"on_topic": "no",
+"incident": null
+},
+"R0352": {
+"on_topic": "no",
+"incident": null
+},
+"R0353": {
+"on_topic": "no",
+"incident": null
+},
+"R0354": {
+"on_topic": "no",
+"incident": null
+},
+"R0355": {
+"on_topic": "no",
+"incident": null
+},
+"R0356": {
+"on_topic": "no",
+"incident": null
+},
+"R0357": {
+"on_topic": "no",
+"incident": null
+},
+"R0358": {
+"on_topic": "no",
+"incident": null
+},
+"R0359": {
+"on_topic": "no",
+"incident": null
+},
+"R0360": {
+"on_topic": "no",
+"incident": null
+},
+"R0361": {
+"on_topic": "no",
+"incident": null
+},
+"R0362": {
+"on_topic": "no",
+"incident": null
+},
+"R0363": {
+"on_topic": "no",
+"incident": null
+},
+"R0364": {
+"on_topic": "no",
+"incident": null
+},
+"R0365": {
+"on_topic": "yes",
+"incident": "Posse, Petrópolis · 21 Oct · shooting kills one and injures two"
+},
+"R0366": {
+"on_topic": "no",
+"incident": null
+},
+"R0367": {
+"on_topic": "no",
+"incident": null
+},
+"R0368": {
+"on_topic": "no",
+"incident": null
+},
+"R0369": {
+"on_topic": "no",
+"incident": null
+},
+"R0370": {
+"on_topic": "no",
+"incident": null
+},
+"R0371": {
+"on_topic": "yes",
+"incident": "Recife · 25 Oct · city employee killed by partner during vote count"
+},
+"R0372": {
+"on_topic": "no",
+"incident": null
+},
+"R0373": {
+"on_topic": "no",
+"incident": null
+},
+"R0374": {
+"on_topic": "no",
+"incident": null
+},
+"R0375": {
+"on_topic": "no",
+"incident": null
+},
+"R0376": {
+"on_topic": "no",
+"incident": null
+},
+"R0377": {
+"on_topic": "no",
+"incident": null
+},
+"R0378": {
+"on_topic": "no",
+"incident": null
+},
+"R0379": {
+"on_topic": "no",
+"incident": null
+},
+"R0380": {
+"on_topic": "no",
+"incident": null
+},
+"R0381": {
+"on_topic": "no",
+"incident": null
+},
+"R0382": {
+"on_topic": "no",
+"incident": null
+},
+"R0383": {
+"on_topic": "no",
+"incident": null
+},
+"R0384": {
+"on_topic": "no",
+"incident": null
+},
+"R0385": {
+"on_topic": "yes",
+"incident": "North Zone, São Paulo · 24 Oct · pai de santo shot dead"
+},
+"R0386": {
+"on_topic": "no",
+"incident": null
+},
+"R0387": {
+"on_topic": "no",
+"incident": null
+},
+"R0388": {
+"on_topic": "no",
+"incident": null
+},
+"R0389": {
+"on_topic": "no",
+"incident": null
+},
+"R0390": {
+"on_topic": "no",
+"incident": null
+},
+"R0391": {
+"on_topic": "no",
+"incident": null
+},
+"R0392": {
+"on_topic": "no",
+"incident": null
+},
+"R0393": {
+"on_topic": "yes",
+"incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
+},
+"R0394": {
+"on_topic": "no",
+"incident": null
+},
+"R0395": {
+"on_topic": "yes",
+"incident": "Sepetiba, Rio de Janeiro · 23 Oct · man shot dead on Estrada do Piaí"
+},
+"R0396": {
+"on_topic": "no",
+"incident": null
+},
+"R0397": {
+"on_topic": "no",
+"incident": null
+},
+"R0398": {
+"on_topic": "no",
+"incident": null
+},
+"R0399": {
+"on_topic": "no",
+"incident": null
+},
+"R0400": {
+"on_topic": "no",
+"incident": null
+},
+"R0401": {
+"on_topic": "no",
+"incident": null
+},
+"R0402": {
+"on_topic": "no",
+"incident": null
+},
+"R0403": {
+"on_topic": "no",
+"incident": null
+},
+"R0404": {
+"on_topic": "no",
+"incident": null
+},
+"R0405": {
+"on_topic": "no",
+"incident": null
+},
+"R0406": {
+"on_topic": "no",
+"incident": null
+},
+"R0407": {
+"on_topic": "no",
+"incident": null
+},
+"R0408": {
+"on_topic": "no",
+"incident": null
+},
+"R0409": {
+"on_topic": "no",
+"incident": null
+},
+"R0410": {
+"on_topic": "no",
+"incident": null
+},
+"R0411": {
+"on_topic": "no",
+"incident": null
+},
+"R0412": {
+"on_topic": "no",
+"incident": null
+},
+"R0413": {
+"on_topic": "no",
+"incident": null
+},
+"R0414": {
+"on_topic": "no",
+"incident": null
+},
+"R0415": {
+"on_topic": "no",
+"incident": null
+},
+"R0416": {
+"on_topic": "no",
+"incident": null
+},
+"R0417": {
+"on_topic": "no",
+"incident": null
+},
+"R0418": {
+"on_topic": "no",
+"incident": null
+},
+"R0419": {
+"on_topic": "no",
+"incident": null
+},
+"R0420": {
+"on_topic": "yes",
+"incident": "Brazil · 19 Oct · Ana Clara killed by ex-partner"
+},
+"R0421": {
+"on_topic": "no",
+"incident": null
+},
+"R0422": {
+"on_topic": "yes",
+"incident": "Mato Grosso do Sul · 22 Oct · neighbor killed amid longstanding feud"
+},
+"R0423": {
+"on_topic": "no",
+"incident": null
+},
+"R0424": {
+"on_topic": "no",
+"incident": null
+},
+"R0425": {
+"on_topic": "no",
+"incident": null
+},
+"R0426": {
+"on_topic": "no",
+"incident": null
+},
+"R0427": {
+"on_topic": "no",
+"incident": null
+},
+"R0428": {
+"on_topic": "no",
+"incident": null
+},
+"R0429": {
+"on_topic": "no",
+"incident": null
+},
+"R0430": {
+"on_topic": "no",
+"incident": null
+},
+"R0431": {
+"on_topic": "no",
+"incident": null
+},
+"R0432": {
+"on_topic": "no",
+"incident": null
+},
+"R0433": {
+"on_topic": "no",
+"incident": null
+},
+"R0434": {
+"on_topic": "no",
+"incident": null
+},
+"R0435": {
+"on_topic": "no",
+"incident": null
+},
+"R0436": {
+"on_topic": "no",
+"incident": null
+},
+"R0437": {
+"on_topic": "no",
+"incident": null
+},
+"R0438": {
+"on_topic": "no",
+"incident": null
+},
+"R0439": {
+"on_topic": "no",
+"incident": null
+},
+"R0440": {
+"on_topic": "no",
+"incident": null
+},
+"R0441": {
+"on_topic": "no",
+"incident": null
+},
+"R0442": {
+"on_topic": "no",
+"incident": null
+},
+"R0443": {
+"on_topic": "no",
+"incident": null
+},
+"R0444": {
+"on_topic": "no",
+"incident": null
+},
+"R0445": {
+"on_topic": "no",
+"incident": null
+},
+"R0446": {
+"on_topic": "no",
+"incident": null
+},
+"R0447": {
+"on_topic": "no",
+"incident": null
+},
+"R0448": {
+"on_topic": "no",
+"incident": null
+},
+"R0449": {
+"on_topic": "no",
+"incident": null
+},
+"R0450": {
+"on_topic": "yes",
+"incident": "Taquara, Rio de Janeiro · 22 Oct · shooting kills two and wounds one"
+},
+"R0451": {
+"on_topic": "no",
+"incident": null
+},
+"R0452": {
+"on_topic": "no",
+"incident": null
+},
+"R0453": {
+"on_topic": "no",
+"incident": null
+},
+"R0454": {
+"on_topic": "no",
+"incident": null
+},
+"R0455": {
+"on_topic": "no",
+"incident": null
+},
+"R0456": {
+"on_topic": "no",
+"incident": null
+},
+"R0457": {
+"on_topic": "no",
+"incident": null
+},
+"R0458": {
+"on_topic": "no",
+"incident": null
+},
+"R0459": {
+"on_topic": "no",
+"incident": null
+},
+"R0460": {
+"on_topic": "no",
+"incident": null
+},
+"R0461": {
+"on_topic": "no",
+"incident": null
+},
+"R0462": {
+"on_topic": "no",
+"incident": null
+},
+"R0463": {
+"on_topic": "no",
+"incident": null
+},
+"R0464": {
+"on_topic": "no",
+"incident": null
+},
+"R0465": {
+"on_topic": "no",
+"incident": null
+},
+"R0466": {
+"on_topic": "no",
+"incident": null
+},
+"R0467": {
+"on_topic": "no",
+"incident": null
+},
+"R0468": {
+"on_topic": "no",
+"incident": null
+},
+"R0469": {
+"on_topic": "no",
+"incident": null
+},
+"R0470": {
+"on_topic": "no",
+"incident": null
+},
+"R0471": {
+"on_topic": "no",
+"incident": null
+},
+"R0472": {
+"on_topic": "no",
+"incident": null
+},
+"R0473": {
+"on_topic": "no",
+"incident": null
+},
+"R0474": {
+"on_topic": "no",
+"incident": null
+},
+"R0475": {
+"on_topic": "no",
+"incident": null
+},
+"R0476": {
+"on_topic": "no",
+"incident": null
+},
+"R0477": {
+"on_topic": "yes",
+"incident": "Potirendaba · 25 Oct · stabbing kills one"
+},
+"R0478": {
+"on_topic": "no",
+"incident": null
+},
+"R0479": {
+"on_topic": "no",
+"incident": null
+},
+"R0480": {
+"on_topic": "no",
+"incident": null
+},
+"R0481": {
+"on_topic": "no",
+"incident": null
+},
+"R0482": {
+"on_topic": "no",
+"incident": null
+},
+"R0483": {
+"on_topic": "no",
+"incident": null
+},
+"R0484": {
+"on_topic": "no",
+"incident": null
+},
+"R0485": {
+"on_topic": "no",
+"incident": null
+},
+"R0486": {
+"on_topic": "no",
+"incident": null
+},
+"R0487": {
+"on_topic": "no",
+"incident": null
+},
+"R0488": {
+"on_topic": "no",
+"incident": null
+},
+"R0489": {
+"on_topic": "no",
+"incident": null
+},
+"R0490": {
+"on_topic": "no",
+"incident": null
+},
+"R0491": {
+"on_topic": "no",
+"incident": null
+},
+"R0492": {
+"on_topic": "no",
+"incident": null
+},
+"R0493": {
+"on_topic": "no",
+"incident": null
+},
+"R0494": {
+"on_topic": "no",
+"incident": null
+},
+"R0495": {
+"on_topic": "no",
+"incident": null
+},
+"R0496": {
+"on_topic": "no",
+"incident": null
+},
+"R0497": {
+"on_topic": "yes",
+"incident": "Brazil · 23 Oct · two men killed in police shootout after chase"
+},
+"R0498": {
+"on_topic": "no",
+"incident": null
+},
+"R0499": {
+"on_topic": "no",
+"incident": null
+},
+"R0500": {
+"on_topic": "no",
+"incident": null
+},
+"R0501": {
+"on_topic": "no",
+"incident": null
+},
+"R0502": {
+"on_topic": "no",
+"incident": null
+},
+"R0503": {
+"on_topic": "no",
+"incident": null
+},
+"R0504": {
+"on_topic": "no",
+"incident": null
+},
+"R0505": {
+"on_topic": "no",
+"incident": null
+},
+"R0506": {
+"on_topic": "no",
+"incident": null
+},
+"R0507": {
+"on_topic": "no",
+"incident": null
+},
+"R0508": {
+"on_topic": "no",
+"incident": null
+},
+"R0509": {
+"on_topic": "no",
+"incident": null
+},
+"R0510": {
+"on_topic": "no",
+"incident": null
+},
+"R0511": {
+"on_topic": "no",
+"incident": null
+},
+"R0512": {
+"on_topic": "no",
+"incident": null
+},
+"R0513": {
+"on_topic": "no",
+"incident": null
+},
+"R0514": {
+"on_topic": "no",
+"incident": null
+},
+"R0515": {
+"on_topic": "no",
+"incident": null
+},
+"R0516": {
+"on_topic": "no",
+"incident": null
+},
+"R0517": {
+"on_topic": "no",
+"incident": null
+},
+"R0518": {
+"on_topic": "yes",
+"incident": "João Pessoa · 20 Oct · father and son die in police clash"
+},
+"R0519": {
+"on_topic": "yes",
+"incident": "Alagoas · 20 Oct · threatened man found dead in sugarcane field"
+},
+"R0520": {
+"on_topic": "no",
+"incident": null
+},
+"R0521": {
+"on_topic": "no",
+"incident": null
+},
+"R0522": {
+"on_topic": "no",
+"incident": null
+},
+"R0523": {
+"on_topic": "no",
+"incident": null
+},
+"R0524": {
+"on_topic": "no",
+"incident": null
+},
+"R0525": {
+"on_topic": "no",
+"incident": null
+},
+"R0526": {
+"on_topic": "no",
+"incident": null
+},
+"R0527": {
+"on_topic": "no",
+"incident": null
+},
+"R0528": {
+"on_topic": "no",
+"incident": null
+},
+"R0529": {
+"on_topic": "no",
+"incident": null
+},
+"R0530": {
+"on_topic": "no",
+"incident": null
+},
+"R0531": {
+"on_topic": "no",
+"incident": null
+},
+"R0532": {
+"on_topic": "no",
+"incident": null
+},
+"R0533": {
+"on_topic": "no",
+"incident": null
+},
+"R0534": {
+"on_topic": "no",
+"incident": null
+},
+"R0535": {
+"on_topic": "no",
+"incident": null
+},
+"R0536": {
+"on_topic": "no",
+"incident": null
+},
+"R0537": {
+"on_topic": "no",
+"incident": null
+},
+"R0538": {
+"on_topic": "no",
+"incident": null
+},
+"R0539": {
+"on_topic": "no",
+"incident": null
+},
+"R0540": {
+"on_topic": "no",
+"incident": null
+},
+"R0541": {
+"on_topic": "no",
+"incident": null
+},
+"R0542": {
+"on_topic": "no",
+"incident": null
+},
+"R0543": {
+"on_topic": "no",
+"incident": null
+},
+"R0544": {
+"on_topic": "no",
+"incident": null
+},
+"R0545": {
+"on_topic": "no",
+"incident": null
+},
+"R0546": {
+"on_topic": "no",
+"incident": null
+},
+"R0547": {
+"on_topic": "no",
+"incident": null
+},
+"R0548": {
+"on_topic": "no",
+"incident": null
+},
+"R0549": {
+"on_topic": "no",
+"incident": null
+},
+"R0550": {
+"on_topic": "no",
+"incident": null
+},
+"R0551": {
+"on_topic": "no",
+"incident": null
+},
+"R0552": {
+"on_topic": "no",
+"incident": null
+},
+"R0553": {
+"on_topic": "no",
+"incident": null
+},
+"R0554": {
+"on_topic": "no",
+"incident": null
+},
+"R0555": {
+"on_topic": "no",
+"incident": null
+},
+"R0556": {
+"on_topic": "yes",
+"incident": "Ribeirão Preto · 21 Oct · police operation kills two"
+},
+"R0557": {
+"on_topic": "no",
+"incident": null
+},
+"R0558": {
+"on_topic": "no",
+"incident": null
+},
+"R0559": {
+"on_topic": "no",
+"incident": null
+},
+"R0560": {
+"on_topic": "no",
+"incident": null
+},
+"R0561": {
+"on_topic": "no",
+"incident": null
+},
+"R0562": {
+"on_topic": "yes",
+"incident": "Ceará · 23 Oct · councilwoman Cely Arrais killed in political retaliation"
+},
+"R0563": {
+"on_topic": "no",
+"incident": null
+},
+"R0564": {
+"on_topic": "no",
+"incident": null
+},
+"R0565": {
+"on_topic": "no",
+"incident": null
+},
+"R0566": {
+"on_topic": "no",
+"incident": null
+},
+"R0567": {
+"on_topic": "no",
+"incident": null
+},
+"R0568": {
+"on_topic": "no",
+"incident": null
+},
+"R0569": {
+"on_topic": "no",
+"incident": null
+},
+"R0570": {
+"on_topic": "no",
+"incident": null
+},
+"R0571": {
+"on_topic": "no",
+"incident": null
+},
+"R0572": {
+"on_topic": "no",
+"incident": null
+},
+"R0573": {
+"on_topic": "no",
+"incident": null
+},
+"R0574": {
+"on_topic": "no",
+"incident": null
+},
+"R0575": {
+"on_topic": "no",
+"incident": null
+},
+"R0576": {
+"on_topic": "no",
+"incident": null
+},
+"R0577": {
+"on_topic": "no",
+"incident": null
+},
+"R0578": {
+"on_topic": "no",
+"incident": null
+},
+"R0579": {
+"on_topic": "no",
+"incident": null
+},
+"R0580": {
+"on_topic": "no",
+"incident": null
+},
+"R0581": {
+"on_topic": "no",
+"incident": null
+},
+"R0582": {
+"on_topic": "no",
+"incident": null
+},
+"R0583": {
+"on_topic": "no",
+"incident": null
+},
+"R0584": {
+"on_topic": "yes",
+"incident": "Viracopos Airport, Campinas · 21 Oct · police kill gang member"
+},
+"R0585": {
+"on_topic": "yes",
+"incident": "Rondônia · 21 Oct · rancher killed by his wife"
+},
+"R0586": {
+"on_topic": "no",
+"incident": null
+},
+"R0587": {
+"on_topic": "no",
+"incident": null
+},
+"R0588": {
+"on_topic": "no",
+"incident": null
+},
+"R0589": {
+"on_topic": "no",
+"incident": null
+},
+"R0590": {
+"on_topic": "no",
+"incident": null
+},
+"R0591": {
+"on_topic": "no",
+"incident": null
+},
+"R0592": {
+"on_topic": "no",
+"incident": null
+},
+"R0593": {
+"on_topic": "no",
+"incident": null
+},
+"R0594": {
+"on_topic": "no",
+"incident": null
+},
+"R0595": {
+"on_topic": "no",
+"incident": null
+},
+"R0596": {
+"on_topic": "no",
+"incident": null
+},
+"R0597": {
+"on_topic": "no",
+"incident": null
+},
+"R0598": {
+"on_topic": "yes",
+"incident": "Brazil · 19 Oct · police officer stabs 32-year-old woman to death"
+},
+"R0599": {
+"on_topic": "no",
+"incident": null
+},
+"R0600": {
+"on_topic": "no",
+"incident": null
+},
+"R0601": {
+"on_topic": "no",
+"incident": null
+},
+"R0602": {
+"on_topic": "no",
+"incident": null
+},
+"R0603": {
+"on_topic": "no",
+"incident": null
+},
+"R0604": {
+"on_topic": "no",
+"incident": null
+},
+"R0605": {
+"on_topic": "no",
+"incident": null
+},
+"R0606": {
+"on_topic": "no",
+"incident": null
+},
+"R0607": {
+"on_topic": "no",
+"incident": null
+},
+"R0608": {
+"on_topic": "no",
+"incident": null
+},
+"R0609": {
+"on_topic": "yes",
+"incident": "Macapá · 19 Oct · young man shot dead in execution"
+},
+"R0610": {
+"on_topic": "yes",
+"incident": "Bonito · 24 Oct · Lula supporter shot dead during political motorcade"
+},
+"R0611": {
+"on_topic": "no",
+"incident": null
+},
+"R0612": {
+"on_topic": "no",
+"incident": null
+},
+"R0613": {
+"on_topic": "no",
+"incident": null
+},
+"R0614": {
+"on_topic": "yes",
+"incident": "North Zone, São Paulo · 24 Oct · pai de santo shot dead"
+},
+"R0615": {
+"on_topic": "no",
+"incident": null
+},
+"R0616": {
+"on_topic": "no",
+"incident": null
+},
+"R0617": {
+"on_topic": "no",
+"incident": null
+},
+"R0618": {
+"on_topic": "no",
+"incident": null
+},
+"R0619": {
+"on_topic": "no",
+"incident": null
+},
+"R0620": {
+"on_topic": "no",
+"incident": null
+},
+"R0621": {
+"on_topic": "no",
+"incident": null
+},
+"R0622": {
+"on_topic": "no",
+"incident": null
+},
+"R0623": {
+"on_topic": "no",
+"incident": null
+},
+"R0624": {
+"on_topic": "no",
+"incident": null
+},
+"R0625": {
+"on_topic": "no",
+"incident": null
+},
+"R0626": {
+"on_topic": "no",
+"incident": null
+},
+"R0627": {
+"on_topic": "no",
+"incident": null
+},
+"R0628": {
+"on_topic": "no",
+"incident": null
+},
+"R0629": {
+"on_topic": "no",
+"incident": null
+},
+"R0630": {
+"on_topic": "no",
+"incident": null
+},
+"R0631": {
+"on_topic": "no",
+"incident": null
+},
+"R0632": {
+"on_topic": "no",
+"incident": null
+},
+"R0633": {
+"on_topic": "no",
+"incident": null
+},
+"R0634": {
+"on_topic": "no",
+"incident": null
+},
+"R0635": {
+"on_topic": "yes",
+"incident": "João Pessoa · 20 Oct · father and son die in police clash"
+},
+"R0636": {
+"on_topic": "no",
+"incident": null
+},
+"R0637": {
+"on_topic": "yes",
+"incident": "São José do Rio Preto · 20 Oct · man shot dead after intervening in debt dispute"
+},
+"R0638": {
+"on_topic": "no",
+"incident": null
+},
+"R0639": {
+"on_topic": "no",
+"incident": null
+},
+"R0640": {
+"on_topic": "no",
+"incident": null
+},
+"R0641": {
+"on_topic": "no",
+"incident": null
+},
+"R0642": {
+"on_topic": "no",
+"incident": null
+},
+"R0643": {
+"on_topic": "no",
+"incident": null
+},
+"R0644": {
+"on_topic": "no",
+"incident": null
+},
+"R0645": {
+"on_topic": "yes",
+"incident": "Búzios · 23 Oct · woman dies after being stabbed by ex-partner"
+},
+"R0646": {
+"on_topic": "no",
+"incident": null
+},
+"R0647": {
+"on_topic": "no",
+"incident": null
+},
+"R0648": {
+"on_topic": "no",
+"incident": null
+},
+"R0649": {
+"on_topic": "no",
+"incident": null
+},
+"R0650": {
+"on_topic": "no",
+"incident": null
+},
+"R0651": {
+"on_topic": "yes",
+"incident": "Rio de Janeiro · 22 Oct · lawyer Rodrigo Marinho Crespo shot dead outside OAB headquarters"
+},
+"R0652": {
+"on_topic": "no",
+"incident": null
+},
+"R0653": {
+"on_topic": "no",
+"incident": null
+},
+"R0654": {
+"on_topic": "no",
+"incident": null
+},
+"R0655": {
+"on_topic": "no",
+"incident": null
+},
+"R0656": {
+"on_topic": "no",
+"incident": null
+},
+"R0657": {
+"on_topic": "no",
+"incident": null
+},
+"R0658": {
+"on_topic": "no",
+"incident": null
+},
+"R0659": {
+"on_topic": "no",
+"incident": null
+},
+"R0660": {
+"on_topic": "no",
+"incident": null
+},
+"R0661": {
+"on_topic": "no",
+"incident": null
+},
+"R0662": {
+"on_topic": "no",
+"incident": null
+},
+"R0663": {
+"on_topic": "no",
+"incident": null
+},
+"R0664": {
+"on_topic": "no",
+"incident": null
+},
+"R0665": {
+"on_topic": "no",
+"incident": null
+},
+"R0666": {
+"on_topic": "no",
+"incident": null
+},
+"R0667": {
+"on_topic": "no",
+"incident": null
+},
+"R0668": {
+"on_topic": "no",
+"incident": null
+},
+"R0669": {
+"on_topic": "no",
+"incident": null
+},
+"R0670": {
+"on_topic": "no",
+"incident": null
+},
+"R0671": {
+"on_topic": "no",
+"incident": null
+},
+"R0672": {
+"on_topic": "no",
+"incident": null
+},
+"R0673": {
+"on_topic": "yes",
+"incident": "Rio de Janeiro · 22 Oct · lawyer Rodrigo Marinho Crespo shot dead outside OAB headquarters"
+},
+"R0674": {
+"on_topic": "no",
+"incident": null
+},
+"R0675": {
+"on_topic": "no",
+"incident": null
+},
+"R0676": {
+"on_topic": "no",
+"incident": null
+},
+"R0677": {
+"on_topic": "no",
+"incident": null
+},
+"R0678": {
+"on_topic": "no",
+"incident": null
+},
+"R0679": {
+"on_topic": "no",
+"incident": null
+},
+"R0680": {
+"on_topic": "no",
+"incident": null
+},
+"R0681": {
+"on_topic": "no",
+"incident": null
+},
+"R0682": {
+"on_topic": "no",
+"incident": null
+},
+"R0683": {
+"on_topic": "no",
+"incident": null
+},
+"R0684": {
+"on_topic": "no",
+"incident": null
+},
+"R0685": {
+"on_topic": "no",
+"incident": null
+},
+"R0686": {
+"on_topic": "yes",
+"incident": "Minas Gerais · 22 Oct · suspect in teenager’s killing dies in police shootout"
+},
+"R0687": {
+"on_topic": "no",
+"incident": null
+},
+"R0688": {
+"on_topic": "no",
+"incident": null
+},
+"R0689": {
+"on_topic": "yes",
+"incident": "Ribeirão Preto · 21 Oct · police operation kills two"
+},
+"R0690": {
+"on_topic": "no",
+"incident": null
+},
+"R0691": {
+"on_topic": "no",
+"incident": null
+},
+"R0692": {
+"on_topic": "no",
+"incident": null
+},
+"R0693": {
+"on_topic": "no",
+"incident": null
+},
+"R0694": {
+"on_topic": "no",
+"incident": null
+},
+"R0695": {
+"on_topic": "no",
+"incident": null
+},
+"R0696": {
+"on_topic": "no",
+"incident": null
+},
+"R0697": {
+"on_topic": "no",
+"incident": null
+},
+"R0698": {
+"on_topic": "no",
+"incident": null
+},
+"R0699": {
+"on_topic": "no",
+"incident": null
+},
+"R0700": {
+"on_topic": "no",
+"incident": null
+},
+"R0701": {
+"on_topic": "no",
+"incident": null
+},
+"R0702": {
+"on_topic": "no",
+"incident": null
+},
+"R0703": {
+"on_topic": "no",
+"incident": null
+},
+"R0704": {
+"on_topic": "no",
+"incident": null
+},
+"R0705": {
+"on_topic": "no",
+"incident": null
+},
+"R0706": {
+"on_topic": "no",
+"incident": null
+},
+"R0707": {
+"on_topic": "no",
+"incident": null
+},
+"R0708": {
+"on_topic": "no",
+"incident": null
+},
+"R0709": {
+"on_topic": "no",
+"incident": null
+},
+"R0710": {
+"on_topic": "no",
+"incident": null
+},
+"R0711": {
+"on_topic": "no",
+"incident": null
+},
+"R0712": {
+"on_topic": "no",
+"incident": null
+},
+"R0713": {
+"on_topic": "no",
+"incident": null
+},
+"R0714": {
+"on_topic": "no",
+"incident": null
+},
+"R0715": {
+"on_topic": "no",
+"incident": null
+},
+"R0716": {
+"on_topic": "no",
+"incident": null
+},
+"R0717": {
+"on_topic": "no",
+"incident": null
+},
+"R0718": {
+"on_topic": "no",
+"incident": null
+},
+"R0719": {
+"on_topic": "no",
+"incident": null
+},
+"R0720": {
+"on_topic": "yes",
+"incident": "Brazil · 19 Oct · business couple killed in shooting"
+},
+"R0721": {
+"on_topic": "no",
+"incident": null
+},
+"R0722": {
+"on_topic": "no",
+"incident": null
+},
+"R0723": {
+"on_topic": "no",
+"incident": null
+},
+"R0724": {
+"on_topic": "no",
+"incident": null
+},
+"R0725": {
+"on_topic": "no",
+"incident": null
+},
+"R0726": {
+"on_topic": "no",
+"incident": null
+},
+"R0727": {
+"on_topic": "no",
+"incident": null
+},
+"R0728": {
+"on_topic": "no",
+"incident": null
+},
+"R0729": {
+"on_topic": "no",
+"incident": null
+},
+"R0730": {
+"on_topic": "no",
+"incident": null
+},
+"R0731": {
+"on_topic": "no",
+"incident": null
+},
+"R0732": {
+"on_topic": "no",
+"incident": null
+},
+"R0733": {
+"on_topic": "no",
+"incident": null
+},
+"R0734": {
+"on_topic": "no",
+"incident": null
+},
+"R0735": {
+"on_topic": "no",
+"incident": null
+},
+"R0736": {
+"on_topic": "no",
+"incident": null
+},
+"R0737": {
+"on_topic": "no",
+"incident": null
+},
+"R0738": {
+"on_topic": "yes",
+"incident": "Paraná · 19 Oct · stepfather kills Venezuelan teenager"
+},
+"R0739": {
+"on_topic": "yes",
+"incident": "Brás, São Paulo · 20 Oct · man stabbed to death during cellphone robbery"
+},
+"R0740": {
+"on_topic": "no",
+"incident": null
+},
+"R0741": {
+"on_topic": "no",
+"incident": null
+},
+"R0742": {
+"on_topic": "yes",
+"incident": "Paraná · 21 Oct · boyfriend kills woman at home"
+},
+"R0743": {
+"on_topic": "no",
+"incident": null
+},
+"R0744": {
+"on_topic": "no",
+"incident": null
+},
+"R0745": {
+"on_topic": "no",
+"incident": null
+},
+"R0746": {
+"on_topic": "no",
+"incident": null
+},
+"R0747": {
+"on_topic": "no",
+"incident": null
+},
+"R0748": {
+"on_topic": "no",
+"incident": null
+},
+"R0749": {
+"on_topic": "no",
+"incident": null
+},
+"R0750": {
+"on_topic": "no",
+"incident": null
+},
+"R0751": {
+"on_topic": "no",
+"incident": null
+},
+"R0752": {
+"on_topic": "yes",
+"incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
+},
+"R0753": {
+"on_topic": "no",
+"incident": null
+},
+"R0754": {
+"on_topic": "no",
+"incident": null
+},
+"R0755": {
+"on_topic": "no",
+"incident": null
+},
+"R0756": {
+"on_topic": "no",
+"incident": null
+},
+"R0757": {
+"on_topic": "no",
+"incident": null
+},
+"R0758": {
+"on_topic": "no",
+"incident": null
+},
+"R0759": {
+"on_topic": "no",
+"incident": null
+},
+"R0760": {
+"on_topic": "no",
+"incident": null
+},
+"R0761": {
+"on_topic": "yes",
+"incident": "Zona Leste, São Paulo · 20 Oct · police officer shoots knife-wielding woman dead"
+},
+"R0762": {
+"on_topic": "no",
+"incident": null
+},
+"R0763": {
+"on_topic": "no",
+"incident": null
+},
+"R0764": {
+"on_topic": "no",
+"incident": null
+},
+"R0765": {
+"on_topic": "no",
+"incident": null
+},
+"R0766": {
+"on_topic": "no",
+"incident": null
+},
+"R0767": {
+"on_topic": "no",
+"incident": null
+},
+"R0768": {
+"on_topic": "no",
+"incident": null
+},
+"R0769": {
+"on_topic": "no",
+"incident": null
+},
+"R0770": {
+"on_topic": "no",
+"incident": null
+},
+"R0771": {
+"on_topic": "no",
+"incident": null
+},
+"R0772": {
+"on_topic": "no",
+"incident": null
+},
+"R0773": {
+"on_topic": "no",
+"incident": null
+},
+"R0774": {
+"on_topic": "no",
+"incident": null
+},
+"R0775": {
+"on_topic": "yes",
+"incident": "Queimados · 19 Oct · municipal secretary shot dead during police stop"
+},
+"R0776": {
+"on_topic": "no",
+"incident": null
+},
+"R0777": {
+"on_topic": "no",
+"incident": null
+},
+"R0778": {
+"on_topic": "yes",
+"incident": "Espírito Santo · 20 Oct · man kills pregnant partner in femicide"
+},
+"R0779": {
+"on_topic": "no",
+"incident": null
+},
+"R0780": {
+"on_topic": "no",
+"incident": null
+},
+"R0781": {
+"on_topic": "no",
+"incident": null
+},
+"R0782": {
+"on_topic": "no",
+"incident": null
+},
+"R0783": {
+"on_topic": "no",
+"incident": null
+},
+"R0784": {
+"on_topic": "no",
+"incident": null
+},
+"R0785": {
+"on_topic": "no",
+"incident": null
+},
+"R0786": {
+"on_topic": "no",
+"incident": null
+},
+"R0787": {
+"on_topic": "no",
+"incident": null
+},
+"R0788": {
+"on_topic": "no",
+"incident": null
+},
+"R0789": {
+"on_topic": "no",
+"incident": null
+},
+"R0790": {
+"on_topic": "no",
+"incident": null
+},
+"R0791": {
+"on_topic": "no",
+"incident": null
+},
+"R0792": {
+"on_topic": "no",
+"incident": null
+},
+"R0793": {
+"on_topic": "no",
+"incident": null
+},
+"R0794": {
+"on_topic": "no",
+"incident": null
+},
+"R0795": {
+"on_topic": "no",
+"incident": null
+},
+"R0796": {
+"on_topic": "yes",
+"incident": "Bonito · 24 Oct · Lula supporter shot dead during political motorcade"
+},
+"R0797": {
+"on_topic": "no",
+"incident": null
+},
+"R0798": {
+"on_topic": "no",
+"incident": null
+},
+"R0799": {
+"on_topic": "no",
+"incident": null
+},
+"R0800": {
+"on_topic": "yes",
+"incident": "Brazil · 22 Oct · man shoots 7-month-old baby dead"
+},
+"R0801": {
+"on_topic": "no",
+"incident": null
+},
+"R0802": {
+"on_topic": "no",
+"incident": null
+},
+"R0803": {
+"on_topic": "no",
+"incident": null
+},
+"R0804": {
+"on_topic": "no",
+"incident": null
+},
+"R0805": {
+"on_topic": "no",
+"incident": null
+},
+"R0806": {
+"on_topic": "no",
+"incident": null
+},
+"R0807": {
+"on_topic": "no",
+"incident": null
+},
+"R0808": {
+"on_topic": "no",
+"incident": null
+},
+"R0809": {
+"on_topic": "no",
+"incident": null
+},
+"R0810": {
+"on_topic": "yes",
+"incident": "Brazil · 19 Oct · gang feud kills delivery worker and injures another"
+},
+"R0811": {
+"on_topic": "no",
+"incident": null
+},
+"R0812": {
+"on_topic": "no",
+"incident": null
+},
+"R0813": {
+"on_topic": "no",
+"incident": null
+},
+"R0814": {
+"on_topic": "no",
+"incident": null
+},
+"R0815": {
+"on_topic": "no",
+"incident": null
+},
+"R0816": {
+"on_topic": "yes",
+"incident": "Timon · 23 Oct · armed group kills young man and beats others"
+},
+"R0817": {
+"on_topic": "yes",
+"incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
+},
+"R0818": {
+"on_topic": "no",
+"incident": null
+},
+"R0819": {
+"on_topic": "yes",
+"incident": "Macapá · 22 Oct · man known as Chapolin shot dead"
+},
+"R0820": {
+"on_topic": "no",
+"incident": null
+},
+"R0821": {
+"on_topic": "no",
+"incident": null
+},
+"R0822": {
+"on_topic": "no",
+"incident": null
+},
+"R0823": {
+"on_topic": "no",
+"incident": null
+},
+"R0824": {
+"on_topic": "no",
+"incident": null
+},
+"R0825": {
+"on_topic": "yes",
+"incident": "Santos · 23 Oct · engineer dies after being beaten at a pro-Lula rally"
+},
+"R0826": {
+"on_topic": "no",
+"incident": null
+},
+"R0827": {
+"on_topic": "no",
+"incident": null
+},
+"R0828": {
+"on_topic": "yes",
+"incident": "Brazil · 19 Oct · Ana Clara killed by ex-partner"
+},
+"R0829": {
+"on_topic": "no",
+"incident": null
+},
+"R0830": {
+"on_topic": "no",
+"incident": null
+},
+"R0831": {
+"on_topic": "no",
+"incident": null
+},
+"R0832": {
+"on_topic": "no",
+"incident": null
+},
+"R0833": {
+"on_topic": "no",
+"incident": null
+},
+"R0834": {
+"on_topic": "no",
+"incident": null
+},
+"R0835": {
+"on_topic": "no",
+"incident": null
+},
+"R0836": {
+"on_topic": "no",
+"incident": null
+},
+"R0837": {
+"on_topic": "no",
+"incident": null
+},
+"R0838": {
+"on_topic": "no",
+"incident": null
+},
+"R0839": {
+"on_topic": "no",
+"incident": null
+},
+"R0840": {
+"on_topic": "no",
+"incident": null
+},
+"R0841": {
+"on_topic": "no",
+"incident": null
+},
+"R0842": {
+"on_topic": "yes",
+"incident": "Belo Horizonte · 21 Oct · former prison officer kills cousin after argument"
+},
+"R0843": {
+"on_topic": "yes",
+"incident": "Timon · 23 Oct · armed group kills young man and beats others"
+},
+"R0844": {
+"on_topic": "no",
+"incident": null
+},
+"R0845": {
+"on_topic": "no",
+"incident": null
+},
+"R0846": {
+"on_topic": "no",
+"incident": null
+},
+"R0847": {
+"on_topic": "no",
+"incident": null
+},
+"R0848": {
+"on_topic": "no",
+"incident": null
+},
+"R0849": {
+"on_topic": "no",
+"incident": null
+},
+"R0850": {
+"on_topic": "no",
+"incident": null
+},
+"R0851": {
+"on_topic": "no",
+"incident": null
+},
+"R0852": {
+"on_topic": "no",
+"incident": null
+},
+"R0853": {
+"on_topic": "no",
+"incident": null
+},
+"R0854": {
+"on_topic": "no",
+"incident": null
+},
+"R0855": {
+"on_topic": "no",
+"incident": null
+},
+"R0856": {
+"on_topic": "no",
+"incident": null
+},
+"R0857": {
+"on_topic": "no",
+"incident": null
+},
+"R0858": {
+"on_topic": "no",
+"incident": null
+},
+"R0859": {
+"on_topic": "no",
+"incident": null
+},
+"R0860": {
+"on_topic": "no",
+"incident": null
+},
+"R0861": {
+"on_topic": "no",
+"incident": null
+},
+"R0862": {
+"on_topic": "no",
+"incident": null
+},
+"R0863": {
+"on_topic": "no",
+"incident": null
+},
+"R0864": {
+"on_topic": "no",
+"incident": null
+},
+"R0865": {
+"on_topic": "no",
+"incident": null
+},
+"R0866": {
+"on_topic": "no",
+"incident": null
+},
+"R0867": {
+"on_topic": "no",
+"incident": null
+},
+"R0868": {
+"on_topic": "no",
+"incident": null
+},
+"R0869": {
+"on_topic": "no",
+"incident": null
+},
+"R0870": {
+"on_topic": "no",
+"incident": null
+},
+"R0871": {
+"on_topic": "no",
+"incident": null
+},
+"R0872": {
+"on_topic": "no",
+"incident": null
+},
+"R0873": {
+"on_topic": "no",
+"incident": null
+},
+"R0874": {
+"on_topic": "no",
+"incident": null
+},
+"R0875": {
+"on_topic": "no",
+"incident": null
+},
+"R0876": {
+"on_topic": "no",
+"incident": null
+},
+"R0877": {
+"on_topic": "no",
+"incident": null
+},
+"R0878": {
+"on_topic": "no",
+"incident": null
+},
+"R0879": {
+"on_topic": "yes",
+"incident": "Uberaba · 22 Oct · man shot over workplace debt dies"
+},
+"R0880": {
+"on_topic": "no",
+"incident": null
+},
+"R0881": {
+"on_topic": "no",
+"incident": null
+},
+"R0882": {
+"on_topic": "no",
+"incident": null
+},
+"R0883": {
+"on_topic": "no",
+"incident": null
+},
+"R0884": {
+"on_topic": "no",
+"incident": null
+},
+"R0885": {
+"on_topic": "no",
+"incident": null
+},
+"R0886": {
+"on_topic": "no",
+"incident": null
+},
+"R0887": {
+"on_topic": "no",
+"incident": null
+},
+"R0888": {
+"on_topic": "no",
+"incident": null
+},
+"R0889": {
+"on_topic": "no",
+"incident": null
+},
+"R0890": {
+"on_topic": "no",
+"incident": null
+},
+"R0891": {
+"on_topic": "yes",
+"incident": "Cocal do Sul · 25 Oct · woman shot dead while holding her grandson"
+},
+"R0892": {
+"on_topic": "no",
+"incident": null
+},
+"R0893": {
+"on_topic": "no",
+"incident": null
+},
+"R0894": {
+"on_topic": "no",
+"incident": null
+},
+"R0895": {
+"on_topic": "no",
+"incident": null
+},
+"R0896": {
+"on_topic": "no",
+"incident": null
+},
+"R0897": {
+"on_topic": "no",
+"incident": null
+},
+"R0898": {
+"on_topic": "yes",
+"incident": "Várzea Grande · 20 Oct · woman stabbed to death by partner in supermarket"
+},
+"R0899": {
+"on_topic": "yes",
+"incident": "Brazil · 20 Oct · man nicknamed Metralha shot dead inside a home"
+},
+"R0900": {
+"on_topic": "no",
+"incident": null
+},
+"R0901": {
+"on_topic": "no",
+"incident": null
+},
+"R0902": {
+"on_topic": "no",
+"incident": null
+},
+"R0903": {
+"on_topic": "no",
+"incident": null
+},
+"R0904": {
+"on_topic": "no",
+"incident": null
+},
+"R0905": {
+"on_topic": "no",
+"incident": null
+},
+"R0906": {
+"on_topic": "no",
+"incident": null
+},
+"R0907": {
+"on_topic": "no",
+"incident": null
+},
+"R0908": {
+"on_topic": "no",
+"incident": null
+},
+"R0909": {
+"on_topic": "no",
+"incident": null
+},
+"R0910": {
+"on_topic": "no",
+"incident": null
+},
+"R0911": {
+"on_topic": "no",
+"incident": null
+},
+"R0912": {
+"on_topic": "no",
+"incident": null
+},
+"R0913": {
+"on_topic": "no",
+"incident": null
+},
+"R0914": {
+"on_topic": "no",
+"incident": null
+},
+"R0915": {
+"on_topic": "no",
+"incident": null
+},
+"R0916": {
+"on_topic": "no",
+"incident": null
+},
+"R0917": {
+"on_topic": "no",
+"incident": null
+},
+"R0918": {
+"on_topic": "no",
+"incident": null
+},
+"R0919": {
+"on_topic": "no",
+"incident": null
+},
+"R0920": {
+"on_topic": "no",
+"incident": null
+},
+"R0921": {
+"on_topic": "no",
+"incident": null
+},
+"R0922": {
+"on_topic": "no",
+"incident": null
+},
+"R0923": {
+"on_topic": "no",
+"incident": null
+},
+"R0924": {
+"on_topic": "no",
+"incident": null
+},
+"R0925": {
+"on_topic": "no",
+"incident": null
+},
+"R0926": {
+"on_topic": "no",
+"incident": null
+},
+"R0927": {
+"on_topic": "no",
+"incident": null
+},
+"R0928": {
+"on_topic": "no",
+"incident": null
+},
+"R0929": {
+"on_topic": "no",
+"incident": null
+},
+"R0930": {
+"on_topic": "no",
+"incident": null
+},
+"R0931": {
+"on_topic": "no",
+"incident": null
+},
+"R0932": {
+"on_topic": "no",
+"incident": null
+},
+"R0933": {
+"on_topic": "no",
+"incident": null
+},
+"R0934": {
+"on_topic": "no",
+"incident": null
+},
+"R0935": {
+"on_topic": "no",
+"incident": null
+},
+"R0936": {
+"on_topic": "no",
+"incident": null
+},
+"R0937": {
+"on_topic": "no",
+"incident": null
+},
+"R0938": {
+"on_topic": "no",
+"incident": null
+},
+"R0939": {
+"on_topic": "no",
+"incident": null
+},
+"R0940": {
+"on_topic": "yes",
+"incident": "Greater Belo Horizonte · 22 Oct · Beatriz Vitória tied and buried in shallow grave"
+},
+"R0941": {
+"on_topic": "yes",
+"incident": "Santa Catarina · 20 Oct · three bodies found charred"
+},
+"R0942": {
+"on_topic": "no",
+"incident": null
+},
+"R0943": {
+"on_topic": "no",
+"incident": null
+},
+"R0944": {
+"on_topic": "no",
+"incident": null
+},
+"R0945": {
+"on_topic": "no",
+"incident": null
+},
+"R0946": {
+"on_topic": "no",
+"incident": null
+},
+"R0947": {
+"on_topic": "no",
+"incident": null
+},
+"R0948": {
+"on_topic": "no",
+"incident": null
+},
+"R0949": {
+"on_topic": "no",
+"incident": null
+},
+"R0950": {
+"on_topic": "no",
+"incident": null
+},
+"R0951": {
+"on_topic": "no",
+"incident": null
+},
+"R0952": {
+"on_topic": "no",
+"incident": null
+},
+"R0953": {
+"on_topic": "no",
+"incident": null
+},
+"R0954": {
+"on_topic": "no",
+"incident": null
+},
+"R0955": {
+"on_topic": "no",
+"incident": null
+},
+"R0956": {
+"on_topic": "yes",
+"incident": "Axixá · 22 Oct · hooded gunmen shoot a man dead"
+},
+"R0957": {
+"on_topic": "no",
+"incident": null
+},
+"R0958": {
+"on_topic": "no",
+"incident": null
+},
+"R0959": {
+"on_topic": "yes",
+"incident": "Minas Gerais · 21 Oct · man kills wife and suspends her body"
+},
+"R0960": {
+"on_topic": "no",
+"incident": null
+},
+"R0961": {
+"on_topic": "no",
+"incident": null
+},
+"R0962": {
+"on_topic": "no",
+"incident": null
+},
+"R0963": {
+"on_topic": "no",
+"incident": null
+},
+"R0964": {
+"on_topic": "yes",
+"incident": "Campo Novo do Parecis · 25 Oct · police investigator shot dead"
+},
+"R0965": {
+"on_topic": "no",
+"incident": null
+},
+"R0966": {
+"on_topic": "no",
+"incident": null
+},
+"R0967": {
+"on_topic": "no",
+"incident": null
+},
+"R0968": {
+"on_topic": "no",
+"incident": null
+},
+"R0969": {
+"on_topic": "no",
+"incident": null
+},
+"R0970": {
+"on_topic": "no",
+"incident": null
+},
+"R0971": {
+"on_topic": "no",
+"incident": null
+},
+"R0972": {
+"on_topic": "no",
+"incident": null
+},
+"R0973": {
+"on_topic": "no",
+"incident": null
+},
+"R0974": {
+"on_topic": "no",
+"incident": null
+},
+"R0975": {
+"on_topic": "no",
+"incident": null
+},
+"R0976": {
+"on_topic": "no",
+"incident": null
+},
+"R0977": {
+"on_topic": "no",
+"incident": null
+},
+"R0978": {
+"on_topic": "no",
+"incident": null
+},
+"R0979": {
+"on_topic": "no",
+"incident": null
+},
+"R0980": {
+"on_topic": "no",
+"incident": null
+},
+"R0981": {
+"on_topic": "no",
+"incident": null
+},
+"R0982": {
+"on_topic": "no",
+"incident": null
+},
+"R0983": {
+"on_topic": "no",
+"incident": null
+},
+"R0984": {
+"on_topic": "no",
+"incident": null
+},
+"R0985": {
+"on_topic": "no",
+"incident": null
+},
+"R0986": {
+"on_topic": "no",
+"incident": null
+},
+"R0987": {
+"on_topic": "no",
+"incident": null
+},
+"R0988": {
+"on_topic": "no",
+"incident": null
+},
+"R0989": {
+"on_topic": "no",
+"incident": null
+},
+"R0990": {
+"on_topic": "no",
+"incident": null
+},
+"R0991": {
+"on_topic": "no",
+"incident": null
+},
+"R0992": {
+"on_topic": "no",
+"incident": null
+},
+"R0993": {
+"on_topic": "no",
+"incident": null
+},
+"G00001": {
+"on_topic": "no",
+"incident": null
+},
+"G00002": {
+"on_topic": "no",
+"incident": null
+},
+"G00003": {
+"on_topic": "no",
+"incident": null
+},
+"G00004": {
+"on_topic": "no",
+"incident": null
+},
+"G00005": {
+"on_topic": "no",
+"incident": null
+},
+"G00006": {
+"on_topic": "no",
+"incident": null
+},
+"G00007": {
+"on_topic": "no",
+"incident": null
+},
+"G00008": {
+"on_topic": "no",
+"incident": null
+},
+"G00009": {
+"on_topic": "no",
+"incident": null
+},
+"G00010": {
+"on_topic": "no",
+"incident": null
+},
+"G00011": {
+"on_topic": "no",
+"incident": null
+},
+"G00012": {
+"on_topic": "no",
+"incident": null
+},
+"G00013": {
+"on_topic": "no",
+"incident": null
+},
+"G00014": {
+"on_topic": "no",
+"incident": null
+},
+"G00015": {
+"on_topic": "no",
+"incident": null
+},
+"G00016": {
+"on_topic": "no",
+"incident": null
+},
+"G00017": {
+"on_topic": "no",
+"incident": null
+},
+"G00018": {
+"on_topic": "no",
+"incident": null
+},
+"G00019": {
+"on_topic": "no",
+"incident": null
+},
+"G00020": {
+"on_topic": "no",
+"incident": null
+},
+"G00021": {
+"on_topic": "no",
+"incident": null
+},
+"G00022": {
+"on_topic": "no",
+"incident": null
+},
+"G00023": {
+"on_topic": "no",
+"incident": null
+},
+"G00024": {
+"on_topic": "no",
+"incident": null
+},
+"G00025": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · police officer stabs 32-year-old woman to death"
+},
+"G00026": {
+"on_topic": "no",
+"incident": null
+},
+"G00027": {
+"on_topic": "no",
+"incident": null
+},
+"G00028": {
+"on_topic": "no",
+"incident": null
+},
+"G00029": {
+"on_topic": "no",
+"incident": null
+},
+"G00030": {
+"on_topic": "no",
+"incident": null
+},
+"G00031": {
+"on_topic": "no",
+"incident": null
+},
+"G00032": {
+"on_topic": "no",
+"incident": null
+},
+"G00033": {
+"on_topic": "no",
+"incident": null
+},
+"G00034": {
+"on_topic": "no",
+"incident": null
+},
+"G00035": {
+"on_topic": "no",
+"incident": null
+},
+"G00036": {
+"on_topic": "yes",
+"incident": "vitorino freire, maranhão · 19 oct · news-page administrator shot dead"
+},
+"G00037": {
+"on_topic": "no",
+"incident": null
+},
+"G00038": {
+"on_topic": "no",
+"incident": null
+},
+"G00039": {
+"on_topic": "no",
+"incident": null
+},
+"G00040": {
+"on_topic": "yes",
+"incident": "sarzedo, minas gerais · 19 oct · young man dies in police confrontation"
+},
+"G00041": {
+"on_topic": "no",
+"incident": null
+},
+"G00042": {
+"on_topic": "no",
+"incident": null
+},
+"G00043": {
+"on_topic": "no",
+"incident": null
+},
+"G00044": {
+"on_topic": "no",
+"incident": null
+},
+"G00045": {
+"on_topic": "no",
+"incident": null
+},
+"G00046": {
+"on_topic": "no",
+"incident": null
+},
+"G00047": {
+"on_topic": "no",
+"incident": null
+},
+"G00048": {
+"on_topic": "no",
+"incident": null
+},
+"G00049": {
+"on_topic": "no",
+"incident": null
+},
+"G00050": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · business couple killed in shooting"
+},
+"G00051": {
+"on_topic": "no",
+"incident": null
+},
+"G00052": {
+"on_topic": "no",
+"incident": null
+},
+"G00053": {
+"on_topic": "no",
+"incident": null
+},
+"G00054": {
+"on_topic": "no",
+"incident": null
+},
+"G00055": {
+"on_topic": "no",
+"incident": null
+},
+"G00056": {
+"on_topic": "no",
+"incident": null
+},
+"G00057": {
+"on_topic": "no",
+"incident": null
+},
+"G00058": {
+"on_topic": "no",
+"incident": null
+},
+"G00059": {
+"on_topic": "no",
+"incident": null
+},
+"G00060": {
+"on_topic": "no",
+"incident": null
+},
+"G00061": {
+"on_topic": "no",
+"incident": null
+},
+"G00062": {
+"on_topic": "no",
+"incident": null
+},
+"G00063": {
+"on_topic": "no",
+"incident": null
+},
+"G00064": {
+"on_topic": "no",
+"incident": null
+},
+"G00065": {
+"on_topic": "no",
+"incident": null
+},
+"G00066": {
+"on_topic": "no",
+"incident": null
+},
+"G00067": {
+"on_topic": "no",
+"incident": null
+},
+"G00068": {
+"on_topic": "no",
+"incident": null
+},
+"G00069": {
+"on_topic": "no",
+"incident": null
+},
+"G00070": {
+"on_topic": "no",
+"incident": null
+},
+"G00071": {
+"on_topic": "yes",
+"incident": "moema, são paulo · 19 oct · police shoot young man dead"
+},
+"G00072": {
+"on_topic": "yes",
+"incident": "governador nunes freire, maranhão · 19 oct · gunmen kill trafficking chief and girlfriend"
+},
+"G00073": {
+"on_topic": "no",
+"incident": null
+},
+"G00074": {
+"on_topic": "no",
+"incident": null
+},
+"G00075": {
+"on_topic": "no",
+"incident": null
+},
+"G00076": {
+"on_topic": "no",
+"incident": null
+},
+"G00077": {
+"on_topic": "no",
+"incident": null
+},
+"G00078": {
+"on_topic": "no",
+"incident": null
+},
+"G00079": {
+"on_topic": "no",
+"incident": null
+},
+"G00080": {
+"on_topic": "no",
+"incident": null
+},
+"G00081": {
+"on_topic": "yes",
+"incident": "catanduva · 20 oct · doctor killed in police shootout"
+},
+"G00082": {
+"on_topic": "no",
+"incident": null
+},
+"G00083": {
+"on_topic": "no",
+"incident": null
+},
+"G00084": {
+"on_topic": "no",
+"incident": null
+},
+"G00085": {
+"on_topic": "no",
+"incident": null
+},
+"G00086": {
+"on_topic": "no",
+"incident": null
+},
+"G00087": {
+"on_topic": "no",
+"incident": null
+},
+"G00088": {
+"on_topic": "no",
+"incident": null
+},
+"G00089": {
+"on_topic": "yes",
+"incident": "minas gerais · 19 oct · 19-year-old killed after chase and shooting"
+},
+"G00090": {
+"on_topic": "no",
+"incident": null
+},
+"G00091": {
+"on_topic": "no",
+"incident": null
+},
+"G00092": {
+"on_topic": "no",
+"incident": null
+},
+"G00093": {
+"on_topic": "no",
+"incident": null
+},
+"G00094": {
+"on_topic": "no",
+"incident": null
+},
+"G00095": {
+"on_topic": "no",
+"incident": null
+},
+"G00096": {
+"on_topic": "no",
+"incident": null
+},
+"G00097": {
+"on_topic": "no",
+"incident": null
+},
+"G00098": {
+"on_topic": "no",
+"incident": null
+},
+"G00099": {
+"on_topic": "no",
+"incident": null
+},
+"G00100": {
+"on_topic": "no",
+"incident": null
+},
+"G00101": {
+"on_topic": "no",
+"incident": null
+},
+"G00102": {
+"on_topic": "no",
+"incident": null
+},
+"G00103": {
+"on_topic": "no",
+"incident": null
+},
+"G00104": {
+"on_topic": "no",
+"incident": null
+},
+"G00105": {
+"on_topic": "no",
+"incident": null
+},
+"G00106": {
+"on_topic": "no",
+"incident": null
+},
+"G00107": {
+"on_topic": "yes",
+"incident": "zona leste, são paulo · 20 oct · police officer shoots knife-wielding woman dead"
+},
+"G00108": {
+"on_topic": "no",
+"incident": null
+},
+"G00109": {
+"on_topic": "no",
+"incident": null
+},
+"G00110": {
+"on_topic": "no",
+"incident": null
+},
+"G00111": {
+"on_topic": "no",
+"incident": null
+},
+"G00112": {
+"on_topic": "no",
+"incident": null
+},
+"G00113": {
+"on_topic": "no",
+"incident": null
+},
+"G00114": {
+"on_topic": "no",
+"incident": null
+},
+"G00115": {
+"on_topic": "no",
+"incident": null
+},
+"G00116": {
+"on_topic": "no",
+"incident": null
+},
+"G00117": {
+"on_topic": "yes",
+"incident": "zona leste, são paulo · 20 oct · police officer shoots knife-wielding woman dead"
+},
+"G00118": {
+"on_topic": "no",
+"incident": null
+},
+"G00119": {
+"on_topic": "no",
+"incident": null
+},
+"G00120": {
+"on_topic": "no",
+"incident": null
+},
+"G00121": {
+"on_topic": "no",
+"incident": null
+},
+"G00122": {
+"on_topic": "no",
+"incident": null
+},
+"G00123": {
+"on_topic": "no",
+"incident": null
+},
+"G00124": {
+"on_topic": "no",
+"incident": null
+},
+"G00125": {
+"on_topic": "no",
+"incident": null
+},
+"G00126": {
+"on_topic": "no",
+"incident": null
+},
+"G00127": {
+"on_topic": "no",
+"incident": null
+},
+"G00128": {
+"on_topic": "no",
+"incident": null
+},
+"G00129": {
+"on_topic": "no",
+"incident": null
+},
+"G00130": {
+"on_topic": "no",
+"incident": null
+},
+"G00131": {
+"on_topic": "no",
+"incident": null
+},
+"G00132": {
+"on_topic": "no",
+"incident": null
+},
+"G00133": {
+"on_topic": "no",
+"incident": null
+},
+"G00134": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00135": {
+"on_topic": "no",
+"incident": null
+},
+"G00136": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00137": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00138": {
+"on_topic": "no",
+"incident": null
+},
+"G00139": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00140": {
+"on_topic": "no",
+"incident": null
+},
+"G00141": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00142": {
+"on_topic": "no",
+"incident": null
+},
+"G00143": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00144": {
+"on_topic": "no",
+"incident": null
+},
+"G00145": {
+"on_topic": "yes",
+"incident": "catanduva · 20 oct · doctor killed in police shootout"
+},
+"G00146": {
+"on_topic": "no",
+"incident": null
+},
+"G00147": {
+"on_topic": "no",
+"incident": null
+},
+"G00148": {
+"on_topic": "no",
+"incident": null
+},
+"G00149": {
+"on_topic": "no",
+"incident": null
+},
+"G00150": {
+"on_topic": "no",
+"incident": null
+},
+"G00151": {
+"on_topic": "no",
+"incident": null
+},
+"G00152": {
+"on_topic": "no",
+"incident": null
+},
+"G00153": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00154": {
+"on_topic": "yes",
+"incident": "zona leste, são paulo · 20 oct · police officer shoots knife-wielding woman dead"
+},
+"G00155": {
+"on_topic": "no",
+"incident": null
+},
+"G00156": {
+"on_topic": "no",
+"incident": null
+},
+"G00157": {
+"on_topic": "no",
+"incident": null
+},
+"G00158": {
+"on_topic": "no",
+"incident": null
+},
+"G00159": {
+"on_topic": "no",
+"incident": null
+},
+"G00160": {
+"on_topic": "no",
+"incident": null
+},
+"G00161": {
+"on_topic": "yes",
+"incident": "zona leste, são paulo · 20 oct · police officer shoots knife-wielding woman dead"
+},
+"G00162": {
+"on_topic": "no",
+"incident": null
+},
+"G00163": {
+"on_topic": "no",
+"incident": null
+},
+"G00164": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · business couple killed in shooting"
+},
+"G00165": {
+"on_topic": "no",
+"incident": null
+},
+"G00166": {
+"on_topic": "no",
+"incident": null
+},
+"G00167": {
+"on_topic": "no",
+"incident": null
+},
+"G00168": {
+"on_topic": "no",
+"incident": null
+},
+"G00169": {
+"on_topic": "no",
+"incident": null
+},
+"G00170": {
+"on_topic": "no",
+"incident": null
+},
+"G00171": {
+"on_topic": "no",
+"incident": null
+},
+"G00172": {
+"on_topic": "no",
+"incident": null
+},
+"G00173": {
+"on_topic": "no",
+"incident": null
+},
+"G00174": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00175": {
+"on_topic": "no",
+"incident": null
+},
+"G00176": {
+"on_topic": "no",
+"incident": null
+},
+"G00177": {
+"on_topic": "no",
+"incident": null
+},
+"G00178": {
+"on_topic": "no",
+"incident": null
+},
+"G00179": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00180": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00181": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00182": {
+"on_topic": "no",
+"incident": null
+},
+"G00183": {
+"on_topic": "no",
+"incident": null
+},
+"G00184": {
+"on_topic": "no",
+"incident": null
+},
+"G00185": {
+"on_topic": "no",
+"incident": null
+},
+"G00186": {
+"on_topic": "yes",
+"incident": "joão pessoa · 20 oct · father and son die in police clash"
+},
+"G00187": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · business couple killed in shooting"
+},
+"G00188": {
+"on_topic": "no",
+"incident": null
+},
+"G00189": {
+"on_topic": "no",
+"incident": null
+},
+"G00190": {
+"on_topic": "no",
+"incident": null
+},
+"G00191": {
+"on_topic": "no",
+"incident": null
+},
+"G00192": {
+"on_topic": "no",
+"incident": null
+},
+"G00193": {
+"on_topic": "yes",
+"incident": "brás, são paulo · 20 oct · man stabbed to death during cellphone robbery"
+},
+"G00194": {
+"on_topic": "no",
+"incident": null
+},
+"G00195": {
+"on_topic": "no",
+"incident": null
+},
+"G00196": {
+"on_topic": "no",
+"incident": null
+},
+"G00197": {
+"on_topic": "no",
+"incident": null
+},
+"G00198": {
+"on_topic": "yes",
+"incident": "catanduva · 20 oct · doctor killed in police shootout"
+},
+"G00199": {
+"on_topic": "no",
+"incident": null
+},
+"G00200": {
+"on_topic": "no",
+"incident": null
+},
+"G00201": {
+"on_topic": "no",
+"incident": null
+},
+"G00202": {
+"on_topic": "no",
+"incident": null
+},
+"G00203": {
+"on_topic": "no",
+"incident": null
+},
+"G00204": {
+"on_topic": "no",
+"incident": null
+},
+"G00205": {
+"on_topic": "no",
+"incident": null
+},
+"G00206": {
+"on_topic": "no",
+"incident": null
+},
+"G00207": {
+"on_topic": "no",
+"incident": null
+},
+"G00208": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00209": {
+"on_topic": "no",
+"incident": null
+},
+"G00210": {
+"on_topic": "no",
+"incident": null
+},
+"G00211": {
+"on_topic": "no",
+"incident": null
+},
+"G00212": {
+"on_topic": "no",
+"incident": null
+},
+"G00213": {
+"on_topic": "no",
+"incident": null
+},
+"G00214": {
+"on_topic": "no",
+"incident": null
+},
+"G00215": {
+"on_topic": "no",
+"incident": null
+},
+"G00216": {
+"on_topic": "no",
+"incident": null
+},
+"G00217": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00218": {
+"on_topic": "no",
+"incident": null
+},
+"G00219": {
+"on_topic": "no",
+"incident": null
+},
+"G00220": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00221": {
+"on_topic": "no",
+"incident": null
+},
+"G00222": {
+"on_topic": "no",
+"incident": null
+},
+"G00223": {
+"on_topic": "no",
+"incident": null
+},
+"G00224": {
+"on_topic": "no",
+"incident": null
+},
+"G00225": {
+"on_topic": "no",
+"incident": null
+},
+"G00226": {
+"on_topic": "no",
+"incident": null
+},
+"G00227": {
+"on_topic": "no",
+"incident": null
+},
+"G00228": {
+"on_topic": "no",
+"incident": null
+},
+"G00229": {
+"on_topic": "no",
+"incident": null
+},
+"G00230": {
+"on_topic": "no",
+"incident": null
+},
+"G00231": {
+"on_topic": "no",
+"incident": null
+},
+"G00232": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00233": {
+"on_topic": "no",
+"incident": null
+},
+"G00234": {
+"on_topic": "yes",
+"incident": "queimados · 19 oct · municipal secretary shot dead during police stop"
+},
+"G00235": {
+"on_topic": "no",
+"incident": null
+},
+"G00236": {
+"on_topic": "no",
+"incident": null
+},
+"G00237": {
+"on_topic": "no",
+"incident": null
+},
+"G00238": {
+"on_topic": "no",
+"incident": null
+},
+"G00239": {
+"on_topic": "no",
+"incident": null
+},
+"G00240": {
+"on_topic": "no",
+"incident": null
+},
+"G00241": {
+"on_topic": "yes",
+"incident": "catanduva · 20 oct · doctor killed in police shootout"
+},
+"G00242": {
+"on_topic": "no",
+"incident": null
+},
+"G00243": {
+"on_topic": "no",
+"incident": null
+},
+"G00244": {
+"on_topic": "no",
+"incident": null
+},
+"G00245": {
+"on_topic": "no",
+"incident": null
+},
+"G00246": {
+"on_topic": "no",
+"incident": null
+},
+"G00247": {
+"on_topic": "no",
+"incident": null
+},
+"G00248": {
+"on_topic": "no",
+"incident": null
+},
+"G00249": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · hit-and-run driver kills homeless man"
+},
+"G00250": {
+"on_topic": "yes",
+"incident": "marginal tietê, são paulo · 21 oct · police shootout kills suspect"
+},
+"G00251": {
+"on_topic": "no",
+"incident": null
+},
+"G00252": {
+"on_topic": "no",
+"incident": null
+},
+"G00253": {
+"on_topic": "no",
+"incident": null
+},
+"G00254": {
+"on_topic": "no",
+"incident": null
+},
+"G00255": {
+"on_topic": "no",
+"incident": null
+},
+"G00256": {
+"on_topic": "no",
+"incident": null
+},
+"G00257": {
+"on_topic": "no",
+"incident": null
+},
+"G00258": {
+"on_topic": "no",
+"incident": null
+},
+"G00259": {
+"on_topic": "no",
+"incident": null
+},
+"G00260": {
+"on_topic": "no",
+"incident": null
+},
+"G00261": {
+"on_topic": "no",
+"incident": null
+},
+"G00262": {
+"on_topic": "no",
+"incident": null
+},
+"G00263": {
+"on_topic": "no",
+"incident": null
+},
+"G00264": {
+"on_topic": "no",
+"incident": null
+},
+"G00265": {
+"on_topic": "no",
+"incident": null
+},
+"G00266": {
+"on_topic": "no",
+"incident": null
+},
+"G00267": {
+"on_topic": "no",
+"incident": null
+},
+"G00268": {
+"on_topic": "no",
+"incident": null
+},
+"G00269": {
+"on_topic": "no",
+"incident": null
+},
+"G00270": {
+"on_topic": "no",
+"incident": null
+},
+"G00271": {
+"on_topic": "no",
+"incident": null
+},
+"G00272": {
+"on_topic": "no",
+"incident": null
+},
+"G00273": {
+"on_topic": "no",
+"incident": null
+},
+"G00274": {
+"on_topic": "no",
+"incident": null
+},
+"G00275": {
+"on_topic": "no",
+"incident": null
+},
+"G00276": {
+"on_topic": "no",
+"incident": null
+},
+"G00277": {
+"on_topic": "yes",
+"incident": "petrópolis, manaus · 21 oct · painter shot dead at home"
+},
+"G00278": {
+"on_topic": "no",
+"incident": null
+},
+"G00279": {
+"on_topic": "no",
+"incident": null
+},
+"G00280": {
+"on_topic": "no",
+"incident": null
+},
+"G00281": {
+"on_topic": "no",
+"incident": null
+},
+"G00282": {
+"on_topic": "no",
+"incident": null
+},
+"G00283": {
+"on_topic": "no",
+"incident": null
+},
+"G00284": {
+"on_topic": "no",
+"incident": null
+},
+"G00285": {
+"on_topic": "no",
+"incident": null
+},
+"G00286": {
+"on_topic": "no",
+"incident": null
+},
+"G00287": {
+"on_topic": "no",
+"incident": null
+},
+"G00288": {
+"on_topic": "no",
+"incident": null
+},
+"G00289": {
+"on_topic": "no",
+"incident": null
+},
+"G00290": {
+"on_topic": "no",
+"incident": null
+},
+"G00291": {
+"on_topic": "no",
+"incident": null
+},
+"G00292": {
+"on_topic": "no",
+"incident": null
+},
+"G00293": {
+"on_topic": "no",
+"incident": null
+},
+"G00294": {
+"on_topic": "no",
+"incident": null
+},
+"G00295": {
+"on_topic": "no",
+"incident": null
+},
+"G00296": {
+"on_topic": "no",
+"incident": null
+},
+"G00297": {
+"on_topic": "yes",
+"incident": "ribeirão preto · 21 oct · police operation kills two"
+},
+"G00298": {
+"on_topic": "no",
+"incident": null
+},
+"G00299": {
+"on_topic": "no",
+"incident": null
+},
+"G00300": {
+"on_topic": "no",
+"incident": null
+},
+"G00301": {
+"on_topic": "no",
+"incident": null
+},
+"G00302": {
+"on_topic": "no",
+"incident": null
+},
+"G00303": {
+"on_topic": "no",
+"incident": null
+},
+"G00304": {
+"on_topic": "no",
+"incident": null
+},
+"G00305": {
+"on_topic": "no",
+"incident": null
+},
+"G00306": {
+"on_topic": "no",
+"incident": null
+},
+"G00307": {
+"on_topic": "no",
+"incident": null
+},
+"G00308": {
+"on_topic": "no",
+"incident": null
+},
+"G00309": {
+"on_topic": "no",
+"incident": null
+},
+"G00310": {
+"on_topic": "no",
+"incident": null
+},
+"G00311": {
+"on_topic": "no",
+"incident": null
+},
+"G00312": {
+"on_topic": "no",
+"incident": null
+},
+"G00313": {
+"on_topic": "no",
+"incident": null
+},
+"G00314": {
+"on_topic": "no",
+"incident": null
+},
+"G00315": {
+"on_topic": "no",
+"incident": null
+},
+"G00316": {
+"on_topic": "no",
+"incident": null
+},
+"G00317": {
+"on_topic": "no",
+"incident": null
+},
+"G00318": {
+"on_topic": "no",
+"incident": null
+},
+"G00319": {
+"on_topic": "no",
+"incident": null
+},
+"G00320": {
+"on_topic": "no",
+"incident": null
+},
+"G00321": {
+"on_topic": "no",
+"incident": null
+},
+"G00322": {
+"on_topic": "no",
+"incident": null
+},
+"G00323": {
+"on_topic": "no",
+"incident": null
+},
+"G00324": {
+"on_topic": "no",
+"incident": null
+},
+"G00325": {
+"on_topic": "no",
+"incident": null
+},
+"G00326": {
+"on_topic": "no",
+"incident": null
+},
+"G00327": {
+"on_topic": "no",
+"incident": null
+},
+"G00328": {
+"on_topic": "no",
+"incident": null
+},
+"G00329": {
+"on_topic": "no",
+"incident": null
+},
+"G00330": {
+"on_topic": "no",
+"incident": null
+},
+"G00331": {
+"on_topic": "no",
+"incident": null
+},
+"G00332": {
+"on_topic": "yes",
+"incident": "rio de janeiro · 22 oct · lawyer rodrigo marinho crespo shot dead outside oab headquarters"
+},
+"G00333": {
+"on_topic": "no",
+"incident": null
+},
+"G00334": {
+"on_topic": "no",
+"incident": null
+},
+"G00335": {
+"on_topic": "no",
+"incident": null
+},
+"G00336": {
+"on_topic": "no",
+"incident": null
+},
+"G00337": {
+"on_topic": "no",
+"incident": null
+},
+"G00338": {
+"on_topic": "no",
+"incident": null
+},
+"G00339": {
+"on_topic": "no",
+"incident": null
+},
+"G00340": {
+"on_topic": "no",
+"incident": null
+},
+"G00341": {
+"on_topic": "no",
+"incident": null
+},
+"G00342": {
+"on_topic": "no",
+"incident": null
+},
+"G00343": {
+"on_topic": "no",
+"incident": null
+},
+"G00344": {
+"on_topic": "no",
+"incident": null
+},
+"G00345": {
+"on_topic": "yes",
+"incident": "brazil · 22 oct · man shoots 7-month-old baby dead"
+},
+"G00346": {
+"on_topic": "no",
+"incident": null
+},
+"G00347": {
+"on_topic": "no",
+"incident": null
+},
+"G00348": {
+"on_topic": "no",
+"incident": null
+},
+"G00349": {
+"on_topic": "no",
+"incident": null
+},
+"G00350": {
+"on_topic": "no",
+"incident": null
+},
+"G00351": {
+"on_topic": "no",
+"incident": null
+},
+"G00352": {
+"on_topic": "no",
+"incident": null
+},
+"G00353": {
+"on_topic": "no",
+"incident": null
+},
+"G00354": {
+"on_topic": "no",
+"incident": null
+},
+"G00355": {
+"on_topic": "no",
+"incident": null
+},
+"G00356": {
+"on_topic": "no",
+"incident": null
+},
+"G00357": {
+"on_topic": "no",
+"incident": null
+},
+"G00358": {
+"on_topic": "no",
+"incident": null
+},
+"G00359": {
+"on_topic": "no",
+"incident": null
+},
+"G00360": {
+"on_topic": "no",
+"incident": null
+},
+"G00361": {
+"on_topic": "no",
+"incident": null
+},
+"G00362": {
+"on_topic": "yes",
+"incident": "duque de caxias · 22 oct · man shot dead during attempted robbery"
+},
+"G00363": {
+"on_topic": "no",
+"incident": null
+},
+"G00364": {
+"on_topic": "no",
+"incident": null
+},
+"G00365": {
+"on_topic": "no",
+"incident": null
+},
+"G00366": {
+"on_topic": "no",
+"incident": null
+},
+"G00367": {
+"on_topic": "no",
+"incident": null
+},
+"G00368": {
+"on_topic": "no",
+"incident": null
+},
+"G00369": {
+"on_topic": "no",
+"incident": null
+},
+"G00370": {
+"on_topic": "no",
+"incident": null
+},
+"G00371": {
+"on_topic": "no",
+"incident": null
+},
+"G00372": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · ana clara killed by ex-partner"
+},
+"G00373": {
+"on_topic": "no",
+"incident": null
+},
+"G00374": {
+"on_topic": "no",
+"incident": null
+},
+"G00375": {
+"on_topic": "no",
+"incident": null
+},
+"G00376": {
+"on_topic": "no",
+"incident": null
+},
+"G00377": {
+"on_topic": "yes",
+"incident": "nova iguaçu · 22 oct · woman killed in femicide"
+},
+"G00378": {
+"on_topic": "no",
+"incident": null
+},
+"G00379": {
+"on_topic": "yes",
+"incident": "rio de janeiro south zone · 22 oct · robbery gang leader dies in police pursuit"
+},
+"G00380": {
+"on_topic": "no",
+"incident": null
+},
+"G00381": {
+"on_topic": "no",
+"incident": null
+},
+"G00382": {
+"on_topic": "no",
+"incident": null
+},
+"G00383": {
+"on_topic": "no",
+"incident": null
+},
+"G00384": {
+"on_topic": "no",
+"incident": null
+},
+"G00385": {
+"on_topic": "no",
+"incident": null
+},
+"G00386": {
+"on_topic": "no",
+"incident": null
+},
+"G00387": {
+"on_topic": "no",
+"incident": null
+},
+"G00388": {
+"on_topic": "no",
+"incident": null
+},
+"G00389": {
+"on_topic": "no",
+"incident": null
+},
+"G00390": {
+"on_topic": "no",
+"incident": null
+},
+"G00391": {
+"on_topic": "no",
+"incident": null
+},
+"G00392": {
+"on_topic": "no",
+"incident": null
+},
+"G00393": {
+"on_topic": "no",
+"incident": null
+},
+"G00394": {
+"on_topic": "no",
+"incident": null
+},
+"G00395": {
+"on_topic": "no",
+"incident": null
+},
+"G00396": {
+"on_topic": "no",
+"incident": null
+},
+"G00397": {
+"on_topic": "no",
+"incident": null
+},
+"G00398": {
+"on_topic": "no",
+"incident": null
+},
+"G00399": {
+"on_topic": "no",
+"incident": null
+},
+"G00400": {
+"on_topic": "no",
+"incident": null
+},
+"G00401": {
+"on_topic": "no",
+"incident": null
+},
+"G00402": {
+"on_topic": "no",
+"incident": null
+},
+"G00403": {
+"on_topic": "no",
+"incident": null
+},
+"G00404": {
+"on_topic": "no",
+"incident": null
+},
+"G00405": {
+"on_topic": "no",
+"incident": null
+},
+"G00406": {
+"on_topic": "no",
+"incident": null
+},
+"G00407": {
+"on_topic": "no",
+"incident": null
+},
+"G00408": {
+"on_topic": "no",
+"incident": null
+},
+"G00409": {
+"on_topic": "no",
+"incident": null
+},
+"G00410": {
+"on_topic": "no",
+"incident": null
+},
+"G00411": {
+"on_topic": "no",
+"incident": null
+},
+"G00412": {
+"on_topic": "no",
+"incident": null
+},
+"G00413": {
+"on_topic": "no",
+"incident": null
+},
+"G00414": {
+"on_topic": "no",
+"incident": null
+},
+"G00415": {
+"on_topic": "no",
+"incident": null
+},
+"G00416": {
+"on_topic": "no",
+"incident": null
+},
+"G00417": {
+"on_topic": "no",
+"incident": null
+},
+"G00418": {
+"on_topic": "no",
+"incident": null
+},
+"G00419": {
+"on_topic": "no",
+"incident": null
+},
+"G00420": {
+"on_topic": "no",
+"incident": null
+},
+"G00421": {
+"on_topic": "no",
+"incident": null
+},
+"G00422": {
+"on_topic": "no",
+"incident": null
+},
+"G00423": {
+"on_topic": "no",
+"incident": null
+},
+"G00424": {
+"on_topic": "no",
+"incident": null
+},
+"G00425": {
+"on_topic": "no",
+"incident": null
+},
+"G00426": {
+"on_topic": "no",
+"incident": null
+},
+"G00427": {
+"on_topic": "no",
+"incident": null
+},
+"G00428": {
+"on_topic": "no",
+"incident": null
+},
+"G00429": {
+"on_topic": "no",
+"incident": null
+},
+"G00430": {
+"on_topic": "no",
+"incident": null
+},
+"G00431": {
+"on_topic": "no",
+"incident": null
+},
+"G00432": {
+"on_topic": "no",
+"incident": null
+},
+"G00433": {
+"on_topic": "no",
+"incident": null
+},
+"G00434": {
+"on_topic": "no",
+"incident": null
+},
+"G00435": {
+"on_topic": "no",
+"incident": null
+},
+"G00436": {
+"on_topic": "no",
+"incident": null
+},
+"G00437": {
+"on_topic": "no",
+"incident": null
+},
+"G00438": {
+"on_topic": "no",
+"incident": null
+},
+"G00439": {
+"on_topic": "no",
+"incident": null
+},
+"G00440": {
+"on_topic": "no",
+"incident": null
+},
+"G00441": {
+"on_topic": "no",
+"incident": null
+},
+"G00442": {
+"on_topic": "no",
+"incident": null
+},
+"G00443": {
+"on_topic": "no",
+"incident": null
+},
+"G00444": {
+"on_topic": "no",
+"incident": null
+},
+"G00445": {
+"on_topic": "yes",
+"incident": "duque de caxias · 23 oct · shooting kills one man and wounds another"
+},
+"G00446": {
+"on_topic": "no",
+"incident": null
+},
+"G00447": {
+"on_topic": "no",
+"incident": null
+},
+"G00448": {
+"on_topic": "no",
+"incident": null
+},
+"G00449": {
+"on_topic": "no",
+"incident": null
+},
+"G00450": {
+"on_topic": "no",
+"incident": null
+},
+"G00451": {
+"on_topic": "no",
+"incident": null
+},
+"G00452": {
+"on_topic": "no",
+"incident": null
+},
+"G00453": {
+"on_topic": "no",
+"incident": null
+},
+"G00454": {
+"on_topic": "yes",
+"incident": "moema, são paulo · 19 oct · police shoot young man dead"
+},
+"G00455": {
+"on_topic": "no",
+"incident": null
+},
+"G00456": {
+"on_topic": "no",
+"incident": null
+},
+"G00457": {
+"on_topic": "yes",
+"incident": "monte azul paulista · 23 oct · security guard killed by suspects"
+},
+"G00458": {
+"on_topic": "no",
+"incident": null
+},
+"G00459": {
+"on_topic": "no",
+"incident": null
+},
+"G00460": {
+"on_topic": "yes",
+"incident": "rio de janeiro · 22 oct · lawyer rodrigo marinho crespo shot dead outside oab headquarters"
+},
+"G00461": {
+"on_topic": "no",
+"incident": null
+},
+"G00462": {
+"on_topic": "no",
+"incident": null
+},
+"G00463": {
+"on_topic": "no",
+"incident": null
+},
+"G00464": {
+"on_topic": "no",
+"incident": null
+},
+"G00465": {
+"on_topic": "no",
+"incident": null
+},
+"G00466": {
+"on_topic": "no",
+"incident": null
+},
+"G00467": {
+"on_topic": "no",
+"incident": null
+},
+"G00468": {
+"on_topic": "no",
+"incident": null
+},
+"G00469": {
+"on_topic": "no",
+"incident": null
+},
+"G00470": {
+"on_topic": "no",
+"incident": null
+},
+"G00471": {
+"on_topic": "no",
+"incident": null
+},
+"G00472": {
+"on_topic": "no",
+"incident": null
+},
+"G00473": {
+"on_topic": "no",
+"incident": null
+},
+"G00474": {
+"on_topic": "no",
+"incident": null
+},
+"G00475": {
+"on_topic": "no",
+"incident": null
+},
+"G00476": {
+"on_topic": "no",
+"incident": null
+},
+"G00477": {
+"on_topic": "no",
+"incident": null
+},
+"G00478": {
+"on_topic": "no",
+"incident": null
+},
+"G00479": {
+"on_topic": "no",
+"incident": null
+},
+"G00480": {
+"on_topic": "no",
+"incident": null
+},
+"G00481": {
+"on_topic": "no",
+"incident": null
+},
+"G00482": {
+"on_topic": "no",
+"incident": null
+},
+"G00483": {
+"on_topic": "no",
+"incident": null
+},
+"G00484": {
+"on_topic": "yes",
+"incident": "são raimundo, maranhão · 23 oct · woman shot dead"
+},
+"G00485": {
+"on_topic": "yes",
+"incident": "são josé, santa catarina · 23 oct · man stabs new wife to death"
+},
+"G00486": {
+"on_topic": "no",
+"incident": null
+},
+"G00487": {
+"on_topic": "no",
+"incident": null
+},
+"G00488": {
+"on_topic": "no",
+"incident": null
+},
+"G00489": {
+"on_topic": "no",
+"incident": null
+},
+"G00490": {
+"on_topic": "no",
+"incident": null
+},
+"G00491": {
+"on_topic": "no",
+"incident": null
+},
+"G00492": {
+"on_topic": "no",
+"incident": null
+},
+"G00493": {
+"on_topic": "no",
+"incident": null
+},
+"G00494": {
+"on_topic": "no",
+"incident": null
+},
+"G00495": {
+"on_topic": "no",
+"incident": null
+},
+"G00496": {
+"on_topic": "no",
+"incident": null
+},
+"G00497": {
+"on_topic": "no",
+"incident": null
+},
+"G00498": {
+"on_topic": "no",
+"incident": null
+},
+"G00499": {
+"on_topic": "no",
+"incident": null
+},
+"G00500": {
+"on_topic": "no",
+"incident": null
+},
+"G00501": {
+"on_topic": "no",
+"incident": null
+},
+"G00502": {
+"on_topic": "no",
+"incident": null
+},
+"G00503": {
+"on_topic": "no",
+"incident": null
+},
+"G00504": {
+"on_topic": "no",
+"incident": null
+},
+"G00505": {
+"on_topic": "no",
+"incident": null
+},
+"G00506": {
+"on_topic": "no",
+"incident": null
+},
+"G00507": {
+"on_topic": "no",
+"incident": null
+},
+"G00508": {
+"on_topic": "no",
+"incident": null
+},
+"G00509": {
+"on_topic": "no",
+"incident": null
+},
+"G00510": {
+"on_topic": "no",
+"incident": null
+},
+"G00511": {
+"on_topic": "no",
+"incident": null
+},
+"G00512": {
+"on_topic": "no",
+"incident": null
+},
+"G00513": {
+"on_topic": "no",
+"incident": null
+},
+"G00514": {
+"on_topic": "no",
+"incident": null
+},
+"G00515": {
+"on_topic": "no",
+"incident": null
+},
+"G00516": {
+"on_topic": "no",
+"incident": null
+},
+"G00517": {
+"on_topic": "no",
+"incident": null
+},
+"G00518": {
+"on_topic": "no",
+"incident": null
+},
+"G00519": {
+"on_topic": "no",
+"incident": null
+},
+"G00520": {
+"on_topic": "no",
+"incident": null
+},
+"G00521": {
+"on_topic": "no",
+"incident": null
+},
+"G00522": {
+"on_topic": "no",
+"incident": null
+},
+"G00523": {
+"on_topic": "no",
+"incident": null
+},
+"G00524": {
+"on_topic": "no",
+"incident": null
+},
+"G00525": {
+"on_topic": "no",
+"incident": null
+},
+"G00526": {
+"on_topic": "no",
+"incident": null
+},
+"G00527": {
+"on_topic": "no",
+"incident": null
+},
+"G00528": {
+"on_topic": "no",
+"incident": null
+},
+"G00529": {
+"on_topic": "no",
+"incident": null
+},
+"G00530": {
+"on_topic": "no",
+"incident": null
+},
+"G00531": {
+"on_topic": "no",
+"incident": null
+},
+"G00532": {
+"on_topic": "no",
+"incident": null
+},
+"G00533": {
+"on_topic": "no",
+"incident": null
+},
+"G00534": {
+"on_topic": "no",
+"incident": null
+},
+"G00535": {
+"on_topic": "no",
+"incident": null
+},
+"G00536": {
+"on_topic": "no",
+"incident": null
+},
+"G00537": {
+"on_topic": "no",
+"incident": null
+},
+"G00538": {
+"on_topic": "no",
+"incident": null
+},
+"G00539": {
+"on_topic": "no",
+"incident": null
+},
+"G00540": {
+"on_topic": "no",
+"incident": null
+},
+"G00541": {
+"on_topic": "no",
+"incident": null
+},
+"G00542": {
+"on_topic": "no",
+"incident": null
+},
+"G00543": {
+"on_topic": "no",
+"incident": null
+},
+"G00544": {
+"on_topic": "no",
+"incident": null
+},
+"G00545": {
+"on_topic": "no",
+"incident": null
+},
+"G00546": {
+"on_topic": "no",
+"incident": null
+},
+"G00547": {
+"on_topic": "no",
+"incident": null
+},
+"G00548": {
+"on_topic": "no",
+"incident": null
+},
+"G00549": {
+"on_topic": "no",
+"incident": null
+},
+"G00550": {
+"on_topic": "no",
+"incident": null
+},
+"G00551": {
+"on_topic": "no",
+"incident": null
+},
+"G00552": {
+"on_topic": "no",
+"incident": null
+},
+"G00553": {
+"on_topic": "no",
+"incident": null
+},
+"G00554": {
+"on_topic": "no",
+"incident": null
+},
+"G00555": {
+"on_topic": "no",
+"incident": null
+},
+"G00556": {
+"on_topic": "no",
+"incident": null
+},
+"G00557": {
+"on_topic": "no",
+"incident": null
+},
+"G00558": {
+"on_topic": "no",
+"incident": null
+},
+"G00559": {
+"on_topic": "no",
+"incident": null
+},
+"G00560": {
+"on_topic": "no",
+"incident": null
+},
+"G00561": {
+"on_topic": "no",
+"incident": null
+},
+"G00562": {
+"on_topic": "no",
+"incident": null
+},
+"G00563": {
+"on_topic": "no",
+"incident": null
+},
+"G00564": {
+"on_topic": "no",
+"incident": null
+},
+"G00565": {
+"on_topic": "no",
+"incident": null
+},
+"G00566": {
+"on_topic": "no",
+"incident": null
+},
+"G00567": {
+"on_topic": "no",
+"incident": null
+},
+"G00568": {
+"on_topic": "no",
+"incident": null
+},
+"G00569": {
+"on_topic": "no",
+"incident": null
+},
+"G00570": {
+"on_topic": "no",
+"incident": null
+},
+"G00571": {
+"on_topic": "no",
+"incident": null
+},
+"G00572": {
+"on_topic": "no",
+"incident": null
+},
+"G00573": {
+"on_topic": "no",
+"incident": null
+},
+"G00574": {
+"on_topic": "no",
+"incident": null
+},
+"G00575": {
+"on_topic": "no",
+"incident": null
+},
+"G00576": {
+"on_topic": "no",
+"incident": null
+},
+"G00577": {
+"on_topic": "no",
+"incident": null
+},
+"G00578": {
+"on_topic": "no",
+"incident": null
+},
+"G00579": {
+"on_topic": "no",
+"incident": null
+},
+"G00580": {
+"on_topic": "no",
+"incident": null
+},
+"G00581": {
+"on_topic": "no",
+"incident": null
+},
+"G00582": {
+"on_topic": "no",
+"incident": null
+},
+"G00583": {
+"on_topic": "no",
+"incident": null
+},
+"G00584": {
+"on_topic": "no",
+"incident": null
+},
+"G00585": {
+"on_topic": "no",
+"incident": null
+},
+"G00586": {
+"on_topic": "no",
+"incident": null
+},
+"G00587": {
+"on_topic": "no",
+"incident": null
+},
+"G00588": {
+"on_topic": "no",
+"incident": null
+},
+"G00589": {
+"on_topic": "no",
+"incident": null
+},
+"G00590": {
+"on_topic": "no",
+"incident": null
+},
+"G00591": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · ana clara killed by ex-partner"
+},
+"G00592": {
+"on_topic": "no",
+"incident": null
+},
+"G00593": {
+"on_topic": "no",
+"incident": null
+},
+"G00594": {
+"on_topic": "no",
+"incident": null
+},
+"G00595": {
+"on_topic": "no",
+"incident": null
+},
+"G00596": {
+"on_topic": "no",
+"incident": null
+},
+"G00597": {
+"on_topic": "no",
+"incident": null
+},
+"G00598": {
+"on_topic": "yes",
+"incident": "north zone, são paulo · 24 oct · pai de santo shot dead"
+},
+"G00599": {
+"on_topic": "no",
+"incident": null
+},
+"G00600": {
+"on_topic": "yes",
+"incident": "alagoas · 24 oct · transgender former council candidate shot dead"
+},
+"G00601": {
+"on_topic": "no",
+"incident": null
+},
+"G00602": {
+"on_topic": "no",
+"incident": null
+},
+"G00603": {
+"on_topic": "no",
+"incident": null
+},
+"G00604": {
+"on_topic": "no",
+"incident": null
+},
+"G00605": {
+"on_topic": "no",
+"incident": null
+},
+"G00606": {
+"on_topic": "no",
+"incident": null
+},
+"G00607": {
+"on_topic": "no",
+"incident": null
+},
+"G00608": {
+"on_topic": "no",
+"incident": null
+},
+"G00609": {
+"on_topic": "no",
+"incident": null
+},
+"G00610": {
+"on_topic": "no",
+"incident": null
+},
+"G00611": {
+"on_topic": "no",
+"incident": null
+},
+"G00612": {
+"on_topic": "no",
+"incident": null
+},
+"G00613": {
+"on_topic": "no",
+"incident": null
+},
+"G00614": {
+"on_topic": "no",
+"incident": null
+},
+"G00615": {
+"on_topic": "no",
+"incident": null
+},
+"G00616": {
+"on_topic": "no",
+"incident": null
+},
+"G00617": {
+"on_topic": "no",
+"incident": null
+},
+"G00618": {
+"on_topic": "no",
+"incident": null
+},
+"G00619": {
+"on_topic": "no",
+"incident": null
+},
+"G00620": {
+"on_topic": "no",
+"incident": null
+},
+"G00621": {
+"on_topic": "no",
+"incident": null
+},
+"G00622": {
+"on_topic": "no",
+"incident": null
+},
+"G00623": {
+"on_topic": "no",
+"incident": null
+},
+"G00624": {
+"on_topic": "no",
+"incident": null
+},
+"G00625": {
+"on_topic": "no",
+"incident": null
+},
+"G00626": {
+"on_topic": "no",
+"incident": null
+},
+"G00627": {
+"on_topic": "no",
+"incident": null
+},
+"G00628": {
+"on_topic": "no",
+"incident": null
+},
+"G00629": {
+"on_topic": "no",
+"incident": null
+},
+"G00630": {
+"on_topic": "no",
+"incident": null
+},
+"G00631": {
+"on_topic": "no",
+"incident": null
+},
+"G00632": {
+"on_topic": "no",
+"incident": null
+},
+"G00633": {
+"on_topic": "no",
+"incident": null
+},
+"G00634": {
+"on_topic": "no",
+"incident": null
+},
+"G00635": {
+"on_topic": "no",
+"incident": null
+},
+"G00636": {
+"on_topic": "no",
+"incident": null
+},
+"G00637": {
+"on_topic": "no",
+"incident": null
+},
+"G00638": {
+"on_topic": "no",
+"incident": null
+},
+"G00639": {
+"on_topic": "no",
+"incident": null
+},
+"G00640": {
+"on_topic": "no",
+"incident": null
+},
+"G00641": {
+"on_topic": "no",
+"incident": null
+},
+"G00642": {
+"on_topic": "no",
+"incident": null
+},
+"G00643": {
+"on_topic": "yes",
+"incident": "brazil · 19 oct · ana clara killed by ex-partner"
+},
+"G00644": {
+"on_topic": "no",
+"incident": null
+},
+"G00645": {
+"on_topic": "no",
+"incident": null
+},
+"G00646": {
+"on_topic": "no",
+"incident": null
+},
+"G00647": {
+"on_topic": "no",
+"incident": null
+},
+"G00648": {
+"on_topic": "no",
+"incident": null
+},
+"G00649": {
+"on_topic": "no",
+"incident": null
+},
+"G00650": {
+"on_topic": "no",
+"incident": null
+},
+"G00651": {
+"on_topic": "no",
+"incident": null
+},
+"G00652": {
+"on_topic": "no",
+"incident": null
+},
+"G00653": {
+"on_topic": "no",
+"incident": null
+},
+"G00654": {
+"on_topic": "no",
+"incident": null
+},
+"G00655": {
+"on_topic": "no",
+"incident": null
+},
+"G00656": {
+"on_topic": "no",
+"incident": null
+},
+"G00657": {
+"on_topic": "no",
+"incident": null
+},
+"G00658": {
+"on_topic": "no",
+"incident": null
+},
+"G00659": {
+"on_topic": "no",
+"incident": null
+},
+"G00660": {
+"on_topic": "no",
+"incident": null
+},
+"G00661": {
+"on_topic": "no",
+"incident": null
+},
+"G00662": {
+"on_topic": "no",
+"incident": null
+},
+"G00663": {
+"on_topic": "no",
+"incident": null
+},
+"G00664": {
+"on_topic": "no",
+"incident": null
+},
+"G00665": {
+"on_topic": "no",
+"incident": null
+},
+"G00666": {
+"on_topic": "no",
+"incident": null
+},
+"G00667": {
+"on_topic": "no",
+"incident": null
+},
+"G00668": {
+"on_topic": "no",
+"incident": null
+},
+"G00669": {
+"on_topic": "no",
+"incident": null
+},
+"G00670": {
+"on_topic": "no",
+"incident": null
+},
+"G00671": {
+"on_topic": "yes",
+"incident": "north zone, são paulo · 24 oct · pai de santo shot dead"
+},
+"G00672": {
+"on_topic": "yes",
+"incident": "volta redonda · 25 oct · gang clashes kill two and burn vehicles"
+},
+"G00673": {
+"on_topic": "no",
+"incident": null
+},
+"G00674": {
+"on_topic": "no",
+"incident": null
+},
+"G00675": {
+"on_topic": "no",
+"incident": null
+},
+"G00676": {
+"on_topic": "yes",
+"incident": "bonito · 24 oct · lula supporter shot dead during political motorcade"
+},
+"G00677": {
+"on_topic": "no",
+"incident": null
+},
+"G00678": {
+"on_topic": "no",
+"incident": null
+},
+"G00679": {
+"on_topic": "no",
+"incident": null
+},
+"G00680": {
+"on_topic": "yes",
+"incident": "volta redonda · 25 oct · gang clashes kill two and burn vehicles"
+},
+"G00681": {
+"on_topic": "no",
+"incident": null
+},
+"G00682": {
+"on_topic": "no",
+"incident": null
+},
+"G00683": {
+"on_topic": "no",
+"incident": null
+},
+"G00684": {
+"on_topic": "no",
+"incident": null
+},
+"G00685": {
+"on_topic": "no",
+"incident": null
+},
+"G00686": {
+"on_topic": "no",
+"incident": null
+},
+"G00687": {
+"on_topic": "no",
+"incident": null
+},
+"G00688": {
+"on_topic": "no",
+"incident": null
+},
+"G00689": {
+"on_topic": "no",
+"incident": null
+},
+"G00690": {
+"on_topic": "no",
+"incident": null
+},
+"G00691": {
+"on_topic": "no",
+"incident": null
+},
+"G00692": {
+"on_topic": "no",
+"incident": null
+},
+"G00693": {
+"on_topic": "no",
+"incident": null
+}
 }

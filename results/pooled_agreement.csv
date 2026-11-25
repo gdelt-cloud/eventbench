@@ -1,2 +1,6 @@
-juror_1,juror_2,records,agreement,kappa
-juror_a,juror_b,18734,0.9599,0.818
+juror_1,juror_2,records_from,records,agreement,kappa
+juror_a,juror_b,all,48771,0.9466,0.713
+juror_a,juror_b,cloud,16535,0.9644,0.804
+juror_a,juror_b,web,2112,0.9228,0.812
+juror_a,juror_b,gdelt_project,30037,0.9383,0.625
+juror_a,juror_b,reference,87,1.0,1.0

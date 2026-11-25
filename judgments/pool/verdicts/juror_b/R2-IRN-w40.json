@@ -1,1830 +1,8002 @@
 {
- "R0001": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0002": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0003": {
-  "on_topic": "yes",
-  "incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
- },
- "R0004": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0005": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0006": {
-  "on_topic": "yes",
-  "incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
- },
- "R0007": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0008": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0009": {
-  "on_topic": "yes",
-  "incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
- },
- "R0010": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0011": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0012": {
-  "on_topic": "yes",
-  "incident": "Minab · 30 Sep · school bombing kills children"
- },
- "R0013": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0014": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0015": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0016": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0017": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0018": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0019": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0020": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0021": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0022": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0023": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0024": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0025": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0026": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0027": {
-  "on_topic": "yes",
-  "incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
- },
- "R0028": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0029": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0030": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0031": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0032": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0033": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0034": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0035": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0036": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0037": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0038": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0039": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0040": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0041": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0042": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0043": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0044": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0045": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0046": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0047": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0048": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0049": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0050": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0051": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0052": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0053": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0054": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0055": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0056": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0057": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0058": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0059": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0060": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0061": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0062": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0063": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0064": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0065": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0066": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0067": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0068": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0069": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0070": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0071": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0072": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0073": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0074": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0075": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0076": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0077": {
-  "on_topic": "yes",
-  "incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
- },
- "R0078": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0079": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0080": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · checkpoint attack and siege kill seven"
- },
- "R0081": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0082": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0083": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0084": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0085": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0086": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0087": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0088": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0089": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0090": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0091": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0092": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0093": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0094": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0095": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0096": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0097": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0098": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0099": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0100": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0101": {
-  "on_topic": "yes",
-  "incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
- },
- "R0102": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0103": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0104": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0105": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0106": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0107": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0108": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0109": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0110": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0111": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0112": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0113": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0114": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0115": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0116": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0117": {
-  "on_topic": "yes",
-  "incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
- },
- "R0118": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0119": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
- },
- "R0120": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0121": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0122": {
-  "on_topic": "yes",
-  "incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
- },
- "R0123": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0124": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0125": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0126": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0127": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0128": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0129": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0130": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0131": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0132": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0133": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0134": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0135": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0136": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0137": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0138": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0139": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0140": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0141": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0142": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0143": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0144": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0145": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0146": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0147": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0148": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0149": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0150": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0151": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0152": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0153": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0154": {
-  "on_topic": "yes",
-  "incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
- },
- "R0155": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0156": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0157": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0158": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0159": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0160": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0161": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0162": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · roadside bombing kills one security-force member"
- },
- "R0163": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0164": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0165": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0166": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0167": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0168": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0169": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0170": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0171": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0172": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0173": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0174": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0175": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0176": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0177": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0178": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0179": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0180": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0181": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0182": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0183": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0184": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0185": {
-  "on_topic": "yes",
-  "incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
- },
- "R0186": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0187": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · roadside bombing kills one security-force member"
- },
- "R0188": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · roadside bombing kills one security-force member"
- },
- "R0189": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0190": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0191": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0192": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0193": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0194": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0195": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0196": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0197": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0198": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0199": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0200": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0201": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0202": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0203": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0204": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0205": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0206": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0207": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0208": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0209": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0210": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0211": {
-  "on_topic": "yes",
-  "incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
- },
- "R0212": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0213": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0214": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0215": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0216": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0217": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0218": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0219": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0220": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0221": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0222": {
-  "on_topic": "yes",
-  "incident": "Rask · 1 Oct · armed clashes kill a security officer"
- },
- "R0223": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0224": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0225": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0226": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0227": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0228": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0229": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0230": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0231": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0232": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0233": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0234": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0235": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0236": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0237": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0238": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0239": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0240": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0241": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0242": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0243": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0244": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0245": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0246": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
- },
- "R0247": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0248": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0249": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0250": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0251": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0252": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0253": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0254": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0255": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0256": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0257": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0258": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0259": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0260": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0261": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0262": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0263": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0264": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0265": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0266": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0267": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0268": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0269": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0270": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0271": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0272": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0273": {
-  "on_topic": "yes",
-  "incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
- },
- "R0274": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0275": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0276": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0277": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0278": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0279": {
-  "on_topic": "yes",
-  "incident": "Karaj · 2 Oct · authorities execute an Afghan citizen on espionage charges"
- },
- "R0280": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0281": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0282": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0283": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0284": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0285": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0286": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0287": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0288": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0289": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0290": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0291": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0292": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0293": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
- },
- "R0294": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0295": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0296": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0297": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0298": {
-  "on_topic": "yes",
-  "incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
- },
- "R0299": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0300": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0301": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0302": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0303": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0304": {
-  "on_topic": "yes",
-  "incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
- },
- "R0305": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0306": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0307": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0308": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0309": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0310": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0311": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0312": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0313": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0314": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0315": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0316": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0317": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0318": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0319": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0320": {
-  "on_topic": "yes",
-  "incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
- },
- "R0321": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0322": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0323": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0324": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0325": {
-  "on_topic": "yes",
-  "incident": "Zahedan · 1 Oct · clashes kill six armed men"
- },
- "R0326": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0327": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0328": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0329": {
-  "on_topic": "yes",
-  "incident": "Iran · 1 Oct · clashes reportedly kill an IRGC general"
- },
- "R0330": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0331": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0332": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0333": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0334": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0335": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0336": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0337": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0338": {
-  "on_topic": "yes",
-  "incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
- },
- "R0339": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0340": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0341": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0342": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0343": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0344": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0345": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0346": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0347": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0348": {
-  "on_topic": "yes",
-  "incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
- },
- "R0349": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0350": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0351": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0352": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0353": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0354": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0355": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0356": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0357": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0358": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0359": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0360": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0361": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0362": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0363": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0364": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0365": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0366": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0367": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0368": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0369": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0370": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0371": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0372": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0373": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0374": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0375": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0376": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0377": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0378": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0379": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0380": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0381": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0382": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0383": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0384": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0385": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0386": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0387": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0388": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0389": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0390": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0391": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0392": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0393": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0394": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0395": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0396": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0397": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0398": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0399": {
-  "on_topic": "yes",
-  "incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
- },
- "R0400": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0401": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0402": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0403": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0404": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0405": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0406": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0407": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0408": {
-  "on_topic": "yes",
-  "incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
- },
- "R0409": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0410": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0411": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0412": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0413": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0414": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0415": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0416": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0417": {
-  "on_topic": "yes",
-  "incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
- },
- "R0418": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0419": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0420": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0421": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0422": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0423": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0424": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0425": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0426": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0427": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0428": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0429": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0430": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0431": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0432": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0433": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0434": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0435": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0436": {
-  "on_topic": "yes",
-  "incident": "Southeastern Iran · 3 Oct · forces kill two in a counterterrorism operation"
- },
- "R0437": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0438": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0439": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0440": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0441": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0442": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0443": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0444": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0445": {
-  "on_topic": "yes",
-  "incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
- },
- "R0446": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0447": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0448": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0449": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0450": {
-  "on_topic": "yes",
-  "incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
- },
- "R0451": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0452": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0453": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0454": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0455": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0456": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0457": {
-  "on_topic": "no",
-  "incident": null
- }
+"R0001": {
+"on_topic": "no",
+"incident": null
+},
+"R0002": {
+"on_topic": "no",
+"incident": null
+},
+"R0003": {
+"on_topic": "yes",
+"incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
+},
+"R0004": {
+"on_topic": "no",
+"incident": null
+},
+"R0005": {
+"on_topic": "no",
+"incident": null
+},
+"R0006": {
+"on_topic": "yes",
+"incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
+},
+"R0007": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0008": {
+"on_topic": "no",
+"incident": null
+},
+"R0009": {
+"on_topic": "yes",
+"incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
+},
+"R0010": {
+"on_topic": "no",
+"incident": null
+},
+"R0011": {
+"on_topic": "no",
+"incident": null
+},
+"R0012": {
+"on_topic": "yes",
+"incident": "Minab · 30 Sep · school bombing kills children"
+},
+"R0013": {
+"on_topic": "no",
+"incident": null
+},
+"R0014": {
+"on_topic": "no",
+"incident": null
+},
+"R0015": {
+"on_topic": "no",
+"incident": null
+},
+"R0016": {
+"on_topic": "no",
+"incident": null
+},
+"R0017": {
+"on_topic": "no",
+"incident": null
+},
+"R0018": {
+"on_topic": "no",
+"incident": null
+},
+"R0019": {
+"on_topic": "no",
+"incident": null
+},
+"R0020": {
+"on_topic": "no",
+"incident": null
+},
+"R0021": {
+"on_topic": "no",
+"incident": null
+},
+"R0022": {
+"on_topic": "no",
+"incident": null
+},
+"R0023": {
+"on_topic": "no",
+"incident": null
+},
+"R0024": {
+"on_topic": "no",
+"incident": null
+},
+"R0025": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0026": {
+"on_topic": "no",
+"incident": null
+},
+"R0027": {
+"on_topic": "yes",
+"incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
+},
+"R0028": {
+"on_topic": "no",
+"incident": null
+},
+"R0029": {
+"on_topic": "no",
+"incident": null
+},
+"R0030": {
+"on_topic": "no",
+"incident": null
+},
+"R0031": {
+"on_topic": "no",
+"incident": null
+},
+"R0032": {
+"on_topic": "no",
+"incident": null
+},
+"R0033": {
+"on_topic": "no",
+"incident": null
+},
+"R0034": {
+"on_topic": "no",
+"incident": null
+},
+"R0035": {
+"on_topic": "no",
+"incident": null
+},
+"R0036": {
+"on_topic": "no",
+"incident": null
+},
+"R0037": {
+"on_topic": "no",
+"incident": null
+},
+"R0038": {
+"on_topic": "no",
+"incident": null
+},
+"R0039": {
+"on_topic": "no",
+"incident": null
+},
+"R0040": {
+"on_topic": "no",
+"incident": null
+},
+"R0041": {
+"on_topic": "no",
+"incident": null
+},
+"R0042": {
+"on_topic": "no",
+"incident": null
+},
+"R0043": {
+"on_topic": "no",
+"incident": null
+},
+"R0044": {
+"on_topic": "no",
+"incident": null
+},
+"R0045": {
+"on_topic": "no",
+"incident": null
+},
+"R0046": {
+"on_topic": "no",
+"incident": null
+},
+"R0047": {
+"on_topic": "no",
+"incident": null
+},
+"R0048": {
+"on_topic": "no",
+"incident": null
+},
+"R0049": {
+"on_topic": "no",
+"incident": null
+},
+"R0050": {
+"on_topic": "no",
+"incident": null
+},
+"R0051": {
+"on_topic": "no",
+"incident": null
+},
+"R0052": {
+"on_topic": "no",
+"incident": null
+},
+"R0053": {
+"on_topic": "no",
+"incident": null
+},
+"R0054": {
+"on_topic": "no",
+"incident": null
+},
+"R0055": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0056": {
+"on_topic": "no",
+"incident": null
+},
+"R0057": {
+"on_topic": "no",
+"incident": null
+},
+"R0058": {
+"on_topic": "no",
+"incident": null
+},
+"R0059": {
+"on_topic": "no",
+"incident": null
+},
+"R0060": {
+"on_topic": "no",
+"incident": null
+},
+"R0061": {
+"on_topic": "no",
+"incident": null
+},
+"R0062": {
+"on_topic": "no",
+"incident": null
+},
+"R0063": {
+"on_topic": "no",
+"incident": null
+},
+"R0064": {
+"on_topic": "no",
+"incident": null
+},
+"R0065": {
+"on_topic": "no",
+"incident": null
+},
+"R0066": {
+"on_topic": "no",
+"incident": null
+},
+"R0067": {
+"on_topic": "no",
+"incident": null
+},
+"R0068": {
+"on_topic": "no",
+"incident": null
+},
+"R0069": {
+"on_topic": "no",
+"incident": null
+},
+"R0070": {
+"on_topic": "no",
+"incident": null
+},
+"R0071": {
+"on_topic": "no",
+"incident": null
+},
+"R0072": {
+"on_topic": "no",
+"incident": null
+},
+"R0073": {
+"on_topic": "no",
+"incident": null
+},
+"R0074": {
+"on_topic": "no",
+"incident": null
+},
+"R0075": {
+"on_topic": "no",
+"incident": null
+},
+"R0076": {
+"on_topic": "no",
+"incident": null
+},
+"R0077": {
+"on_topic": "yes",
+"incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
+},
+"R0078": {
+"on_topic": "no",
+"incident": null
+},
+"R0079": {
+"on_topic": "no",
+"incident": null
+},
+"R0080": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · checkpoint attack and siege kill seven"
+},
+"R0081": {
+"on_topic": "no",
+"incident": null
+},
+"R0082": {
+"on_topic": "no",
+"incident": null
+},
+"R0083": {
+"on_topic": "no",
+"incident": null
+},
+"R0084": {
+"on_topic": "no",
+"incident": null
+},
+"R0085": {
+"on_topic": "no",
+"incident": null
+},
+"R0086": {
+"on_topic": "no",
+"incident": null
+},
+"R0087": {
+"on_topic": "no",
+"incident": null
+},
+"R0088": {
+"on_topic": "no",
+"incident": null
+},
+"R0089": {
+"on_topic": "no",
+"incident": null
+},
+"R0090": {
+"on_topic": "no",
+"incident": null
+},
+"R0091": {
+"on_topic": "no",
+"incident": null
+},
+"R0092": {
+"on_topic": "no",
+"incident": null
+},
+"R0093": {
+"on_topic": "no",
+"incident": null
+},
+"R0094": {
+"on_topic": "no",
+"incident": null
+},
+"R0095": {
+"on_topic": "no",
+"incident": null
+},
+"R0096": {
+"on_topic": "no",
+"incident": null
+},
+"R0097": {
+"on_topic": "no",
+"incident": null
+},
+"R0098": {
+"on_topic": "no",
+"incident": null
+},
+"R0099": {
+"on_topic": "no",
+"incident": null
+},
+"R0100": {
+"on_topic": "no",
+"incident": null
+},
+"R0101": {
+"on_topic": "yes",
+"incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
+},
+"R0102": {
+"on_topic": "no",
+"incident": null
+},
+"R0103": {
+"on_topic": "no",
+"incident": null
+},
+"R0104": {
+"on_topic": "no",
+"incident": null
+},
+"R0105": {
+"on_topic": "no",
+"incident": null
+},
+"R0106": {
+"on_topic": "no",
+"incident": null
+},
+"R0107": {
+"on_topic": "no",
+"incident": null
+},
+"R0108": {
+"on_topic": "no",
+"incident": null
+},
+"R0109": {
+"on_topic": "no",
+"incident": null
+},
+"R0110": {
+"on_topic": "no",
+"incident": null
+},
+"R0111": {
+"on_topic": "no",
+"incident": null
+},
+"R0112": {
+"on_topic": "no",
+"incident": null
+},
+"R0113": {
+"on_topic": "no",
+"incident": null
+},
+"R0114": {
+"on_topic": "no",
+"incident": null
+},
+"R0115": {
+"on_topic": "no",
+"incident": null
+},
+"R0116": {
+"on_topic": "no",
+"incident": null
+},
+"R0117": {
+"on_topic": "yes",
+"incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
+},
+"R0118": {
+"on_topic": "no",
+"incident": null
+},
+"R0119": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
+},
+"R0120": {
+"on_topic": "no",
+"incident": null
+},
+"R0121": {
+"on_topic": "no",
+"incident": null
+},
+"R0122": {
+"on_topic": "yes",
+"incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
+},
+"R0123": {
+"on_topic": "no",
+"incident": null
+},
+"R0124": {
+"on_topic": "no",
+"incident": null
+},
+"R0125": {
+"on_topic": "no",
+"incident": null
+},
+"R0126": {
+"on_topic": "no",
+"incident": null
+},
+"R0127": {
+"on_topic": "no",
+"incident": null
+},
+"R0128": {
+"on_topic": "no",
+"incident": null
+},
+"R0129": {
+"on_topic": "no",
+"incident": null
+},
+"R0130": {
+"on_topic": "no",
+"incident": null
+},
+"R0131": {
+"on_topic": "no",
+"incident": null
+},
+"R0132": {
+"on_topic": "no",
+"incident": null
+},
+"R0133": {
+"on_topic": "no",
+"incident": null
+},
+"R0134": {
+"on_topic": "no",
+"incident": null
+},
+"R0135": {
+"on_topic": "no",
+"incident": null
+},
+"R0136": {
+"on_topic": "no",
+"incident": null
+},
+"R0137": {
+"on_topic": "no",
+"incident": null
+},
+"R0138": {
+"on_topic": "no",
+"incident": null
+},
+"R0139": {
+"on_topic": "no",
+"incident": null
+},
+"R0140": {
+"on_topic": "no",
+"incident": null
+},
+"R0141": {
+"on_topic": "no",
+"incident": null
+},
+"R0142": {
+"on_topic": "no",
+"incident": null
+},
+"R0143": {
+"on_topic": "no",
+"incident": null
+},
+"R0144": {
+"on_topic": "no",
+"incident": null
+},
+"R0145": {
+"on_topic": "no",
+"incident": null
+},
+"R0146": {
+"on_topic": "no",
+"incident": null
+},
+"R0147": {
+"on_topic": "no",
+"incident": null
+},
+"R0148": {
+"on_topic": "no",
+"incident": null
+},
+"R0149": {
+"on_topic": "no",
+"incident": null
+},
+"R0150": {
+"on_topic": "no",
+"incident": null
+},
+"R0151": {
+"on_topic": "no",
+"incident": null
+},
+"R0152": {
+"on_topic": "no",
+"incident": null
+},
+"R0153": {
+"on_topic": "no",
+"incident": null
+},
+"R0154": {
+"on_topic": "yes",
+"incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
+},
+"R0155": {
+"on_topic": "no",
+"incident": null
+},
+"R0156": {
+"on_topic": "no",
+"incident": null
+},
+"R0157": {
+"on_topic": "no",
+"incident": null
+},
+"R0158": {
+"on_topic": "no",
+"incident": null
+},
+"R0159": {
+"on_topic": "no",
+"incident": null
+},
+"R0160": {
+"on_topic": "no",
+"incident": null
+},
+"R0161": {
+"on_topic": "no",
+"incident": null
+},
+"R0162": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · roadside bombing kills one security-force member"
+},
+"R0163": {
+"on_topic": "no",
+"incident": null
+},
+"R0164": {
+"on_topic": "no",
+"incident": null
+},
+"R0165": {
+"on_topic": "no",
+"incident": null
+},
+"R0166": {
+"on_topic": "no",
+"incident": null
+},
+"R0167": {
+"on_topic": "no",
+"incident": null
+},
+"R0168": {
+"on_topic": "no",
+"incident": null
+},
+"R0169": {
+"on_topic": "no",
+"incident": null
+},
+"R0170": {
+"on_topic": "no",
+"incident": null
+},
+"R0171": {
+"on_topic": "no",
+"incident": null
+},
+"R0172": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0173": {
+"on_topic": "no",
+"incident": null
+},
+"R0174": {
+"on_topic": "no",
+"incident": null
+},
+"R0175": {
+"on_topic": "no",
+"incident": null
+},
+"R0176": {
+"on_topic": "no",
+"incident": null
+},
+"R0177": {
+"on_topic": "no",
+"incident": null
+},
+"R0178": {
+"on_topic": "no",
+"incident": null
+},
+"R0179": {
+"on_topic": "no",
+"incident": null
+},
+"R0180": {
+"on_topic": "no",
+"incident": null
+},
+"R0181": {
+"on_topic": "no",
+"incident": null
+},
+"R0182": {
+"on_topic": "no",
+"incident": null
+},
+"R0183": {
+"on_topic": "no",
+"incident": null
+},
+"R0184": {
+"on_topic": "no",
+"incident": null
+},
+"R0185": {
+"on_topic": "yes",
+"incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
+},
+"R0186": {
+"on_topic": "no",
+"incident": null
+},
+"R0187": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · roadside bombing kills one security-force member"
+},
+"R0188": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · roadside bombing kills one security-force member"
+},
+"R0189": {
+"on_topic": "no",
+"incident": null
+},
+"R0190": {
+"on_topic": "no",
+"incident": null
+},
+"R0191": {
+"on_topic": "no",
+"incident": null
+},
+"R0192": {
+"on_topic": "no",
+"incident": null
+},
+"R0193": {
+"on_topic": "no",
+"incident": null
+},
+"R0194": {
+"on_topic": "no",
+"incident": null
+},
+"R0195": {
+"on_topic": "no",
+"incident": null
+},
+"R0196": {
+"on_topic": "no",
+"incident": null
+},
+"R0197": {
+"on_topic": "no",
+"incident": null
+},
+"R0198": {
+"on_topic": "no",
+"incident": null
+},
+"R0199": {
+"on_topic": "no",
+"incident": null
+},
+"R0200": {
+"on_topic": "no",
+"incident": null
+},
+"R0201": {
+"on_topic": "no",
+"incident": null
+},
+"R0202": {
+"on_topic": "no",
+"incident": null
+},
+"R0203": {
+"on_topic": "no",
+"incident": null
+},
+"R0204": {
+"on_topic": "no",
+"incident": null
+},
+"R0205": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0206": {
+"on_topic": "no",
+"incident": null
+},
+"R0207": {
+"on_topic": "no",
+"incident": null
+},
+"R0208": {
+"on_topic": "no",
+"incident": null
+},
+"R0209": {
+"on_topic": "no",
+"incident": null
+},
+"R0210": {
+"on_topic": "no",
+"incident": null
+},
+"R0211": {
+"on_topic": "yes",
+"incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
+},
+"R0212": {
+"on_topic": "no",
+"incident": null
+},
+"R0213": {
+"on_topic": "no",
+"incident": null
+},
+"R0214": {
+"on_topic": "no",
+"incident": null
+},
+"R0215": {
+"on_topic": "no",
+"incident": null
+},
+"R0216": {
+"on_topic": "no",
+"incident": null
+},
+"R0217": {
+"on_topic": "no",
+"incident": null
+},
+"R0218": {
+"on_topic": "no",
+"incident": null
+},
+"R0219": {
+"on_topic": "no",
+"incident": null
+},
+"R0220": {
+"on_topic": "no",
+"incident": null
+},
+"R0221": {
+"on_topic": "no",
+"incident": null
+},
+"R0222": {
+"on_topic": "yes",
+"incident": "Rask · 1 Oct · armed clashes kill a security officer"
+},
+"R0223": {
+"on_topic": "no",
+"incident": null
+},
+"R0224": {
+"on_topic": "no",
+"incident": null
+},
+"R0225": {
+"on_topic": "no",
+"incident": null
+},
+"R0226": {
+"on_topic": "no",
+"incident": null
+},
+"R0227": {
+"on_topic": "no",
+"incident": null
+},
+"R0228": {
+"on_topic": "no",
+"incident": null
+},
+"R0229": {
+"on_topic": "no",
+"incident": null
+},
+"R0230": {
+"on_topic": "no",
+"incident": null
+},
+"R0231": {
+"on_topic": "no",
+"incident": null
+},
+"R0232": {
+"on_topic": "no",
+"incident": null
+},
+"R0233": {
+"on_topic": "no",
+"incident": null
+},
+"R0234": {
+"on_topic": "no",
+"incident": null
+},
+"R0235": {
+"on_topic": "no",
+"incident": null
+},
+"R0236": {
+"on_topic": "no",
+"incident": null
+},
+"R0237": {
+"on_topic": "no",
+"incident": null
+},
+"R0238": {
+"on_topic": "no",
+"incident": null
+},
+"R0239": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0240": {
+"on_topic": "no",
+"incident": null
+},
+"R0241": {
+"on_topic": "no",
+"incident": null
+},
+"R0242": {
+"on_topic": "no",
+"incident": null
+},
+"R0243": {
+"on_topic": "no",
+"incident": null
+},
+"R0244": {
+"on_topic": "no",
+"incident": null
+},
+"R0245": {
+"on_topic": "no",
+"incident": null
+},
+"R0246": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
+},
+"R0247": {
+"on_topic": "no",
+"incident": null
+},
+"R0248": {
+"on_topic": "no",
+"incident": null
+},
+"R0249": {
+"on_topic": "no",
+"incident": null
+},
+"R0250": {
+"on_topic": "no",
+"incident": null
+},
+"R0251": {
+"on_topic": "no",
+"incident": null
+},
+"R0252": {
+"on_topic": "no",
+"incident": null
+},
+"R0253": {
+"on_topic": "no",
+"incident": null
+},
+"R0254": {
+"on_topic": "no",
+"incident": null
+},
+"R0255": {
+"on_topic": "no",
+"incident": null
+},
+"R0256": {
+"on_topic": "no",
+"incident": null
+},
+"R0257": {
+"on_topic": "no",
+"incident": null
+},
+"R0258": {
+"on_topic": "no",
+"incident": null
+},
+"R0259": {
+"on_topic": "no",
+"incident": null
+},
+"R0260": {
+"on_topic": "no",
+"incident": null
+},
+"R0261": {
+"on_topic": "no",
+"incident": null
+},
+"R0262": {
+"on_topic": "no",
+"incident": null
+},
+"R0263": {
+"on_topic": "no",
+"incident": null
+},
+"R0264": {
+"on_topic": "no",
+"incident": null
+},
+"R0265": {
+"on_topic": "no",
+"incident": null
+},
+"R0266": {
+"on_topic": "no",
+"incident": null
+},
+"R0267": {
+"on_topic": "no",
+"incident": null
+},
+"R0268": {
+"on_topic": "no",
+"incident": null
+},
+"R0269": {
+"on_topic": "no",
+"incident": null
+},
+"R0270": {
+"on_topic": "no",
+"incident": null
+},
+"R0271": {
+"on_topic": "no",
+"incident": null
+},
+"R0272": {
+"on_topic": "no",
+"incident": null
+},
+"R0273": {
+"on_topic": "yes",
+"incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
+},
+"R0274": {
+"on_topic": "no",
+"incident": null
+},
+"R0275": {
+"on_topic": "no",
+"incident": null
+},
+"R0276": {
+"on_topic": "no",
+"incident": null
+},
+"R0277": {
+"on_topic": "no",
+"incident": null
+},
+"R0278": {
+"on_topic": "no",
+"incident": null
+},
+"R0279": {
+"on_topic": "yes",
+"incident": "Karaj · 2 Oct · authorities execute an Afghan citizen on espionage charges"
+},
+"R0280": {
+"on_topic": "no",
+"incident": null
+},
+"R0281": {
+"on_topic": "no",
+"incident": null
+},
+"R0282": {
+"on_topic": "no",
+"incident": null
+},
+"R0283": {
+"on_topic": "no",
+"incident": null
+},
+"R0284": {
+"on_topic": "no",
+"incident": null
+},
+"R0285": {
+"on_topic": "no",
+"incident": null
+},
+"R0286": {
+"on_topic": "no",
+"incident": null
+},
+"R0287": {
+"on_topic": "no",
+"incident": null
+},
+"R0288": {
+"on_topic": "no",
+"incident": null
+},
+"R0289": {
+"on_topic": "no",
+"incident": null
+},
+"R0290": {
+"on_topic": "no",
+"incident": null
+},
+"R0291": {
+"on_topic": "no",
+"incident": null
+},
+"R0292": {
+"on_topic": "no",
+"incident": null
+},
+"R0293": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
+},
+"R0294": {
+"on_topic": "no",
+"incident": null
+},
+"R0295": {
+"on_topic": "no",
+"incident": null
+},
+"R0296": {
+"on_topic": "no",
+"incident": null
+},
+"R0297": {
+"on_topic": "no",
+"incident": null
+},
+"R0298": {
+"on_topic": "yes",
+"incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
+},
+"R0299": {
+"on_topic": "no",
+"incident": null
+},
+"R0300": {
+"on_topic": "no",
+"incident": null
+},
+"R0301": {
+"on_topic": "no",
+"incident": null
+},
+"R0302": {
+"on_topic": "no",
+"incident": null
+},
+"R0303": {
+"on_topic": "no",
+"incident": null
+},
+"R0304": {
+"on_topic": "yes",
+"incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
+},
+"R0305": {
+"on_topic": "no",
+"incident": null
+},
+"R0306": {
+"on_topic": "no",
+"incident": null
+},
+"R0307": {
+"on_topic": "no",
+"incident": null
+},
+"R0308": {
+"on_topic": "no",
+"incident": null
+},
+"R0309": {
+"on_topic": "no",
+"incident": null
+},
+"R0310": {
+"on_topic": "no",
+"incident": null
+},
+"R0311": {
+"on_topic": "no",
+"incident": null
+},
+"R0312": {
+"on_topic": "no",
+"incident": null
+},
+"R0313": {
+"on_topic": "no",
+"incident": null
+},
+"R0314": {
+"on_topic": "no",
+"incident": null
+},
+"R0315": {
+"on_topic": "no",
+"incident": null
+},
+"R0316": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0317": {
+"on_topic": "no",
+"incident": null
+},
+"R0318": {
+"on_topic": "no",
+"incident": null
+},
+"R0319": {
+"on_topic": "no",
+"incident": null
+},
+"R0320": {
+"on_topic": "yes",
+"incident": "Iran · 3 Oct · authorities execute protester Siavash Jamshidi Kheirabadi"
+},
+"R0321": {
+"on_topic": "no",
+"incident": null
+},
+"R0322": {
+"on_topic": "no",
+"incident": null
+},
+"R0323": {
+"on_topic": "no",
+"incident": null
+},
+"R0324": {
+"on_topic": "no",
+"incident": null
+},
+"R0325": {
+"on_topic": "yes",
+"incident": "Zahedan · 1 Oct · clashes kill six armed men"
+},
+"R0326": {
+"on_topic": "no",
+"incident": null
+},
+"R0327": {
+"on_topic": "no",
+"incident": null
+},
+"R0328": {
+"on_topic": "no",
+"incident": null
+},
+"R0329": {
+"on_topic": "yes",
+"incident": "Iran · 1 Oct · clashes reportedly kill an IRGC general"
+},
+"R0330": {
+"on_topic": "no",
+"incident": null
+},
+"R0331": {
+"on_topic": "no",
+"incident": null
+},
+"R0332": {
+"on_topic": "no",
+"incident": null
+},
+"R0333": {
+"on_topic": "no",
+"incident": null
+},
+"R0334": {
+"on_topic": "no",
+"incident": null
+},
+"R0335": {
+"on_topic": "no",
+"incident": null
+},
+"R0336": {
+"on_topic": "no",
+"incident": null
+},
+"R0337": {
+"on_topic": "no",
+"incident": null
+},
+"R0338": {
+"on_topic": "yes",
+"incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
+},
+"R0339": {
+"on_topic": "no",
+"incident": null
+},
+"R0340": {
+"on_topic": "no",
+"incident": null
+},
+"R0341": {
+"on_topic": "no",
+"incident": null
+},
+"R0342": {
+"on_topic": "no",
+"incident": null
+},
+"R0343": {
+"on_topic": "no",
+"incident": null
+},
+"R0344": {
+"on_topic": "no",
+"incident": null
+},
+"R0345": {
+"on_topic": "no",
+"incident": null
+},
+"R0346": {
+"on_topic": "no",
+"incident": null
+},
+"R0347": {
+"on_topic": "no",
+"incident": null
+},
+"R0348": {
+"on_topic": "yes",
+"incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
+},
+"R0349": {
+"on_topic": "no",
+"incident": null
+},
+"R0350": {
+"on_topic": "no",
+"incident": null
+},
+"R0351": {
+"on_topic": "no",
+"incident": null
+},
+"R0352": {
+"on_topic": "no",
+"incident": null
+},
+"R0353": {
+"on_topic": "no",
+"incident": null
+},
+"R0354": {
+"on_topic": "no",
+"incident": null
+},
+"R0355": {
+"on_topic": "no",
+"incident": null
+},
+"R0356": {
+"on_topic": "no",
+"incident": null
+},
+"R0357": {
+"on_topic": "no",
+"incident": null
+},
+"R0358": {
+"on_topic": "no",
+"incident": null
+},
+"R0359": {
+"on_topic": "no",
+"incident": null
+},
+"R0360": {
+"on_topic": "no",
+"incident": null
+},
+"R0361": {
+"on_topic": "no",
+"incident": null
+},
+"R0362": {
+"on_topic": "no",
+"incident": null
+},
+"R0363": {
+"on_topic": "no",
+"incident": null
+},
+"R0364": {
+"on_topic": "no",
+"incident": null
+},
+"R0365": {
+"on_topic": "no",
+"incident": null
+},
+"R0366": {
+"on_topic": "no",
+"incident": null
+},
+"R0367": {
+"on_topic": "no",
+"incident": null
+},
+"R0368": {
+"on_topic": "no",
+"incident": null
+},
+"R0369": {
+"on_topic": "no",
+"incident": null
+},
+"R0370": {
+"on_topic": "no",
+"incident": null
+},
+"R0371": {
+"on_topic": "no",
+"incident": null
+},
+"R0372": {
+"on_topic": "no",
+"incident": null
+},
+"R0373": {
+"on_topic": "no",
+"incident": null
+},
+"R0374": {
+"on_topic": "no",
+"incident": null
+},
+"R0375": {
+"on_topic": "no",
+"incident": null
+},
+"R0376": {
+"on_topic": "no",
+"incident": null
+},
+"R0377": {
+"on_topic": "no",
+"incident": null
+},
+"R0378": {
+"on_topic": "no",
+"incident": null
+},
+"R0379": {
+"on_topic": "no",
+"incident": null
+},
+"R0380": {
+"on_topic": "no",
+"incident": null
+},
+"R0381": {
+"on_topic": "no",
+"incident": null
+},
+"R0382": {
+"on_topic": "no",
+"incident": null
+},
+"R0383": {
+"on_topic": "no",
+"incident": null
+},
+"R0384": {
+"on_topic": "no",
+"incident": null
+},
+"R0385": {
+"on_topic": "no",
+"incident": null
+},
+"R0386": {
+"on_topic": "no",
+"incident": null
+},
+"R0387": {
+"on_topic": "no",
+"incident": null
+},
+"R0388": {
+"on_topic": "no",
+"incident": null
+},
+"R0389": {
+"on_topic": "no",
+"incident": null
+},
+"R0390": {
+"on_topic": "no",
+"incident": null
+},
+"R0391": {
+"on_topic": "no",
+"incident": null
+},
+"R0392": {
+"on_topic": "no",
+"incident": null
+},
+"R0393": {
+"on_topic": "no",
+"incident": null
+},
+"R0394": {
+"on_topic": "no",
+"incident": null
+},
+"R0395": {
+"on_topic": "no",
+"incident": null
+},
+"R0396": {
+"on_topic": "no",
+"incident": null
+},
+"R0397": {
+"on_topic": "no",
+"incident": null
+},
+"R0398": {
+"on_topic": "no",
+"incident": null
+},
+"R0399": {
+"on_topic": "yes",
+"incident": "Sistan and Baluchestan · 2 Oct · security forces kill two armed-group members"
+},
+"R0400": {
+"on_topic": "no",
+"incident": null
+},
+"R0401": {
+"on_topic": "no",
+"incident": null
+},
+"R0402": {
+"on_topic": "no",
+"incident": null
+},
+"R0403": {
+"on_topic": "no",
+"incident": null
+},
+"R0404": {
+"on_topic": "no",
+"incident": null
+},
+"R0405": {
+"on_topic": "no",
+"incident": null
+},
+"R0406": {
+"on_topic": "no",
+"incident": null
+},
+"R0407": {
+"on_topic": "no",
+"incident": null
+},
+"R0408": {
+"on_topic": "yes",
+"incident": "Near Tehran · 1 Oct · security forces kill six alleged militants in an operation"
+},
+"R0409": {
+"on_topic": "no",
+"incident": null
+},
+"R0410": {
+"on_topic": "no",
+"incident": null
+},
+"R0411": {
+"on_topic": "no",
+"incident": null
+},
+"R0412": {
+"on_topic": "no",
+"incident": null
+},
+"R0413": {
+"on_topic": "no",
+"incident": null
+},
+"R0414": {
+"on_topic": "no",
+"incident": null
+},
+"R0415": {
+"on_topic": "no",
+"incident": null
+},
+"R0416": {
+"on_topic": "no",
+"incident": null
+},
+"R0417": {
+"on_topic": "yes",
+"incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
+},
+"R0418": {
+"on_topic": "no",
+"incident": null
+},
+"R0419": {
+"on_topic": "no",
+"incident": null
+},
+"R0420": {
+"on_topic": "no",
+"incident": null
+},
+"R0421": {
+"on_topic": "no",
+"incident": null
+},
+"R0422": {
+"on_topic": "no",
+"incident": null
+},
+"R0423": {
+"on_topic": "no",
+"incident": null
+},
+"R0424": {
+"on_topic": "no",
+"incident": null
+},
+"R0425": {
+"on_topic": "no",
+"incident": null
+},
+"R0426": {
+"on_topic": "no",
+"incident": null
+},
+"R0427": {
+"on_topic": "no",
+"incident": null
+},
+"R0428": {
+"on_topic": "no",
+"incident": null
+},
+"R0429": {
+"on_topic": "no",
+"incident": null
+},
+"R0430": {
+"on_topic": "no",
+"incident": null
+},
+"R0431": {
+"on_topic": "no",
+"incident": null
+},
+"R0432": {
+"on_topic": "no",
+"incident": null
+},
+"R0433": {
+"on_topic": "no",
+"incident": null
+},
+"R0434": {
+"on_topic": "no",
+"incident": null
+},
+"R0435": {
+"on_topic": "no",
+"incident": null
+},
+"R0436": {
+"on_topic": "yes",
+"incident": "Southeastern Iran · 3 Oct · forces kill two in a counterterrorism operation"
+},
+"R0437": {
+"on_topic": "no",
+"incident": null
+},
+"R0438": {
+"on_topic": "no",
+"incident": null
+},
+"R0439": {
+"on_topic": "no",
+"incident": null
+},
+"R0440": {
+"on_topic": "no",
+"incident": null
+},
+"R0441": {
+"on_topic": "no",
+"incident": null
+},
+"R0442": {
+"on_topic": "no",
+"incident": null
+},
+"R0443": {
+"on_topic": "no",
+"incident": null
+},
+"R0444": {
+"on_topic": "no",
+"incident": null
+},
+"R0445": {
+"on_topic": "yes",
+"incident": "Mashhad · 30 Sep · authorities execute two men over protest killings"
+},
+"R0446": {
+"on_topic": "no",
+"incident": null
+},
+"R0447": {
+"on_topic": "no",
+"incident": null
+},
+"R0448": {
+"on_topic": "no",
+"incident": null
+},
+"R0449": {
+"on_topic": "no",
+"incident": null
+},
+"R0450": {
+"on_topic": "yes",
+"incident": "Near Zahedan · 2 Oct · roadside bombing kills five IRGC personnel"
+},
+"R0451": {
+"on_topic": "no",
+"incident": null
+},
+"R0452": {
+"on_topic": "no",
+"incident": null
+},
+"R0453": {
+"on_topic": "no",
+"incident": null
+},
+"R0454": {
+"on_topic": "no",
+"incident": null
+},
+"R0455": {
+"on_topic": "no",
+"incident": null
+},
+"R0456": {
+"on_topic": "no",
+"incident": null
+},
+"R0457": {
+"on_topic": "no",
+"incident": null
+},
+"G00001": {
+"on_topic": "no",
+"incident": null
+},
+"G00002": {
+"on_topic": "no",
+"incident": null
+},
+"G00003": {
+"on_topic": "no",
+"incident": null
+},
+"G00004": {
+"on_topic": "no",
+"incident": null
+},
+"G00005": {
+"on_topic": "no",
+"incident": null
+},
+"G00006": {
+"on_topic": "no",
+"incident": null
+},
+"G00007": {
+"on_topic": "no",
+"incident": null
+},
+"G00008": {
+"on_topic": "no",
+"incident": null
+},
+"G00009": {
+"on_topic": "no",
+"incident": null
+},
+"G00010": {
+"on_topic": "no",
+"incident": null
+},
+"G00011": {
+"on_topic": "no",
+"incident": null
+},
+"G00012": {
+"on_topic": "no",
+"incident": null
+},
+"G00013": {
+"on_topic": "no",
+"incident": null
+},
+"G00014": {
+"on_topic": "no",
+"incident": null
+},
+"G00015": {
+"on_topic": "no",
+"incident": null
+},
+"G00016": {
+"on_topic": "no",
+"incident": null
+},
+"G00017": {
+"on_topic": "no",
+"incident": null
+},
+"G00018": {
+"on_topic": "no",
+"incident": null
+},
+"G00019": {
+"on_topic": "no",
+"incident": null
+},
+"G00020": {
+"on_topic": "no",
+"incident": null
+},
+"G00021": {
+"on_topic": "no",
+"incident": null
+},
+"G00022": {
+"on_topic": "no",
+"incident": null
+},
+"G00023": {
+"on_topic": "no",
+"incident": null
+},
+"G00024": {
+"on_topic": "no",
+"incident": null
+},
+"G00025": {
+"on_topic": "no",
+"incident": null
+},
+"G00026": {
+"on_topic": "no",
+"incident": null
+},
+"G00027": {
+"on_topic": "no",
+"incident": null
+},
+"G00028": {
+"on_topic": "no",
+"incident": null
+},
+"G00029": {
+"on_topic": "no",
+"incident": null
+},
+"G00030": {
+"on_topic": "no",
+"incident": null
+},
+"G00031": {
+"on_topic": "no",
+"incident": null
+},
+"G00032": {
+"on_topic": "no",
+"incident": null
+},
+"G00033": {
+"on_topic": "no",
+"incident": null
+},
+"G00034": {
+"on_topic": "no",
+"incident": null
+},
+"G00035": {
+"on_topic": "no",
+"incident": null
+},
+"G00036": {
+"on_topic": "no",
+"incident": null
+},
+"G00037": {
+"on_topic": "no",
+"incident": null
+},
+"G00038": {
+"on_topic": "no",
+"incident": null
+},
+"G00039": {
+"on_topic": "no",
+"incident": null
+},
+"G00040": {
+"on_topic": "no",
+"incident": null
+},
+"G00041": {
+"on_topic": "no",
+"incident": null
+},
+"G00042": {
+"on_topic": "no",
+"incident": null
+},
+"G00043": {
+"on_topic": "no",
+"incident": null
+},
+"G00044": {
+"on_topic": "no",
+"incident": null
+},
+"G00045": {
+"on_topic": "no",
+"incident": null
+},
+"G00046": {
+"on_topic": "no",
+"incident": null
+},
+"G00047": {
+"on_topic": "no",
+"incident": null
+},
+"G00048": {
+"on_topic": "no",
+"incident": null
+},
+"G00049": {
+"on_topic": "no",
+"incident": null
+},
+"G00050": {
+"on_topic": "no",
+"incident": null
+},
+"G00051": {
+"on_topic": "no",
+"incident": null
+},
+"G00052": {
+"on_topic": "no",
+"incident": null
+},
+"G00053": {
+"on_topic": "no",
+"incident": null
+},
+"G00054": {
+"on_topic": "no",
+"incident": null
+},
+"G00055": {
+"on_topic": "no",
+"incident": null
+},
+"G00056": {
+"on_topic": "no",
+"incident": null
+},
+"G00057": {
+"on_topic": "no",
+"incident": null
+},
+"G00058": {
+"on_topic": "no",
+"incident": null
+},
+"G00059": {
+"on_topic": "no",
+"incident": null
+},
+"G00060": {
+"on_topic": "no",
+"incident": null
+},
+"G00061": {
+"on_topic": "no",
+"incident": null
+},
+"G00062": {
+"on_topic": "no",
+"incident": null
+},
+"G00063": {
+"on_topic": "no",
+"incident": null
+},
+"G00064": {
+"on_topic": "no",
+"incident": null
+},
+"G00065": {
+"on_topic": "no",
+"incident": null
+},
+"G00066": {
+"on_topic": "no",
+"incident": null
+},
+"G00067": {
+"on_topic": "no",
+"incident": null
+},
+"G00068": {
+"on_topic": "no",
+"incident": null
+},
+"G00069": {
+"on_topic": "no",
+"incident": null
+},
+"G00070": {
+"on_topic": "no",
+"incident": null
+},
+"G00071": {
+"on_topic": "no",
+"incident": null
+},
+"G00072": {
+"on_topic": "no",
+"incident": null
+},
+"G00073": {
+"on_topic": "no",
+"incident": null
+},
+"G00074": {
+"on_topic": "no",
+"incident": null
+},
+"G00075": {
+"on_topic": "no",
+"incident": null
+},
+"G00076": {
+"on_topic": "no",
+"incident": null
+},
+"G00077": {
+"on_topic": "no",
+"incident": null
+},
+"G00078": {
+"on_topic": "no",
+"incident": null
+},
+"G00079": {
+"on_topic": "no",
+"incident": null
+},
+"G00080": {
+"on_topic": "no",
+"incident": null
+},
+"G00081": {
+"on_topic": "no",
+"incident": null
+},
+"G00082": {
+"on_topic": "no",
+"incident": null
+},
+"G00083": {
+"on_topic": "no",
+"incident": null
+},
+"G00084": {
+"on_topic": "no",
+"incident": null
+},
+"G00085": {
+"on_topic": "no",
+"incident": null
+},
+"G00086": {
+"on_topic": "no",
+"incident": null
+},
+"G00087": {
+"on_topic": "no",
+"incident": null
+},
+"G00088": {
+"on_topic": "no",
+"incident": null
+},
+"G00089": {
+"on_topic": "no",
+"incident": null
+},
+"G00090": {
+"on_topic": "no",
+"incident": null
+},
+"G00091": {
+"on_topic": "no",
+"incident": null
+},
+"G00092": {
+"on_topic": "no",
+"incident": null
+},
+"G00093": {
+"on_topic": "no",
+"incident": null
+},
+"G00094": {
+"on_topic": "no",
+"incident": null
+},
+"G00095": {
+"on_topic": "no",
+"incident": null
+},
+"G00096": {
+"on_topic": "no",
+"incident": null
+},
+"G00097": {
+"on_topic": "no",
+"incident": null
+},
+"G00098": {
+"on_topic": "no",
+"incident": null
+},
+"G00099": {
+"on_topic": "no",
+"incident": null
+},
+"G00100": {
+"on_topic": "no",
+"incident": null
+},
+"G00101": {
+"on_topic": "no",
+"incident": null
+},
+"G00102": {
+"on_topic": "no",
+"incident": null
+},
+"G00103": {
+"on_topic": "no",
+"incident": null
+},
+"G00104": {
+"on_topic": "no",
+"incident": null
+},
+"G00105": {
+"on_topic": "no",
+"incident": null
+},
+"G00106": {
+"on_topic": "no",
+"incident": null
+},
+"G00107": {
+"on_topic": "no",
+"incident": null
+},
+"G00108": {
+"on_topic": "no",
+"incident": null
+},
+"G00109": {
+"on_topic": "no",
+"incident": null
+},
+"G00110": {
+"on_topic": "no",
+"incident": null
+},
+"G00111": {
+"on_topic": "no",
+"incident": null
+},
+"G00112": {
+"on_topic": "no",
+"incident": null
+},
+"G00113": {
+"on_topic": "no",
+"incident": null
+},
+"G00114": {
+"on_topic": "no",
+"incident": null
+},
+"G00115": {
+"on_topic": "no",
+"incident": null
+},
+"G00116": {
+"on_topic": "no",
+"incident": null
+},
+"G00117": {
+"on_topic": "no",
+"incident": null
+},
+"G00118": {
+"on_topic": "no",
+"incident": null
+},
+"G00119": {
+"on_topic": "no",
+"incident": null
+},
+"G00120": {
+"on_topic": "no",
+"incident": null
+},
+"G00121": {
+"on_topic": "no",
+"incident": null
+},
+"G00122": {
+"on_topic": "no",
+"incident": null
+},
+"G00123": {
+"on_topic": "no",
+"incident": null
+},
+"G00124": {
+"on_topic": "no",
+"incident": null
+},
+"G00125": {
+"on_topic": "no",
+"incident": null
+},
+"G00126": {
+"on_topic": "no",
+"incident": null
+},
+"G00127": {
+"on_topic": "no",
+"incident": null
+},
+"G00128": {
+"on_topic": "no",
+"incident": null
+},
+"G00129": {
+"on_topic": "no",
+"incident": null
+},
+"G00130": {
+"on_topic": "no",
+"incident": null
+},
+"G00131": {
+"on_topic": "no",
+"incident": null
+},
+"G00132": {
+"on_topic": "no",
+"incident": null
+},
+"G00133": {
+"on_topic": "no",
+"incident": null
+},
+"G00134": {
+"on_topic": "no",
+"incident": null
+},
+"G00135": {
+"on_topic": "no",
+"incident": null
+},
+"G00136": {
+"on_topic": "no",
+"incident": null
+},
+"G00137": {
+"on_topic": "no",
+"incident": null
+},
+"G00138": {
+"on_topic": "no",
+"incident": null
+},
+"G00139": {
+"on_topic": "no",
+"incident": null
+},
+"G00140": {
+"on_topic": "no",
+"incident": null
+},
+"G00141": {
+"on_topic": "no",
+"incident": null
+},
+"G00142": {
+"on_topic": "no",
+"incident": null
+},
+"G00143": {
+"on_topic": "no",
+"incident": null
+},
+"G00144": {
+"on_topic": "no",
+"incident": null
+},
+"G00145": {
+"on_topic": "no",
+"incident": null
+},
+"G00146": {
+"on_topic": "no",
+"incident": null
+},
+"G00147": {
+"on_topic": "no",
+"incident": null
+},
+"G00148": {
+"on_topic": "no",
+"incident": null
+},
+"G00149": {
+"on_topic": "no",
+"incident": null
+},
+"G00150": {
+"on_topic": "no",
+"incident": null
+},
+"G00151": {
+"on_topic": "no",
+"incident": null
+},
+"G00152": {
+"on_topic": "no",
+"incident": null
+},
+"G00153": {
+"on_topic": "no",
+"incident": null
+},
+"G00154": {
+"on_topic": "no",
+"incident": null
+},
+"G00155": {
+"on_topic": "no",
+"incident": null
+},
+"G00156": {
+"on_topic": "no",
+"incident": null
+},
+"G00157": {
+"on_topic": "no",
+"incident": null
+},
+"G00158": {
+"on_topic": "no",
+"incident": null
+},
+"G00159": {
+"on_topic": "no",
+"incident": null
+},
+"G00160": {
+"on_topic": "no",
+"incident": null
+},
+"G00161": {
+"on_topic": "no",
+"incident": null
+},
+"G00162": {
+"on_topic": "no",
+"incident": null
+},
+"G00163": {
+"on_topic": "no",
+"incident": null
+},
+"G00164": {
+"on_topic": "no",
+"incident": null
+},
+"G00165": {
+"on_topic": "no",
+"incident": null
+},
+"G00166": {
+"on_topic": "no",
+"incident": null
+},
+"G00167": {
+"on_topic": "no",
+"incident": null
+},
+"G00168": {
+"on_topic": "no",
+"incident": null
+},
+"G00169": {
+"on_topic": "no",
+"incident": null
+},
+"G00170": {
+"on_topic": "no",
+"incident": null
+},
+"G00171": {
+"on_topic": "no",
+"incident": null
+},
+"G00172": {
+"on_topic": "no",
+"incident": null
+},
+"G00173": {
+"on_topic": "no",
+"incident": null
+},
+"G00174": {
+"on_topic": "no",
+"incident": null
+},
+"G00175": {
+"on_topic": "no",
+"incident": null
+},
+"G00176": {
+"on_topic": "no",
+"incident": null
+},
+"G00177": {
+"on_topic": "no",
+"incident": null
+},
+"G00178": {
+"on_topic": "no",
+"incident": null
+},
+"G00179": {
+"on_topic": "no",
+"incident": null
+},
+"G00180": {
+"on_topic": "no",
+"incident": null
+},
+"G00181": {
+"on_topic": "no",
+"incident": null
+},
+"G00182": {
+"on_topic": "no",
+"incident": null
+},
+"G00183": {
+"on_topic": "no",
+"incident": null
+},
+"G00184": {
+"on_topic": "no",
+"incident": null
+},
+"G00185": {
+"on_topic": "no",
+"incident": null
+},
+"G00186": {
+"on_topic": "no",
+"incident": null
+},
+"G00187": {
+"on_topic": "no",
+"incident": null
+},
+"G00188": {
+"on_topic": "no",
+"incident": null
+},
+"G00189": {
+"on_topic": "no",
+"incident": null
+},
+"G00190": {
+"on_topic": "no",
+"incident": null
+},
+"G00191": {
+"on_topic": "no",
+"incident": null
+},
+"G00192": {
+"on_topic": "no",
+"incident": null
+},
+"G00193": {
+"on_topic": "no",
+"incident": null
+},
+"G00194": {
+"on_topic": "no",
+"incident": null
+},
+"G00195": {
+"on_topic": "no",
+"incident": null
+},
+"G00196": {
+"on_topic": "no",
+"incident": null
+},
+"G00197": {
+"on_topic": "no",
+"incident": null
+},
+"G00198": {
+"on_topic": "no",
+"incident": null
+},
+"G00199": {
+"on_topic": "no",
+"incident": null
+},
+"G00200": {
+"on_topic": "no",
+"incident": null
+},
+"G00201": {
+"on_topic": "no",
+"incident": null
+},
+"G00202": {
+"on_topic": "no",
+"incident": null
+},
+"G00203": {
+"on_topic": "no",
+"incident": null
+},
+"G00204": {
+"on_topic": "no",
+"incident": null
+},
+"G00205": {
+"on_topic": "no",
+"incident": null
+},
+"G00206": {
+"on_topic": "no",
+"incident": null
+},
+"G00207": {
+"on_topic": "no",
+"incident": null
+},
+"G00208": {
+"on_topic": "no",
+"incident": null
+},
+"G00209": {
+"on_topic": "no",
+"incident": null
+},
+"G00210": {
+"on_topic": "no",
+"incident": null
+},
+"G00211": {
+"on_topic": "no",
+"incident": null
+},
+"G00212": {
+"on_topic": "no",
+"incident": null
+},
+"G00213": {
+"on_topic": "no",
+"incident": null
+},
+"G00214": {
+"on_topic": "no",
+"incident": null
+},
+"G00215": {
+"on_topic": "no",
+"incident": null
+},
+"G00216": {
+"on_topic": "no",
+"incident": null
+},
+"G00217": {
+"on_topic": "no",
+"incident": null
+},
+"G00218": {
+"on_topic": "no",
+"incident": null
+},
+"G00219": {
+"on_topic": "no",
+"incident": null
+},
+"G00220": {
+"on_topic": "no",
+"incident": null
+},
+"G00221": {
+"on_topic": "no",
+"incident": null
+},
+"G00222": {
+"on_topic": "no",
+"incident": null
+},
+"G00223": {
+"on_topic": "no",
+"incident": null
+},
+"G00224": {
+"on_topic": "no",
+"incident": null
+},
+"G00225": {
+"on_topic": "no",
+"incident": null
+},
+"G00226": {
+"on_topic": "no",
+"incident": null
+},
+"G00227": {
+"on_topic": "no",
+"incident": null
+},
+"G00228": {
+"on_topic": "no",
+"incident": null
+},
+"G00229": {
+"on_topic": "no",
+"incident": null
+},
+"G00230": {
+"on_topic": "no",
+"incident": null
+},
+"G00231": {
+"on_topic": "no",
+"incident": null
+},
+"G00232": {
+"on_topic": "no",
+"incident": null
+},
+"G00233": {
+"on_topic": "no",
+"incident": null
+},
+"G00234": {
+"on_topic": "no",
+"incident": null
+},
+"G00235": {
+"on_topic": "no",
+"incident": null
+},
+"G00236": {
+"on_topic": "no",
+"incident": null
+},
+"G00237": {
+"on_topic": "no",
+"incident": null
+},
+"G00238": {
+"on_topic": "no",
+"incident": null
+},
+"G00239": {
+"on_topic": "no",
+"incident": null
+},
+"G00240": {
+"on_topic": "no",
+"incident": null
+},
+"G00241": {
+"on_topic": "no",
+"incident": null
+},
+"G00242": {
+"on_topic": "no",
+"incident": null
+},
+"G00243": {
+"on_topic": "no",
+"incident": null
+},
+"G00244": {
+"on_topic": "no",
+"incident": null
+},
+"G00245": {
+"on_topic": "no",
+"incident": null
+},
+"G00246": {
+"on_topic": "no",
+"incident": null
+},
+"G00247": {
+"on_topic": "no",
+"incident": null
+},
+"G00248": {
+"on_topic": "no",
+"incident": null
+},
+"G00249": {
+"on_topic": "no",
+"incident": null
+},
+"G00250": {
+"on_topic": "no",
+"incident": null
+},
+"G00251": {
+"on_topic": "no",
+"incident": null
+},
+"G00252": {
+"on_topic": "no",
+"incident": null
+},
+"G00253": {
+"on_topic": "no",
+"incident": null
+},
+"G00254": {
+"on_topic": "no",
+"incident": null
+},
+"G00255": {
+"on_topic": "no",
+"incident": null
+},
+"G00256": {
+"on_topic": "no",
+"incident": null
+},
+"G00257": {
+"on_topic": "no",
+"incident": null
+},
+"G00258": {
+"on_topic": "no",
+"incident": null
+},
+"G00259": {
+"on_topic": "no",
+"incident": null
+},
+"G00260": {
+"on_topic": "no",
+"incident": null
+},
+"G00261": {
+"on_topic": "no",
+"incident": null
+},
+"G00262": {
+"on_topic": "no",
+"incident": null
+},
+"G00263": {
+"on_topic": "no",
+"incident": null
+},
+"G00264": {
+"on_topic": "no",
+"incident": null
+},
+"G00265": {
+"on_topic": "no",
+"incident": null
+},
+"G00266": {
+"on_topic": "no",
+"incident": null
+},
+"G00267": {
+"on_topic": "no",
+"incident": null
+},
+"G00268": {
+"on_topic": "no",
+"incident": null
+},
+"G00269": {
+"on_topic": "no",
+"incident": null
+},
+"G00270": {
+"on_topic": "no",
+"incident": null
+},
+"G00271": {
+"on_topic": "no",
+"incident": null
+},
+"G00272": {
+"on_topic": "no",
+"incident": null
+},
+"G00273": {
+"on_topic": "no",
+"incident": null
+},
+"G00274": {
+"on_topic": "no",
+"incident": null
+},
+"G00275": {
+"on_topic": "no",
+"incident": null
+},
+"G00276": {
+"on_topic": "no",
+"incident": null
+},
+"G00277": {
+"on_topic": "no",
+"incident": null
+},
+"G00278": {
+"on_topic": "no",
+"incident": null
+},
+"G00279": {
+"on_topic": "no",
+"incident": null
+},
+"G00280": {
+"on_topic": "no",
+"incident": null
+},
+"G00281": {
+"on_topic": "no",
+"incident": null
+},
+"G00282": {
+"on_topic": "no",
+"incident": null
+},
+"G00283": {
+"on_topic": "no",
+"incident": null
+},
+"G00284": {
+"on_topic": "no",
+"incident": null
+},
+"G00285": {
+"on_topic": "no",
+"incident": null
+},
+"G00286": {
+"on_topic": "no",
+"incident": null
+},
+"G00287": {
+"on_topic": "no",
+"incident": null
+},
+"G00288": {
+"on_topic": "no",
+"incident": null
+},
+"G00289": {
+"on_topic": "no",
+"incident": null
+},
+"G00290": {
+"on_topic": "no",
+"incident": null
+},
+"G00291": {
+"on_topic": "no",
+"incident": null
+},
+"G00292": {
+"on_topic": "no",
+"incident": null
+},
+"G00293": {
+"on_topic": "no",
+"incident": null
+},
+"G00294": {
+"on_topic": "no",
+"incident": null
+},
+"G00295": {
+"on_topic": "no",
+"incident": null
+},
+"G00296": {
+"on_topic": "no",
+"incident": null
+},
+"G00297": {
+"on_topic": "no",
+"incident": null
+},
+"G00298": {
+"on_topic": "no",
+"incident": null
+},
+"G00299": {
+"on_topic": "no",
+"incident": null
+},
+"G00300": {
+"on_topic": "no",
+"incident": null
+},
+"G00301": {
+"on_topic": "no",
+"incident": null
+},
+"G00302": {
+"on_topic": "no",
+"incident": null
+},
+"G00303": {
+"on_topic": "no",
+"incident": null
+},
+"G00304": {
+"on_topic": "no",
+"incident": null
+},
+"G00305": {
+"on_topic": "no",
+"incident": null
+},
+"G00306": {
+"on_topic": "no",
+"incident": null
+},
+"G00307": {
+"on_topic": "no",
+"incident": null
+},
+"G00308": {
+"on_topic": "no",
+"incident": null
+},
+"G00309": {
+"on_topic": "no",
+"incident": null
+},
+"G00310": {
+"on_topic": "no",
+"incident": null
+},
+"G00311": {
+"on_topic": "no",
+"incident": null
+},
+"G00312": {
+"on_topic": "no",
+"incident": null
+},
+"G00313": {
+"on_topic": "no",
+"incident": null
+},
+"G00314": {
+"on_topic": "no",
+"incident": null
+},
+"G00315": {
+"on_topic": "no",
+"incident": null
+},
+"G00316": {
+"on_topic": "no",
+"incident": null
+},
+"G00317": {
+"on_topic": "no",
+"incident": null
+},
+"G00318": {
+"on_topic": "no",
+"incident": null
+},
+"G00319": {
+"on_topic": "no",
+"incident": null
+},
+"G00320": {
+"on_topic": "no",
+"incident": null
+},
+"G00321": {
+"on_topic": "no",
+"incident": null
+},
+"G00322": {
+"on_topic": "no",
+"incident": null
+},
+"G00323": {
+"on_topic": "no",
+"incident": null
+},
+"G00324": {
+"on_topic": "no",
+"incident": null
+},
+"G00325": {
+"on_topic": "no",
+"incident": null
+},
+"G00326": {
+"on_topic": "no",
+"incident": null
+},
+"G00327": {
+"on_topic": "no",
+"incident": null
+},
+"G00328": {
+"on_topic": "no",
+"incident": null
+},
+"G00329": {
+"on_topic": "no",
+"incident": null
+},
+"G00330": {
+"on_topic": "no",
+"incident": null
+},
+"G00331": {
+"on_topic": "no",
+"incident": null
+},
+"G00332": {
+"on_topic": "no",
+"incident": null
+},
+"G00333": {
+"on_topic": "no",
+"incident": null
+},
+"G00334": {
+"on_topic": "no",
+"incident": null
+},
+"G00335": {
+"on_topic": "no",
+"incident": null
+},
+"G00336": {
+"on_topic": "no",
+"incident": null
+},
+"G00337": {
+"on_topic": "no",
+"incident": null
+},
+"G00338": {
+"on_topic": "no",
+"incident": null
+},
+"G00339": {
+"on_topic": "no",
+"incident": null
+},
+"G00340": {
+"on_topic": "no",
+"incident": null
+},
+"G00341": {
+"on_topic": "no",
+"incident": null
+},
+"G00342": {
+"on_topic": "no",
+"incident": null
+},
+"G00343": {
+"on_topic": "no",
+"incident": null
+},
+"G00344": {
+"on_topic": "no",
+"incident": null
+},
+"G00345": {
+"on_topic": "no",
+"incident": null
+},
+"G00346": {
+"on_topic": "no",
+"incident": null
+},
+"G00347": {
+"on_topic": "no",
+"incident": null
+},
+"G00348": {
+"on_topic": "no",
+"incident": null
+},
+"G00349": {
+"on_topic": "no",
+"incident": null
+},
+"G00350": {
+"on_topic": "no",
+"incident": null
+},
+"G00351": {
+"on_topic": "no",
+"incident": null
+},
+"G00352": {
+"on_topic": "no",
+"incident": null
+},
+"G00353": {
+"on_topic": "no",
+"incident": null
+},
+"G00354": {
+"on_topic": "no",
+"incident": null
+},
+"G00355": {
+"on_topic": "no",
+"incident": null
+},
+"G00356": {
+"on_topic": "no",
+"incident": null
+},
+"G00357": {
+"on_topic": "no",
+"incident": null
+},
+"G00358": {
+"on_topic": "no",
+"incident": null
+},
+"G00359": {
+"on_topic": "no",
+"incident": null
+},
+"G00360": {
+"on_topic": "no",
+"incident": null
+},
+"G00361": {
+"on_topic": "no",
+"incident": null
+},
+"G00362": {
+"on_topic": "no",
+"incident": null
+},
+"G00363": {
+"on_topic": "no",
+"incident": null
+},
+"G00364": {
+"on_topic": "no",
+"incident": null
+},
+"G00365": {
+"on_topic": "no",
+"incident": null
+},
+"G00366": {
+"on_topic": "no",
+"incident": null
+},
+"G00367": {
+"on_topic": "no",
+"incident": null
+},
+"G00368": {
+"on_topic": "no",
+"incident": null
+},
+"G00369": {
+"on_topic": "no",
+"incident": null
+},
+"G00370": {
+"on_topic": "no",
+"incident": null
+},
+"G00371": {
+"on_topic": "no",
+"incident": null
+},
+"G00372": {
+"on_topic": "no",
+"incident": null
+},
+"G00373": {
+"on_topic": "no",
+"incident": null
+},
+"G00374": {
+"on_topic": "no",
+"incident": null
+},
+"G00375": {
+"on_topic": "no",
+"incident": null
+},
+"G00376": {
+"on_topic": "no",
+"incident": null
+},
+"G00377": {
+"on_topic": "no",
+"incident": null
+},
+"G00378": {
+"on_topic": "no",
+"incident": null
+},
+"G00379": {
+"on_topic": "no",
+"incident": null
+},
+"G00380": {
+"on_topic": "no",
+"incident": null
+},
+"G00381": {
+"on_topic": "no",
+"incident": null
+},
+"G00382": {
+"on_topic": "no",
+"incident": null
+},
+"G00383": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00384": {
+"on_topic": "no",
+"incident": null
+},
+"G00385": {
+"on_topic": "no",
+"incident": null
+},
+"G00386": {
+"on_topic": "no",
+"incident": null
+},
+"G00387": {
+"on_topic": "no",
+"incident": null
+},
+"G00388": {
+"on_topic": "no",
+"incident": null
+},
+"G00389": {
+"on_topic": "no",
+"incident": null
+},
+"G00390": {
+"on_topic": "no",
+"incident": null
+},
+"G00391": {
+"on_topic": "no",
+"incident": null
+},
+"G00392": {
+"on_topic": "no",
+"incident": null
+},
+"G00393": {
+"on_topic": "no",
+"incident": null
+},
+"G00394": {
+"on_topic": "no",
+"incident": null
+},
+"G00395": {
+"on_topic": "no",
+"incident": null
+},
+"G00396": {
+"on_topic": "no",
+"incident": null
+},
+"G00397": {
+"on_topic": "no",
+"incident": null
+},
+"G00398": {
+"on_topic": "no",
+"incident": null
+},
+"G00399": {
+"on_topic": "no",
+"incident": null
+},
+"G00400": {
+"on_topic": "no",
+"incident": null
+},
+"G00401": {
+"on_topic": "no",
+"incident": null
+},
+"G00402": {
+"on_topic": "no",
+"incident": null
+},
+"G00403": {
+"on_topic": "no",
+"incident": null
+},
+"G00404": {
+"on_topic": "no",
+"incident": null
+},
+"G00405": {
+"on_topic": "no",
+"incident": null
+},
+"G00406": {
+"on_topic": "no",
+"incident": null
+},
+"G00407": {
+"on_topic": "no",
+"incident": null
+},
+"G00408": {
+"on_topic": "no",
+"incident": null
+},
+"G00409": {
+"on_topic": "no",
+"incident": null
+},
+"G00410": {
+"on_topic": "no",
+"incident": null
+},
+"G00411": {
+"on_topic": "no",
+"incident": null
+},
+"G00412": {
+"on_topic": "no",
+"incident": null
+},
+"G00413": {
+"on_topic": "no",
+"incident": null
+},
+"G00414": {
+"on_topic": "no",
+"incident": null
+},
+"G00415": {
+"on_topic": "no",
+"incident": null
+},
+"G00416": {
+"on_topic": "no",
+"incident": null
+},
+"G00417": {
+"on_topic": "no",
+"incident": null
+},
+"G00418": {
+"on_topic": "no",
+"incident": null
+},
+"G00419": {
+"on_topic": "no",
+"incident": null
+},
+"G00420": {
+"on_topic": "no",
+"incident": null
+},
+"G00421": {
+"on_topic": "no",
+"incident": null
+},
+"G00422": {
+"on_topic": "no",
+"incident": null
+},
+"G00423": {
+"on_topic": "no",
+"incident": null
+},
+"G00424": {
+"on_topic": "no",
+"incident": null
+},
+"G00425": {
+"on_topic": "no",
+"incident": null
+},
+"G00426": {
+"on_topic": "no",
+"incident": null
+},
+"G00427": {
+"on_topic": "no",
+"incident": null
+},
+"G00428": {
+"on_topic": "no",
+"incident": null
+},
+"G00429": {
+"on_topic": "no",
+"incident": null
+},
+"G00430": {
+"on_topic": "no",
+"incident": null
+},
+"G00431": {
+"on_topic": "no",
+"incident": null
+},
+"G00432": {
+"on_topic": "no",
+"incident": null
+},
+"G00433": {
+"on_topic": "no",
+"incident": null
+},
+"G00434": {
+"on_topic": "no",
+"incident": null
+},
+"G00435": {
+"on_topic": "no",
+"incident": null
+},
+"G00436": {
+"on_topic": "no",
+"incident": null
+},
+"G00437": {
+"on_topic": "no",
+"incident": null
+},
+"G00438": {
+"on_topic": "no",
+"incident": null
+},
+"G00439": {
+"on_topic": "no",
+"incident": null
+},
+"G00440": {
+"on_topic": "no",
+"incident": null
+},
+"G00441": {
+"on_topic": "no",
+"incident": null
+},
+"G00442": {
+"on_topic": "no",
+"incident": null
+},
+"G00443": {
+"on_topic": "no",
+"incident": null
+},
+"G00444": {
+"on_topic": "no",
+"incident": null
+},
+"G00445": {
+"on_topic": "no",
+"incident": null
+},
+"G00446": {
+"on_topic": "no",
+"incident": null
+},
+"G00447": {
+"on_topic": "no",
+"incident": null
+},
+"G00448": {
+"on_topic": "no",
+"incident": null
+},
+"G00449": {
+"on_topic": "no",
+"incident": null
+},
+"G00450": {
+"on_topic": "no",
+"incident": null
+},
+"G00451": {
+"on_topic": "no",
+"incident": null
+},
+"G00452": {
+"on_topic": "no",
+"incident": null
+},
+"G00453": {
+"on_topic": "no",
+"incident": null
+},
+"G00454": {
+"on_topic": "no",
+"incident": null
+},
+"G00455": {
+"on_topic": "no",
+"incident": null
+},
+"G00456": {
+"on_topic": "no",
+"incident": null
+},
+"G00457": {
+"on_topic": "no",
+"incident": null
+},
+"G00458": {
+"on_topic": "no",
+"incident": null
+},
+"G00459": {
+"on_topic": "no",
+"incident": null
+},
+"G00460": {
+"on_topic": "no",
+"incident": null
+},
+"G00461": {
+"on_topic": "no",
+"incident": null
+},
+"G00462": {
+"on_topic": "no",
+"incident": null
+},
+"G00463": {
+"on_topic": "no",
+"incident": null
+},
+"G00464": {
+"on_topic": "no",
+"incident": null
+},
+"G00465": {
+"on_topic": "no",
+"incident": null
+},
+"G00466": {
+"on_topic": "no",
+"incident": null
+},
+"G00467": {
+"on_topic": "no",
+"incident": null
+},
+"G00468": {
+"on_topic": "no",
+"incident": null
+},
+"G00469": {
+"on_topic": "no",
+"incident": null
+},
+"G00470": {
+"on_topic": "no",
+"incident": null
+},
+"G00471": {
+"on_topic": "no",
+"incident": null
+},
+"G00472": {
+"on_topic": "no",
+"incident": null
+},
+"G00473": {
+"on_topic": "no",
+"incident": null
+},
+"G00474": {
+"on_topic": "no",
+"incident": null
+},
+"G00475": {
+"on_topic": "no",
+"incident": null
+},
+"G00476": {
+"on_topic": "no",
+"incident": null
+},
+"G00477": {
+"on_topic": "no",
+"incident": null
+},
+"G00478": {
+"on_topic": "no",
+"incident": null
+},
+"G00479": {
+"on_topic": "no",
+"incident": null
+},
+"G00480": {
+"on_topic": "no",
+"incident": null
+},
+"G00481": {
+"on_topic": "no",
+"incident": null
+},
+"G00482": {
+"on_topic": "no",
+"incident": null
+},
+"G00483": {
+"on_topic": "no",
+"incident": null
+},
+"G00484": {
+"on_topic": "no",
+"incident": null
+},
+"G00485": {
+"on_topic": "no",
+"incident": null
+},
+"G00486": {
+"on_topic": "no",
+"incident": null
+},
+"G00487": {
+"on_topic": "no",
+"incident": null
+},
+"G00488": {
+"on_topic": "no",
+"incident": null
+},
+"G00489": {
+"on_topic": "no",
+"incident": null
+},
+"G00490": {
+"on_topic": "no",
+"incident": null
+},
+"G00491": {
+"on_topic": "no",
+"incident": null
+},
+"G00492": {
+"on_topic": "no",
+"incident": null
+},
+"G00493": {
+"on_topic": "no",
+"incident": null
+},
+"G00494": {
+"on_topic": "no",
+"incident": null
+},
+"G00495": {
+"on_topic": "no",
+"incident": null
+},
+"G00496": {
+"on_topic": "no",
+"incident": null
+},
+"G00497": {
+"on_topic": "no",
+"incident": null
+},
+"G00498": {
+"on_topic": "no",
+"incident": null
+},
+"G00499": {
+"on_topic": "no",
+"incident": null
+},
+"G00500": {
+"on_topic": "no",
+"incident": null
+},
+"G00501": {
+"on_topic": "no",
+"incident": null
+},
+"G00502": {
+"on_topic": "no",
+"incident": null
+},
+"G00503": {
+"on_topic": "no",
+"incident": null
+},
+"G00504": {
+"on_topic": "no",
+"incident": null
+},
+"G00505": {
+"on_topic": "no",
+"incident": null
+},
+"G00506": {
+"on_topic": "no",
+"incident": null
+},
+"G00507": {
+"on_topic": "no",
+"incident": null
+},
+"G00508": {
+"on_topic": "no",
+"incident": null
+},
+"G00509": {
+"on_topic": "no",
+"incident": null
+},
+"G00510": {
+"on_topic": "no",
+"incident": null
+},
+"G00511": {
+"on_topic": "no",
+"incident": null
+},
+"G00512": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00513": {
+"on_topic": "no",
+"incident": null
+},
+"G00514": {
+"on_topic": "no",
+"incident": null
+},
+"G00515": {
+"on_topic": "no",
+"incident": null
+},
+"G00516": {
+"on_topic": "no",
+"incident": null
+},
+"G00517": {
+"on_topic": "no",
+"incident": null
+},
+"G00518": {
+"on_topic": "no",
+"incident": null
+},
+"G00519": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00520": {
+"on_topic": "no",
+"incident": null
+},
+"G00521": {
+"on_topic": "no",
+"incident": null
+},
+"G00522": {
+"on_topic": "no",
+"incident": null
+},
+"G00523": {
+"on_topic": "no",
+"incident": null
+},
+"G00524": {
+"on_topic": "no",
+"incident": null
+},
+"G00525": {
+"on_topic": "no",
+"incident": null
+},
+"G00526": {
+"on_topic": "no",
+"incident": null
+},
+"G00527": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00528": {
+"on_topic": "no",
+"incident": null
+},
+"G00529": {
+"on_topic": "no",
+"incident": null
+},
+"G00530": {
+"on_topic": "no",
+"incident": null
+},
+"G00531": {
+"on_topic": "no",
+"incident": null
+},
+"G00532": {
+"on_topic": "no",
+"incident": null
+},
+"G00533": {
+"on_topic": "no",
+"incident": null
+},
+"G00534": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00535": {
+"on_topic": "no",
+"incident": null
+},
+"G00536": {
+"on_topic": "no",
+"incident": null
+},
+"G00537": {
+"on_topic": "no",
+"incident": null
+},
+"G00538": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00539": {
+"on_topic": "no",
+"incident": null
+},
+"G00540": {
+"on_topic": "no",
+"incident": null
+},
+"G00541": {
+"on_topic": "no",
+"incident": null
+},
+"G00542": {
+"on_topic": "no",
+"incident": null
+},
+"G00543": {
+"on_topic": "no",
+"incident": null
+},
+"G00544": {
+"on_topic": "no",
+"incident": null
+},
+"G00545": {
+"on_topic": "no",
+"incident": null
+},
+"G00546": {
+"on_topic": "no",
+"incident": null
+},
+"G00547": {
+"on_topic": "no",
+"incident": null
+},
+"G00548": {
+"on_topic": "no",
+"incident": null
+},
+"G00549": {
+"on_topic": "no",
+"incident": null
+},
+"G00550": {
+"on_topic": "no",
+"incident": null
+},
+"G00551": {
+"on_topic": "no",
+"incident": null
+},
+"G00552": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00553": {
+"on_topic": "no",
+"incident": null
+},
+"G00554": {
+"on_topic": "no",
+"incident": null
+},
+"G00555": {
+"on_topic": "no",
+"incident": null
+},
+"G00556": {
+"on_topic": "no",
+"incident": null
+},
+"G00557": {
+"on_topic": "no",
+"incident": null
+},
+"G00558": {
+"on_topic": "no",
+"incident": null
+},
+"G00559": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00560": {
+"on_topic": "no",
+"incident": null
+},
+"G00561": {
+"on_topic": "no",
+"incident": null
+},
+"G00562": {
+"on_topic": "no",
+"incident": null
+},
+"G00563": {
+"on_topic": "no",
+"incident": null
+},
+"G00564": {
+"on_topic": "no",
+"incident": null
+},
+"G00565": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00566": {
+"on_topic": "no",
+"incident": null
+},
+"G00567": {
+"on_topic": "no",
+"incident": null
+},
+"G00568": {
+"on_topic": "no",
+"incident": null
+},
+"G00569": {
+"on_topic": "no",
+"incident": null
+},
+"G00570": {
+"on_topic": "no",
+"incident": null
+},
+"G00571": {
+"on_topic": "no",
+"incident": null
+},
+"G00572": {
+"on_topic": "no",
+"incident": null
+},
+"G00573": {
+"on_topic": "no",
+"incident": null
+},
+"G00574": {
+"on_topic": "no",
+"incident": null
+},
+"G00575": {
+"on_topic": "no",
+"incident": null
+},
+"G00576": {
+"on_topic": "no",
+"incident": null
+},
+"G00577": {
+"on_topic": "no",
+"incident": null
+},
+"G00578": {
+"on_topic": "no",
+"incident": null
+},
+"G00579": {
+"on_topic": "no",
+"incident": null
+},
+"G00580": {
+"on_topic": "no",
+"incident": null
+},
+"G00581": {
+"on_topic": "no",
+"incident": null
+},
+"G00582": {
+"on_topic": "no",
+"incident": null
+},
+"G00583": {
+"on_topic": "no",
+"incident": null
+},
+"G00584": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00585": {
+"on_topic": "no",
+"incident": null
+},
+"G00586": {
+"on_topic": "no",
+"incident": null
+},
+"G00587": {
+"on_topic": "no",
+"incident": null
+},
+"G00588": {
+"on_topic": "no",
+"incident": null
+},
+"G00589": {
+"on_topic": "no",
+"incident": null
+},
+"G00590": {
+"on_topic": "no",
+"incident": null
+},
+"G00591": {
+"on_topic": "no",
+"incident": null
+},
+"G00592": {
+"on_topic": "no",
+"incident": null
+},
+"G00593": {
+"on_topic": "no",
+"incident": null
+},
+"G00594": {
+"on_topic": "no",
+"incident": null
+},
+"G00595": {
+"on_topic": "no",
+"incident": null
+},
+"G00596": {
+"on_topic": "no",
+"incident": null
+},
+"G00597": {
+"on_topic": "no",
+"incident": null
+},
+"G00598": {
+"on_topic": "no",
+"incident": null
+},
+"G00599": {
+"on_topic": "no",
+"incident": null
+},
+"G00600": {
+"on_topic": "no",
+"incident": null
+},
+"G00601": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00602": {
+"on_topic": "no",
+"incident": null
+},
+"G00603": {
+"on_topic": "no",
+"incident": null
+},
+"G00604": {
+"on_topic": "no",
+"incident": null
+},
+"G00605": {
+"on_topic": "no",
+"incident": null
+},
+"G00606": {
+"on_topic": "no",
+"incident": null
+},
+"G00607": {
+"on_topic": "no",
+"incident": null
+},
+"G00608": {
+"on_topic": "no",
+"incident": null
+},
+"G00609": {
+"on_topic": "no",
+"incident": null
+},
+"G00610": {
+"on_topic": "no",
+"incident": null
+},
+"G00611": {
+"on_topic": "no",
+"incident": null
+},
+"G00612": {
+"on_topic": "no",
+"incident": null
+},
+"G00613": {
+"on_topic": "no",
+"incident": null
+},
+"G00614": {
+"on_topic": "no",
+"incident": null
+},
+"G00615": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00616": {
+"on_topic": "no",
+"incident": null
+},
+"G00617": {
+"on_topic": "no",
+"incident": null
+},
+"G00618": {
+"on_topic": "no",
+"incident": null
+},
+"G00619": {
+"on_topic": "no",
+"incident": null
+},
+"G00620": {
+"on_topic": "no",
+"incident": null
+},
+"G00621": {
+"on_topic": "no",
+"incident": null
+},
+"G00622": {
+"on_topic": "no",
+"incident": null
+},
+"G00623": {
+"on_topic": "no",
+"incident": null
+},
+"G00624": {
+"on_topic": "no",
+"incident": null
+},
+"G00625": {
+"on_topic": "no",
+"incident": null
+},
+"G00626": {
+"on_topic": "no",
+"incident": null
+},
+"G00627": {
+"on_topic": "no",
+"incident": null
+},
+"G00628": {
+"on_topic": "no",
+"incident": null
+},
+"G00629": {
+"on_topic": "no",
+"incident": null
+},
+"G00630": {
+"on_topic": "no",
+"incident": null
+},
+"G00631": {
+"on_topic": "no",
+"incident": null
+},
+"G00632": {
+"on_topic": "no",
+"incident": null
+},
+"G00633": {
+"on_topic": "no",
+"incident": null
+},
+"G00634": {
+"on_topic": "no",
+"incident": null
+},
+"G00635": {
+"on_topic": "no",
+"incident": null
+},
+"G00636": {
+"on_topic": "no",
+"incident": null
+},
+"G00637": {
+"on_topic": "no",
+"incident": null
+},
+"G00638": {
+"on_topic": "no",
+"incident": null
+},
+"G00639": {
+"on_topic": "no",
+"incident": null
+},
+"G00640": {
+"on_topic": "no",
+"incident": null
+},
+"G00641": {
+"on_topic": "no",
+"incident": null
+},
+"G00642": {
+"on_topic": "no",
+"incident": null
+},
+"G00643": {
+"on_topic": "no",
+"incident": null
+},
+"G00644": {
+"on_topic": "no",
+"incident": null
+},
+"G00645": {
+"on_topic": "no",
+"incident": null
+},
+"G00646": {
+"on_topic": "no",
+"incident": null
+},
+"G00647": {
+"on_topic": "no",
+"incident": null
+},
+"G00648": {
+"on_topic": "no",
+"incident": null
+},
+"G00649": {
+"on_topic": "no",
+"incident": null
+},
+"G00650": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00651": {
+"on_topic": "no",
+"incident": null
+},
+"G00652": {
+"on_topic": "no",
+"incident": null
+},
+"G00653": {
+"on_topic": "no",
+"incident": null
+},
+"G00654": {
+"on_topic": "no",
+"incident": null
+},
+"G00655": {
+"on_topic": "no",
+"incident": null
+},
+"G00656": {
+"on_topic": "no",
+"incident": null
+},
+"G00657": {
+"on_topic": "no",
+"incident": null
+},
+"G00658": {
+"on_topic": "no",
+"incident": null
+},
+"G00659": {
+"on_topic": "no",
+"incident": null
+},
+"G00660": {
+"on_topic": "no",
+"incident": null
+},
+"G00661": {
+"on_topic": "no",
+"incident": null
+},
+"G00662": {
+"on_topic": "no",
+"incident": null
+},
+"G00663": {
+"on_topic": "no",
+"incident": null
+},
+"G00664": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00665": {
+"on_topic": "no",
+"incident": null
+},
+"G00666": {
+"on_topic": "no",
+"incident": null
+},
+"G00667": {
+"on_topic": "no",
+"incident": null
+},
+"G00668": {
+"on_topic": "no",
+"incident": null
+},
+"G00669": {
+"on_topic": "no",
+"incident": null
+},
+"G00670": {
+"on_topic": "no",
+"incident": null
+},
+"G00671": {
+"on_topic": "no",
+"incident": null
+},
+"G00672": {
+"on_topic": "no",
+"incident": null
+},
+"G00673": {
+"on_topic": "no",
+"incident": null
+},
+"G00674": {
+"on_topic": "no",
+"incident": null
+},
+"G00675": {
+"on_topic": "no",
+"incident": null
+},
+"G00676": {
+"on_topic": "no",
+"incident": null
+},
+"G00677": {
+"on_topic": "no",
+"incident": null
+},
+"G00678": {
+"on_topic": "no",
+"incident": null
+},
+"G00679": {
+"on_topic": "no",
+"incident": null
+},
+"G00680": {
+"on_topic": "no",
+"incident": null
+},
+"G00681": {
+"on_topic": "no",
+"incident": null
+},
+"G00682": {
+"on_topic": "no",
+"incident": null
+},
+"G00683": {
+"on_topic": "no",
+"incident": null
+},
+"G00684": {
+"on_topic": "no",
+"incident": null
+},
+"G00685": {
+"on_topic": "no",
+"incident": null
+},
+"G00686": {
+"on_topic": "no",
+"incident": null
+},
+"G00687": {
+"on_topic": "no",
+"incident": null
+},
+"G00688": {
+"on_topic": "no",
+"incident": null
+},
+"G00689": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00690": {
+"on_topic": "no",
+"incident": null
+},
+"G00691": {
+"on_topic": "no",
+"incident": null
+},
+"G00692": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00693": {
+"on_topic": "no",
+"incident": null
+},
+"G00694": {
+"on_topic": "no",
+"incident": null
+},
+"G00695": {
+"on_topic": "no",
+"incident": null
+},
+"G00696": {
+"on_topic": "no",
+"incident": null
+},
+"G00697": {
+"on_topic": "no",
+"incident": null
+},
+"G00698": {
+"on_topic": "no",
+"incident": null
+},
+"G00699": {
+"on_topic": "no",
+"incident": null
+},
+"G00700": {
+"on_topic": "no",
+"incident": null
+},
+"G00701": {
+"on_topic": "no",
+"incident": null
+},
+"G00702": {
+"on_topic": "no",
+"incident": null
+},
+"G00703": {
+"on_topic": "no",
+"incident": null
+},
+"G00704": {
+"on_topic": "no",
+"incident": null
+},
+"G00705": {
+"on_topic": "no",
+"incident": null
+},
+"G00706": {
+"on_topic": "no",
+"incident": null
+},
+"G00707": {
+"on_topic": "no",
+"incident": null
+},
+"G00708": {
+"on_topic": "no",
+"incident": null
+},
+"G00709": {
+"on_topic": "no",
+"incident": null
+},
+"G00710": {
+"on_topic": "no",
+"incident": null
+},
+"G00711": {
+"on_topic": "no",
+"incident": null
+},
+"G00712": {
+"on_topic": "no",
+"incident": null
+},
+"G00713": {
+"on_topic": "no",
+"incident": null
+},
+"G00714": {
+"on_topic": "no",
+"incident": null
+},
+"G00715": {
+"on_topic": "no",
+"incident": null
+},
+"G00716": {
+"on_topic": "no",
+"incident": null
+},
+"G00717": {
+"on_topic": "no",
+"incident": null
+},
+"G00718": {
+"on_topic": "no",
+"incident": null
+},
+"G00719": {
+"on_topic": "no",
+"incident": null
+},
+"G00720": {
+"on_topic": "no",
+"incident": null
+},
+"G00721": {
+"on_topic": "no",
+"incident": null
+},
+"G00722": {
+"on_topic": "no",
+"incident": null
+},
+"G00723": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00724": {
+"on_topic": "no",
+"incident": null
+},
+"G00725": {
+"on_topic": "no",
+"incident": null
+},
+"G00726": {
+"on_topic": "no",
+"incident": null
+},
+"G00727": {
+"on_topic": "no",
+"incident": null
+},
+"G00728": {
+"on_topic": "no",
+"incident": null
+},
+"G00729": {
+"on_topic": "no",
+"incident": null
+},
+"G00730": {
+"on_topic": "no",
+"incident": null
+},
+"G00731": {
+"on_topic": "no",
+"incident": null
+},
+"G00732": {
+"on_topic": "no",
+"incident": null
+},
+"G00733": {
+"on_topic": "no",
+"incident": null
+},
+"G00734": {
+"on_topic": "no",
+"incident": null
+},
+"G00735": {
+"on_topic": "no",
+"incident": null
+},
+"G00736": {
+"on_topic": "no",
+"incident": null
+},
+"G00737": {
+"on_topic": "no",
+"incident": null
+},
+"G00738": {
+"on_topic": "no",
+"incident": null
+},
+"G00739": {
+"on_topic": "no",
+"incident": null
+},
+"G00740": {
+"on_topic": "no",
+"incident": null
+},
+"G00741": {
+"on_topic": "no",
+"incident": null
+},
+"G00742": {
+"on_topic": "no",
+"incident": null
+},
+"G00743": {
+"on_topic": "no",
+"incident": null
+},
+"G00744": {
+"on_topic": "no",
+"incident": null
+},
+"G00745": {
+"on_topic": "no",
+"incident": null
+},
+"G00746": {
+"on_topic": "no",
+"incident": null
+},
+"G00747": {
+"on_topic": "no",
+"incident": null
+},
+"G00748": {
+"on_topic": "no",
+"incident": null
+},
+"G00749": {
+"on_topic": "no",
+"incident": null
+},
+"G00750": {
+"on_topic": "no",
+"incident": null
+},
+"G00751": {
+"on_topic": "no",
+"incident": null
+},
+"G00752": {
+"on_topic": "no",
+"incident": null
+},
+"G00753": {
+"on_topic": "no",
+"incident": null
+},
+"G00754": {
+"on_topic": "no",
+"incident": null
+},
+"G00755": {
+"on_topic": "no",
+"incident": null
+},
+"G00756": {
+"on_topic": "no",
+"incident": null
+},
+"G00757": {
+"on_topic": "no",
+"incident": null
+},
+"G00758": {
+"on_topic": "no",
+"incident": null
+},
+"G00759": {
+"on_topic": "no",
+"incident": null
+},
+"G00760": {
+"on_topic": "no",
+"incident": null
+},
+"G00761": {
+"on_topic": "no",
+"incident": null
+},
+"G00762": {
+"on_topic": "no",
+"incident": null
+},
+"G00763": {
+"on_topic": "no",
+"incident": null
+},
+"G00764": {
+"on_topic": "no",
+"incident": null
+},
+"G00765": {
+"on_topic": "no",
+"incident": null
+},
+"G00766": {
+"on_topic": "no",
+"incident": null
+},
+"G00767": {
+"on_topic": "no",
+"incident": null
+},
+"G00768": {
+"on_topic": "no",
+"incident": null
+},
+"G00769": {
+"on_topic": "no",
+"incident": null
+},
+"G00770": {
+"on_topic": "no",
+"incident": null
+},
+"G00771": {
+"on_topic": "no",
+"incident": null
+},
+"G00772": {
+"on_topic": "no",
+"incident": null
+},
+"G00773": {
+"on_topic": "no",
+"incident": null
+},
+"G00774": {
+"on_topic": "no",
+"incident": null
+},
+"G00775": {
+"on_topic": "no",
+"incident": null
+},
+"G00776": {
+"on_topic": "no",
+"incident": null
+},
+"G00777": {
+"on_topic": "no",
+"incident": null
+},
+"G00778": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00779": {
+"on_topic": "no",
+"incident": null
+},
+"G00780": {
+"on_topic": "no",
+"incident": null
+},
+"G00781": {
+"on_topic": "no",
+"incident": null
+},
+"G00782": {
+"on_topic": "no",
+"incident": null
+},
+"G00783": {
+"on_topic": "no",
+"incident": null
+},
+"G00784": {
+"on_topic": "no",
+"incident": null
+},
+"G00785": {
+"on_topic": "no",
+"incident": null
+},
+"G00786": {
+"on_topic": "no",
+"incident": null
+},
+"G00787": {
+"on_topic": "no",
+"incident": null
+},
+"G00788": {
+"on_topic": "no",
+"incident": null
+},
+"G00789": {
+"on_topic": "no",
+"incident": null
+},
+"G00790": {
+"on_topic": "no",
+"incident": null
+},
+"G00791": {
+"on_topic": "no",
+"incident": null
+},
+"G00792": {
+"on_topic": "no",
+"incident": null
+},
+"G00793": {
+"on_topic": "no",
+"incident": null
+},
+"G00794": {
+"on_topic": "no",
+"incident": null
+},
+"G00795": {
+"on_topic": "no",
+"incident": null
+},
+"G00796": {
+"on_topic": "no",
+"incident": null
+},
+"G00797": {
+"on_topic": "no",
+"incident": null
+},
+"G00798": {
+"on_topic": "no",
+"incident": null
+},
+"G00799": {
+"on_topic": "no",
+"incident": null
+},
+"G00800": {
+"on_topic": "yes",
+"incident": "zahedan · 1 oct · clashes kill six armed men"
+},
+"G00801": {
+"on_topic": "no",
+"incident": null
+},
+"G00802": {
+"on_topic": "no",
+"incident": null
+},
+"G00803": {
+"on_topic": "no",
+"incident": null
+},
+"G00804": {
+"on_topic": "no",
+"incident": null
+},
+"G00805": {
+"on_topic": "no",
+"incident": null
+},
+"G00806": {
+"on_topic": "no",
+"incident": null
+},
+"G00807": {
+"on_topic": "no",
+"incident": null
+},
+"G00808": {
+"on_topic": "no",
+"incident": null
+},
+"G00809": {
+"on_topic": "no",
+"incident": null
+},
+"G00810": {
+"on_topic": "no",
+"incident": null
+},
+"G00811": {
+"on_topic": "no",
+"incident": null
+},
+"G00812": {
+"on_topic": "no",
+"incident": null
+},
+"G00813": {
+"on_topic": "no",
+"incident": null
+},
+"G00814": {
+"on_topic": "no",
+"incident": null
+},
+"G00815": {
+"on_topic": "no",
+"incident": null
+},
+"G00816": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00817": {
+"on_topic": "yes",
+"incident": "zahedan · 1 oct · clashes kill six armed men"
+},
+"G00818": {
+"on_topic": "no",
+"incident": null
+},
+"G00819": {
+"on_topic": "no",
+"incident": null
+},
+"G00820": {
+"on_topic": "no",
+"incident": null
+},
+"G00821": {
+"on_topic": "no",
+"incident": null
+},
+"G00822": {
+"on_topic": "no",
+"incident": null
+},
+"G00823": {
+"on_topic": "no",
+"incident": null
+},
+"G00824": {
+"on_topic": "yes",
+"incident": "mashhad · 30 sep · authorities execute two men over protest killings"
+},
+"G00825": {
+"on_topic": "no",
+"incident": null
+},
+"G00826": {
+"on_topic": "no",
+"incident": null
+},
+"G00827": {
+"on_topic": "no",
+"incident": null
+},
+"G00828": {
+"on_topic": "no",
+"incident": null
+},
+"G00829": {
+"on_topic": "no",
+"incident": null
+},
+"G00830": {
+"on_topic": "no",
+"incident": null
+},
+"G00831": {
+"on_topic": "no",
+"incident": null
+},
+"G00832": {
+"on_topic": "no",
+"incident": null
+},
+"G00833": {
+"on_topic": "no",
+"incident": null
+},
+"G00834": {
+"on_topic": "yes",
+"incident": "near tehran · 1 oct · security forces kill six alleged militants in an operation"
+},
+"G00835": {
+"on_topic": "no",
+"incident": null
+},
+"G00836": {
+"on_topic": "no",
+"incident": null
+},
+"G00837": {
+"on_topic": "no",
+"incident": null
+},
+"G00838": {
+"on_topic": "no",
+"incident": null
+},
+"G00839": {
+"on_topic": "yes",
+"incident": "zahedan · 1 oct · clashes kill six armed men"
+},
+"G00840": {
+"on_topic": "no",
+"incident": null
+},
+"G00841": {
+"on_topic": "no",
+"incident": null
+},
+"G00842": {
+"on_topic": "no",
+"incident": null
+},
+"G00843": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00844": {
+"on_topic": "no",
+"incident": null
+},
+"G00845": {
+"on_topic": "no",
+"incident": null
+},
+"G00846": {
+"on_topic": "no",
+"incident": null
+},
+"G00847": {
+"on_topic": "no",
+"incident": null
+},
+"G00848": {
+"on_topic": "no",
+"incident": null
+},
+"G00849": {
+"on_topic": "no",
+"incident": null
+},
+"G00850": {
+"on_topic": "no",
+"incident": null
+},
+"G00851": {
+"on_topic": "no",
+"incident": null
+},
+"G00852": {
+"on_topic": "no",
+"incident": null
+},
+"G00853": {
+"on_topic": "no",
+"incident": null
+},
+"G00854": {
+"on_topic": "no",
+"incident": null
+},
+"G00855": {
+"on_topic": "no",
+"incident": null
+},
+"G00856": {
+"on_topic": "no",
+"incident": null
+},
+"G00857": {
+"on_topic": "no",
+"incident": null
+},
+"G00858": {
+"on_topic": "no",
+"incident": null
+},
+"G00859": {
+"on_topic": "no",
+"incident": null
+},
+"G00860": {
+"on_topic": "no",
+"incident": null
+},
+"G00861": {
+"on_topic": "no",
+"incident": null
+},
+"G00862": {
+"on_topic": "no",
+"incident": null
+},
+"G00863": {
+"on_topic": "no",
+"incident": null
+},
+"G00864": {
+"on_topic": "no",
+"incident": null
+},
+"G00865": {
+"on_topic": "no",
+"incident": null
+},
+"G00866": {
+"on_topic": "no",
+"incident": null
+},
+"G00867": {
+"on_topic": "no",
+"incident": null
+},
+"G00868": {
+"on_topic": "no",
+"incident": null
+},
+"G00869": {
+"on_topic": "no",
+"incident": null
+},
+"G00870": {
+"on_topic": "no",
+"incident": null
+},
+"G00871": {
+"on_topic": "no",
+"incident": null
+},
+"G00872": {
+"on_topic": "no",
+"incident": null
+},
+"G00873": {
+"on_topic": "no",
+"incident": null
+},
+"G00874": {
+"on_topic": "no",
+"incident": null
+},
+"G00875": {
+"on_topic": "no",
+"incident": null
+},
+"G00876": {
+"on_topic": "no",
+"incident": null
+},
+"G00877": {
+"on_topic": "no",
+"incident": null
+},
+"G00878": {
+"on_topic": "no",
+"incident": null
+},
+"G00879": {
+"on_topic": "no",
+"incident": null
+},
+"G00880": {
+"on_topic": "no",
+"incident": null
+},
+"G00881": {
+"on_topic": "yes",
+"incident": "zahedan · 1 oct · clashes kill six armed men"
+},
+"G00882": {
+"on_topic": "no",
+"incident": null
+},
+"G00883": {
+"on_topic": "no",
+"incident": null
+},
+"G00884": {
+"on_topic": "no",
+"incident": null
+},
+"G00885": {
+"on_topic": "no",
+"incident": null
+},
+"G00886": {
+"on_topic": "no",
+"incident": null
+},
+"G00887": {
+"on_topic": "no",
+"incident": null
+},
+"G00888": {
+"on_topic": "no",
+"incident": null
+},
+"G00889": {
+"on_topic": "no",
+"incident": null
+},
+"G00890": {
+"on_topic": "no",
+"incident": null
+},
+"G00891": {
+"on_topic": "no",
+"incident": null
+},
+"G00892": {
+"on_topic": "no",
+"incident": null
+},
+"G00893": {
+"on_topic": "no",
+"incident": null
+},
+"G00894": {
+"on_topic": "no",
+"incident": null
+},
+"G00895": {
+"on_topic": "no",
+"incident": null
+},
+"G00896": {
+"on_topic": "no",
+"incident": null
+},
+"G00897": {
+"on_topic": "no",
+"incident": null
+},
+"G00898": {
+"on_topic": "no",
+"incident": null
+},
+"G00899": {
+"on_topic": "no",
+"incident": null
+},
+"G00900": {
+"on_topic": "no",
+"incident": null
+},
+"G00901": {
+"on_topic": "no",
+"incident": null
+},
+"G00902": {
+"on_topic": "no",
+"incident": null
+},
+"G00903": {
+"on_topic": "no",
+"incident": null
+},
+"G00904": {
+"on_topic": "no",
+"incident": null
+},
+"G00905": {
+"on_topic": "no",
+"incident": null
+},
+"G00906": {
+"on_topic": "no",
+"incident": null
+},
+"G00907": {
+"on_topic": "no",
+"incident": null
+},
+"G00908": {
+"on_topic": "no",
+"incident": null
+},
+"G00909": {
+"on_topic": "no",
+"incident": null
+},
+"G00910": {
+"on_topic": "no",
+"incident": null
+},
+"G00911": {
+"on_topic": "no",
+"incident": null
+},
+"G00912": {
+"on_topic": "no",
+"incident": null
+},
+"G00913": {
+"on_topic": "no",
+"incident": null
+},
+"G00914": {
+"on_topic": "no",
+"incident": null
+},
+"G00915": {
+"on_topic": "no",
+"incident": null
+},
+"G00916": {
+"on_topic": "no",
+"incident": null
+},
+"G00917": {
+"on_topic": "no",
+"incident": null
+},
+"G00918": {
+"on_topic": "no",
+"incident": null
+},
+"G00919": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G00920": {
+"on_topic": "no",
+"incident": null
+},
+"G00921": {
+"on_topic": "no",
+"incident": null
+},
+"G00922": {
+"on_topic": "no",
+"incident": null
+},
+"G00923": {
+"on_topic": "no",
+"incident": null
+},
+"G00924": {
+"on_topic": "no",
+"incident": null
+},
+"G00925": {
+"on_topic": "no",
+"incident": null
+},
+"G00926": {
+"on_topic": "no",
+"incident": null
+},
+"G00927": {
+"on_topic": "no",
+"incident": null
+},
+"G00928": {
+"on_topic": "no",
+"incident": null
+},
+"G00929": {
+"on_topic": "no",
+"incident": null
+},
+"G00930": {
+"on_topic": "no",
+"incident": null
+},
+"G00931": {
+"on_topic": "no",
+"incident": null
+},
+"G00932": {
+"on_topic": "no",
+"incident": null
+},
+"G00933": {
+"on_topic": "no",
+"incident": null
+},
+"G00934": {
+"on_topic": "no",
+"incident": null
+},
+"G00935": {
+"on_topic": "no",
+"incident": null
+},
+"G00936": {
+"on_topic": "no",
+"incident": null
+},
+"G00937": {
+"on_topic": "no",
+"incident": null
+},
+"G00938": {
+"on_topic": "no",
+"incident": null
+},
+"G00939": {
+"on_topic": "no",
+"incident": null
+},
+"G00940": {
+"on_topic": "no",
+"incident": null
+},
+"G00941": {
+"on_topic": "no",
+"incident": null
+},
+"G00942": {
+"on_topic": "no",
+"incident": null
+},
+"G00943": {
+"on_topic": "no",
+"incident": null
+},
+"G00944": {
+"on_topic": "no",
+"incident": null
+},
+"G00945": {
+"on_topic": "no",
+"incident": null
+},
+"G00946": {
+"on_topic": "no",
+"incident": null
+},
+"G00947": {
+"on_topic": "no",
+"incident": null
+},
+"G00948": {
+"on_topic": "no",
+"incident": null
+},
+"G00949": {
+"on_topic": "yes",
+"incident": "zahedan · 1 oct · clashes kill six armed men"
+},
+"G00950": {
+"on_topic": "no",
+"incident": null
+},
+"G00951": {
+"on_topic": "no",
+"incident": null
+},
+"G00952": {
+"on_topic": "no",
+"incident": null
+},
+"G00953": {
+"on_topic": "no",
+"incident": null
+},
+"G00954": {
+"on_topic": "no",
+"incident": null
+},
+"G00955": {
+"on_topic": "no",
+"incident": null
+},
+"G00956": {
+"on_topic": "no",
+"incident": null
+},
+"G00957": {
+"on_topic": "no",
+"incident": null
+},
+"G00958": {
+"on_topic": "no",
+"incident": null
+},
+"G00959": {
+"on_topic": "yes",
+"incident": "iran · 1 oct · clashes reportedly kill an irgc general"
+},
+"G00960": {
+"on_topic": "no",
+"incident": null
+},
+"G00961": {
+"on_topic": "no",
+"incident": null
+},
+"G00962": {
+"on_topic": "no",
+"incident": null
+},
+"G00963": {
+"on_topic": "yes",
+"incident": "zahedan · 1 oct · clashes kill six armed men"
+},
+"G00964": {
+"on_topic": "no",
+"incident": null
+},
+"G00965": {
+"on_topic": "no",
+"incident": null
+},
+"G00966": {
+"on_topic": "no",
+"incident": null
+},
+"G00967": {
+"on_topic": "no",
+"incident": null
+},
+"G00968": {
+"on_topic": "no",
+"incident": null
+},
+"G00969": {
+"on_topic": "no",
+"incident": null
+},
+"G00970": {
+"on_topic": "no",
+"incident": null
+},
+"G00971": {
+"on_topic": "no",
+"incident": null
+},
+"G00972": {
+"on_topic": "no",
+"incident": null
+},
+"G00973": {
+"on_topic": "no",
+"incident": null
+},
+"G00974": {
+"on_topic": "no",
+"incident": null
+},
+"G00975": {
+"on_topic": "no",
+"incident": null
+},
+"G00976": {
+"on_topic": "no",
+"incident": null
+},
+"G00977": {
+"on_topic": "no",
+"incident": null
+},
+"G00978": {
+"on_topic": "no",
+"incident": null
+},
+"G00979": {
+"on_topic": "no",
+"incident": null
+},
+"G00980": {
+"on_topic": "yes",
+"incident": "zahedan · 1 oct · clashes kill six armed men"
+},
+"G00981": {
+"on_topic": "no",
+"incident": null
+},
+"G00982": {
+"on_topic": "no",
+"incident": null
+},
+"G00983": {
+"on_topic": "no",
+"incident": null
+},
+"G00984": {
+"on_topic": "no",
+"incident": null
+},
+"G00985": {
+"on_topic": "no",
+"incident": null
+},
+"G00986": {
+"on_topic": "no",
+"incident": null
+},
+"G00987": {
+"on_topic": "no",
+"incident": null
+},
+"G00988": {
+"on_topic": "no",
+"incident": null
+},
+"G00989": {
+"on_topic": "no",
+"incident": null
+},
+"G00990": {
+"on_topic": "no",
+"incident": null
+},
+"G00991": {
+"on_topic": "no",
+"incident": null
+},
+"G00992": {
+"on_topic": "no",
+"incident": null
+},
+"G00993": {
+"on_topic": "no",
+"incident": null
+},
+"G00994": {
+"on_topic": "no",
+"incident": null
+},
+"G00995": {
+"on_topic": "no",
+"incident": null
+},
+"G00996": {
+"on_topic": "no",
+"incident": null
+},
+"G00997": {
+"on_topic": "no",
+"incident": null
+},
+"G00998": {
+"on_topic": "yes",
+"incident": "sistan and baluchestan · 2 oct · security forces kill two armed-group members"
+},
+"G00999": {
+"on_topic": "no",
+"incident": null
+},
+"G01000": {
+"on_topic": "no",
+"incident": null
+},
+"G01001": {
+"on_topic": "no",
+"incident": null
+},
+"G01002": {
+"on_topic": "no",
+"incident": null
+},
+"G01003": {
+"on_topic": "no",
+"incident": null
+},
+"G01004": {
+"on_topic": "no",
+"incident": null
+},
+"G01005": {
+"on_topic": "no",
+"incident": null
+},
+"G01006": {
+"on_topic": "no",
+"incident": null
+},
+"G01007": {
+"on_topic": "no",
+"incident": null
+},
+"G01008": {
+"on_topic": "no",
+"incident": null
+},
+"G01009": {
+"on_topic": "no",
+"incident": null
+},
+"G01010": {
+"on_topic": "no",
+"incident": null
+},
+"G01011": {
+"on_topic": "no",
+"incident": null
+},
+"G01012": {
+"on_topic": "no",
+"incident": null
+},
+"G01013": {
+"on_topic": "no",
+"incident": null
+},
+"G01014": {
+"on_topic": "no",
+"incident": null
+},
+"G01015": {
+"on_topic": "no",
+"incident": null
+},
+"G01016": {
+"on_topic": "no",
+"incident": null
+},
+"G01017": {
+"on_topic": "no",
+"incident": null
+},
+"G01018": {
+"on_topic": "no",
+"incident": null
+},
+"G01019": {
+"on_topic": "no",
+"incident": null
+},
+"G01020": {
+"on_topic": "no",
+"incident": null
+},
+"G01021": {
+"on_topic": "no",
+"incident": null
+},
+"G01022": {
+"on_topic": "no",
+"incident": null
+},
+"G01023": {
+"on_topic": "no",
+"incident": null
+},
+"G01024": {
+"on_topic": "no",
+"incident": null
+},
+"G01025": {
+"on_topic": "no",
+"incident": null
+},
+"G01026": {
+"on_topic": "no",
+"incident": null
+},
+"G01027": {
+"on_topic": "no",
+"incident": null
+},
+"G01028": {
+"on_topic": "no",
+"incident": null
+},
+"G01029": {
+"on_topic": "no",
+"incident": null
+},
+"G01030": {
+"on_topic": "no",
+"incident": null
+},
+"G01031": {
+"on_topic": "no",
+"incident": null
+},
+"G01032": {
+"on_topic": "no",
+"incident": null
+},
+"G01033": {
+"on_topic": "no",
+"incident": null
+},
+"G01034": {
+"on_topic": "no",
+"incident": null
+},
+"G01035": {
+"on_topic": "no",
+"incident": null
+},
+"G01036": {
+"on_topic": "no",
+"incident": null
+},
+"G01037": {
+"on_topic": "no",
+"incident": null
+},
+"G01038": {
+"on_topic": "no",
+"incident": null
+},
+"G01039": {
+"on_topic": "no",
+"incident": null
+},
+"G01040": {
+"on_topic": "no",
+"incident": null
+},
+"G01041": {
+"on_topic": "no",
+"incident": null
+},
+"G01042": {
+"on_topic": "no",
+"incident": null
+},
+"G01043": {
+"on_topic": "no",
+"incident": null
+},
+"G01044": {
+"on_topic": "no",
+"incident": null
+},
+"G01045": {
+"on_topic": "no",
+"incident": null
+},
+"G01046": {
+"on_topic": "no",
+"incident": null
+},
+"G01047": {
+"on_topic": "no",
+"incident": null
+},
+"G01048": {
+"on_topic": "no",
+"incident": null
+},
+"G01049": {
+"on_topic": "no",
+"incident": null
+},
+"G01050": {
+"on_topic": "no",
+"incident": null
+},
+"G01051": {
+"on_topic": "no",
+"incident": null
+},
+"G01052": {
+"on_topic": "no",
+"incident": null
+},
+"G01053": {
+"on_topic": "no",
+"incident": null
+},
+"G01054": {
+"on_topic": "no",
+"incident": null
+},
+"G01055": {
+"on_topic": "no",
+"incident": null
+},
+"G01056": {
+"on_topic": "no",
+"incident": null
+},
+"G01057": {
+"on_topic": "no",
+"incident": null
+},
+"G01058": {
+"on_topic": "no",
+"incident": null
+},
+"G01059": {
+"on_topic": "no",
+"incident": null
+},
+"G01060": {
+"on_topic": "no",
+"incident": null
+},
+"G01061": {
+"on_topic": "no",
+"incident": null
+},
+"G01062": {
+"on_topic": "no",
+"incident": null
+},
+"G01063": {
+"on_topic": "no",
+"incident": null
+},
+"G01064": {
+"on_topic": "no",
+"incident": null
+},
+"G01065": {
+"on_topic": "no",
+"incident": null
+},
+"G01066": {
+"on_topic": "no",
+"incident": null
+},
+"G01067": {
+"on_topic": "no",
+"incident": null
+},
+"G01068": {
+"on_topic": "no",
+"incident": null
+},
+"G01069": {
+"on_topic": "no",
+"incident": null
+},
+"G01070": {
+"on_topic": "no",
+"incident": null
+},
+"G01071": {
+"on_topic": "no",
+"incident": null
+},
+"G01072": {
+"on_topic": "no",
+"incident": null
+},
+"G01073": {
+"on_topic": "no",
+"incident": null
+},
+"G01074": {
+"on_topic": "no",
+"incident": null
+},
+"G01075": {
+"on_topic": "no",
+"incident": null
+},
+"G01076": {
+"on_topic": "no",
+"incident": null
+},
+"G01077": {
+"on_topic": "no",
+"incident": null
+},
+"G01078": {
+"on_topic": "no",
+"incident": null
+},
+"G01079": {
+"on_topic": "no",
+"incident": null
+},
+"G01080": {
+"on_topic": "no",
+"incident": null
+},
+"G01081": {
+"on_topic": "no",
+"incident": null
+},
+"G01082": {
+"on_topic": "yes",
+"incident": "karaj · 2 oct · authorities execute an afghan citizen on espionage charges"
+},
+"G01083": {
+"on_topic": "no",
+"incident": null
+},
+"G01084": {
+"on_topic": "no",
+"incident": null
+},
+"G01085": {
+"on_topic": "no",
+"incident": null
+},
+"G01086": {
+"on_topic": "no",
+"incident": null
+},
+"G01087": {
+"on_topic": "no",
+"incident": null
+},
+"G01088": {
+"on_topic": "no",
+"incident": null
+},
+"G01089": {
+"on_topic": "no",
+"incident": null
+},
+"G01090": {
+"on_topic": "no",
+"incident": null
+},
+"G01091": {
+"on_topic": "no",
+"incident": null
+},
+"G01092": {
+"on_topic": "no",
+"incident": null
+},
+"G01093": {
+"on_topic": "no",
+"incident": null
+},
+"G01094": {
+"on_topic": "no",
+"incident": null
+},
+"G01095": {
+"on_topic": "no",
+"incident": null
+},
+"G01096": {
+"on_topic": "no",
+"incident": null
+},
+"G01097": {
+"on_topic": "no",
+"incident": null
+},
+"G01098": {
+"on_topic": "no",
+"incident": null
+},
+"G01099": {
+"on_topic": "no",
+"incident": null
+},
+"G01100": {
+"on_topic": "no",
+"incident": null
+},
+"G01101": {
+"on_topic": "no",
+"incident": null
+},
+"G01102": {
+"on_topic": "no",
+"incident": null
+},
+"G01103": {
+"on_topic": "no",
+"incident": null
+},
+"G01104": {
+"on_topic": "no",
+"incident": null
+},
+"G01105": {
+"on_topic": "no",
+"incident": null
+},
+"G01106": {
+"on_topic": "no",
+"incident": null
+},
+"G01107": {
+"on_topic": "no",
+"incident": null
+},
+"G01108": {
+"on_topic": "no",
+"incident": null
+},
+"G01109": {
+"on_topic": "no",
+"incident": null
+},
+"G01110": {
+"on_topic": "yes",
+"incident": "sistan and baluchestan · 2 oct · security forces kill two armed-group members"
+},
+"G01111": {
+"on_topic": "no",
+"incident": null
+},
+"G01112": {
+"on_topic": "no",
+"incident": null
+},
+"G01113": {
+"on_topic": "no",
+"incident": null
+},
+"G01114": {
+"on_topic": "no",
+"incident": null
+},
+"G01115": {
+"on_topic": "no",
+"incident": null
+},
+"G01116": {
+"on_topic": "no",
+"incident": null
+},
+"G01117": {
+"on_topic": "no",
+"incident": null
+},
+"G01118": {
+"on_topic": "no",
+"incident": null
+},
+"G01119": {
+"on_topic": "no",
+"incident": null
+},
+"G01120": {
+"on_topic": "no",
+"incident": null
+},
+"G01121": {
+"on_topic": "no",
+"incident": null
+},
+"G01122": {
+"on_topic": "no",
+"incident": null
+},
+"G01123": {
+"on_topic": "no",
+"incident": null
+},
+"G01124": {
+"on_topic": "no",
+"incident": null
+},
+"G01125": {
+"on_topic": "no",
+"incident": null
+},
+"G01126": {
+"on_topic": "no",
+"incident": null
+},
+"G01127": {
+"on_topic": "no",
+"incident": null
+},
+"G01128": {
+"on_topic": "no",
+"incident": null
+},
+"G01129": {
+"on_topic": "no",
+"incident": null
+},
+"G01130": {
+"on_topic": "no",
+"incident": null
+},
+"G01131": {
+"on_topic": "no",
+"incident": null
+},
+"G01132": {
+"on_topic": "no",
+"incident": null
+},
+"G01133": {
+"on_topic": "no",
+"incident": null
+},
+"G01134": {
+"on_topic": "no",
+"incident": null
+},
+"G01135": {
+"on_topic": "no",
+"incident": null
+},
+"G01136": {
+"on_topic": "no",
+"incident": null
+},
+"G01137": {
+"on_topic": "no",
+"incident": null
+},
+"G01138": {
+"on_topic": "no",
+"incident": null
+},
+"G01139": {
+"on_topic": "no",
+"incident": null
+},
+"G01140": {
+"on_topic": "no",
+"incident": null
+},
+"G01141": {
+"on_topic": "yes",
+"incident": "sistan and baluchestan · 2 oct · checkpoint attack and siege kill seven"
+},
+"G01142": {
+"on_topic": "no",
+"incident": null
+},
+"G01143": {
+"on_topic": "no",
+"incident": null
+},
+"G01144": {
+"on_topic": "no",
+"incident": null
+},
+"G01145": {
+"on_topic": "no",
+"incident": null
+},
+"G01146": {
+"on_topic": "no",
+"incident": null
+},
+"G01147": {
+"on_topic": "no",
+"incident": null
+},
+"G01148": {
+"on_topic": "no",
+"incident": null
+},
+"G01149": {
+"on_topic": "yes",
+"incident": "near zahedan · 2 oct · roadside bombing kills five irgc personnel"
+},
+"G01150": {
+"on_topic": "no",
+"incident": null
+},
+"G01151": {
+"on_topic": "no",
+"incident": null
+},
+"G01152": {
+"on_topic": "no",
+"incident": null
+},
+"G01153": {
+"on_topic": "no",
+"incident": null
+},
+"G01154": {
+"on_topic": "no",
+"incident": null
+},
+"G01155": {
+"on_topic": "no",
+"incident": null
+},
+"G01156": {
+"on_topic": "no",
+"incident": null
+},
+"G01157": {
+"on_topic": "no",
+"incident": null
+},
+"G01158": {
+"on_topic": "no",
+"incident": null
+},
+"G01159": {
+"on_topic": "no",
+"incident": null
+},
+"G01160": {
+"on_topic": "no",
+"incident": null
+},
+"G01161": {
+"on_topic": "no",
+"incident": null
+},
+"G01162": {
+"on_topic": "no",
+"incident": null
+},
+"G01163": {
+"on_topic": "no",
+"incident": null
+},
+"G01164": {
+"on_topic": "no",
+"incident": null
+},
+"G01165": {
+"on_topic": "no",
+"incident": null
+},
+"G01166": {
+"on_topic": "no",
+"incident": null
+},
+"G01167": {
+"on_topic": "no",
+"incident": null
+},
+"G01168": {
+"on_topic": "no",
+"incident": null
+},
+"G01169": {
+"on_topic": "no",
+"incident": null
+},
+"G01170": {
+"on_topic": "no",
+"incident": null
+},
+"G01171": {
+"on_topic": "no",
+"incident": null
+},
+"G01172": {
+"on_topic": "no",
+"incident": null
+},
+"G01173": {
+"on_topic": "yes",
+"incident": "sistan and baluchestan · 2 oct · security forces kill two armed-group members"
+},
+"G01174": {
+"on_topic": "yes",
+"incident": "near zahedan · 2 oct · roadside bombing kills five irgc personnel"
+},
+"G01175": {
+"on_topic": "no",
+"incident": null
+},
+"G01176": {
+"on_topic": "no",
+"incident": null
+},
+"G01177": {
+"on_topic": "no",
+"incident": null
+},
+"G01178": {
+"on_topic": "no",
+"incident": null
+},
+"G01179": {
+"on_topic": "no",
+"incident": null
+},
+"G01180": {
+"on_topic": "no",
+"incident": null
+},
+"G01181": {
+"on_topic": "no",
+"incident": null
+},
+"G01182": {
+"on_topic": "no",
+"incident": null
+},
+"G01183": {
+"on_topic": "no",
+"incident": null
+},
+"G01184": {
+"on_topic": "no",
+"incident": null
+},
+"G01185": {
+"on_topic": "no",
+"incident": null
+},
+"G01186": {
+"on_topic": "no",
+"incident": null
+},
+"G01187": {
+"on_topic": "no",
+"incident": null
+},
+"G01188": {
+"on_topic": "no",
+"incident": null
+},
+"G01189": {
+"on_topic": "no",
+"incident": null
+},
+"G01190": {
+"on_topic": "no",
+"incident": null
+},
+"G01191": {
+"on_topic": "no",
+"incident": null
+},
+"G01192": {
+"on_topic": "no",
+"incident": null
+},
+"G01193": {
+"on_topic": "no",
+"incident": null
+},
+"G01194": {
+"on_topic": "no",
+"incident": null
+},
+"G01195": {
+"on_topic": "no",
+"incident": null
+},
+"G01196": {
+"on_topic": "no",
+"incident": null
+},
+"G01197": {
+"on_topic": "no",
+"incident": null
+},
+"G01198": {
+"on_topic": "no",
+"incident": null
+},
+"G01199": {
+"on_topic": "no",
+"incident": null
+},
+"G01200": {
+"on_topic": "no",
+"incident": null
+},
+"G01201": {
+"on_topic": "no",
+"incident": null
+},
+"G01202": {
+"on_topic": "no",
+"incident": null
+},
+"G01203": {
+"on_topic": "no",
+"incident": null
+},
+"G01204": {
+"on_topic": "no",
+"incident": null
+},
+"G01205": {
+"on_topic": "no",
+"incident": null
+},
+"G01206": {
+"on_topic": "no",
+"incident": null
+},
+"G01207": {
+"on_topic": "no",
+"incident": null
+},
+"G01208": {
+"on_topic": "no",
+"incident": null
+},
+"G01209": {
+"on_topic": "no",
+"incident": null
+},
+"G01210": {
+"on_topic": "no",
+"incident": null
+},
+"G01211": {
+"on_topic": "no",
+"incident": null
+},
+"G01212": {
+"on_topic": "no",
+"incident": null
+},
+"G01213": {
+"on_topic": "no",
+"incident": null
+},
+"G01214": {
+"on_topic": "no",
+"incident": null
+},
+"G01215": {
+"on_topic": "no",
+"incident": null
+},
+"G01216": {
+"on_topic": "no",
+"incident": null
+},
+"G01217": {
+"on_topic": "no",
+"incident": null
+},
+"G01218": {
+"on_topic": "no",
+"incident": null
+},
+"G01219": {
+"on_topic": "no",
+"incident": null
+},
+"G01220": {
+"on_topic": "no",
+"incident": null
+},
+"G01221": {
+"on_topic": "no",
+"incident": null
+},
+"G01222": {
+"on_topic": "no",
+"incident": null
+},
+"G01223": {
+"on_topic": "no",
+"incident": null
+},
+"G01224": {
+"on_topic": "no",
+"incident": null
+},
+"G01225": {
+"on_topic": "no",
+"incident": null
+},
+"G01226": {
+"on_topic": "no",
+"incident": null
+},
+"G01227": {
+"on_topic": "no",
+"incident": null
+},
+"G01228": {
+"on_topic": "no",
+"incident": null
+},
+"G01229": {
+"on_topic": "no",
+"incident": null
+},
+"G01230": {
+"on_topic": "no",
+"incident": null
+},
+"G01231": {
+"on_topic": "no",
+"incident": null
+},
+"G01232": {
+"on_topic": "no",
+"incident": null
+},
+"G01233": {
+"on_topic": "no",
+"incident": null
+},
+"G01234": {
+"on_topic": "no",
+"incident": null
+},
+"G01235": {
+"on_topic": "no",
+"incident": null
+},
+"G01236": {
+"on_topic": "no",
+"incident": null
+},
+"G01237": {
+"on_topic": "no",
+"incident": null
+},
+"G01238": {
+"on_topic": "no",
+"incident": null
+},
+"G01239": {
+"on_topic": "no",
+"incident": null
+},
+"G01240": {
+"on_topic": "no",
+"incident": null
+},
+"G01241": {
+"on_topic": "no",
+"incident": null
+},
+"G01242": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01243": {
+"on_topic": "no",
+"incident": null
+},
+"G01244": {
+"on_topic": "no",
+"incident": null
+},
+"G01245": {
+"on_topic": "no",
+"incident": null
+},
+"G01246": {
+"on_topic": "no",
+"incident": null
+},
+"G01247": {
+"on_topic": "no",
+"incident": null
+},
+"G01248": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01249": {
+"on_topic": "no",
+"incident": null
+},
+"G01250": {
+"on_topic": "no",
+"incident": null
+},
+"G01251": {
+"on_topic": "no",
+"incident": null
+},
+"G01252": {
+"on_topic": "no",
+"incident": null
+},
+"G01253": {
+"on_topic": "no",
+"incident": null
+},
+"G01254": {
+"on_topic": "no",
+"incident": null
+},
+"G01255": {
+"on_topic": "no",
+"incident": null
+},
+"G01256": {
+"on_topic": "no",
+"incident": null
+},
+"G01257": {
+"on_topic": "no",
+"incident": null
+},
+"G01258": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01259": {
+"on_topic": "no",
+"incident": null
+},
+"G01260": {
+"on_topic": "no",
+"incident": null
+},
+"G01261": {
+"on_topic": "no",
+"incident": null
+},
+"G01262": {
+"on_topic": "yes",
+"incident": "southeastern iran · 3 oct · forces kill two in a counterterrorism operation"
+},
+"G01263": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01264": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01265": {
+"on_topic": "no",
+"incident": null
+},
+"G01266": {
+"on_topic": "no",
+"incident": null
+},
+"G01267": {
+"on_topic": "no",
+"incident": null
+},
+"G01268": {
+"on_topic": "no",
+"incident": null
+},
+"G01269": {
+"on_topic": "no",
+"incident": null
+},
+"G01270": {
+"on_topic": "no",
+"incident": null
+},
+"G01271": {
+"on_topic": "no",
+"incident": null
+},
+"G01272": {
+"on_topic": "no",
+"incident": null
+},
+"G01273": {
+"on_topic": "no",
+"incident": null
+},
+"G01274": {
+"on_topic": "no",
+"incident": null
+},
+"G01275": {
+"on_topic": "no",
+"incident": null
+},
+"G01276": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01277": {
+"on_topic": "no",
+"incident": null
+},
+"G01278": {
+"on_topic": "no",
+"incident": null
+},
+"G01279": {
+"on_topic": "no",
+"incident": null
+},
+"G01280": {
+"on_topic": "no",
+"incident": null
+},
+"G01281": {
+"on_topic": "no",
+"incident": null
+},
+"G01282": {
+"on_topic": "no",
+"incident": null
+},
+"G01283": {
+"on_topic": "no",
+"incident": null
+},
+"G01284": {
+"on_topic": "no",
+"incident": null
+},
+"G01285": {
+"on_topic": "no",
+"incident": null
+},
+"G01286": {
+"on_topic": "no",
+"incident": null
+},
+"G01287": {
+"on_topic": "no",
+"incident": null
+},
+"G01288": {
+"on_topic": "no",
+"incident": null
+},
+"G01289": {
+"on_topic": "no",
+"incident": null
+},
+"G01290": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01291": {
+"on_topic": "no",
+"incident": null
+},
+"G01292": {
+"on_topic": "no",
+"incident": null
+},
+"G01293": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01294": {
+"on_topic": "no",
+"incident": null
+},
+"G01295": {
+"on_topic": "no",
+"incident": null
+},
+"G01296": {
+"on_topic": "no",
+"incident": null
+},
+"G01297": {
+"on_topic": "no",
+"incident": null
+},
+"G01298": {
+"on_topic": "no",
+"incident": null
+},
+"G01299": {
+"on_topic": "no",
+"incident": null
+},
+"G01300": {
+"on_topic": "no",
+"incident": null
+},
+"G01301": {
+"on_topic": "no",
+"incident": null
+},
+"G01302": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01303": {
+"on_topic": "no",
+"incident": null
+},
+"G01304": {
+"on_topic": "no",
+"incident": null
+},
+"G01305": {
+"on_topic": "no",
+"incident": null
+},
+"G01306": {
+"on_topic": "no",
+"incident": null
+},
+"G01307": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01308": {
+"on_topic": "no",
+"incident": null
+},
+"G01309": {
+"on_topic": "no",
+"incident": null
+},
+"G01310": {
+"on_topic": "no",
+"incident": null
+},
+"G01311": {
+"on_topic": "no",
+"incident": null
+},
+"G01312": {
+"on_topic": "no",
+"incident": null
+},
+"G01313": {
+"on_topic": "no",
+"incident": null
+},
+"G01314": {
+"on_topic": "no",
+"incident": null
+},
+"G01315": {
+"on_topic": "no",
+"incident": null
+},
+"G01316": {
+"on_topic": "no",
+"incident": null
+},
+"G01317": {
+"on_topic": "no",
+"incident": null
+},
+"G01318": {
+"on_topic": "no",
+"incident": null
+},
+"G01319": {
+"on_topic": "no",
+"incident": null
+},
+"G01320": {
+"on_topic": "no",
+"incident": null
+},
+"G01321": {
+"on_topic": "no",
+"incident": null
+},
+"G01322": {
+"on_topic": "no",
+"incident": null
+},
+"G01323": {
+"on_topic": "no",
+"incident": null
+},
+"G01324": {
+"on_topic": "no",
+"incident": null
+},
+"G01325": {
+"on_topic": "no",
+"incident": null
+},
+"G01326": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01327": {
+"on_topic": "no",
+"incident": null
+},
+"G01328": {
+"on_topic": "no",
+"incident": null
+},
+"G01329": {
+"on_topic": "no",
+"incident": null
+},
+"G01330": {
+"on_topic": "no",
+"incident": null
+},
+"G01331": {
+"on_topic": "no",
+"incident": null
+},
+"G01332": {
+"on_topic": "no",
+"incident": null
+},
+"G01333": {
+"on_topic": "no",
+"incident": null
+},
+"G01334": {
+"on_topic": "no",
+"incident": null
+},
+"G01335": {
+"on_topic": "no",
+"incident": null
+},
+"G01336": {
+"on_topic": "no",
+"incident": null
+},
+"G01337": {
+"on_topic": "no",
+"incident": null
+},
+"G01338": {
+"on_topic": "no",
+"incident": null
+},
+"G01339": {
+"on_topic": "no",
+"incident": null
+},
+"G01340": {
+"on_topic": "no",
+"incident": null
+},
+"G01341": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01342": {
+"on_topic": "no",
+"incident": null
+},
+"G01343": {
+"on_topic": "no",
+"incident": null
+},
+"G01344": {
+"on_topic": "no",
+"incident": null
+},
+"G01345": {
+"on_topic": "no",
+"incident": null
+},
+"G01346": {
+"on_topic": "no",
+"incident": null
+},
+"G01347": {
+"on_topic": "no",
+"incident": null
+},
+"G01348": {
+"on_topic": "no",
+"incident": null
+},
+"G01349": {
+"on_topic": "no",
+"incident": null
+},
+"G01350": {
+"on_topic": "no",
+"incident": null
+},
+"G01351": {
+"on_topic": "yes",
+"incident": "iran · 1 oct · clashes reportedly kill an irgc general"
+},
+"G01352": {
+"on_topic": "no",
+"incident": null
+},
+"G01353": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01354": {
+"on_topic": "no",
+"incident": null
+},
+"G01355": {
+"on_topic": "no",
+"incident": null
+},
+"G01356": {
+"on_topic": "no",
+"incident": null
+},
+"G01357": {
+"on_topic": "no",
+"incident": null
+},
+"G01358": {
+"on_topic": "no",
+"incident": null
+},
+"G01359": {
+"on_topic": "yes",
+"incident": "minab · 30 sep · school bombing kills children"
+},
+"G01360": {
+"on_topic": "no",
+"incident": null
+},
+"G01361": {
+"on_topic": "no",
+"incident": null
+},
+"G01362": {
+"on_topic": "no",
+"incident": null
+},
+"G01363": {
+"on_topic": "no",
+"incident": null
+},
+"G01364": {
+"on_topic": "no",
+"incident": null
+},
+"G01365": {
+"on_topic": "no",
+"incident": null
+},
+"G01366": {
+"on_topic": "no",
+"incident": null
+},
+"G01367": {
+"on_topic": "no",
+"incident": null
+},
+"G01368": {
+"on_topic": "no",
+"incident": null
+},
+"G01369": {
+"on_topic": "no",
+"incident": null
+},
+"G01370": {
+"on_topic": "no",
+"incident": null
+},
+"G01371": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01372": {
+"on_topic": "no",
+"incident": null
+},
+"G01373": {
+"on_topic": "no",
+"incident": null
+},
+"G01374": {
+"on_topic": "no",
+"incident": null
+},
+"G01375": {
+"on_topic": "no",
+"incident": null
+},
+"G01376": {
+"on_topic": "no",
+"incident": null
+},
+"G01377": {
+"on_topic": "no",
+"incident": null
+},
+"G01378": {
+"on_topic": "no",
+"incident": null
+},
+"G01379": {
+"on_topic": "no",
+"incident": null
+},
+"G01380": {
+"on_topic": "no",
+"incident": null
+},
+"G01381": {
+"on_topic": "no",
+"incident": null
+},
+"G01382": {
+"on_topic": "no",
+"incident": null
+},
+"G01383": {
+"on_topic": "no",
+"incident": null
+},
+"G01384": {
+"on_topic": "no",
+"incident": null
+},
+"G01385": {
+"on_topic": "no",
+"incident": null
+},
+"G01386": {
+"on_topic": "no",
+"incident": null
+},
+"G01387": {
+"on_topic": "no",
+"incident": null
+},
+"G01388": {
+"on_topic": "no",
+"incident": null
+},
+"G01389": {
+"on_topic": "no",
+"incident": null
+},
+"G01390": {
+"on_topic": "no",
+"incident": null
+},
+"G01391": {
+"on_topic": "no",
+"incident": null
+},
+"G01392": {
+"on_topic": "no",
+"incident": null
+},
+"G01393": {
+"on_topic": "no",
+"incident": null
+},
+"G01394": {
+"on_topic": "no",
+"incident": null
+},
+"G01395": {
+"on_topic": "no",
+"incident": null
+},
+"G01396": {
+"on_topic": "no",
+"incident": null
+},
+"G01397": {
+"on_topic": "no",
+"incident": null
+},
+"G01398": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01399": {
+"on_topic": "no",
+"incident": null
+},
+"G01400": {
+"on_topic": "no",
+"incident": null
+},
+"G01401": {
+"on_topic": "no",
+"incident": null
+},
+"G01402": {
+"on_topic": "no",
+"incident": null
+},
+"G01403": {
+"on_topic": "no",
+"incident": null
+},
+"G01404": {
+"on_topic": "no",
+"incident": null
+},
+"G01405": {
+"on_topic": "no",
+"incident": null
+},
+"G01406": {
+"on_topic": "no",
+"incident": null
+},
+"G01407": {
+"on_topic": "no",
+"incident": null
+},
+"G01408": {
+"on_topic": "no",
+"incident": null
+},
+"G01409": {
+"on_topic": "no",
+"incident": null
+},
+"G01410": {
+"on_topic": "no",
+"incident": null
+},
+"G01411": {
+"on_topic": "no",
+"incident": null
+},
+"G01412": {
+"on_topic": "no",
+"incident": null
+},
+"G01413": {
+"on_topic": "no",
+"incident": null
+},
+"G01414": {
+"on_topic": "no",
+"incident": null
+},
+"G01415": {
+"on_topic": "no",
+"incident": null
+},
+"G01416": {
+"on_topic": "no",
+"incident": null
+},
+"G01417": {
+"on_topic": "no",
+"incident": null
+},
+"G01418": {
+"on_topic": "no",
+"incident": null
+},
+"G01419": {
+"on_topic": "no",
+"incident": null
+},
+"G01420": {
+"on_topic": "no",
+"incident": null
+},
+"G01421": {
+"on_topic": "no",
+"incident": null
+},
+"G01422": {
+"on_topic": "no",
+"incident": null
+},
+"G01423": {
+"on_topic": "no",
+"incident": null
+},
+"G01424": {
+"on_topic": "no",
+"incident": null
+},
+"G01425": {
+"on_topic": "no",
+"incident": null
+},
+"G01426": {
+"on_topic": "no",
+"incident": null
+},
+"G01427": {
+"on_topic": "no",
+"incident": null
+},
+"G01428": {
+"on_topic": "no",
+"incident": null
+},
+"G01429": {
+"on_topic": "no",
+"incident": null
+},
+"G01430": {
+"on_topic": "no",
+"incident": null
+},
+"G01431": {
+"on_topic": "no",
+"incident": null
+},
+"G01432": {
+"on_topic": "no",
+"incident": null
+},
+"G01433": {
+"on_topic": "no",
+"incident": null
+},
+"G01434": {
+"on_topic": "no",
+"incident": null
+},
+"G01435": {
+"on_topic": "no",
+"incident": null
+},
+"G01436": {
+"on_topic": "no",
+"incident": null
+},
+"G01437": {
+"on_topic": "no",
+"incident": null
+},
+"G01438": {
+"on_topic": "no",
+"incident": null
+},
+"G01439": {
+"on_topic": "no",
+"incident": null
+},
+"G01440": {
+"on_topic": "no",
+"incident": null
+},
+"G01441": {
+"on_topic": "no",
+"incident": null
+},
+"G01442": {
+"on_topic": "no",
+"incident": null
+},
+"G01443": {
+"on_topic": "no",
+"incident": null
+},
+"G01444": {
+"on_topic": "no",
+"incident": null
+},
+"G01445": {
+"on_topic": "no",
+"incident": null
+},
+"G01446": {
+"on_topic": "no",
+"incident": null
+},
+"G01447": {
+"on_topic": "no",
+"incident": null
+},
+"G01448": {
+"on_topic": "no",
+"incident": null
+},
+"G01449": {
+"on_topic": "no",
+"incident": null
+},
+"G01450": {
+"on_topic": "no",
+"incident": null
+},
+"G01451": {
+"on_topic": "no",
+"incident": null
+},
+"G01452": {
+"on_topic": "no",
+"incident": null
+},
+"G01453": {
+"on_topic": "no",
+"incident": null
+},
+"G01454": {
+"on_topic": "no",
+"incident": null
+},
+"G01455": {
+"on_topic": "no",
+"incident": null
+},
+"G01456": {
+"on_topic": "no",
+"incident": null
+},
+"G01457": {
+"on_topic": "no",
+"incident": null
+},
+"G01458": {
+"on_topic": "no",
+"incident": null
+},
+"G01459": {
+"on_topic": "no",
+"incident": null
+},
+"G01460": {
+"on_topic": "no",
+"incident": null
+},
+"G01461": {
+"on_topic": "no",
+"incident": null
+},
+"G01462": {
+"on_topic": "no",
+"incident": null
+},
+"G01463": {
+"on_topic": "no",
+"incident": null
+},
+"G01464": {
+"on_topic": "no",
+"incident": null
+},
+"G01465": {
+"on_topic": "no",
+"incident": null
+},
+"G01466": {
+"on_topic": "no",
+"incident": null
+},
+"G01467": {
+"on_topic": "no",
+"incident": null
+},
+"G01468": {
+"on_topic": "no",
+"incident": null
+},
+"G01469": {
+"on_topic": "no",
+"incident": null
+},
+"G01470": {
+"on_topic": "no",
+"incident": null
+},
+"G01471": {
+"on_topic": "no",
+"incident": null
+},
+"G01472": {
+"on_topic": "no",
+"incident": null
+},
+"G01473": {
+"on_topic": "no",
+"incident": null
+},
+"G01474": {
+"on_topic": "no",
+"incident": null
+},
+"G01475": {
+"on_topic": "no",
+"incident": null
+},
+"G01476": {
+"on_topic": "no",
+"incident": null
+},
+"G01477": {
+"on_topic": "no",
+"incident": null
+},
+"G01478": {
+"on_topic": "no",
+"incident": null
+},
+"G01479": {
+"on_topic": "no",
+"incident": null
+},
+"G01480": {
+"on_topic": "no",
+"incident": null
+},
+"G01481": {
+"on_topic": "no",
+"incident": null
+},
+"G01482": {
+"on_topic": "no",
+"incident": null
+},
+"G01483": {
+"on_topic": "yes",
+"incident": "iran · 3 oct · authorities execute protester siavash jamshidi kheirabadi"
+},
+"G01484": {
+"on_topic": "no",
+"incident": null
+},
+"G01485": {
+"on_topic": "no",
+"incident": null
+},
+"G01486": {
+"on_topic": "no",
+"incident": null
+},
+"G01487": {
+"on_topic": "no",
+"incident": null
+},
+"G01488": {
+"on_topic": "no",
+"incident": null
+},
+"G01489": {
+"on_topic": "no",
+"incident": null
+},
+"G01490": {
+"on_topic": "no",
+"incident": null
+},
+"G01491": {
+"on_topic": "no",
+"incident": null
+},
+"G01492": {
+"on_topic": "no",
+"incident": null
+},
+"G01493": {
+"on_topic": "no",
+"incident": null
+},
+"G01494": {
+"on_topic": "no",
+"incident": null
+},
+"G01495": {
+"on_topic": "no",
+"incident": null
+},
+"G01496": {
+"on_topic": "no",
+"incident": null
+},
+"G01497": {
+"on_topic": "no",
+"incident": null
+},
+"G01498": {
+"on_topic": "no",
+"incident": null
+},
+"G01499": {
+"on_topic": "no",
+"incident": null
+},
+"G01500": {
+"on_topic": "no",
+"incident": null
+},
+"G01501": {
+"on_topic": "no",
+"incident": null
+},
+"G01502": {
+"on_topic": "no",
+"incident": null
+},
+"G01503": {
+"on_topic": "no",
+"incident": null
+},
+"G01504": {
+"on_topic": "no",
+"incident": null
+},
+"G01505": {
+"on_topic": "no",
+"incident": null
+},
+"G01506": {
+"on_topic": "no",
+"incident": null
+},
+"G01507": {
+"on_topic": "no",
+"incident": null
+},
+"G01508": {
+"on_topic": "no",
+"incident": null
+},
+"G01509": {
+"on_topic": "no",
+"incident": null
+},
+"G01510": {
+"on_topic": "no",
+"incident": null
+},
+"G01511": {
+"on_topic": "no",
+"incident": null
+},
+"G01512": {
+"on_topic": "no",
+"incident": null
+},
+"G01513": {
+"on_topic": "no",
+"incident": null
+},
+"G01514": {
+"on_topic": "no",
+"incident": null
+},
+"G01515": {
+"on_topic": "no",
+"incident": null
+},
+"G01516": {
+"on_topic": "no",
+"incident": null
+},
+"G01517": {
+"on_topic": "no",
+"incident": null
+},
+"G01518": {
+"on_topic": "no",
+"incident": null
+},
+"G01519": {
+"on_topic": "no",
+"incident": null
+},
+"G01520": {
+"on_topic": "no",
+"incident": null
+},
+"G01521": {
+"on_topic": "no",
+"incident": null
+},
+"G01522": {
+"on_topic": "no",
+"incident": null
+},
+"G01523": {
+"on_topic": "no",
+"incident": null
+},
+"G01524": {
+"on_topic": "no",
+"incident": null
+},
+"G01525": {
+"on_topic": "no",
+"incident": null
+},
+"G01526": {
+"on_topic": "no",
+"incident": null
+},
+"G01527": {
+"on_topic": "no",
+"incident": null
+},
+"G01528": {
+"on_topic": "no",
+"incident": null
+},
+"G01529": {
+"on_topic": "no",
+"incident": null
+},
+"G01530": {
+"on_topic": "no",
+"incident": null
+},
+"G01531": {
+"on_topic": "yes",
+"incident": "zahedan · 3 oct · roadside bombing kills police official"
+},
+"G01532": {
+"on_topic": "no",
+"incident": null
+},
+"G01533": {
+"on_topic": "no",
+"incident": null
+},
+"G01534": {
+"on_topic": "no",
+"incident": null
+},
+"G01535": {
+"on_topic": "no",
+"incident": null
+},
+"G01536": {
+"on_topic": "no",
+"incident": null
+},
+"G01537": {
+"on_topic": "no",
+"incident": null
+},
+"G01538": {
+"on_topic": "no",
+"incident": null
+},
+"G01539": {
+"on_topic": "no",
+"incident": null
+},
+"G01540": {
+"on_topic": "no",
+"incident": null
+},
+"G01541": {
+"on_topic": "no",
+"incident": null
+},
+"G01542": {
+"on_topic": "no",
+"incident": null
+},
+"G01543": {
+"on_topic": "no",
+"incident": null
+}
 }

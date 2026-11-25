@@ -1,626 +1,694 @@
 {
- "R0001": {
-  "on_topic": "yes",
-  "incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
- },
- "R0002": {
-  "on_topic": "yes",
-  "incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
- },
- "R0003": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0004": {
-  "on_topic": "yes",
-  "incident": "Goma · 12 Oct · four youths found bound and tortured"
- },
- "R0005": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0006": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0007": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0008": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0009": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0010": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0011": {
-  "on_topic": "yes",
-  "incident": "Bahema Badjere, Djugu · 10 Oct · CODECO attack kills 1 child"
- },
- "R0012": {
-  "on_topic": "yes",
-  "incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
- },
- "R0013": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0014": {
-  "on_topic": "yes",
-  "incident": "Bahema Badjere, Djugu · 10 Oct · CODECO attack kills 1 child"
- },
- "R0015": {
-  "on_topic": "yes",
-  "incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
- },
- "R0016": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0017": {
-  "on_topic": "yes",
-  "incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
- },
- "R0018": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0019": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0020": {
-  "on_topic": "yes",
-  "incident": "Ilebo · 4–7 Oct · four days of deadly clashes"
- },
- "R0021": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0022": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0023": {
-  "on_topic": "yes",
-  "incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
- },
- "R0024": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0025": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0026": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0027": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0028": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0029": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0030": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0031": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0032": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0033": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0034": {
-  "on_topic": "yes",
-  "incident": "Kolwezi, Lualaba · 11 Oct · prison escape attempt kills 1"
- },
- "R0035": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0036": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0037": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0038": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0039": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0040": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0041": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0042": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0043": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0044": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0045": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0046": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0047": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0048": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0049": {
-  "on_topic": "yes",
-  "incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
- },
- "R0050": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0051": {
-  "on_topic": "yes",
-  "incident": "Buray, Walikale · 9 Oct · woman beheaded in land dispute"
- },
- "R0052": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0053": {
-  "on_topic": "yes",
-  "incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
- },
- "R0054": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0055": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0056": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0057": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0058": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0059": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0060": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0061": {
-  "on_topic": "yes",
-  "incident": "Buray, Walikale · 9 Oct · woman beheaded in land dispute"
- },
- "R0062": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0063": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0064": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0065": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0066": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0067": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0068": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0069": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0070": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0071": {
-  "on_topic": "yes",
-  "incident": "Djugu, Ituri · 12 Oct · CODECO-CRP clashes kill 45"
- },
- "R0072": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0073": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0074": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0075": {
-  "on_topic": "yes",
-  "incident": "Nduye, Mambasa · 5 Oct · six civilian bodies after ADF attack"
- },
- "R0076": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0077": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0078": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0079": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0080": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0081": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0082": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0083": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0084": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0085": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0086": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0087": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0088": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0089": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0090": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0091": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0092": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0093": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0094": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0095": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0096": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0097": {
-  "on_topic": "yes",
-  "incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
- },
- "R0098": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0099": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0100": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0101": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0102": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0103": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0104": {
-  "on_topic": "yes",
-  "incident": "Butumba, Haut-Lomami · 8 Oct · customary conflict kills 6"
- },
- "R0105": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0106": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0107": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0108": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0109": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0110": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0111": {
-  "on_topic": "yes",
-  "incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
- },
- "R0112": {
-  "on_topic": "yes",
-  "incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
- },
- "R0113": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0114": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0115": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0116": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0117": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0118": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0119": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0120": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0121": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0122": {
-  "on_topic": "yes",
-  "incident": "Masango, Uvira · 10 Oct · FARDC-Wazalendo vs FRN clash kills 1"
- },
- "R0123": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0124": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0125": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0126": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0127": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0128": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0129": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0130": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0131": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0132": {
-  "on_topic": "yes",
-  "incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
- },
- "R0133": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0134": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0135": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0136": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0137": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0138": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0139": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0140": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0141": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0142": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0143": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0144": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0145": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0146": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0147": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0148": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0149": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0150": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0151": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0152": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0153": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0154": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0155": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0156": {
-  "on_topic": "no",
-  "incident": null
- }
+"R0001": {
+"on_topic": "yes",
+"incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
+},
+"R0002": {
+"on_topic": "yes",
+"incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
+},
+"R0003": {
+"on_topic": "no",
+"incident": null
+},
+"R0004": {
+"on_topic": "yes",
+"incident": "Goma · 12 Oct · four youths found bound and tortured"
+},
+"R0005": {
+"on_topic": "no",
+"incident": null
+},
+"R0006": {
+"on_topic": "no",
+"incident": null
+},
+"R0007": {
+"on_topic": "no",
+"incident": null
+},
+"R0008": {
+"on_topic": "no",
+"incident": null
+},
+"R0009": {
+"on_topic": "no",
+"incident": null
+},
+"R0010": {
+"on_topic": "no",
+"incident": null
+},
+"R0011": {
+"on_topic": "yes",
+"incident": "Bahema Badjere, Djugu · 10 Oct · CODECO attack kills 1 child"
+},
+"R0012": {
+"on_topic": "yes",
+"incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
+},
+"R0013": {
+"on_topic": "no",
+"incident": null
+},
+"R0014": {
+"on_topic": "yes",
+"incident": "Bahema Badjere, Djugu · 10 Oct · CODECO attack kills 1 child"
+},
+"R0015": {
+"on_topic": "yes",
+"incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
+},
+"R0016": {
+"on_topic": "no",
+"incident": null
+},
+"R0017": {
+"on_topic": "yes",
+"incident": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians"
+},
+"R0018": {
+"on_topic": "no",
+"incident": null
+},
+"R0019": {
+"on_topic": "no",
+"incident": null
+},
+"R0020": {
+"on_topic": "yes",
+"incident": "Ilebo · 4–7 Oct · four days of deadly clashes"
+},
+"R0021": {
+"on_topic": "no",
+"incident": null
+},
+"R0022": {
+"on_topic": "no",
+"incident": null
+},
+"R0023": {
+"on_topic": "yes",
+"incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
+},
+"R0024": {
+"on_topic": "no",
+"incident": null
+},
+"R0025": {
+"on_topic": "no",
+"incident": null
+},
+"R0026": {
+"on_topic": "no",
+"incident": null
+},
+"R0027": {
+"on_topic": "no",
+"incident": null
+},
+"R0028": {
+"on_topic": "no",
+"incident": null
+},
+"R0029": {
+"on_topic": "no",
+"incident": null
+},
+"R0030": {
+"on_topic": "no",
+"incident": null
+},
+"R0031": {
+"on_topic": "no",
+"incident": null
+},
+"R0032": {
+"on_topic": "no",
+"incident": null
+},
+"R0033": {
+"on_topic": "no",
+"incident": null
+},
+"R0034": {
+"on_topic": "yes",
+"incident": "Kolwezi, Lualaba · 11 Oct · prison escape attempt kills 1"
+},
+"R0035": {
+"on_topic": "no",
+"incident": null
+},
+"R0036": {
+"on_topic": "no",
+"incident": null
+},
+"R0037": {
+"on_topic": "no",
+"incident": null
+},
+"R0038": {
+"on_topic": "no",
+"incident": null
+},
+"R0039": {
+"on_topic": "no",
+"incident": null
+},
+"R0040": {
+"on_topic": "no",
+"incident": null
+},
+"R0041": {
+"on_topic": "no",
+"incident": null
+},
+"R0042": {
+"on_topic": "no",
+"incident": null
+},
+"R0043": {
+"on_topic": "no",
+"incident": null
+},
+"R0044": {
+"on_topic": "no",
+"incident": null
+},
+"R0045": {
+"on_topic": "no",
+"incident": null
+},
+"R0046": {
+"on_topic": "no",
+"incident": null
+},
+"R0047": {
+"on_topic": "no",
+"incident": null
+},
+"R0048": {
+"on_topic": "no",
+"incident": null
+},
+"R0049": {
+"on_topic": "yes",
+"incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
+},
+"R0050": {
+"on_topic": "no",
+"incident": null
+},
+"R0051": {
+"on_topic": "yes",
+"incident": "Buray, Walikale · 9 Oct · woman beheaded in land dispute"
+},
+"R0052": {
+"on_topic": "no",
+"incident": null
+},
+"R0053": {
+"on_topic": "yes",
+"incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
+},
+"R0054": {
+"on_topic": "no",
+"incident": null
+},
+"R0055": {
+"on_topic": "no",
+"incident": null
+},
+"R0056": {
+"on_topic": "no",
+"incident": null
+},
+"R0057": {
+"on_topic": "no",
+"incident": null
+},
+"R0058": {
+"on_topic": "no",
+"incident": null
+},
+"R0059": {
+"on_topic": "no",
+"incident": null
+},
+"R0060": {
+"on_topic": "no",
+"incident": null
+},
+"R0061": {
+"on_topic": "yes",
+"incident": "Buray, Walikale · 9 Oct · woman beheaded in land dispute"
+},
+"R0062": {
+"on_topic": "no",
+"incident": null
+},
+"R0063": {
+"on_topic": "no",
+"incident": null
+},
+"R0064": {
+"on_topic": "no",
+"incident": null
+},
+"R0065": {
+"on_topic": "no",
+"incident": null
+},
+"R0066": {
+"on_topic": "no",
+"incident": null
+},
+"R0067": {
+"on_topic": "no",
+"incident": null
+},
+"R0068": {
+"on_topic": "no",
+"incident": null
+},
+"R0069": {
+"on_topic": "no",
+"incident": null
+},
+"R0070": {
+"on_topic": "no",
+"incident": null
+},
+"R0071": {
+"on_topic": "yes",
+"incident": "Djugu, Ituri · 12 Oct · CODECO-CRP clashes kill 45"
+},
+"R0072": {
+"on_topic": "no",
+"incident": null
+},
+"R0073": {
+"on_topic": "no",
+"incident": null
+},
+"R0074": {
+"on_topic": "no",
+"incident": null
+},
+"R0075": {
+"on_topic": "yes",
+"incident": "Nduye, Mambasa · 5 Oct · six civilian bodies after ADF attack"
+},
+"R0076": {
+"on_topic": "no",
+"incident": null
+},
+"R0077": {
+"on_topic": "no",
+"incident": null
+},
+"R0078": {
+"on_topic": "no",
+"incident": null
+},
+"R0079": {
+"on_topic": "no",
+"incident": null
+},
+"R0080": {
+"on_topic": "no",
+"incident": null
+},
+"R0081": {
+"on_topic": "no",
+"incident": null
+},
+"R0082": {
+"on_topic": "no",
+"incident": null
+},
+"R0083": {
+"on_topic": "no",
+"incident": null
+},
+"R0084": {
+"on_topic": "no",
+"incident": null
+},
+"R0085": {
+"on_topic": "no",
+"incident": null
+},
+"R0086": {
+"on_topic": "no",
+"incident": null
+},
+"R0087": {
+"on_topic": "no",
+"incident": null
+},
+"R0088": {
+"on_topic": "no",
+"incident": null
+},
+"R0089": {
+"on_topic": "no",
+"incident": null
+},
+"R0090": {
+"on_topic": "no",
+"incident": null
+},
+"R0091": {
+"on_topic": "no",
+"incident": null
+},
+"R0092": {
+"on_topic": "no",
+"incident": null
+},
+"R0093": {
+"on_topic": "no",
+"incident": null
+},
+"R0094": {
+"on_topic": "no",
+"incident": null
+},
+"R0095": {
+"on_topic": "no",
+"incident": null
+},
+"R0096": {
+"on_topic": "no",
+"incident": null
+},
+"R0097": {
+"on_topic": "yes",
+"incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
+},
+"R0098": {
+"on_topic": "no",
+"incident": null
+},
+"R0099": {
+"on_topic": "no",
+"incident": null
+},
+"R0100": {
+"on_topic": "no",
+"incident": null
+},
+"R0101": {
+"on_topic": "no",
+"incident": null
+},
+"R0102": {
+"on_topic": "no",
+"incident": null
+},
+"R0103": {
+"on_topic": "no",
+"incident": null
+},
+"R0104": {
+"on_topic": "yes",
+"incident": "Butumba, Haut-Lomami · 8 Oct · customary conflict kills 6"
+},
+"R0105": {
+"on_topic": "no",
+"incident": null
+},
+"R0106": {
+"on_topic": "no",
+"incident": null
+},
+"R0107": {
+"on_topic": "no",
+"incident": null
+},
+"R0108": {
+"on_topic": "no",
+"incident": null
+},
+"R0109": {
+"on_topic": "no",
+"incident": null
+},
+"R0110": {
+"on_topic": "no",
+"incident": null
+},
+"R0111": {
+"on_topic": "yes",
+"incident": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5"
+},
+"R0112": {
+"on_topic": "yes",
+"incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
+},
+"R0113": {
+"on_topic": "no",
+"incident": null
+},
+"R0114": {
+"on_topic": "no",
+"incident": null
+},
+"R0115": {
+"on_topic": "no",
+"incident": null
+},
+"R0116": {
+"on_topic": "no",
+"incident": null
+},
+"R0117": {
+"on_topic": "no",
+"incident": null
+},
+"R0118": {
+"on_topic": "no",
+"incident": null
+},
+"R0119": {
+"on_topic": "no",
+"incident": null
+},
+"R0120": {
+"on_topic": "no",
+"incident": null
+},
+"R0121": {
+"on_topic": "no",
+"incident": null
+},
+"R0122": {
+"on_topic": "yes",
+"incident": "Masango, Uvira · 10 Oct · FARDC-Wazalendo vs FRN clash kills 1"
+},
+"R0123": {
+"on_topic": "no",
+"incident": null
+},
+"R0124": {
+"on_topic": "no",
+"incident": null
+},
+"R0125": {
+"on_topic": "no",
+"incident": null
+},
+"R0126": {
+"on_topic": "no",
+"incident": null
+},
+"R0127": {
+"on_topic": "no",
+"incident": null
+},
+"R0128": {
+"on_topic": "no",
+"incident": null
+},
+"R0129": {
+"on_topic": "no",
+"incident": null
+},
+"R0130": {
+"on_topic": "no",
+"incident": null
+},
+"R0131": {
+"on_topic": "no",
+"incident": null
+},
+"R0132": {
+"on_topic": "yes",
+"incident": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians"
+},
+"R0133": {
+"on_topic": "no",
+"incident": null
+},
+"R0134": {
+"on_topic": "no",
+"incident": null
+},
+"R0135": {
+"on_topic": "no",
+"incident": null
+},
+"R0136": {
+"on_topic": "no",
+"incident": null
+},
+"R0137": {
+"on_topic": "no",
+"incident": null
+},
+"R0138": {
+"on_topic": "no",
+"incident": null
+},
+"R0139": {
+"on_topic": "no",
+"incident": null
+},
+"R0140": {
+"on_topic": "no",
+"incident": null
+},
+"R0141": {
+"on_topic": "no",
+"incident": null
+},
+"R0142": {
+"on_topic": "no",
+"incident": null
+},
+"R0143": {
+"on_topic": "no",
+"incident": null
+},
+"R0144": {
+"on_topic": "no",
+"incident": null
+},
+"R0145": {
+"on_topic": "no",
+"incident": null
+},
+"R0146": {
+"on_topic": "no",
+"incident": null
+},
+"R0147": {
+"on_topic": "no",
+"incident": null
+},
+"R0148": {
+"on_topic": "no",
+"incident": null
+},
+"R0149": {
+"on_topic": "no",
+"incident": null
+},
+"R0150": {
+"on_topic": "no",
+"incident": null
+},
+"R0151": {
+"on_topic": "no",
+"incident": null
+},
+"R0152": {
+"on_topic": "no",
+"incident": null
+},
+"R0153": {
+"on_topic": "no",
+"incident": null
+},
+"R0154": {
+"on_topic": "no",
+"incident": null
+},
+"R0155": {
+"on_topic": "no",
+"incident": null
+},
+"R0156": {
+"on_topic": "no",
+"incident": null
+},
+"G00001": {
+"on_topic": "no",
+"incident": null
+},
+"G00002": {
+"on_topic": "no",
+"incident": null
+},
+"G00003": {
+"on_topic": "no",
+"incident": null
+},
+"G00004": {
+"on_topic": "no",
+"incident": null
+},
+"G00005": {
+"on_topic": "no",
+"incident": null
+},
+"G00006": {
+"on_topic": "no",
+"incident": null
+},
+"G00007": {
+"on_topic": "no",
+"incident": null
+},
+"G00008": {
+"on_topic": "no",
+"incident": null
+},
+"G00009": {
+"on_topic": "no",
+"incident": null
+},
+"G00010": {
+"on_topic": "no",
+"incident": null
+},
+"G00011": {
+"on_topic": "no",
+"incident": null
+},
+"G00012": {
+"on_topic": "no",
+"incident": null
+},
+"G00013": {
+"on_topic": "no",
+"incident": null
+},
+"G00014": {
+"on_topic": "no",
+"incident": null
+},
+"G00015": {
+"on_topic": "yes",
+"incident": "djugu, ituri · 10 oct · codeco attack kills 11 civilians"
+},
+"G00016": {
+"on_topic": "no",
+"incident": null
+},
+"G00017": {
+"on_topic": "no",
+"incident": null
+}
 }

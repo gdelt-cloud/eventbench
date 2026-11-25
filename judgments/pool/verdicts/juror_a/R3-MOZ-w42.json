@@ -1,262 +1,306 @@
 {
- "R0001": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0002": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0003": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0004": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0005": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0006": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0007": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0008": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0009": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0010": {
-  "on_topic": "yes",
-  "incident": "Litamanda, Macomia · 16 Oct · Insurgents kill 2 civilians"
- },
- "R0011": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0012": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0013": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0014": {
-  "on_topic": "yes",
-  "incident": "Mocímboa da Praia, Cabo Delgado · 17 Oct · Navy marines kill 3 insurgents"
- },
- "R0015": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0016": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0017": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0018": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0019": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0020": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0021": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0022": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0023": {
-  "on_topic": "yes",
-  "incident": "Litamanda, Macomia · 16 Oct · Insurgents kill 2 civilians"
- },
- "R0024": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0025": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0026": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0027": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0028": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0029": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0030": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0031": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0032": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0033": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0034": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0035": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0036": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0037": {
-  "on_topic": "yes",
-  "incident": "Mocímboa da Praia, Cabo Delgado · 17 Oct · Navy marines kill 3 insurgents"
- },
- "R0038": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0039": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0040": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0041": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0042": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0043": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0044": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0045": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0046": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0047": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0048": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0049": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0050": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0051": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0052": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0053": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0054": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0055": {
-  "on_topic": "yes",
-  "incident": "Litamanda, Macomia · 16 Oct · Insurgents kill 2 civilians"
- },
- "R0056": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0057": {
-  "on_topic": "yes",
-  "incident": "Marijirane, Macomia · 18 Oct · Government vs IS clash, 6 killed"
- },
- "R0058": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0059": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0060": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0061": {
-  "on_topic": "yes",
-  "incident": "Mbau, Mocímboa da Praia · 15 Oct · Landmine kills civilian"
- },
- "R0062": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0063": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0064": {
-  "on_topic": "no",
-  "incident": null
- },
- "R0065": {
-  "on_topic": "no",
-  "incident": null
- }
+"R0001": {
+"on_topic": "no",
+"incident": null
+},
+"R0002": {
+"on_topic": "no",
+"incident": null
+},
+"R0003": {
+"on_topic": "no",
+"incident": null
+},
+"R0004": {
+"on_topic": "no",
+"incident": null
+},
+"R0005": {
+"on_topic": "no",
+"incident": null
+},
+"R0006": {
+"on_topic": "no",
+"incident": null
+},
+"R0007": {
+"on_topic": "no",
+"incident": null
+},
+"R0008": {
+"on_topic": "no",
+"incident": null
+},
+"R0009": {
+"on_topic": "no",
+"incident": null
+},
+"R0010": {
+"on_topic": "yes",
+"incident": "Litamanda, Macomia · 16 Oct · Insurgents kill 2 civilians"
+},
+"R0011": {
+"on_topic": "no",
+"incident": null
+},
+"R0012": {
+"on_topic": "no",
+"incident": null
+},
+"R0013": {
+"on_topic": "no",
+"incident": null
+},
+"R0014": {
+"on_topic": "yes",
+"incident": "Mocímboa da Praia, Cabo Delgado · 17 Oct · Navy marines kill 3 insurgents"
+},
+"R0015": {
+"on_topic": "no",
+"incident": null
+},
+"R0016": {
+"on_topic": "no",
+"incident": null
+},
+"R0017": {
+"on_topic": "no",
+"incident": null
+},
+"R0018": {
+"on_topic": "no",
+"incident": null
+},
+"R0019": {
+"on_topic": "no",
+"incident": null
+},
+"R0020": {
+"on_topic": "no",
+"incident": null
+},
+"R0021": {
+"on_topic": "no",
+"incident": null
+},
+"R0022": {
+"on_topic": "no",
+"incident": null
+},
+"R0023": {
+"on_topic": "yes",
+"incident": "Litamanda, Macomia · 16 Oct · Insurgents kill 2 civilians"
+},
+"R0024": {
+"on_topic": "no",
+"incident": null
+},
+"R0025": {
+"on_topic": "no",
+"incident": null
+},
+"R0026": {
+"on_topic": "no",
+"incident": null
+},
+"R0027": {
+"on_topic": "no",
+"incident": null
+},
+"R0028": {
+"on_topic": "no",
+"incident": null
+},
+"R0029": {
+"on_topic": "no",
+"incident": null
+},
+"R0030": {
+"on_topic": "no",
+"incident": null
+},
+"R0031": {
+"on_topic": "no",
+"incident": null
+},
+"R0032": {
+"on_topic": "no",
+"incident": null
+},
+"R0033": {
+"on_topic": "no",
+"incident": null
+},
+"R0034": {
+"on_topic": "no",
+"incident": null
+},
+"R0035": {
+"on_topic": "no",
+"incident": null
+},
+"R0036": {
+"on_topic": "no",
+"incident": null
+},
+"R0037": {
+"on_topic": "yes",
+"incident": "Mocímboa da Praia, Cabo Delgado · 17 Oct · Navy marines kill 3 insurgents"
+},
+"R0038": {
+"on_topic": "no",
+"incident": null
+},
+"R0039": {
+"on_topic": "no",
+"incident": null
+},
+"R0040": {
+"on_topic": "no",
+"incident": null
+},
+"R0041": {
+"on_topic": "no",
+"incident": null
+},
+"R0042": {
+"on_topic": "no",
+"incident": null
+},
+"R0043": {
+"on_topic": "no",
+"incident": null
+},
+"R0044": {
+"on_topic": "no",
+"incident": null
+},
+"R0045": {
+"on_topic": "no",
+"incident": null
+},
+"R0046": {
+"on_topic": "no",
+"incident": null
+},
+"R0047": {
+"on_topic": "no",
+"incident": null
+},
+"R0048": {
+"on_topic": "no",
+"incident": null
+},
+"R0049": {
+"on_topic": "no",
+"incident": null
+},
+"R0050": {
+"on_topic": "no",
+"incident": null
+},
+"R0051": {
+"on_topic": "no",
+"incident": null
+},
+"R0052": {
+"on_topic": "no",
+"incident": null
+},
+"R0053": {
+"on_topic": "no",
+"incident": null
+},
+"R0054": {
+"on_topic": "no",
+"incident": null
+},
+"R0055": {
+"on_topic": "yes",
+"incident": "Litamanda, Macomia · 16 Oct · Insurgents kill 2 civilians"
+},
+"R0056": {
+"on_topic": "no",
+"incident": null
+},
+"R0057": {
+"on_topic": "yes",
+"incident": "Marijirane, Macomia · 18 Oct · Government vs IS clash, 6 killed"
+},
+"R0058": {
+"on_topic": "no",
+"incident": null
+},
+"R0059": {
+"on_topic": "no",
+"incident": null
+},
+"R0060": {
+"on_topic": "no",
+"incident": null
+},
+"R0061": {
+"on_topic": "yes",
+"incident": "Mbau, Mocímboa da Praia · 15 Oct · Landmine kills civilian"
+},
+"R0062": {
+"on_topic": "no",
+"incident": null
+},
+"R0063": {
+"on_topic": "no",
+"incident": null
+},
+"R0064": {
+"on_topic": "no",
+"incident": null
+},
+"R0065": {
+"on_topic": "no",
+"incident": null
+},
+"G00001": {
+"on_topic": "no",
+"incident": null
+},
+"G00002": {
+"on_topic": "no",
+"incident": null
+},
+"G00003": {
+"on_topic": "no",
+"incident": null
+},
+"G00004": {
+"on_topic": "no",
+"incident": null
+},
+"G00005": {
+"on_topic": "no",
+"incident": null
+},
+"G00006": {
+"on_topic": "no",
+"incident": null
+},
+"G00007": {
+"on_topic": "no",
+"incident": null
+},
+"G00008": {
+"on_topic": "no",
+"incident": null
+},
+"G00009": {
+"on_topic": "no",
+"incident": null
+},
+"G00010": {
+"on_topic": "no",
+"incident": null
+},
+"G00011": {
+"on_topic": "no",
+"incident": null
+}
 }

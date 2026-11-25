@@ -1,81 +1,81 @@
-juror,question,country,pool,cloud,cloud_first_page,cloud_deaths_flag,cloud_events,web_a,web_b,web_c,any_web
-juror_a,COD-w41,DR Congo,12,10,10,4,3,0,3,0,3
-juror_a,COL-w43,Colombia,49,44,9,3,2,1,8,2,8
-juror_a,ETH-w42,Ethiopia,4,1,1,0,0,1,4,0,4
-juror_a,ETH-w43,Ethiopia,6,5,5,1,0,3,3,1,3
-juror_a,MLI-w41,Mali,6,3,3,0,0,0,2,0,2
-juror_a,MLI-w43,Mali,5,4,4,2,1,1,3,1,3
-juror_a,MLI-w44,Mali,2,2,2,1,1,1,2,1,2
-juror_a,MMR-w43,Myanmar,17,8,8,5,5,5,8,3,11
-juror_a,MMR-w44,Myanmar,8,4,4,0,0,0,6,1,6
-juror_a,NGA-w40,Nigeria,22,21,10,6,6,1,10,0,10
-juror_a,PAK-w43,Pakistan,33,29,14,3,3,1,9,1,9
-juror_a,R2-BFA-w42,Burkina Faso,0,0,0,0,0,0,0,0,0
-juror_a,R2-BFA-w44,Burkina Faso,4,1,1,0,0,1,1,0,1
-juror_a,R2-BRA-w41,Brazil,83,73,8,0,0,1,8,1,8
-juror_a,R2-BRA-w42,Brazil,118,109,17,1,1,0,17,0,17
-juror_a,R2-BRA-w43,Brazil,81,77,13,2,2,0,8,0,8
-juror_a,R2-CMR-w42,Cameroon,5,3,3,0,0,3,2,0,3
-juror_a,R2-COL-w32,Colombia,37,37,13,3,2,1,4,0,4
-juror_a,R2-COL-w36,Colombia,31,29,12,5,5,2,2,1,2
-juror_a,R2-COL-w37,Colombia,23,16,5,3,3,1,7,1,7
-juror_a,R2-COL-w41,Colombia,49,47,13,6,6,0,9,0,9
-juror_a,R2-ECU-w41,Ecuador,15,11,4,0,0,0,9,0,9
-juror_a,R2-HTI-w42,Haiti,2,1,1,0,0,0,1,0,1
-juror_a,R2-IND-w46,India,217,214,17,5,3,3,9,0,10
-juror_a,R2-IRN-w40,Iran,9,8,3,4,3,3,3,0,3
-juror_a,R2-ISR-w41,Israel,30,23,4,3,0,2,7,0,7
-juror_a,R2-ISR-w42,Israel,15,11,3,1,0,1,3,0,4
-juror_a,R2-ISR-w43,Israel,20,18,3,1,0,1,1,1,1
-juror_a,R2-PAK-w47,Pakistan,54,42,23,19,18,6,10,5,18
-juror_a,R2-YEM-w44,Yemen,72,69,22,13,12,1,5,2,7
-juror_a,R3-IDN-w41,Indonesia,12,8,4,1,1,0,4,0,4
-juror_a,R3-KEN-w44,Kenya,12,11,8,0,0,2,3,1,4
-juror_a,R3-MOZ-w42,Mozambique,4,1,1,0,0,0,2,0,2
-juror_a,R3-MOZ-w43,Mozambique,2,1,1,0,0,0,1,0,1
-juror_a,R3-RUS-w43,Russia,20,17,8,7,6,1,5,0,5
-juror_a,R3-RUS-w44,Russia,33,32,12,9,7,0,4,0,4
-juror_a,R3-SAU-w41,Saudi Arabia,8,8,5,1,0,4,4,1,4
-juror_a,R3-ZAF-w42,South Africa,19,17,6,1,0,0,7,0,7
-juror_a,R3-ZAF-w43,South Africa,22,17,7,3,3,1,9,1,9
-juror_a,SOM-w41,Somalia,5,4,4,1,1,0,1,1,1
-juror_b,COD-w41,DR Congo,11,7,7,3,3,0,5,1,5
-juror_b,COL-w43,Colombia,56,50,8,4,3,1,12,3,12
-juror_b,ETH-w42,Ethiopia,6,1,1,0,0,1,6,0,6
-juror_b,ETH-w43,Ethiopia,6,5,5,1,0,3,3,1,3
-juror_b,MLI-w41,Mali,10,6,6,0,0,0,2,0,2
-juror_b,MLI-w43,Mali,3,2,2,1,1,1,2,1,2
-juror_b,MLI-w44,Mali,2,1,1,1,1,1,2,1,2
-juror_b,MMR-w43,Myanmar,16,7,7,5,5,4,8,2,11
-juror_b,MMR-w44,Myanmar,9,3,3,0,0,2,7,1,7
-juror_b,NGA-w40,Nigeria,28,28,13,6,6,1,10,0,10
-juror_b,PAK-w43,Pakistan,36,32,11,3,3,1,9,1,9
-juror_b,R2-BFA-w42,Burkina Faso,1,0,0,0,0,0,1,1,1
-juror_b,R2-BFA-w44,Burkina Faso,4,1,1,0,0,0,1,0,1
-juror_b,R2-BRA-w41,Brazil,58,47,5,0,0,1,7,1,7
-juror_b,R2-BRA-w42,Brazil,82,76,11,1,1,0,13,0,13
-juror_b,R2-BRA-w43,Brazil,65,61,9,1,1,0,7,0,7
-juror_b,R2-CMR-w42,Cameroon,4,2,2,0,0,2,1,0,2
-juror_b,R2-COL-w32,Colombia,35,34,12,3,2,1,3,0,3
-juror_b,R2-COL-w36,Colombia,37,32,15,7,7,3,6,1,7
-juror_b,R2-COL-w37,Colombia,25,19,7,5,5,1,7,1,7
-juror_b,R2-COL-w41,Colombia,48,43,13,6,6,0,11,0,11
-juror_b,R2-ECU-w41,Ecuador,18,12,4,0,0,0,10,0,10
-juror_b,R2-HTI-w42,Haiti,2,2,2,0,0,1,1,1,1
-juror_b,R2-IND-w46,India,186,182,17,5,4,3,8,0,9
-juror_b,R2-IRN-w40,Iran,13,12,5,6,5,3,3,0,4
-juror_b,R2-ISR-w41,Israel,26,21,3,4,0,2,7,1,7
-juror_b,R2-ISR-w42,Israel,14,11,3,1,0,1,3,0,4
-juror_b,R2-ISR-w43,Israel,17,15,3,1,0,1,1,1,1
-juror_b,R2-PAK-w47,Pakistan,60,46,25,18,17,6,12,5,19
-juror_b,R2-YEM-w44,Yemen,90,85,24,14,13,1,5,2,7
-juror_b,R3-IDN-w41,Indonesia,15,11,3,1,1,0,4,0,4
-juror_b,R3-KEN-w44,Kenya,18,14,10,0,0,1,5,2,7
-juror_b,R3-MOZ-w42,Mozambique,5,2,2,0,0,0,2,0,2
-juror_b,R3-MOZ-w43,Mozambique,5,3,3,0,0,0,1,0,1
-juror_b,R3-RUS-w43,Russia,29,25,8,7,6,1,6,0,6
-juror_b,R3-RUS-w44,Russia,30,29,12,9,8,0,4,0,4
-juror_b,R3-SAU-w41,Saudi Arabia,12,12,7,1,0,4,4,2,4
-juror_b,R3-ZAF-w42,South Africa,19,16,6,1,0,0,8,0,8
-juror_b,R3-ZAF-w43,South Africa,23,17,8,4,4,1,9,2,10
-juror_b,SOM-w41,Somalia,5,4,4,1,1,0,1,1,1
+juror,question,country,pool,cloud,cloud_first_page,cloud_deaths_flag,cloud_events,gdelt_project,web_a,web_b,web_c,any_web
+juror_a,COD-w41,DR Congo,12,10,10,4,3,1,0,3,0,3
+juror_a,COL-w43,Colombia,51,44,9,3,2,18,1,8,2,8
+juror_a,ETH-w42,Ethiopia,4,1,1,0,0,0,1,4,0,4
+juror_a,ETH-w43,Ethiopia,6,5,5,1,0,2,3,3,1,3
+juror_a,MLI-w41,Mali,6,3,3,0,0,0,0,2,0,2
+juror_a,MLI-w43,Mali,5,4,4,2,1,2,1,3,1,3
+juror_a,MLI-w44,Mali,2,2,2,1,1,1,1,2,1,2
+juror_a,MMR-w43,Myanmar,17,8,8,5,5,2,5,8,3,11
+juror_a,MMR-w44,Myanmar,8,4,4,0,0,0,0,6,1,6
+juror_a,NGA-w40,Nigeria,27,21,10,6,6,17,1,10,0,10
+juror_a,PAK-w43,Pakistan,42,29,14,3,3,27,1,9,1,9
+juror_a,R2-BFA-w42,Burkina Faso,0,0,0,0,0,0,0,0,0,0
+juror_a,R2-BFA-w44,Burkina Faso,4,1,1,0,0,0,1,1,0,1
+juror_a,R2-BRA-w41,Brazil,86,73,8,0,0,20,1,8,1,8
+juror_a,R2-BRA-w42,Brazil,128,109,17,1,1,39,0,17,0,17
+juror_a,R2-BRA-w43,Brazil,91,77,13,2,2,32,0,8,0,8
+juror_a,R2-CMR-w42,Cameroon,5,3,3,0,0,1,3,2,0,3
+juror_a,R2-COL-w32,Colombia,44,37,13,3,2,21,1,4,0,4
+juror_a,R2-COL-w36,Colombia,45,29,12,5,5,24,2,2,1,2
+juror_a,R2-COL-w37,Colombia,33,16,5,3,3,18,1,7,1,7
+juror_a,R2-COL-w41,Colombia,53,47,13,6,6,28,0,9,0,9
+juror_a,R2-ECU-w41,Ecuador,16,11,4,0,0,6,0,9,0,9
+juror_a,R2-HTI-w42,Haiti,2,1,1,0,0,0,0,1,0,1
+juror_a,R2-IND-w46,India,256,214,17,5,3,122,3,9,0,10
+juror_a,R2-IRN-w40,Iran,10,8,3,4,3,4,3,3,0,3
+juror_a,R2-ISR-w41,Israel,63,23,4,3,0,49,2,7,0,7
+juror_a,R2-ISR-w42,Israel,42,11,3,1,0,32,1,3,0,4
+juror_a,R2-ISR-w43,Israel,44,18,3,1,0,34,1,1,1,1
+juror_a,R2-PAK-w47,Pakistan,59,42,23,19,18,25,6,10,5,18
+juror_a,R2-YEM-w44,Yemen,75,69,22,13,12,7,1,5,2,7
+juror_a,R3-IDN-w41,Indonesia,14,8,4,1,1,7,0,4,0,4
+juror_a,R3-KEN-w44,Kenya,17,11,8,0,0,10,2,3,1,4
+juror_a,R3-MOZ-w42,Mozambique,4,1,1,0,0,0,0,2,0,2
+juror_a,R3-MOZ-w43,Mozambique,3,1,1,0,0,1,0,1,0,1
+juror_a,R3-RUS-w43,Russia,29,17,8,7,6,18,1,5,0,5
+juror_a,R3-RUS-w44,Russia,44,32,12,9,7,23,0,4,0,4
+juror_a,R3-SAU-w41,Saudi Arabia,8,8,5,1,0,6,4,4,1,4
+juror_a,R3-ZAF-w42,South Africa,22,17,6,1,0,16,0,7,0,7
+juror_a,R3-ZAF-w43,South Africa,22,17,7,3,3,8,1,9,1,9
+juror_a,SOM-w41,Somalia,5,4,4,1,1,0,0,1,1,1
+juror_b,COD-w41,DR Congo,11,7,7,3,3,1,0,5,1,5
+juror_b,COL-w43,Colombia,60,50,8,4,3,20,1,12,3,12
+juror_b,ETH-w42,Ethiopia,6,1,1,0,0,2,1,6,0,6
+juror_b,ETH-w43,Ethiopia,6,5,5,1,0,3,3,3,1,3
+juror_b,MLI-w41,Mali,12,6,6,0,0,4,0,2,0,2
+juror_b,MLI-w43,Mali,4,2,2,1,1,4,1,2,1,2
+juror_b,MLI-w44,Mali,4,1,1,1,1,4,1,2,1,2
+juror_b,MMR-w43,Myanmar,17,7,7,5,5,2,4,8,2,11
+juror_b,MMR-w44,Myanmar,10,3,3,0,0,1,2,7,1,7
+juror_b,NGA-w40,Nigeria,29,28,13,6,6,16,1,10,0,10
+juror_b,PAK-w43,Pakistan,48,32,11,3,3,36,1,9,1,9
+juror_b,R2-BFA-w42,Burkina Faso,3,0,0,0,0,3,0,1,1,1
+juror_b,R2-BFA-w44,Burkina Faso,4,1,1,0,0,0,0,1,0,1
+juror_b,R2-BRA-w41,Brazil,63,47,5,0,0,17,1,7,1,7
+juror_b,R2-BRA-w42,Brazil,95,76,11,1,1,36,0,13,0,13
+juror_b,R2-BRA-w43,Brazil,76,61,9,1,1,30,0,7,0,7
+juror_b,R2-CMR-w42,Cameroon,4,2,2,0,0,1,2,1,0,2
+juror_b,R2-COL-w32,Colombia,40,34,12,3,2,21,1,3,0,3
+juror_b,R2-COL-w36,Colombia,47,32,15,7,7,33,3,6,1,7
+juror_b,R2-COL-w37,Colombia,35,19,7,5,5,19,1,7,1,7
+juror_b,R2-COL-w41,Colombia,52,43,13,6,6,28,0,11,0,11
+juror_b,R2-ECU-w41,Ecuador,18,12,4,0,0,5,0,10,0,10
+juror_b,R2-HTI-w42,Haiti,2,2,2,0,0,0,1,1,1,1
+juror_b,R2-IND-w46,India,220,182,17,5,4,130,3,8,0,9
+juror_b,R2-IRN-w40,Iran,14,12,5,6,5,12,3,3,0,4
+juror_b,R2-ISR-w41,Israel,53,21,3,4,0,50,2,7,1,7
+juror_b,R2-ISR-w42,Israel,52,11,3,1,0,50,1,3,0,4
+juror_b,R2-ISR-w43,Israel,47,15,3,1,0,46,1,1,1,1
+juror_b,R2-PAK-w47,Pakistan,65,46,25,18,17,34,6,12,5,19
+juror_b,R2-YEM-w44,Yemen,90,85,24,14,13,29,1,5,2,7
+juror_b,R3-IDN-w41,Indonesia,16,11,3,1,1,9,0,4,0,4
+juror_b,R3-KEN-w44,Kenya,19,14,10,0,0,9,1,5,2,7
+juror_b,R3-MOZ-w42,Mozambique,6,2,2,0,0,1,0,2,0,2
+juror_b,R3-MOZ-w43,Mozambique,6,3,3,0,0,3,0,1,0,1
+juror_b,R3-RUS-w43,Russia,40,25,8,7,6,33,1,6,0,6
+juror_b,R3-RUS-w44,Russia,38,29,12,9,8,32,0,4,0,4
+juror_b,R3-SAU-w41,Saudi Arabia,13,12,7,1,0,12,4,4,2,4
+juror_b,R3-ZAF-w42,South Africa,21,16,6,1,0,15,0,8,0,8
+juror_b,R3-ZAF-w43,South Africa,23,17,8,4,4,9,1,9,2,10
+juror_b,SOM-w41,Somalia,5,4,4,1,1,0,0,1,1,1

@@ -109,3 +109,33 @@ A107,R3-ZAF-w43,web_only,"maitland, cape town · 22 oct · two men shot dead in 
 A108,R2-COL-w41,web_only,cauca · 11 oct · drone and clash attacks kill soldiers,remote_violence,yes,,
 A109,ETH-w43,cloud_only,"medebay tarer, tigray · 22 oct · drone strike kills father and 4 children",remote_violence,yes,,
 A110,R3-IDN-w41,cloud_only,jakarta · 5 oct · father beats 11-month-old to death,criminal_homicide,yes,,
+GA001,R3-KEN-w44,gdelt_only,"turkana · 31 oct · gunmen raid kills two, wound three",attack_on_civilians,yes,,
+GA002,R2-COL-w41,gdelt_only,"bucaramanga, santander · 9 oct · police officer fredy leal killed stopping jewelry robbery",criminal_homicide,yes,,
+GA003,R2-ISR-w41,gdelt_only,west bank · 5 oct · israeli forces kill palestinians,security_force_killing,yes,"west bank · 5 oct · israeli forces kill one, injure several","Same West Bank 5 Oct killing, differently worded."
+GA004,R2-BRA-w42,gdelt_only,"nova iguaçu, rio de janeiro · 15 oct · truck driver shot dead in robbery",criminal_homicide,yes,,
+GA005,R3-RUS-w44,gdelt_only,moscow · 28 oct · suspect held in beautician killing,criminal_homicide,no,,Killing date unknown; only arrest petition reported 28 Oct.
+GA006,R2-BRA-w43,gdelt_only,"são josé, santa catarina · 23 oct · man stabs new wife to death",criminal_homicide,yes,,
+GA007,R2-ISR-w41,gdelt_only,west bank · 5 oct · israeli army attacks kill one palestinian,security_force_killing,yes,"west bank · 5 oct · israeli forces kill one, injure several","AA report: one killed, five injured, same day."
+GA008,R2-BRA-w43,gdelt_only,"monte azul paulista, são paulo · 23 oct · security guard killed by suspects",criminal_homicide,yes,,
+GA009,R2-ISR-w41,gdelt_only,gaza · 8 oct · deadly israeli strike near hospital,remote_violence,yes,,
+GA010,R2-ISR-w41,gdelt_only,gaza · 7 oct · idf operation kills two terrorists,battle,yes,gaza · 7 oct · idf kills hamas militant planting explosives near hospital,"Same 7 Oct IDF operation near hospital, likely."
+GA011,R2-ISR-w43,gdelt_only,gaza city · 20 oct · israeli pre-dawn strike on apartment kills 2,remote_violence,yes,khan yunis · 20 oct · israeli fire kills couple and child,"Same 20 Oct strike on Palestinian couple, likely."
+GA012,R2-COL-w37,gdelt_only,"briceño, antioquia · 12 sep · journalist mateo pérez killed",attack_on_civilians,yes,,
+GA013,R2-COL-w37,gdelt_only,barranquilla · 7 sep · massacre of three inside an establishment,remote_violence,yes,"cali, valle del cauca · ~7 sep · armed attack on bar kills three","URL says south Cali establishment, three killed."
+GA014,R2-ISR-w42,gdelt_only,gaza · 12 oct · israeli strike kills two people,remote_violence,yes,,
+GA015,R3-IDN-w41,gdelt_only,"surabaya · 7 oct · murder case, judge suspected executor",criminal_homicide,no,,"Murder date not established; CCTV report only, date unplaceable."
+GA016,R2-IND-w46,gdelt_only,"lucknow, uttar pradesh · 11 nov · triple murder by ex-merchant navy officers",criminal_homicide,yes,,
+GA017,R2-COL-w36,gdelt_only,"jamundí, valle del cauca · 31 aug · social leader shot dead at home",attack_on_civilians,yes,,
+GA018,R2-IND-w46,gdelt_only,"amritsar, punjab · 9 nov · man killed in diwali night firing clash",criminal_homicide,yes,punjab · 9 nov · goldsmith shot dead in diwali clash,"Diwali-night Punjab firing clash death, likely same."
+GA019,R2-PAK-w47,gdelt_only,lahore · 19 nov · brother killed in knife attack over money dispute,criminal_homicide,yes,,
+GA020,R2-ISR-w42,gdelt_only,"khan yunis, gaza · 12 oct · israeli airstrike kills four palestinians",remote_violence,yes,,
+GA021,R3-RUS-w44,gdelt_only,belgorod · 26 oct · ukrainian drone raid kills 3,remote_violence,yes,,
+GA022,R2-BRA-w43,gdelt_only,"nunes freire, maranhão · 19 oct · alleged drug boss shot dead with girlfriend",criminal_homicide,yes,,
+GA023,R2-YEM-w44,gdelt_only,al-jawf · 29 oct · saudi airstrikes kill 13,remote_violence,yes,,
+GA024,R2-COL-w36,gdelt_only,"medellín · 5 sep · trans woman found dead, death investigated",criminal_homicide,no,,Death under investigation; no violent killing established.
+GA025,R2-ISR-w41,gdelt_only,gaza · 11 oct · israeli raid kills several palestinians,battle,yes,gaza · 11 oct · strike on phone-charging chair kills 3,"Arabic URL: several killed in raid on charging point, likely."
+GA026,R2-IND-w46,gdelt_only,"bawana, delhi · 15 nov · double murder, shooter killed by victim's brother",mob_or_riot,yes,,
+GA027,R2-ISR-w43,gdelt_only,gaza · 24 oct · israeli strikes kill four palestinians,remote_violence,yes,,
+GA028,PAK-w43,gdelt_only,"khuzdar, balochistan · 20 oct · joint operation kills 5 terrorists",battle,no,,Article dated 28 Oct; operation date outside window uncertain.
+GA029,R2-ISR-w42,gdelt_only,gaza · 12 oct · israeli shelling kills three palestinians,remote_violence,yes,,
+GA030,PAK-w43,gdelt_only,"kech, balochistan · 22 oct · intelligence operation kills terrorist",battle,yes,,

@@ -1,7 +1,7 @@
-juror,scope,pool,cloud_only,both,web_only,references_only
-juror_a,all,1166,902,134,87,43
-juror_a,armed_conflict,484,273,113,61,37
-juror_a,criminal_homicide,682,629,21,26,6
-juror_b,all,1129,844,132,105,48
-juror_b,armed_conflict,564,337,112,76,39
-juror_b,criminal_homicide,565,507,20,29,9
+juror,scope,pool,cloud_only,cloud_and_other,gdelt_only,gdelt_and_web,web_only,references_only
+juror_a,all,1404,615,421,239,10,77,42
+juror_a,armed_conflict,615,180,206,132,8,53,36
+juror_a,criminal_homicide,789,435,215,107,2,24,6
+juror_b,all,1374,450,526,257,22,83,36
+juror_b,armed_conflict,712,153,296,159,19,57,28
+juror_b,criminal_homicide,662,297,230,98,3,26,8

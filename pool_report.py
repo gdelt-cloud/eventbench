@@ -9,7 +9,7 @@ records carries that label. Jurors are scored separately, never merged. Standard
 
 Inputs (judgments/pool/):
   questions.json        id -> country, scope, dates
-  key.json              "<question>:<record>" -> source (cloud_event, cloud_story, web_a, web_b, web_c, reference),
+  key.json              "<question>:<record>" -> source (cloud_event, cloud_story, gdelt_project, web_a, web_b, web_c, reference),
                         its id or URL, and for GDELT Cloud records the route and position in the API's answer
   verdicts/<juror>/     one JSON per question: record -> {on_topic, incident}
   incident_types.csv    juror, question, incident, type (JUDGE_POOL.md, "Incident type")
@@ -29,6 +29,7 @@ SERVICES = {
     'cloud_first_page': ('GDELT Cloud, first page of each list', lambda k: k['src'].startswith('cloud') and (k.get('rank') or 10**9) <= FIRST_PAGE),
     'cloud_deaths_flag': ('GDELT Cloud, Events and Stories flagged with deaths', lambda k: k['src'] == 'cloud_event' or (k['src'] == 'cloud_story' and k.get('deaths_flag'))),
     'cloud_events': ('GDELT Cloud, Events only', lambda k: k['src'] == 'cloud_event'),
+    'gdelt_project': ('GDELT Project 2.0, CAMEO 18-20 rows located in the country', lambda k: k['src'] == 'gdelt_project'),
     'web_a': ('Web search A', lambda k: k['src'] == 'web_a'),
     'web_b': ('Web search B', lambda k: k['src'] == 'web_b'),
     'web_c': ('Web search C', lambda k: k['src'] == 'web_c'),
@@ -108,7 +109,9 @@ def main():
                     agg[scope][s].update(delivered=len(got), refs=len(got & refs), records=len(ids), on_topic=sum(r in sl for r in ids))
                 agg[scope]['_'].update(pool=len(pool), refs=len(refs))
                 cl = {sl[r] for r, k in recs.items() if k['src'].startswith('cloud') and r in sl}; wb = {sl[r] for r, k in recs.items() if k['src'] in WEB and r in sl}
-                ov[scope].update(pool=len(pool), cloud_only=len(cl - wb), web_only=len(wb - cl), both=len(cl & wb), references_only=len(refs - cl - wb))
+                gp = {sl[r] for r, k in recs.items() if k['src'] == 'gdelt_project' and r in sl}
+                ov[scope].update(pool=len(pool), cloud_only=len(cl - wb - gp), cloud_and_other=len(cl & (wb | gp)), gdelt_only=len(gp - cl - wb),
+                                 web_only=len(wb - cl - gp), gdelt_and_web=len((gp & wb) - cl), references_only=len(refs - cl - wb - gp))
                 per_q[scope].append(row)
                 if scope == 'all':
                     by_question.append({'juror': j, 'question': q, 'country': meta[q]['country'], 'pool': len(pool), **{s: row[s] for s in SERVICES}})
@@ -135,14 +138,14 @@ def main():
                                 'reference_incidents': refs_n, 'reference_incidents_found': x['refs'], 'records': x['records'], 'records_on_topic': x['on_topic'],
                                 'on_topic_share': round(x['on_topic'] / x['records'], 4) if x['records'] else '', 'on_topic_lo': lo, 'on_topic_hi': hi})
             for s in ('cloud', 'cloud_first_page', 'cloud_deaths_flag', 'cloud_events'):
-                for w in ('web_b', 'any_web'):
+                for w in ('web_b', 'any_web', 'gdelt_project'):
                     d = [r[s] - r[w] for r in per_q[scope]]; lo, hi = boot(d)
                     tot_s = sum(r[s] for r in per_q[scope]); tot_w = sum(r[w] for r in per_q[scope])
                     compare.append({'juror': j, 'scope': scope, 'service': s, 'versus': w, 'per_question': round(tot_s / nq, 2), 'versus_per_question': round(tot_w / nq, 2),
                                     'ratio': round(tot_s / tot_w, 2) if tot_w else '', 'mean_difference': round(sum(d) / nq, 2), 'ci_lo': lo, 'ci_hi': hi,
                                     'questions_ahead': sum(x > 0 for x in d), 'questions_tied': sum(x == 0 for x in d), 'questions_behind': sum(x < 0 for x in d)})
         for scope in SCOPES:
-            overlap.append({'juror': j, 'scope': scope, **{k: ov[scope][k] for k in ('pool', 'cloud_only', 'both', 'web_only', 'references_only')}})
+            overlap.append({'juror': j, 'scope': scope, **{k: ov[scope][k] for k in ('pool', 'cloud_only', 'cloud_and_other', 'gdelt_only', 'gdelt_and_web', 'web_only', 'references_only')}})
         for t in sorted(t_agg, key=lambda t: TYPE_ORDER.index(t) if t in TYPE_ORDER else 99):
             by_type.append({'juror': j, 'type': t, 'pool': t_agg[t]['pool'], **{s: t_agg[t][s] for s in SERVICES}})
         for cn, c in sorted(c_agg.items(), key=lambda x: (-x[1]['pool'], x[0])):
@@ -155,15 +158,25 @@ def main():
         write(out / name, rows)
     # Agreement between the first two jurors, record by record (on topic or not).
     if len(jurors) >= 2:
-        a1, b1 = [], []
+        # Agreement on topic or not, record by record: over every record, then by source (GDELT Project records carry
+        # coded rows and a URL but no text, so they are the hardest to judge and are reported apart).
+        pairs = collections.defaultdict(lambda: ([], []))
+        group = lambda s: 'gdelt_project' if s == 'gdelt_project' else 'cloud' if s.startswith('cloud') else 'web' if s in WEB else 'reference'
         for q in meta:
             fa, fb = pool_dir / 'verdicts' / jurors[0] / f'{q}.json', pool_dir / 'verdicts' / jurors[1] / f'{q}.json'
             if fa.exists() and fb.exists():
                 va, vb = json.loads(fa.read_text()), json.loads(fb.read_text())
                 for r in set(va) & set(vb):
-                    a1.append(va[r].get('on_topic') == 'yes'); b1.append(vb[r].get('on_topic') == 'yes')
-        n = len(a1); po = sum(x == y for x, y in zip(a1, b1)) / n; pa, pb = sum(a1) / n, sum(b1) / n; pe = pa * pb + (1 - pa) * (1 - pb)
-        write(out / 'pooled_agreement.csv', [{'juror_1': jurors[0], 'juror_2': jurors[1], 'records': n, 'agreement': round(po, 4), 'kappa': round((po - pe) / (1 - pe), 3)}])
+                    x, y = va[r].get('on_topic') == 'yes', vb[r].get('on_topic') == 'yes'
+                    for g in ('all', group(by_q[q][r]['src'])):
+                        pairs[g][0].append(x); pairs[g][1].append(y)
+        rows = []
+        for g in ('all', 'cloud', 'web', 'gdelt_project', 'reference'):
+            if g not in pairs:
+                continue
+            a1, b1 = pairs[g]; n = len(a1); po = sum(x == y for x, y in zip(a1, b1)) / n; pa, pb = sum(a1) / n, sum(b1) / n; pe = pa * pb + (1 - pa) * (1 - pb)
+            rows.append({'juror_1': jurors[0], 'juror_2': jurors[1], 'records_from': g, 'records': n, 'agreement': round(po, 4), 'kappa': round((po - pe) / (1 - pe), 3) if pe < 1 else ''})
+        write(out / 'pooled_agreement.csv', rows)
     if (pool_dir / 'audit.csv').exists():
         rows = list(csv.DictReader(open(pool_dir / 'audit.csv', encoding='utf-8'))); agg = collections.defaultdict(collections.Counter)
         for r in rows:

@@ -1,49 +1,55 @@
 juror,scope,service,description,questions,pool,incidents,per_question,share_of_pool,reference_incidents,reference_incidents_found,records,records_on_topic,on_topic_share,on_topic_lo,on_topic_hi
-juror_a,all,cloud,"GDELT Cloud, every record",40,1166,1036,25.9,0.8885,84,30,16535,1779,0.1076,0.103,0.1124
-juror_a,all,cloud_first_page,"GDELT Cloud, first page of each list",40,1166,291,7.28,0.2496,84,20,3493,474,0.1357,0.1247,0.1475
-juror_a,all,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,1166,114,2.85,0.0978,84,8,407,195,0.4791,0.431,0.5276
-juror_a,all,cloud_events,"GDELT Cloud, Events only",40,1166,94,2.35,0.0806,84,6,272,104,0.3824,0.3266,0.4414
-juror_a,all,web_a,Web search A,40,1166,48,1.2,0.0412,84,8,800,130,0.1625,0.1386,0.1897
-juror_a,all,web_b,Web search B,40,1166,204,5.1,0.175,84,20,1000,432,0.432,0.4016,0.4629
-juror_a,all,web_c,Web search C,40,1166,25,0.62,0.0214,84,2,312,55,0.1763,0.138,0.2224
-juror_a,all,any_web,Any web search,40,1166,221,5.53,0.1895,84,22,2112,617,0.2921,0.2731,0.3119
-juror_a,armed_conflict,cloud,"GDELT Cloud, every record",40,484,386,9.65,0.7975,65,21,16535,905,0.0547,0.0514,0.0583
-juror_a,armed_conflict,cloud_first_page,"GDELT Cloud, first page of each list",40,484,197,4.92,0.407,65,17,3493,351,0.1005,0.091,0.1109
-juror_a,armed_conflict,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,484,96,2.4,0.1983,65,7,407,171,0.4201,0.3732,0.4686
-juror_a,armed_conflict,cloud_events,"GDELT Cloud, Events only",40,484,79,1.98,0.1632,65,5,272,89,0.3272,0.2742,0.385
-juror_a,armed_conflict,web_a,Web search A,40,484,47,1.18,0.0971,65,8,800,129,0.1613,0.1374,0.1883
-juror_a,armed_conflict,web_b,Web search B,40,484,157,3.92,0.3244,65,14,1000,373,0.373,0.3436,0.4034
-juror_a,armed_conflict,web_c,Web search C,40,484,24,0.6,0.0496,65,2,312,53,0.1699,0.1323,0.2155
-juror_a,armed_conflict,any_web,Any web search,40,484,174,4.35,0.3595,65,16,2112,555,0.2628,0.2445,0.282
-juror_a,criminal_homicide,cloud,"GDELT Cloud, every record",40,682,650,16.25,0.9531,19,9,16535,874,0.0529,0.0495,0.0564
-juror_a,criminal_homicide,cloud_first_page,"GDELT Cloud, first page of each list",40,682,94,2.35,0.1378,19,3,3493,123,0.0352,0.0296,0.0419
-juror_a,criminal_homicide,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,682,18,0.45,0.0264,19,1,407,24,0.059,0.0399,0.0862
-juror_a,criminal_homicide,cloud_events,"GDELT Cloud, Events only",40,682,15,0.38,0.022,19,1,272,15,0.0551,0.0337,0.089
-juror_a,criminal_homicide,web_a,Web search A,40,682,1,0.03,0.0015,19,0,800,1,0.0013,0.0002,0.007
-juror_a,criminal_homicide,web_b,Web search B,40,682,47,1.18,0.0689,19,6,1000,59,0.059,0.046,0.0754
-juror_a,criminal_homicide,web_c,Web search C,40,682,1,0.03,0.0015,19,0,312,2,0.0064,0.0018,0.0231
-juror_a,criminal_homicide,any_web,Any web search,40,682,47,1.18,0.0689,19,6,2112,62,0.0294,0.023,0.0375
-juror_b,all,cloud,"GDELT Cloud, every record",40,1129,976,24.4,0.8645,84,25,16535,1561,0.0944,0.09,0.099
-juror_b,all,cloud_first_page,"GDELT Cloud, first page of each list",40,1129,288,7.2,0.2551,84,17,3493,432,0.1237,0.1132,0.135
-juror_b,all,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,1129,120,3.0,0.1063,84,7,407,201,0.4939,0.4456,0.5423
-juror_b,all,cloud_events,"GDELT Cloud, Events only",40,1129,103,2.58,0.0912,84,5,272,110,0.4044,0.3478,0.4637
-juror_b,all,web_a,Web search A,40,1129,48,1.2,0.0425,84,7,800,119,0.1487,0.1258,0.1751
-juror_b,all,web_b,Web search B,40,1129,217,5.42,0.1922,84,18,1000,421,0.421,0.3908,0.4518
-juror_b,all,web_c,Web search C,40,1129,32,0.8,0.0283,84,3,312,58,0.1859,0.1466,0.2328
-juror_b,all,any_web,Any web search,40,1129,237,5.92,0.2099,84,20,2112,598,0.2831,0.2643,0.3027
-juror_b,armed_conflict,cloud,"GDELT Cloud, every record",40,564,449,11.22,0.7961,64,17,16535,906,0.0548,0.0514,0.0584
-juror_b,armed_conflict,cloud_first_page,"GDELT Cloud, first page of each list",40,564,211,5.28,0.3741,64,15,3493,337,0.0965,0.0871,0.1067
-juror_b,armed_conflict,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,564,108,2.7,0.1915,64,7,407,186,0.457,0.4092,0.5056
-juror_b,armed_conflict,cloud_events,"GDELT Cloud, Events only",40,564,92,2.3,0.1631,64,5,272,99,0.364,0.3091,0.4227
-juror_b,armed_conflict,web_a,Web search A,40,564,47,1.18,0.0833,64,7,800,118,0.1475,0.1246,0.1738
-juror_b,armed_conflict,web_b,Web search B,40,564,169,4.22,0.2996,64,14,1000,354,0.354,0.325,0.3841
-juror_b,armed_conflict,web_c,Web search C,40,564,31,0.78,0.055,64,3,312,56,0.1795,0.1409,0.2259
-juror_b,armed_conflict,any_web,Any web search,40,564,188,4.7,0.3333,64,16,2112,528,0.25,0.232,0.2689
-juror_b,criminal_homicide,cloud,"GDELT Cloud, every record",40,565,527,13.18,0.9327,20,8,16535,655,0.0396,0.0367,0.0427
-juror_b,criminal_homicide,cloud_first_page,"GDELT Cloud, first page of each list",40,565,77,1.93,0.1363,20,2,3493,95,0.0272,0.0223,0.0331
-juror_b,criminal_homicide,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,565,12,0.3,0.0212,20,0,407,15,0.0369,0.0225,0.0599
-juror_b,criminal_homicide,cloud_events,"GDELT Cloud, Events only",40,565,11,0.28,0.0195,20,0,272,11,0.0404,0.0227,0.071
-juror_b,criminal_homicide,web_a,Web search A,40,565,1,0.03,0.0018,20,0,800,1,0.0013,0.0002,0.007
-juror_b,criminal_homicide,web_b,Web search B,40,565,48,1.2,0.085,20,4,1000,67,0.067,0.0531,0.0842
-juror_b,criminal_homicide,web_c,Web search C,40,565,1,0.03,0.0018,20,0,312,2,0.0064,0.0018,0.0231
-juror_b,criminal_homicide,any_web,Any web search,40,565,49,1.23,0.0867,20,4,2112,70,0.0331,0.0263,0.0417
+juror_a,all,cloud,"GDELT Cloud, every record",40,1404,1036,25.9,0.7379,84,30,16535,1779,0.1076,0.103,0.1124
+juror_a,all,cloud_first_page,"GDELT Cloud, first page of each list",40,1404,291,7.28,0.2073,84,20,3493,474,0.1357,0.1247,0.1475
+juror_a,all,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,1404,114,2.85,0.0812,84,8,407,195,0.4791,0.431,0.5276
+juror_a,all,cloud_events,"GDELT Cloud, Events only",40,1404,94,2.35,0.067,84,6,272,104,0.3824,0.3266,0.4414
+juror_a,all,gdelt_project,"GDELT Project 2.0, CAMEO 18-20 rows located in the country",40,1404,621,15.53,0.4423,84,13,30037,1931,0.0643,0.0616,0.0671
+juror_a,all,web_a,Web search A,40,1404,48,1.2,0.0342,84,8,800,130,0.1625,0.1386,0.1897
+juror_a,all,web_b,Web search B,40,1404,204,5.1,0.1453,84,20,1000,432,0.432,0.4016,0.4629
+juror_a,all,web_c,Web search C,40,1404,25,0.62,0.0178,84,2,312,55,0.1763,0.138,0.2224
+juror_a,all,any_web,Any web search,40,1404,221,5.53,0.1574,84,22,2112,617,0.2921,0.2731,0.3119
+juror_a,armed_conflict,cloud,"GDELT Cloud, every record",40,615,386,9.65,0.6276,65,21,16535,905,0.0547,0.0514,0.0583
+juror_a,armed_conflict,cloud_first_page,"GDELT Cloud, first page of each list",40,615,197,4.92,0.3203,65,17,3493,351,0.1005,0.091,0.1109
+juror_a,armed_conflict,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,615,96,2.4,0.1561,65,7,407,171,0.4201,0.3732,0.4686
+juror_a,armed_conflict,cloud_events,"GDELT Cloud, Events only",40,615,79,1.98,0.1285,65,5,272,89,0.3272,0.2742,0.385
+juror_a,armed_conflict,gdelt_project,"GDELT Project 2.0, CAMEO 18-20 rows located in the country",40,615,305,7.62,0.4959,65,12,30037,1370,0.0456,0.0433,0.048
+juror_a,armed_conflict,web_a,Web search A,40,615,47,1.18,0.0764,65,8,800,129,0.1613,0.1374,0.1883
+juror_a,armed_conflict,web_b,Web search B,40,615,157,3.92,0.2553,65,14,1000,373,0.373,0.3436,0.4034
+juror_a,armed_conflict,web_c,Web search C,40,615,24,0.6,0.039,65,2,312,53,0.1699,0.1323,0.2155
+juror_a,armed_conflict,any_web,Any web search,40,615,174,4.35,0.2829,65,16,2112,555,0.2628,0.2445,0.282
+juror_a,criminal_homicide,cloud,"GDELT Cloud, every record",40,789,650,16.25,0.8238,19,9,16535,874,0.0529,0.0495,0.0564
+juror_a,criminal_homicide,cloud_first_page,"GDELT Cloud, first page of each list",40,789,94,2.35,0.1191,19,3,3493,123,0.0352,0.0296,0.0419
+juror_a,criminal_homicide,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,789,18,0.45,0.0228,19,1,407,24,0.059,0.0399,0.0862
+juror_a,criminal_homicide,cloud_events,"GDELT Cloud, Events only",40,789,15,0.38,0.019,19,1,272,15,0.0551,0.0337,0.089
+juror_a,criminal_homicide,gdelt_project,"GDELT Project 2.0, CAMEO 18-20 rows located in the country",40,789,316,7.9,0.4005,19,1,30037,561,0.0187,0.0172,0.0203
+juror_a,criminal_homicide,web_a,Web search A,40,789,1,0.03,0.0013,19,0,800,1,0.0013,0.0002,0.007
+juror_a,criminal_homicide,web_b,Web search B,40,789,47,1.18,0.0596,19,6,1000,59,0.059,0.046,0.0754
+juror_a,criminal_homicide,web_c,Web search C,40,789,1,0.03,0.0013,19,0,312,2,0.0064,0.0018,0.0231
+juror_a,criminal_homicide,any_web,Any web search,40,789,47,1.18,0.0596,19,6,2112,62,0.0294,0.023,0.0375
+juror_b,all,cloud,"GDELT Cloud, every record",40,1374,976,24.4,0.7103,84,25,16535,1561,0.0944,0.09,0.099
+juror_b,all,cloud_first_page,"GDELT Cloud, first page of each list",40,1374,288,7.2,0.2096,84,17,3493,432,0.1237,0.1132,0.135
+juror_b,all,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,1374,120,3.0,0.0873,84,7,407,201,0.4939,0.4456,0.5423
+juror_b,all,cloud_events,"GDELT Cloud, Events only",40,1374,103,2.58,0.075,84,5,272,110,0.4044,0.3478,0.4637
+juror_b,all,gdelt_project,"GDELT Project 2.0, CAMEO 18-20 rows located in the country",40,1374,760,19.0,0.5531,84,23,30037,3460,0.1152,0.1116,0.1189
+juror_b,all,web_a,Web search A,40,1374,48,1.2,0.0349,84,7,800,119,0.1487,0.1258,0.1751
+juror_b,all,web_b,Web search B,40,1374,217,5.42,0.1579,84,18,1000,421,0.421,0.3908,0.4518
+juror_b,all,web_c,Web search C,40,1374,32,0.8,0.0233,84,3,312,58,0.1859,0.1466,0.2328
+juror_b,all,any_web,Any web search,40,1374,237,5.92,0.1725,84,20,2112,598,0.2831,0.2643,0.3027
+juror_b,armed_conflict,cloud,"GDELT Cloud, every record",40,712,449,11.22,0.6306,64,17,16535,906,0.0548,0.0514,0.0584
+juror_b,armed_conflict,cloud_first_page,"GDELT Cloud, first page of each list",40,712,211,5.28,0.2963,64,15,3493,337,0.0965,0.0871,0.1067
+juror_b,armed_conflict,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,712,108,2.7,0.1517,64,7,407,186,0.457,0.4092,0.5056
+juror_b,armed_conflict,cloud_events,"GDELT Cloud, Events only",40,712,92,2.3,0.1292,64,5,272,99,0.364,0.3091,0.4227
+juror_b,armed_conflict,gdelt_project,"GDELT Project 2.0, CAMEO 18-20 rows located in the country",40,712,437,10.93,0.6138,64,21,30037,2842,0.0946,0.0914,0.098
+juror_b,armed_conflict,web_a,Web search A,40,712,47,1.18,0.066,64,7,800,118,0.1475,0.1246,0.1738
+juror_b,armed_conflict,web_b,Web search B,40,712,169,4.22,0.2374,64,14,1000,354,0.354,0.325,0.3841
+juror_b,armed_conflict,web_c,Web search C,40,712,31,0.78,0.0435,64,3,312,56,0.1795,0.1409,0.2259
+juror_b,armed_conflict,any_web,Any web search,40,712,188,4.7,0.264,64,16,2112,528,0.25,0.232,0.2689
+juror_b,criminal_homicide,cloud,"GDELT Cloud, every record",40,662,527,13.18,0.7961,20,8,16535,655,0.0396,0.0367,0.0427
+juror_b,criminal_homicide,cloud_first_page,"GDELT Cloud, first page of each list",40,662,77,1.93,0.1163,20,2,3493,95,0.0272,0.0223,0.0331
+juror_b,criminal_homicide,cloud_deaths_flag,"GDELT Cloud, Events and Stories flagged with deaths",40,662,12,0.3,0.0181,20,0,407,15,0.0369,0.0225,0.0599
+juror_b,criminal_homicide,cloud_events,"GDELT Cloud, Events only",40,662,11,0.28,0.0166,20,0,272,11,0.0404,0.0227,0.071
+juror_b,criminal_homicide,gdelt_project,"GDELT Project 2.0, CAMEO 18-20 rows located in the country",40,662,323,8.07,0.4879,20,2,30037,618,0.0206,0.019,0.0222
+juror_b,criminal_homicide,web_a,Web search A,40,662,1,0.03,0.0015,20,0,800,1,0.0013,0.0002,0.007
+juror_b,criminal_homicide,web_b,Web search B,40,662,48,1.2,0.0725,20,4,1000,67,0.067,0.0531,0.0842
+juror_b,criminal_homicide,web_c,Web search C,40,662,1,0.03,0.0015,20,0,312,2,0.0064,0.0018,0.0231
+juror_b,criminal_homicide,any_web,Any web search,40,662,49,1.23,0.074,20,4,2112,70,0.0331,0.0263,0.0417

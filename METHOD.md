@@ -143,6 +143,12 @@ the way shared search evaluations (TREC) have long pooled the results of every t
      about the country, every page.
    - Web search: `bench.py web` with each service's own adapter, at its maximum results per call, in the
      style its documentation recommends, with the same three-day grace for reports published after the week.
+   - The GDELT Project 2.0: the public 15-minute Events and translation exports as a user filters them: rows
+     with CAMEO roots 18-20 whose action is located in the country (ActionGeo; Israel with the West Bank and
+     Gaza, as for every service), dated in the week. One record per source article: its coded rows and URL,
+     with no headline, since the export carries none. Its records were judged against the pool the other
+     services had built (on topic, and the same incident as a pooled label or a new one), the way any added
+     source is; the cached exports end on 22 November, so the last week's late reports are missing for it.
 2. **One packet per question** (`bench.py pool`): every record every service returned, plus the reference
    incidents for that country and week, shuffled, with the sources hidden.
 3. **Jurors** (`bench.py pool-judge`, rules in `JUDGE_POOL.md`): each record on topic or not, and one label
@@ -158,8 +164,10 @@ the way shared search evaluations (TREC) have long pooled the results of every t
    only by web search and 20 by both, shown with the source hidden to a third model, which checks that each
    is a real lethal incident in the week and not a repeat of another incident in the pool.
 
-**Release 2026.11.1's pooled run** (`judgments/pool/`): 40 country-weeks, 18,734 records. The jurors are a Claude
-model (`juror_a`) and a model from another lab (`juror_b`); they agree on 96.0% of records (κ = 0.82). GDELT Cloud
+**Release 2026.11.1's pooled run** (`judgments/pool/`): 40 country-weeks, 48,771 records (30,037 of them the GDELT
+Project's). The jurors are a Claude model (`juror_a`) and a model from another lab (`juror_b`); they agree on 94.7% of
+records (κ = 0.71): κ 0.80 on GDELT Cloud's records, 0.81 on web search's and 0.63 on the GDELT Project's, which carry
+no text (`results/pooled_agreement.csv`). GDELT Cloud
 was asked through `bench.py monitor` on 25 November 2026; web search A, B and C at 20, 25 and 20 results. The key
 (`key.json`) names each record's source and its URL or id, and each GDELT Cloud record's position in the API's
 answer; record text is not published. `python3 pool_report.py` rebuilds every `results/pooled_*.csv` table.

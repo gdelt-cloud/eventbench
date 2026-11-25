@@ -9,14 +9,21 @@ corrected entry below for what was wrong.
   question each: *people killed in attacks, clashes or violence in {country}, {week}*. GDELT Cloud through its API filters
   for the same thing (`bench.py monitor`: conflict Events with deaths and `CR01` homicide Events located in the country,
   conflict and crime Stories about the country); web search A, B and C at their maximum results. Every record, with the
-  reference incidents, judged blind by two jurors (`juror_a`, `juror_b`; κ = 0.82 on 18,734 records), each scored apart.
+  reference incidents, judged blind by two jurors (`juror_a`, `juror_b`; κ = 0.80-0.81 on GDELT Cloud's and web search's
+  records, 0.63 on the GDELT Project's), each scored apart.
 - **Headline, armed conflict** (every incident type but criminal homicide): GDELT Cloud 9.7 distinct incidents a week,
   AI web search B 3.9, A 1.2, C 0.6 (second juror 11.2, 4.2, 1.2, 0.8): 2.5×, +5.7 a week (95% interval +3.3 to +9.0),
   ahead in 27 of 40 weeks, behind in 6. GDELT Cloud's first page alone: 4.9.
-- **All lethal violence:** 25.9 against 5.1 a week. Criminal homicide is 58% of the pool and GDELT Cloud found 95% of it,
-  web search B 7%.
-- **Blind audit** of 110 sampled incidents by a third model: real, lethal, in the week and not a repeat for 85% of the
-  armed-conflict incidents only GDELT Cloud found and 79% of those only web search found; 56% and 75% for criminal homicide.
+- **All lethal violence:** 25.9 against 5.1 a week. Criminal homicide is most of the pool and GDELT Cloud found 82% of it,
+  web search B 6%.
+- **The GDELT Project 2.0, like for like** (new in the pooled run): its public exports filtered as a user would (CAMEO
+  18-20 rows located in the country, in the week), one record per source article, judged against the pool. Armed
+  conflict 7.6 incidents a week (second juror 10.9): level with GDELT Cloud within the noise, from 30,037 records against
+  GDELT Cloud's 16,535. All lethal violence 15.5 (19.0) against GDELT Cloud's 25.9 (24.4). Its first-release reference
+  figure, from a search near each incident, is withdrawn.
+- **Blind audit** of 140 sampled incidents by a third model: real, lethal, in the week and not a repeat for 85% of the
+  armed-conflict incidents only GDELT Cloud found, 79% of those only web search found and 63% of those only the GDELT
+  Project found; 56%, 75% and 64% for criminal homicide.
 - **Reference-list recall, like for like:** lethal incidents only (480; `scope` in `results/occurrences.csv`), GDELT
   Cloud's blind country-week lists under the same single review (`cloud_pages`): GDELT Cloud 32%, GDELT Project 29%, web
   search B 27%, A 21%, C 11%. One call each: GDELT Cloud 23%, web search B 27%.

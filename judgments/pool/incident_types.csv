@@ -19,6 +19,7 @@ juror_a,COL-w43,barranquilla · 25 oct · neighbor feud ends in fatal beating,cr
 juror_a,COL-w43,bogotá · 20 oct · hitmen kill two brothers,criminal_homicide
 juror_a,COL-w43,bogotá · 22 oct · two men found murdered in home,criminal_homicide
 juror_a,COL-w43,"bogotá · 23 oct · man kills pregnant partner, hides body",criminal_homicide
+juror_a,COL-w43,"bogotá, visión colombia · 20 oct · millonarios fan shot dead",criminal_homicide
 juror_a,COL-w43,"bosconia, cesar · 25 oct · traffic official murdered",criminal_homicide
 juror_a,COL-w43,"cajicá, cundinamarca · 24 oct · angie rodríguez dies, mother alleges abuse",criminal_homicide
 juror_a,COL-w43,cali · 24 oct · policewoman killed stopping robbery,criminal_homicide
@@ -59,6 +60,7 @@ juror_a,COL-w43,"sogamoso, boyacá · 20 oct · barracks fight kills sergeant an
 juror_a,COL-w43,"suesca, cundinamarca · 20 oct · couple shot dead at farm",criminal_homicide
 juror_a,COL-w43,"tibú, norte de santander · 24 oct · clash kills two in san marcos",battle
 juror_a,COL-w43,"usaquén, bogotá · 19 oct · woman stabbed helping neighbor dies",criminal_homicide
+juror_a,COL-w43,"valle de aburrá, antioquia · 20 oct · taxi driver shot dead in attempted robbery",criminal_homicide
 juror_a,COL-w43,"ábrego, norte de santander · 23 oct · farm robbery victim dies",criminal_homicide
 juror_a,ETH-w42,"arsi zone, oromia · 12–17 oct · attacks kill 6 orthodox christians",attack_on_civilians
 juror_a,ETH-w42,"dangur, metekel · 14 oct · armed attack kills red cross ambulance driver",attack_on_civilians
@@ -112,9 +114,12 @@ juror_a,NGA-w40,"adamawa · 1 oct · army repels attacks on bases, 16 militants 
 juror_a,NGA-w40,"aguleri, anambra · 2 oct · land clash kills 1",mob_or_riot
 juror_a,NGA-w40,bauchi · 4 oct · former apc women's leader murdered,criminal_homicide
 juror_a,NGA-w40,benue · 1 oct · ndc chairman killed by attackers,criminal_homicide
+juror_a,NGA-w40,"bokkos, plateau · 4 oct · attacks kill 28 despite curfew",attack_on_civilians
 juror_a,NGA-w40,"bokkos, plateau · 4 oct · fulani gunmen kill 2 christians",attack_on_civilians
 juror_a,NGA-w40,"bukuru, jos south · 4 oct · gunmen kill trader",attack_on_civilians
 juror_a,NGA-w40,enugu · 1 oct · task force officials kill tricycle driver,security_force_killing
+juror_a,NGA-w40,enugu · 1 oct · woman murdered by boyfriend,criminal_homicide
+juror_a,NGA-w40,"ibadan · 3 oct · murder and armed robbery, three suspects arrested",criminal_homicide
 juror_a,NGA-w40,"kaduna · 1 oct · bandits kill man, abduct family",attack_on_civilians
 juror_a,NGA-w40,kano · 1 oct · bandits abduct and kill village head,criminal_homicide
 juror_a,NGA-w40,kebbi–niger border · 1 oct · bandits kill 3 vigilantes,battle
@@ -122,21 +127,26 @@ juror_a,NGA-w40,"kuru jenta, plateau · 2 oct · gunmen kill 2 at mining site",c
 juror_a,NGA-w40,lagos · 2 oct · cult clash kills 1,battle
 juror_a,NGA-w40,"marte, borno · 1 oct · boko haram kills 15 villagers gathering firewood",attack_on_civilians
 juror_a,NGA-w40,"minna, niger state · 3 oct · vigilante-youth clash kills 3",mob_or_riot
+juror_a,NGA-w40,"minna, niger state · 4 oct · youths block road, three killed in protest",mob_or_riot
 juror_a,NGA-w40,nigeria · 4 oct · soldier's bullet kills student,security_force_killing
 juror_a,NGA-w40,"osogbo, osun · 2 oct · cult clash kills 2",battle
 juror_a,NGA-w40,"otuocha, anambra · 3 oct · aguleri–umuoba-anam clash kills 5",mob_or_riot
+juror_a,NGA-w40,"oyo · 3 oct · woman killed, three suspects arrested",criminal_homicide
 juror_a,NGA-w40,plateau · 4 oct · gunmen kill two miners at mining site,attack_on_civilians
 juror_a,NGA-w40,rivers · 2 oct · man kills father with machete,criminal_homicide
 juror_a,NGA-w40,"ungushi, sokoto · 4 oct · lakurawa attack kills 2",attack_on_civilians
 juror_a,NGA-w40,"wereng, plateau · 1 oct · teenager shot dead by militia",attack_on_civilians
 juror_a,NGA-w40,zamfara · 1 oct · kidnappers kill parents and driver,criminal_homicide
+juror_a,PAK-w43,"bajaur, kp · 23 oct · three killed in attack",attack_on_civilians
 juror_a,PAK-w43,balochistan · 20 oct · attack on death squad base kills 8,battle
 juror_a,PAK-w43,balochistan · 21 oct · drone strikes kill three civilians,remote_violence
 juror_a,PAK-w43,"balochistan · 24 oct · baloch rebel strike, several killed",battle
 juror_a,PAK-w43,balochistan · 25 oct · four bodies recovered after forces detain six,security_force_killing
 juror_a,PAK-w43,"chagai, balochistan · 25 oct · clashes kill 10 soldiers and 2 bla fighters",battle
 juror_a,PAK-w43,"charpira, karak, kp · 22 oct · gunbattle kills 4 police, 2 militants",battle
+juror_a,PAK-w43,"civil lines, punjab · 19 oct · businessman shot dead chasing carjackers",criminal_homicide
 juror_a,PAK-w43,"dera ismail khan · 24 oct · ibo kills 6 militants, 2 soldiers",battle
+juror_a,PAK-w43,"faisalabad, punjab · 22 oct · industrialist mian rehan murdered",criminal_homicide
 juror_a,PAK-w43,"gujranwala, punjab · 25 oct · bride shot dead after marriage proposal",criminal_homicide
 juror_a,PAK-w43,"gujrat, punjab · 22 oct · man stabs brother to death",criminal_homicide
 juror_a,PAK-w43,gwadar · 22 oct · clearance operation kills 10 militants,battle
@@ -146,8 +156,13 @@ juror_a,PAK-w43,islamabad · 20 oct · laiba ijaz case suspect killed in firing,
 juror_a,PAK-w43,islamabad · 25 oct · five suspects killed in police encounters,security_force_killing
 juror_a,PAK-w43,islamabad · 25 oct · two afghan suspects killed in police encounter,security_force_killing
 juror_a,PAK-w43,islamabad · 26 oct · police encounter kills two suspected outlaws,security_force_killing
+juror_a,PAK-w43,karachi · 21 oct · husband arrested for killing wife,criminal_homicide
 juror_a,PAK-w43,karachi · 25 oct · husband shoots wife dead,criminal_homicide
+juror_a,PAK-w43,"karachi, shah faisal colony · 23 oct · three robbers killed in shootouts",criminal_homicide
+juror_a,PAK-w43,"kech, balochistan · 22 oct · intelligence operation kills terrorist",battle
+juror_a,PAK-w43,"khuzdar, balochistan · 20 oct · joint operation kills 5 terrorists",battle
 juror_a,PAK-w43,khyber pakhtunkhwa · 25 oct · commander and civilian killed in separate incidents,security_force_killing
+juror_a,PAK-w43,"kohad, balochistan · 25 oct · missing youth found dead",attack_on_civilians
 juror_a,PAK-w43,"kohat, kp · 20 oct · police kill mastermind of kohat suicide attack",security_force_killing
 juror_a,PAK-w43,"kurram / north waziristan border · 24 oct · cross-border clashes kill 5 soldiers, 25 fighters",battle
 juror_a,PAK-w43,"miranshah, north waziristan · 20 oct · gunmen kill police officer",attack_on_civilians
@@ -159,6 +174,7 @@ juror_a,PAK-w43,"panjpai, balochistan · 21 oct · clashes kill 14 personnel",ba
 juror_a,PAK-w43,"pasni, gwadar · 19 oct · ied kills major wajahat waheed; militants killed in operations",remote_violence
 juror_a,PAK-w43,"qila saifullah, balochistan · 25 oct · commander killed in ibo",security_force_killing
 juror_a,PAK-w43,quetta · 24 oct · police accused of killing son and friend,criminal_homicide
+juror_a,PAK-w43,"rawalpindi, punjab · 23 oct · hina javed tortured to death",criminal_homicide
 juror_a,PAK-w43,"shahdadpur, sindh · 24 oct · newlywed couple murdered",criminal_homicide
 juror_a,PAK-w43,"sheikhupura, punjab · 21 oct · 12-year-old domestic worker dies after abuse",criminal_homicide
 juror_a,PAK-w43,"sheikhupura, punjab · 25 oct · man kills three women in custody dispute",criminal_homicide
@@ -187,11 +203,13 @@ juror_a,R2-BRA-w41,brazil · 7 oct · former inmate executed,criminal_homicide
 juror_a,R2-BRA-w41,"brazil · 7 oct · gunmen force victim to run, then execute him",criminal_homicide
 juror_a,R2-BRA-w41,brazil · 9 oct · four suspected gang members killed in clash,battle
 juror_a,R2-BRA-w41,brazil · 9 oct · military police sergeant killed in robbery; suspect identified,criminal_homicide
+juror_a,R2-BRA-w41,brazil · 9 oct · plastic surgeon shot dead in own clinic,criminal_homicide
 juror_a,R2-BRA-w41,"brazil · 9 oct · venezuelan man accused of killing partner, arrested",criminal_homicide
 juror_a,R2-BRA-w41,"brazil · oct · 18-year-old killed, argentine fugitive arrested",criminal_homicide
 juror_a,R2-BRA-w41,"cajobi, são paulo · 10 oct · 26-year-old shot dead on street",criminal_homicide
 juror_a,R2-BRA-w41,"caxias do sul, rio grande do sul · 6 oct · woman killed, femicide",criminal_homicide
 juror_a,R2-BRA-w41,"caxias, rio de janeiro · 9 oct · police clash kills two men",security_force_killing
+juror_a,R2-BRA-w41,"caçapava, são paulo · 5 oct · man murdered outside liquor store",criminal_homicide
 juror_a,R2-BRA-w41,"ceará · 9 oct · man shot dead, teen detained",criminal_homicide
 juror_a,R2-BRA-w41,"compensa, manaus · 5 oct · man shot dead leaving his house on motorcycle",criminal_homicide
 juror_a,R2-BRA-w41,"crato, ceará · 9 oct · school doorman killed, teen detained",criminal_homicide
@@ -237,6 +255,7 @@ juror_a,R2-BRA-w41,"santana, amapá · 6 oct · two men killed, hands tied, exec
 juror_a,R2-BRA-w41,"santo andré, são paulo · 7 oct · gunman killed in shootout during home hostage-taking",security_force_killing
 juror_a,R2-BRA-w41,"saquarema, rio de janeiro · 9 oct · surfer and five others shot; target killed",criminal_homicide
 juror_a,R2-BRA-w41,"serra, espírito santo · 5 oct · firefighter sergeant stabbed to death",criminal_homicide
+juror_a,R2-BRA-w41,"são joão da boa vista, são paulo · 8 oct · judge found dead in burning car",criminal_homicide
 juror_a,R2-BRA-w41,são paulo · 10 oct · young man killed by police who mistook phone for gun,security_force_killing
 juror_a,R2-BRA-w41,são paulo · 7 oct · five bodies wrapped in plastic found,criminal_homicide
 juror_a,R2-BRA-w41,são paulo · oct · boulos's uncle run over in traffic dispute,criminal_homicide
@@ -251,6 +270,7 @@ juror_a,R2-BRA-w41,"várzea grande, mato grosso · 5 oct · man executed with ei
 juror_a,R2-BRA-w41,"várzea grande, mato grosso · 9 oct · body found in swamp; homicide probe",criminal_homicide
 juror_a,R2-BRA-w41,"zona sul, são paulo · 10 oct · suspect killed in police chase",security_force_killing
 juror_a,R2-BRA-w42,acre · 16 oct · 37-year-old shot dead,criminal_homicide
+juror_a,R2-BRA-w42,"afrânio, pernambuco · 15 oct · motorcycle shop owner shot dead",criminal_homicide
 juror_a,R2-BRA-w42,alagoas · 13–14 oct · man shot and hacked to death; suspects arrested,criminal_homicide
 juror_a,R2-BRA-w42,alagoas · 20 oct · couple executes man and woman,criminal_homicide
 juror_a,R2-BRA-w42,alagoas · 20 oct · threatened man found dead in cane field,criminal_homicide
@@ -273,11 +293,13 @@ juror_a,R2-BRA-w42,brazil · 13 oct · police kill two men,security_force_killin
 juror_a,R2-BRA-w42,brazil · 13–14 oct · man kills ex-partner's father and brother,criminal_homicide
 juror_a,R2-BRA-w42,brazil · 13–14 oct · teen girl stabbed defending grandmother,criminal_homicide
 juror_a,R2-BRA-w42,brazil · 13–14 oct · woman shot dead by partner; daughter wounded,criminal_homicide
+juror_a,R2-BRA-w42,brazil · 14 oct · inmate killed in prison faction clash,battle
 juror_a,R2-BRA-w42,brazil · 14–15 oct · trafficker dies in clash with military police,security_force_killing
 juror_a,R2-BRA-w42,brazil · 15–16 oct · party fight; victim chased and killed,criminal_homicide
 juror_a,R2-BRA-w42,brazil · 15–16 oct · pcc-linked father killed on order of cv-linked daughter,attack_on_civilians
 juror_a,R2-BRA-w42,brazil · 15–16 oct · police officer kills 3 during psychotic episode,security_force_killing
 juror_a,R2-BRA-w42,brazil · 15–16 oct · two tire-shop workers stabbed to death,criminal_homicide
+juror_a,R2-BRA-w42,brazil · 16 oct · police kill man holding 13 children hostage at school,security_force_killing
 juror_a,R2-BRA-w42,brazil · 17–18 oct · young man stabbed in neck at drinking session,criminal_homicide
 juror_a,R2-BRA-w42,brazil · 18 oct · parolee shot dead by car occupants,criminal_homicide
 juror_a,R2-BRA-w42,brazil · 19 oct · ana clara killed by ex-partner,criminal_homicide
@@ -286,8 +308,10 @@ juror_a,R2-BRA-w42,brazil · 19 oct · delivery worker killed in gang feud,battl
 juror_a,R2-BRA-w42,brazil · 19 oct · police officer kills 32-year-old woman,criminal_homicide
 juror_a,R2-BRA-w42,brazil · 20 oct · convicted man 'metralha' shot dead at home,criminal_homicide
 juror_a,R2-BRA-w42,brazil · 21 oct · missing 19-year-old found buried,criminal_homicide
+juror_a,R2-BRA-w42,"buriti, maranhão · 13 oct · faction member kills man, suspect arrested",criminal_homicide
 juror_a,R2-BRA-w42,caicó · 15–16 oct · elderly woman shot dead at her door,criminal_homicide
 juror_a,R2-BRA-w42,"cambará, roraima · 18 oct · robber shot dead by reserve officer",criminal_homicide
+juror_a,R2-BRA-w42,"campina grande, paraíba · 12 oct · man killed in police chase shootout",security_force_killing
 juror_a,R2-BRA-w42,"campinas area, são paulo · 21 oct · gang member killed by police near viracopos",security_force_killing
 juror_a,R2-BRA-w42,campo grande · 17–18 oct · man shot dead in home robbery,criminal_homicide
 juror_a,R2-BRA-w42,campo grande · 17–18 oct · young man stabbed to death,criminal_homicide
@@ -301,6 +325,7 @@ juror_a,R2-BRA-w42,"curitiba area, paraná · 13 oct · barber executed",crimina
 juror_a,R2-BRA-w42,"espírito santo · 17 oct · pregnant woman killed, rape suspect confesses",criminal_homicide
 juror_a,R2-BRA-w42,"eunápolis, bahia · 14 oct · police clash kills 3",security_force_killing
 juror_a,R2-BRA-w42,"george américo, feira de santana · 12 oct · gunfire kills man, wounds woman",criminal_homicide
+juror_a,R2-BRA-w42,"grande bh, minas gerais · 13 oct · man executed by shooting; suspect sought",criminal_homicide
 juror_a,R2-BRA-w42,"guarabira, paraíba · 16–17 oct · merchant killed in attempted robbery",criminal_homicide
 juror_a,R2-BRA-w42,"guaratiba, rio · 12–13 oct · teenager killed; suspect arrested",criminal_homicide
 juror_a,R2-BRA-w42,"guarujá, são paulo · 17 oct · police operation leaves 2 dead, pm base attacked",battle
@@ -317,6 +342,7 @@ juror_a,R2-BRA-w42,"macapá, amapá · 21 oct · young man shot dead in muca",cr
 juror_a,R2-BRA-w42,maceió · 15 oct · 15-year-old dies in knife attack,criminal_homicide
 juror_a,R2-BRA-w42,"maceió, alagoas · 13 oct · 26-year-old man killed in benedito bentes",criminal_homicide
 juror_a,R2-BRA-w42,"manaus · 16 oct · merchant killed, suspects arrested",criminal_homicide
+juror_a,R2-BRA-w42,manaus · 17 oct · man stabs ex-brother-in-law to death,criminal_homicide
 juror_a,R2-BRA-w42,"manaus, amazonas · 13 oct · man shoots partner, dumps body",criminal_homicide
 juror_a,R2-BRA-w42,"manguinhos, rio · 11–12 oct · shooting at teen party kills 1, wounds 3",criminal_homicide
 juror_a,R2-BRA-w42,maranhão · 12 oct · three men killed at birthday party,criminal_homicide
@@ -329,6 +355,7 @@ juror_a,R2-BRA-w42,mato grosso do sul · 16 oct · suspect killed in police clas
 juror_a,R2-BRA-w42,mato grosso · 13–14 oct · young man killed by gang after lawyer led him there,attack_on_civilians
 juror_a,R2-BRA-w42,"minas gerais · 21 oct · man kills wife, hides body",criminal_homicide
 juror_a,R2-BRA-w42,"natal area, rio grande do norte · 14 oct · police sergeant and wife found dead",criminal_homicide
+juror_a,R2-BRA-w42,"nova iguaçu, rio de janeiro · 15 oct · truck driver shot dead in robbery",criminal_homicide
 juror_a,R2-BRA-w42,palmas · 18 oct · man shot dead in south palmas,criminal_homicide
 juror_a,R2-BRA-w42,paraná · 16–17 oct · child rapist killed in police shootout,security_force_killing
 juror_a,R2-BRA-w42,"paraná · 16–17 oct · rural producer found dead, hands tied",criminal_homicide
@@ -358,10 +385,12 @@ juror_a,R2-BRA-w42,são luís · 14–15 oct · 23-year-old shot dead in executi
 juror_a,R2-BRA-w42,são paulo marginal highway · 21 oct · dismembered body found after gunfire,criminal_homicide
 juror_a,R2-BRA-w42,são paulo · 13 oct · fake-lawyer gang leader stabbed to death,criminal_homicide
 juror_a,R2-BRA-w42,"são paulo · 13 oct · gustavo munis killed by police, 27-45 shots",security_force_killing
+juror_a,R2-BRA-w42,são paulo · 13 oct · man in psychotic episode killed by pms with 24 shots,security_force_killing
 juror_a,R2-BRA-w42,são paulo · 13 oct · police officer accused of killing medical student in hotel,criminal_homicide
 juror_a,R2-BRA-w42,são paulo · 14 oct · body wrapped in blanket found,criminal_homicide
 juror_a,R2-BRA-w42,são paulo · 15 oct · three robbery suspects killed by police at matsunaga home,security_force_killing
 juror_a,R2-BRA-w42,são paulo · 16 oct · woman in crisis shot dead by military police,security_force_killing
+juror_a,R2-BRA-w42,são paulo · 17 oct · young man shot dead by police who mistook phone for gun,security_force_killing
 juror_a,R2-BRA-w42,são paulo · 20 oct · bolivian man stabbed in phone robbery,criminal_homicide
 juror_a,R2-BRA-w42,"tauá, ceará · 13 oct · two sisters killed by fake police",attack_on_civilians
 juror_a,R2-BRA-w42,"três rios, rio de janeiro · 15 oct · young man shot dead, brothers arrested",criminal_homicide
@@ -370,6 +399,8 @@ juror_a,R2-BRA-w42,"ville roy, boa vista · 14 oct · runner killed by driver, c
 juror_a,R2-BRA-w42,"votouro, rio grande do sul · 13 oct · indigenous land conflict kills 3",battle
 juror_a,R2-BRA-w43,alagoas · 20 oct · couple arrested for executing man and woman,criminal_homicide
 juror_a,R2-BRA-w43,alagoas · 20 oct · threatened man found dead in cane field,criminal_homicide
+juror_a,R2-BRA-w43,alagoas · 24 oct · trans ex-council candidate shot dead,criminal_homicide
+juror_a,R2-BRA-w43,"anápolis, goiás · 19 oct · school coordinator dies after student attack",criminal_homicide
 juror_a,R2-BRA-w43,"aracaju, sergipe · 26 oct · homicide suspects sought in zona norte",criminal_homicide
 juror_a,R2-BRA-w43,"avenida brasil, rio de janeiro · 20 oct · queimados secretary shot dead in police stop",security_force_killing
 juror_a,R2-BRA-w43,axixá · 22 oct · man shot dead by hooded gunmen,criminal_homicide
@@ -410,7 +441,9 @@ juror_a,R2-BRA-w43,"macapá, amapá · 19 oct · young man executed by gunfire",
 juror_a,R2-BRA-w43,"macapá, amapá · 21 oct · young man shot dead in muca",criminal_homicide
 juror_a,R2-BRA-w43,"macapá, amapá · 22 oct · man 'chapolin' shot dead",criminal_homicide
 juror_a,R2-BRA-w43,"maceió, alagoas · 20 oct · 24-year-old killed in square",criminal_homicide
+juror_a,R2-BRA-w43,manaus · 21 oct · painter shot dead at home,criminal_homicide
 juror_a,R2-BRA-w43,maranhão · 20 oct · professor killed by his own brother,criminal_homicide
+juror_a,R2-BRA-w43,"marginal tietê, são paulo · 21 oct · pm kills suspect in clash on highway",security_force_killing
 juror_a,R2-BRA-w43,"marginal tietê, são paulo · 21 oct · woman found dismembered on highway",criminal_homicide
 juror_a,R2-BRA-w43,"mato grosso do sul · 22 oct · neighbor killed, suspect's defense cites feud",criminal_homicide
 juror_a,R2-BRA-w43,mato grosso do sul · 23 oct · men posing as police kill resident at home,criminal_homicide
@@ -419,7 +452,9 @@ juror_a,R2-BRA-w43,"minas gerais · 19 oct · youth killed, suspect arrested aft
 juror_a,R2-BRA-w43,minas gerais · 21 oct · man kills wife and posts crime online,criminal_homicide
 juror_a,R2-BRA-w43,minas gerais · 22 oct · suspect in teen killing dies in police shootout,security_force_killing
 juror_a,R2-BRA-w43,minas gerais · 26 oct · elderly man killed over debt demand,criminal_homicide
+juror_a,R2-BRA-w43,"monte azul paulista, são paulo · 23 oct · security guard killed by suspects",criminal_homicide
 juror_a,R2-BRA-w43,"nova iguaçu, rio de janeiro · 22 oct · femicide suspect claims victim self-injured",criminal_homicide
+juror_a,R2-BRA-w43,"nunes freire, maranhão · 19 oct · alleged drug boss shot dead with girlfriend",criminal_homicide
 juror_a,R2-BRA-w43,"palmeira dos índios, alagoas · 20 oct · woman killed; suspect arrested",criminal_homicide
 juror_a,R2-BRA-w43,paraná · 21 oct · man shot dead over cellphone-sale debt,criminal_homicide
 juror_a,R2-BRA-w43,paraná · 21 oct · woman found dead; boyfriend arrested,criminal_homicide
@@ -427,6 +462,7 @@ juror_a,R2-BRA-w43,"petrópolis, rio de janeiro · 21 oct · shooting kills one,
 juror_a,R2-BRA-w43,"potirendaba, são paulo · 25 oct · man stabbed to death",criminal_homicide
 juror_a,R2-BRA-w43,"recife, pernambuco · 25 oct · man kills city employee during vote count",criminal_homicide
 juror_a,R2-BRA-w43,"recôncavo, bahia · 22 oct · businessman shoots wife dead at home",criminal_homicide
+juror_a,R2-BRA-w43,rio de janeiro · 21 oct · driver runs over and kills soup seller,criminal_homicide
 juror_a,R2-BRA-w43,rio de janeiro · 21 oct · woman poisons and dismembers partner,criminal_homicide
 juror_a,R2-BRA-w43,rio de janeiro · 22 oct · lawyer shot dead outside oab-rj,criminal_homicide
 juror_a,R2-BRA-w43,rio de janeiro · 22 oct · robbery gang leader killed in police pursuit,security_force_killing
@@ -434,7 +470,9 @@ juror_a,R2-BRA-w43,"rio preto, são paulo · 20 oct · 22-year-old shot dead ove
 juror_a,R2-BRA-w43,rondônia · 20 oct · woman suspected of killing husband sought,criminal_homicide
 juror_a,R2-BRA-w43,santa catarina · 20 oct · three charred bodies found,other
 juror_a,R2-BRA-w43,"santos, são paulo · 24 oct · engineer beaten at pro-lula rally dies",criminal_homicide
+juror_a,R2-BRA-w43,"sarzedo, minas gerais · 19 oct · young drug suspect dies in clash with military police",security_force_killing
 juror_a,R2-BRA-w43,"sepetiba, rio de janeiro · 23 oct · man shot dead on estrada do piaí",criminal_homicide
+juror_a,R2-BRA-w43,"são josé, santa catarina · 23 oct · man stabs new wife to death",criminal_homicide
 juror_a,R2-BRA-w43,"são luís, maranhão · 23 oct · woman dies from gunshot wound to head",criminal_homicide
 juror_a,R2-BRA-w43,"são paulo · 24 oct · baiano found dead, part of 17-death series",criminal_homicide
 juror_a,R2-BRA-w43,"são paulo · 24 oct · pai de santo shot dead at home, zona norte",criminal_homicide
@@ -445,6 +483,7 @@ juror_a,R2-BRA-w43,"timon, maranhão · 24 oct · young man killed by armed grou
 juror_a,R2-BRA-w43,"uberaba, minas gerais · 22 oct · man shot over debt dies",criminal_homicide
 juror_a,R2-BRA-w43,"via norte, ribeirão preto · 21 oct · police operation kills 2 suspects",security_force_killing
 juror_a,R2-BRA-w43,"viracopos, campinas · 21 oct · police kill gang member",security_force_killing
+juror_a,R2-BRA-w43,"vitorino freire, maranhão · 19 oct · news page administrator shot dead",criminal_homicide
 juror_a,R2-BRA-w43,"volta redonda, rio de janeiro · 25 oct · clashes leave dead, vehicles burned",battle
 juror_a,R2-BRA-w43,"várzea grande, mato grosso · 20 oct · woman stabbed to death by partner in supermarket",criminal_homicide
 juror_a,R2-BRA-w43,"zona leste, são paulo · 20 oct · police officer shoots knife-wielding woman dead",security_force_killing
@@ -456,10 +495,13 @@ juror_a,R2-CMR-w42,"nkwen, bamenda · 14 oct · girl killed, journalist shot at 
 juror_a,R2-CMR-w42,obala · ~11 oct · farmhand kills boss over cocoa proceeds,criminal_homicide
 juror_a,R2-COL-w32,"abejorral, antioquia · 7 aug · three men killed in massacre",attack_on_civilians
 juror_a,R2-COL-w32,"aguachica, cesar · 4 aug · woman shot dead in bar",criminal_homicide
+juror_a,R2-COL-w32,"anolaima, cundinamarca · 9 aug · 20-month-old baby dies, stepfather arrested",criminal_homicide
 juror_a,R2-COL-w32,"armenia, quindío · 5 aug · homicide in city centre",criminal_homicide
 juror_a,R2-COL-w32,arroyohondo · 7 aug · eder ramos found dead with facial injury,criminal_homicide
 juror_a,R2-COL-w32,barranquilla · 3 aug · 17-year-old girl shot dead with mini uzi,criminal_homicide
+juror_a,R2-COL-w32,barranquilla · 5 aug · hitman feigns patient to kill in icu,criminal_homicide
 juror_a,R2-COL-w32,barranquilla · 6 aug · mother of three shot dead,criminal_homicide
+juror_a,R2-COL-w32,"barranquilla · 6 aug · venezuelan woman shot dead, caribe verde",criminal_homicide
 juror_a,R2-COL-w32,bogotá · 6 aug · rideshare driver murdered for his car,criminal_homicide
 juror_a,R2-COL-w32,"bosa, bogotá · 4 aug · man kills ex-partner",criminal_homicide
 juror_a,R2-COL-w32,"briceño, antioquia · 3 aug · drone clashes kill three",remote_violence
@@ -471,12 +513,15 @@ juror_a,R2-COL-w32,colombia · 2–3 aug · alias 'mojarra' killed by hitmen in 
 juror_a,R2-COL-w32,"colombia · 4 aug · us flight attendant found dead, two arrested",criminal_homicide
 juror_a,R2-COL-w32,colombia · 7 aug · journalist carlos sourdis pinedo found dead at home,criminal_homicide
 juror_a,R2-COL-w32,"colombia · 8 aug · helen nicoll martínez, 20, killed while visiting her mother",criminal_homicide
+juror_a,R2-COL-w32,colombia · 8 aug · police chief killed as prisoner transfer attacked,attack_on_civilians
 juror_a,R2-COL-w32,"comuneros ii, cali · 3 aug · armed attack kills two, aged 13 and 23",criminal_homicide
 juror_a,R2-COL-w32,cúcuta · 7–8 aug · venezuelan woman murdered,criminal_homicide
+juror_a,R2-COL-w32,"envigado, antioquia · 3 aug · merchant shot dead leaving armored suv",criminal_homicide
 juror_a,R2-COL-w32,"florida, valle del cauca · 3 aug · indigenous governor and two others killed",attack_on_civilians
 juror_a,R2-COL-w32,"fortalecillas, neiva · 9 aug · brawl kills josé salazar",mob_or_riot
 juror_a,R2-COL-w32,fusagasugá · 3 aug · gunman kills two in downtown bar,criminal_homicide
 juror_a,R2-COL-w32,"girón, santander · 6 aug · inpec prison guard shot dead",criminal_homicide
+juror_a,R2-COL-w32,"ibagué, tolima · 9 aug · brawl leaves one dead, two injured",mob_or_riot
 juror_a,R2-COL-w32,"los olivos, colombia · 5 aug · man, 32, shot dead",criminal_homicide
 juror_a,R2-COL-w32,maicao · 5 aug · two men murdered inside vehicle,criminal_homicide
 juror_a,R2-COL-w32,"malambo, atlántico · 7 aug · hitman kills one man",criminal_homicide
@@ -491,15 +536,23 @@ juror_a,R2-COL-w32,"san roque, cesar · 8 aug · explosive attack on police subs
 juror_a,R2-COL-w32,soledad · 4 aug · 17-year-old mototaxi driver murdered,criminal_homicide
 juror_a,R2-COL-w32,"tolima · 3 aug · two police officers killed, reward offered",attack_on_civilians
 juror_a,R2-COL-w32,"usme, bogotá · 8 aug · body found in hammock, three arrested",criminal_homicide
+juror_a,R2-COL-w32,"viva palmas, antioquia · 3 aug · businessman shot dead, partner dispute",criminal_homicide
+juror_a,R2-COL-w36,barranquilla · 2 sep · armando pérez ortega found dead,criminal_homicide
 juror_a,R2-COL-w36,barranquilla · 2 sep · hitman kills josé luis samera,criminal_homicide
 juror_a,R2-COL-w36,barranquilla · 3 sep · venezuelan woman dies after beating,criminal_homicide
 juror_a,R2-COL-w36,"barranquilla · 4 sep · gunfire kills 1, injures 2",criminal_homicide
 juror_a,R2-COL-w36,"barranquilla · late aug · woman impaled, dies",criminal_homicide
 juror_a,R2-COL-w36,"belén, cali · 3 sep · double homicide",criminal_homicide
+juror_a,R2-COL-w36,bogotá · 2 sep · man shot in head found under bridge,criminal_homicide
+juror_a,R2-COL-w36,bogotá · 3 sep · santa fe fan stabbed to death,criminal_homicide
+juror_a,R2-COL-w36,bogotá · 31 aug · businessman gustavo aponte and escort shot dead,criminal_homicide
 juror_a,R2-COL-w36,bogotá · 4 sep · retired police officer shot dead in robbery attempt,criminal_homicide
+juror_a,R2-COL-w36,bogotá · 4 sep · three adults found dead in apartment,other
 juror_a,R2-COL-w36,"buriticá, antioquia · 1 sep · girl found dead, suspected killing",criminal_homicide
 juror_a,R2-COL-w36,"cali, valle del cauca · 4 sep · social leader alejandra moreno killed",criminal_homicide
 juror_a,R2-COL-w36,"cali, valle del cauca · 6 sep · massacre, 3 killed",attack_on_civilians
+juror_a,R2-COL-w36,caquetá · 31 aug · army bombing kills 8 at mordisco camp,remote_violence
+juror_a,R2-COL-w36,casanare · 4 sep · soldier shoots two comrades at military base,security_force_killing
 juror_a,R2-COL-w36,cauca · 2 sep · social leaders maría ovidia palechor and james flor killed,attack_on_civilians
 juror_a,R2-COL-w36,cauca · 5 sep · dissident attack kills soldier,battle
 juror_a,R2-COL-w36,"ciudad jardín, barranquilla · 2 sep · gunman attack kills escort and hitman",criminal_homicide
@@ -507,10 +560,15 @@ juror_a,R2-COL-w36,colombia · 4 sep · professor murdered and dismembered,crimi
 juror_a,R2-COL-w36,colombia · 4 sep · sicario kills juan carlos martínez at home,criminal_homicide
 juror_a,R2-COL-w36,"cáceres, antioquia · 2 sep · massacre, 3 killed",attack_on_civilians
 juror_a,R2-COL-w36,cúcuta · 5 sep · gunman kills shopkeeper's wife in hardware store,criminal_homicide
+juror_a,R2-COL-w36,"dagua, valle del cauca · 31 aug · dissident leader alias felipe killed",battle
+juror_a,R2-COL-w36,"galapa, sucre · 2 sep · shooting kills 1",criminal_homicide
 juror_a,R2-COL-w36,guaviare · 3 sep · two minors killed in military bombing,remote_violence
 juror_a,R2-COL-w36,huila · 4 sep · calarcá gunman kills four,attack_on_civilians
+juror_a,R2-COL-w36,"jamundí, valle del cauca · 31 aug · social leader shot dead at home",attack_on_civilians
 juror_a,R2-COL-w36,"los patios, norte de santander · 1 sep · car bomb at police station kills 1",remote_violence
+juror_a,R2-COL-w36,"medellín · 5 sep · trans woman found dead, death investigated",criminal_homicide
 juror_a,R2-COL-w36,"miraflores, guaviare · 31 aug · azarías airstrike kills dissidents",remote_violence
+juror_a,R2-COL-w36,nariño · 3 sep · army kills voto fusil cabecilla,battle
 juror_a,R2-COL-w36,"obando, valle del cauca · 4 sep · gun attack kills 3",criminal_homicide
 juror_a,R2-COL-w36,"ocaña, norte de santander · 2 sep · shootout kills three",criminal_homicide
 juror_a,R2-COL-w36,"ocaña, norte de santander · 4 sep · eln drone attack kills 3 soldiers",remote_violence
@@ -519,35 +577,49 @@ juror_a,R2-COL-w36,"puerto asís, putumayo · 4 sep · police officer kills coll
 juror_a,R2-COL-w36,"riohacha, la guajira · 4 sep · police-army raid kills acsn leader 'bendito menor' and 3",security_force_killing
 juror_a,R2-COL-w36,"samaniego, nariño · early sep · peace signatory killed",attack_on_civilians
 juror_a,R2-COL-w36,southwest colombia · 1 sep · two social leaders killed,attack_on_civilians
+juror_a,R2-COL-w36,"tibú, norte de santander · 31 aug · bombing kills three minors",remote_violence
+juror_a,R2-COL-w36,"tuluá, valle del cauca · 31 aug · soldier killed in combat",battle
 juror_a,R2-COL-w36,"ubaté, cundinamarca · early sep · chef stabbed to death",criminal_homicide
 juror_a,R2-COL-w36,"usaquén, bogotá · 3 sep · gunmen shoot businessman",criminal_homicide
 juror_a,R2-COL-w36,"zona bananera, magdalena · 31 aug · motorcyclists kill two",criminal_homicide
 juror_a,R2-COL-w37,alcalá · ~10 sep · woman dies after being shot,criminal_homicide
 juror_a,R2-COL-w37,"anorí, antioquia · ~7 sep · eight people held, three killed",attack_on_civilians
 juror_a,R2-COL-w37,"argelia, cauca · ~10 sep · two bodies found with message",criminal_homicide
+juror_a,R2-COL-w37,barranquilla · 10 sep · leonel de las reyes shot dead,criminal_homicide
+juror_a,R2-COL-w37,barranquilla · 7 sep · massacre of three inside an establishment,remote_violence
+juror_a,R2-COL-w37,barranquilla · 8 sep · yudelkys martínez dies after assault by four women,criminal_homicide
+juror_a,R2-COL-w37,"briceño, antioquia · 12 sep · journalist mateo pérez killed",attack_on_civilians
 juror_a,R2-COL-w37,"cali, valle del cauca · ~7 sep · armed attack on bar kills three",criminal_homicide
 juror_a,R2-COL-w37,"caucasia, antioquia · ~12 sep · clash leaves one dead, three captured (clan del golfo)",battle
 juror_a,R2-COL-w37,colombia · 10 sep · yanakuna leaders maría ovidia palechor and james flor murdered,attack_on_civilians
 juror_a,R2-COL-w37,colombia · 12 sep · crime figure killed after plea deal,criminal_homicide
+juror_a,R2-COL-w37,colombia · 7 sep · clashes kill seven guerrillas and a soldier,battle
 juror_a,R2-COL-w37,colombia · ~12 sep · police officer josé david ahumada killed in attack,criminal_homicide
 juror_a,R2-COL-w37,"cúcuta, norte de santander · 11 sep · shopkeeper 'pito' shot dead",criminal_homicide
+juror_a,R2-COL-w37,"divino niño, valle del cauca · 10 sep · sijin intendente killed",criminal_homicide
+juror_a,R2-COL-w37,"dosquebradas, risaralda · 12 sep · gunmen shoot dead alleged los costeños member",criminal_homicide
 juror_a,R2-COL-w37,"el peñol, nariño · 12 sep · forces kill seven farc dissidents",battle
 juror_a,R2-COL-w37,"la gloria, cesar · 13 sep · massacre kills 4",attack_on_civilians
 juror_a,R2-COL-w37,"medellín, antioquia · 12 sep · cellphone dispute ends in fatal shooting",criminal_homicide
 juror_a,R2-COL-w37,"mocoa, putumayo · ~9 sep · massacre kills 3",attack_on_civilians
 juror_a,R2-COL-w37,"morales, cauca · ~10 sep · indigenous guard member murdered",attack_on_civilians
+juror_a,R2-COL-w37,nariño · 8 sep · army kills seven farc dissidents,battle
 juror_a,R2-COL-w37,northeastern colombia · 7 sep · drone swarm attack kills three soldiers,remote_violence
 juror_a,R2-COL-w37,"panamericana, cauca–nariño · 7 sep · attack on army troops kills soldier",battle
 juror_a,R2-COL-w37,"pitalito, huila · 10 sep · hitmen kill man",criminal_homicide
 juror_a,R2-COL-w37,"remedios, antioquia · ~12 sep · social leader murdered, 21 people displaced",attack_on_civilians
 juror_a,R2-COL-w37,"rovira, tolima · ~10 sep · armed attack on farm kills two",criminal_homicide
 juror_a,R2-COL-w37,"san andrés de cuerquia, antioquia · 13 sep · farc dissident killed in clash with army",battle
+juror_a,R2-COL-w37,"soacha, cundinamarca · 9 sep · body found dead in el danubio",criminal_homicide
 juror_a,R2-COL-w37,"timbiquí, cauca · ~12 sep · police officer killed at station",attack_on_civilians
 juror_a,R2-COL-w37,"tolima · ~11 sep · social leader murdered, body found with signs of violence",attack_on_civilians
+juror_a,R2-COL-w37,"villavicencio, meta · 9 sep · retired soldier shoots dead robber",criminal_homicide
 juror_a,R2-COL-w37,"vía al llano, chipaque, cundinamarca · ~10 sep · woman and girl found dead in car",criminal_homicide
+juror_a,R2-COL-w41,"anorí, antioquia · 7 oct · journalist julián andrés hincapié killed",attack_on_civilians
 juror_a,R2-COL-w41,atlántico · 9 oct · merchant killed for refusing extortion,criminal_homicide
 juror_a,R2-COL-w41,"barbosa, santander · 7 oct · yesid camacho murdered",criminal_homicide
 juror_a,R2-COL-w41,bogotá · 10 oct · nightclub guard murdered after extortion pamphlet,criminal_homicide
+juror_a,R2-COL-w41,"bucaramanga, santander · 9 oct · police officer fredy leal killed stopping jewelry robbery",criminal_homicide
 juror_a,R2-COL-w41,"calarcá, quindío · 10 oct · naren garcía murdered",criminal_homicide
 juror_a,R2-COL-w41,cali · 5 oct · 19-year-old woman burned under bridge,criminal_homicide
 juror_a,R2-COL-w41,cartagena · 5 oct · 22-year-old shot dead in el líbano,criminal_homicide
@@ -556,6 +628,7 @@ juror_a,R2-COL-w41,cartagena · 8 oct · gunmen kill jesús puerta pérez,crimin
 juror_a,R2-COL-w41,cartagena · 8 oct · minor fatally shoots another child,criminal_homicide
 juror_a,R2-COL-w41,cauca · 11 oct · drone and clash attacks kill soldiers,remote_violence
 juror_a,R2-COL-w41,"chaparral, tolima · 8 oct · luz edenis méndez ramírez murdered",criminal_homicide
+juror_a,R2-COL-w41,"colombia · 11 oct · air force bombs guerrilla camp, at least three dead",remote_violence
 juror_a,R2-COL-w41,colombia · 5 oct · two men killed while playing dominoes,criminal_homicide
 juror_a,R2-COL-w41,colombia · 6 oct · son of camilo cuello shot dead in robbery attempt,criminal_homicide
 juror_a,R2-COL-w41,colombia · 7 oct · man killed by ex-girlfriend's boyfriend,criminal_homicide
@@ -563,6 +636,7 @@ juror_a,R2-COL-w41,colombia · 7 oct · viviana andrea killed in gang dispute,cr
 juror_a,R2-COL-w41,colombia · 8 oct · 'jairito' shot dead by gunmen on motorcycle,criminal_homicide
 juror_a,R2-COL-w41,colombia · 8 oct · fan adolfo bernal shot dead,criminal_homicide
 juror_a,R2-COL-w41,colombia · 8 oct · hitmen kill omar augusto triana barrera,criminal_homicide
+juror_a,R2-COL-w41,colombia · 8 oct · soldier killed by fellow soldier at military base,criminal_homicide
 juror_a,R2-COL-w41,colombia · 9 oct · army clash with dissidents kills two,battle
 juror_a,R2-COL-w41,colombia-panama border · 8 oct · operation kills clan del golfo member,security_force_killing
 juror_a,R2-COL-w41,cúcuta · 11 oct · security guard and dog found dead,criminal_homicide
@@ -605,6 +679,7 @@ juror_a,R2-ECU-w41,"machala, el oro · 9 oct · dockworker shot dead",criminal_h
 juror_a,R2-ECU-w41,"mapasingue, guayaquil · 7 oct · driver shot dead after school run",criminal_homicide
 juror_a,R2-ECU-w41,"off southern ecuador coast · 7 oct · gunmen attack fishing boat, kill five",criminal_homicide
 juror_a,R2-ECU-w41,"portovelo, el oro · 6 oct · armed attack kills three in house",criminal_homicide
+juror_a,R2-ECU-w41,"puerto bolívar, el oro · 6 oct · teenage girl kidnapped, shot and thrown into sea",criminal_homicide
 juror_a,R2-ECU-w41,quito · 6 oct · uber driver xavier granda murdered,criminal_homicide
 juror_a,R2-ECU-w41,"quito, south · 10 oct · police kill two robbery suspects",security_force_killing
 juror_a,R2-ECU-w41,"santa rosa, el oro · 9 oct · gunmen kill police officer and civilian",criminal_homicide
@@ -618,6 +693,8 @@ juror_a,R2-IND-w46,ahmedabad · 9 nov · woman stabs husband to death,criminal_h
 juror_a,R2-IND-w46,"alappuzha, kerala · 15 nov · man kills two-year-old daughter",criminal_homicide
 juror_a,R2-IND-w46,"amreli and bhavnagar, gujarat · 9 nov · two killed in revenge attacks",criminal_homicide
 juror_a,R2-IND-w46,"amritsar, punjab · 10 nov · brother shot dead in land dispute",criminal_homicide
+juror_a,R2-IND-w46,"amritsar, punjab · 9 nov · man killed in diwali night firing clash",criminal_homicide
+juror_a,R2-IND-w46,"amroha, uttar pradesh · 9 nov · lawyer murdered",criminal_homicide
 juror_a,R2-IND-w46,"araria, bihar · 14 nov · registry clerk shot dead",criminal_homicide
 juror_a,R2-IND-w46,"attapur, hyderabad · 9 nov · cab driver dies after assault over torn note",criminal_homicide
 juror_a,R2-IND-w46,"bahraich, up · 10 nov · land dispute clash kills one",mob_or_riot
@@ -625,7 +702,10 @@ juror_a,R2-IND-w46,"balasore, odisha · nov · minor boy murdered, man and son a
 juror_a,R2-IND-w46,"ballia, up · 9 nov · man killed in clash over old dispute",mob_or_riot
 juror_a,R2-IND-w46,"baranagar, west bengal · 11 nov · young woman found dead in flat, murder suspected",criminal_homicide
 juror_a,R2-IND-w46,"barauli, dholpur, rajasthan · 16 nov · one killed in rival shooting",criminal_homicide
+juror_a,R2-IND-w46,"baraut, uttar pradesh · 13 nov · man dies after assault by uncle",criminal_homicide
 juror_a,R2-IND-w46,"basti, up · 10 nov · schoolteacher beaten to death",criminal_homicide
+juror_a,R2-IND-w46,"bawana, delhi · 10 nov · 18-year-old stabbed to death",criminal_homicide
+juror_a,R2-IND-w46,"bawana, delhi · 15 nov · double murder, shooter killed by victim's brother",mob_or_riot
 juror_a,R2-IND-w46,"beed, maharashtra · 16 nov · husband bludgeons wife to death",criminal_homicide
 juror_a,R2-IND-w46,"belagavi, karnataka · 12 nov · 24-year-old murdered; mother and lover arrested",criminal_homicide
 juror_a,R2-IND-w46,bengaluru · 12 nov · husband dies in domestic dispute,criminal_homicide
@@ -633,12 +713,16 @@ juror_a,R2-IND-w46,bengaluru · 13 nov · real estate businessman hacked to deat
 juror_a,R2-IND-w46,bengaluru · 17 nov · scrap dealer shot dead in parked car,criminal_homicide
 juror_a,R2-IND-w46,bengaluru · 18 nov · murder suspect arrested in bihar after flight,criminal_homicide
 juror_a,R2-IND-w46,bengaluru · 9 nov · wife and lover kill husband over affair,criminal_homicide
+juror_a,R2-IND-w46,"bengaluru, karnataka · 10 nov · mass murder, more bodies found",criminal_homicide
+juror_a,R2-IND-w46,"bengaluru, karnataka · 10 nov · youth strangled with kannada flag",criminal_homicide
+juror_a,R2-IND-w46,"bengaluru, karnataka · 11 nov · lawyer murdered, accused arrested in bihar",criminal_homicide
 juror_a,R2-IND-w46,"bengaluru, karnataka · 11 nov · son strangled by mother and lover",criminal_homicide
 juror_a,R2-IND-w46,"bengaluru, karnataka · 13 nov · wife kills husband",criminal_homicide
 juror_a,R2-IND-w46,"bengaluru, karnataka · 8 nov · cab driver kills wife and relatives",criminal_homicide
 juror_a,R2-IND-w46,"bhadaur, punjab · 8 nov · labourer found murdered on diwali night",criminal_homicide
 juror_a,R2-IND-w46,"bhadrak, odisha · 13 nov · truck rams police vehicle, two officers killed",other
 juror_a,R2-IND-w46,"bhagalpur, bihar · 14 nov · man shot dead in land dispute",criminal_homicide
+juror_a,R2-IND-w46,"bhatar, west bengal · 9 nov · rape-murder accused killed in police encounter",security_force_killing
 juror_a,R2-IND-w46,"bhiloda, sabarkantha, gujarat · nov · woman head constable kills asi lover, burns body",criminal_homicide
 juror_a,R2-IND-w46,"bhojpur, bihar · 12 nov · one killed in shooting",criminal_homicide
 juror_a,R2-IND-w46,"bhopal · 12 nov · auto driver beaten to death over rs 2,000",criminal_homicide
@@ -657,14 +741,20 @@ juror_a,R2-IND-w46,"bolpur, west bengal · 14 nov · history-sheeter ratan sheik
 juror_a,R2-IND-w46,"boudh, odisha · nov · businessman murdered, three arrested",criminal_homicide
 juror_a,R2-IND-w46,"budaun, uttar pradesh · nov · woman and 7-year-old grandson found dead",criminal_homicide
 juror_a,R2-IND-w46,"budhni, madhya pradesh · nov · three family members murdered",criminal_homicide
+juror_a,R2-IND-w46,"bulandshahr, uttar pradesh · 10 nov · woman murdered after facebook friendship",criminal_homicide
 juror_a,R2-IND-w46,"burari, delhi · 14 nov · woman beaten to death",criminal_homicide
+juror_a,R2-IND-w46,"buxar, bihar · 9 nov · man shot in mouth on diwali day",criminal_homicide
 juror_a,R2-IND-w46,"cachar, assam · 18 nov · afaz uddin majumdar murdered",criminal_homicide
 juror_a,R2-IND-w46,"cachar, assam · nov · 22-year-old found dead, couple arrested",criminal_homicide
+juror_a,R2-IND-w46,"chamundi hill, mysuru · 9 nov · couple sedated and murdered",criminal_homicide
 juror_a,R2-IND-w46,"chatra, jharkhand · 17 nov · woman's burnt body found, murder suspected",criminal_homicide
 juror_a,R2-IND-w46,"chennai · 11 nov · auto driver murdered, four held",criminal_homicide
+juror_a,R2-IND-w46,chennai · 11 nov · man murdered in drunken brawl,criminal_homicide
+juror_a,R2-IND-w46,"chhivla village, jabalpur · 9 nov · ranjit murdered after assault",criminal_homicide
 juror_a,R2-IND-w46,"churu, rajasthan · 13 nov · friend shot dead and dumped",criminal_homicide
 juror_a,R2-IND-w46,"darbhanga, bihar · 9 nov · man shot dead by cousin",criminal_homicide
 juror_a,R2-IND-w46,dehradun · 11 nov · son kills father in family dispute,criminal_homicide
+juror_a,R2-IND-w46,delhi · 10 nov · mcd worker beaten to death,criminal_homicide
 juror_a,R2-IND-w46,"delhi · nov · man fatally stabbed over dispute, juveniles held",criminal_homicide
 juror_a,R2-IND-w46,"delhi-jaipur expressway, gurugram · 9 nov · gang leader ashok rathi shot dead",battle
 juror_a,R2-IND-w46,delhi-katra expressway · 12 nov · ex-sarpanch kills man after chase,criminal_homicide
@@ -673,12 +763,16 @@ juror_a,R2-IND-w46,"dhakla village, jhajjar, haryana · 13 nov · youth shot dea
 juror_a,R2-IND-w46,"dibrugarh, assam · 11 nov · man hacked to death",criminal_homicide
 juror_a,R2-IND-w46,"dindoli, surat · 13 nov · youth murdered in rivalry",criminal_homicide
 juror_a,R2-IND-w46,durgapur · 12 nov · bjp leader killed in land brawl,criminal_homicide
+juror_a,R2-IND-w46,"durgapur, west bengal · 12 nov · man beaten to death, two arrested",criminal_homicide
 juror_a,R2-IND-w46,faridabad · 9 nov · 22-year-old murdered at dhaba,criminal_homicide
 juror_a,R2-IND-w46,"faridabad, haryana · 13 nov · ex-tech mahindra executive shot dead",criminal_homicide
+juror_a,R2-IND-w46,"firozabad, uttar pradesh · 10 nov · 16-year-old girl dies after gang assault",criminal_homicide
 juror_a,R2-IND-w46,"ganjam, odisha · 10 nov · history-sheeter hacked to death",criminal_homicide
 juror_a,R2-IND-w46,"ganjam, odisha · 9 nov · witchcraft murder",criminal_homicide
 juror_a,R2-IND-w46,"garoth, madhya pradesh · nov · seven-year-old girl raped and murdered",criminal_homicide
+juror_a,R2-IND-w46,"ghatampur, uttar pradesh · 14 nov · elder brother kills younger brother with shovel",criminal_homicide
 juror_a,R2-IND-w46,"ghaziabad, uttar pradesh · 11-12 nov · man stabbed to death",criminal_homicide
+juror_a,R2-IND-w46,"ghaziabad, uttar pradesh · 12 nov · man murders friend over sister",criminal_homicide
 juror_a,R2-IND-w46,"ghaziabad, uttar pradesh · 15 nov · woman shot dead by neighbours",criminal_homicide
 juror_a,R2-IND-w46,"ghazipur, up · 11 nov · man killed near temple by unidentified assailants",criminal_homicide
 juror_a,R2-IND-w46,"gohana, sonepat, haryana · 14 nov · property dealer shot dead",criminal_homicide
@@ -686,8 +780,10 @@ juror_a,R2-IND-w46,"gondia, maharashtra · 16 nov · airline staffer stabbed to 
 juror_a,R2-IND-w46,"goregaon, mumbai · nov · woman dies after son's assault",criminal_homicide
 juror_a,R2-IND-w46,"greater noida, uttar pradesh · 9 nov · farmer found murdered",criminal_homicide
 juror_a,R2-IND-w46,"gurdaspur, punjab · 15 nov · head constable vinod kumar shot dead",criminal_homicide
+juror_a,R2-IND-w46,"gurugram, haryana · 9 nov · man shot dead inside car in gang rivalry",criminal_homicide
 juror_a,R2-IND-w46,guwahati · 13 nov · student stabs mother to death,criminal_homicide
 juror_a,R2-IND-w46,"gwalior, mp · 13 nov · father and son murdered by relative",criminal_homicide
+juror_a,R2-IND-w46,"hajipur, bihar · 9 nov · 19-year-old youth murdered, body found in pond",criminal_homicide
 juror_a,R2-IND-w46,"hardoi, up · 14 nov · man bludgeons elder brother to death",criminal_homicide
 juror_a,R2-IND-w46,"hathras, uttar pradesh · nov · 4-year-old girl murdered, body in sack",criminal_homicide
 juror_a,R2-IND-w46,himachal pradesh · 8 nov · man runs over neighbours in firecracker row,criminal_homicide
@@ -704,9 +800,11 @@ juror_a,R2-IND-w46,india · 9 nov · sub-inspector beaten to death over reel dis
 juror_a,R2-IND-w46,"india · nov · elderly woman found dead, three arrested",criminal_homicide
 juror_a,R2-IND-w46,"india · nov · man strangled by friends, body dumped in canal",criminal_homicide
 juror_a,R2-IND-w46,indore · 9 nov · man dies after neighbour pushes him,criminal_homicide
+juror_a,R2-IND-w46,"indore, madhya pradesh · 9 nov · husband kills wife and hangs himself",criminal_homicide
 juror_a,R2-IND-w46,jabalpur · 9 nov · two youths stabbed to death,criminal_homicide
 juror_a,R2-IND-w46,"jabalpur, madhya pradesh · 16 nov · teenager stabbed to death on street",criminal_homicide
 juror_a,R2-IND-w46,"jabalpur, mp · 9 nov · youth killed after confronting abuse",criminal_homicide
+juror_a,R2-IND-w46,"jahangirpuri, delhi · 12 nov · e-rickshaw driver beaten to death",criminal_homicide
 juror_a,R2-IND-w46,jaipur · 12 nov · engineer kills hostess with axe,criminal_homicide
 juror_a,R2-IND-w46,"jaipur, rajasthan · 11 nov · man with 15 criminal cases hacked to death",criminal_homicide
 juror_a,R2-IND-w46,"jaipur, rajasthan · 12 nov · history-sheeter vijay bajya murdered",criminal_homicide
@@ -718,8 +816,11 @@ juror_a,R2-IND-w46,"jaunpur, up · 10 nov · villager beaten to death",criminal_
 juror_a,R2-IND-w46,"jetpur, gujarat · nov · aunt killed by nieces in family dispute",criminal_homicide
 juror_a,R2-IND-w46,jharkhand · nov · eight-year-old girl killed by relatives,criminal_homicide
 juror_a,R2-IND-w46,"jillelaguda, hyderabad · 12 nov · woman brutally murdered",criminal_homicide
+juror_a,R2-IND-w46,"jobner, rajasthan · 12 nov · man hacked to death in fight",criminal_homicide
+juror_a,R2-IND-w46,"kalluru, telangana · 10 nov · boy killed with poisoned cold drink",criminal_homicide
 juror_a,R2-IND-w46,"kannauj, up · 17 nov · couple murdered",criminal_homicide
 juror_a,R2-IND-w46,"kannauj, up · 9 nov · congress leader shoots bjp mla's nephew dead",criminal_homicide
+juror_a,R2-IND-w46,"kanpur, uttar pradesh · 9 nov · wife murdered over glass of water",criminal_homicide
 juror_a,R2-IND-w46,"karnal, haryana · nov · truck driver dies in police custody",security_force_killing
 juror_a,R2-IND-w46,karnataka · 15 nov · man kills friend over unpaid emis,criminal_homicide
 juror_a,R2-IND-w46,"karol bagh, delhi · 10 nov · man killed over affair",criminal_homicide
@@ -742,15 +843,19 @@ juror_a,R2-IND-w46,"kulgam, j&k · 16 nov · lashkar militant lateef bhat killed
 juror_a,R2-IND-w46,"kulgam, jammu and kashmir · 12 nov · militant attack on crpf",battle
 juror_a,R2-IND-w46,"kurla, mumbai · 11 nov · vinod pawar shot dead",criminal_homicide
 juror_a,R2-IND-w46,"kurla, mumbai · 12 nov · murder, two held including juvenile",criminal_homicide
+juror_a,R2-IND-w46,"lal bagh, delhi · 9 nov · maruti showroom worker rahul stabbed to death",criminal_homicide
 juror_a,R2-IND-w46,"latur, maharashtra · 9 nov · father strangles son over property dispute",criminal_homicide
 juror_a,R2-IND-w46,"lohardaga, jharkhand · 16 nov · double murder over affair",criminal_homicide
 juror_a,R2-IND-w46,"loni, ghaziabad · 10 nov · woman killed with brick",criminal_homicide
 juror_a,R2-IND-w46,lucknow · 11 nov · history-sheeter murdered in cigarette dispute,criminal_homicide
+juror_a,R2-IND-w46,"lucknow, uttar pradesh · 11 nov · triple murder by ex-merchant navy officers",criminal_homicide
 juror_a,R2-IND-w46,ludhiana · 12 nov · youth found dead with plastic bag; friend arrested,criminal_homicide
 juror_a,R2-IND-w46,"madhepura, bihar · 9 nov · man shot dead",criminal_homicide
+juror_a,R2-IND-w46,"madurai, tamil nadu · 14 nov · elderly woman found dead, three arrested",criminal_homicide
 juror_a,R2-IND-w46,"madurai, tamil nadu · 14 nov · truck driver dies in police custody",security_force_killing
 juror_a,R2-IND-w46,maharashtra forest · nov · airline employee murdered,criminal_homicide
 juror_a,R2-IND-w46,"mahendra park, delhi · nov · 45-year-old man murdered, four arrested",criminal_homicide
+juror_a,R2-IND-w46,"malegaon, maharashtra · 11 nov · man murdered by pregnant wife's relatives",criminal_homicide
 juror_a,R2-IND-w46,"mangolpuri, delhi · nov · e-rickshaw driver murdered with spiked drink",criminal_homicide
 juror_a,R2-IND-w46,manipur · 14 nov · fresh violence kills five,battle
 juror_a,R2-IND-w46,"manjari, pune · 8 nov · man found dead, legs tied, head crushed",criminal_homicide
@@ -764,17 +869,22 @@ juror_a,R2-IND-w46,"murshidabad, west bengal · 13 nov · nine-year-old strangle
 juror_a,R2-IND-w46,"muzaffarpur, bihar · 12 nov · property dealer found dead with injuries",criminal_homicide
 juror_a,R2-IND-w46,"nagpur, maharashtra · 13 nov · palash wasnik killed by brother-in-law",criminal_homicide
 juror_a,R2-IND-w46,"nagpur, maharashtra · 14 nov · woman killed over niece's relationship with man",criminal_homicide
+juror_a,R2-IND-w46,"nagpur, maharashtra · 9 nov · youth bobby sapate killed over firecracker dispute",criminal_homicide
 juror_a,R2-IND-w46,"nainital, uttarakhand · 11 nov · woman murdered in revenge attack",criminal_homicide
 juror_a,R2-IND-w46,"nand nagri, delhi · 14 nov · murder; two minors apprehended",criminal_homicide
 juror_a,R2-IND-w46,"navi mumbai · 14 nov · man strangles lover, dies by suicide",criminal_homicide
 juror_a,R2-IND-w46,"neemuch, mp · 12 nov · ishaan murder, prime suspect arrested",criminal_homicide
 juror_a,R2-IND-w46,"nilambazar, assam · 13 nov · triple murder of family",criminal_homicide
 juror_a,R2-IND-w46,"noida, up · 9 nov · man killed in birthday party brawl",criminal_homicide
+juror_a,R2-IND-w46,"noida, uttar pradesh · 9 nov · youth killed in road rage over scooter",criminal_homicide
 juror_a,R2-IND-w46,"nuh, haryana · 15 nov · police encounter kills two cattle smugglers",security_force_killing
 juror_a,R2-IND-w46,odisha · 15 nov · 14-year-old beaten to death,criminal_homicide
 juror_a,R2-IND-w46,"panihati, west bengal · 15 nov · bjp worker dies after clash with party colleagues",mob_or_riot
 juror_a,R2-IND-w46,"panvel, maharashtra · 18 nov · man killed over iphone emi dispute",criminal_homicide
+juror_a,R2-IND-w46,"parbat, delhi · 9 nov · man kills juvenile with iron rod over firecracker dispute",criminal_homicide
 juror_a,R2-IND-w46,"patna, bihar · 11 nov · driver shot dead inside home",criminal_homicide
+juror_a,R2-IND-w46,"patna, bihar · 13 nov · retired railway employee slits wife's throat",criminal_homicide
+juror_a,R2-IND-w46,"patna, bihar · 9 nov · mother killed in front of daughter",criminal_homicide
 juror_a,R2-IND-w46,"perambur, chennai · 11 nov · man stabbed to death over relationship",criminal_homicide
 juror_a,R2-IND-w46,"pilibhit, up · 10 nov · disabled man beaten to death",criminal_homicide
 juror_a,R2-IND-w46,"pinjore, haryana · 10 nov · woman found dead, husband booked for dowry death",criminal_homicide
@@ -787,6 +897,7 @@ juror_a,R2-IND-w46,rajasthan · 11 nov · man hacked to death over love marriage
 juror_a,R2-IND-w46,"rampur, uttar pradesh · 10 nov · 2007 crpf camp attack accused sharif shot dead",criminal_homicide
 juror_a,R2-IND-w46,ranchi · 14 nov · man shot dead,criminal_homicide
 juror_a,R2-IND-w46,ranchi · 18 nov · restaurant employee stabbed to death,criminal_homicide
+juror_a,R2-IND-w46,"rohini, delhi · 10 nov · man stabbed to death near unity one mall",criminal_homicide
 juror_a,R2-IND-w46,"rohtak, haryana · 16 nov · teen killed in chhath puja violence",mob_or_riot
 juror_a,R2-IND-w46,"rudrapur, uttarakhand · 13 nov · mobile shop feud ends in death",criminal_homicide
 juror_a,R2-IND-w46,"rudrapur, uttarakhand · 14 nov · shopkeeper murdered at hospital",criminal_homicide
@@ -818,9 +929,12 @@ juror_a,R2-IND-w46,"ulwe, navi mumbai · 13 nov · woman strangled at lodge",cri
 juror_a,R2-IND-w46,uttar pradesh · 10 nov · neighbour strangles elderly woman over rs 500,criminal_homicide
 juror_a,R2-IND-w46,uttar pradesh · 10 nov · village head shoots dead man over gambling,criminal_homicide
 juror_a,R2-IND-w46,uttar pradesh · 11 nov · driver killed by wife and lover,criminal_homicide
+juror_a,R2-IND-w46,"uttar pradesh · 13 nov · brother murdered at sister's home, two accused",criminal_homicide
 juror_a,R2-IND-w46,uttar pradesh · nov · dalit man murdered,criminal_homicide
+juror_a,R2-IND-w46,"vadodara, gujarat · 11 nov · father strangles daughter in honour killing",criminal_homicide
 juror_a,R2-IND-w46,"vaishali, bihar · 9 nov · husband shoots wife dead",criminal_homicide
 juror_a,R2-IND-w46,"varanasi, up · 16 nov · two farmers shot dead over rivalry",criminal_homicide
+juror_a,R2-IND-w46,"varanasi, uttar pradesh · 11 nov · businessman shot dead in public",criminal_homicide
 juror_a,R2-IND-w46,"vattappara, kerala · 16 nov · man dies after alleged assault",criminal_homicide
 juror_a,R2-IND-w46,"vellore, tamil nadu · 10 nov · pmk functionary shot dead",criminal_homicide
 juror_a,R2-IND-w46,"vijayapura, karnataka · 13 nov · land dispute clash kills two",mob_or_riot
@@ -837,61 +951,146 @@ juror_a,R2-IRN-w40,se iran · 3 oct · counter-terror operation kills 2 'terrori
 juror_a,R2-IRN-w40,sistan-baluchestan checkpoint · 2 oct · checkpoint attack and siege kill 7,battle
 juror_a,R2-IRN-w40,sistan-baluchestan · 2 oct · planted roadside bomb kills 1 irgc member,remote_violence
 juror_a,R2-IRN-w40,"zahedan, sistan-baluchestan · 1 oct · irgc says it killed 6 gunmen in clashes",battle
+juror_a,R2-IRN-w40,"zahedan, sistan-baluchestan · 3 oct · roadside bomb kills police official",remote_violence
 juror_a,R2-ISR-w41,"aqraba, nablus · 6 oct · settlers attack olive harvesters, kill a palestinian",attack_on_civilians
 juror_a,R2-ISR-w41,"bani naim, hebron · 5 oct · israeli troops fire on car, kill one",security_force_killing
 juror_a,R2-ISR-w41,"beit lahiya, gaza · 7 oct · strike kills civil defence volunteer near kamal adwan",remote_violence
 juror_a,R2-ISR-w41,"burqa, ramallah · 7 oct · settlers raid village with idf, palestinian killed",mob_or_riot
 juror_a,R2-ISR-w41,gaza city · 10 oct · israeli strikes kill four near panda mall,remote_violence
+juror_a,R2-ISR-w41,gaza city · 5 oct · israeli strike kills christian mother and daughter,remote_violence
+juror_a,R2-ISR-w41,gaza · 10 oct · 8-year-old girl killed in israeli fire,security_force_killing
 juror_a,R2-ISR-w41,gaza · 10 oct · idf kills hamas and islamic jihad militants,remote_violence
 juror_a,R2-ISR-w41,gaza · 10 oct · idf kills islamic jihad commander who took part in oct 7,battle
 juror_a,R2-ISR-w41,gaza · 10–11 oct · hisham abu ghalla assassinated,attack_on_civilians
+juror_a,R2-ISR-w41,gaza · 11 oct · idf kills hamas nukhba commander,battle
 juror_a,R2-ISR-w41,gaza · 11 oct · israeli drone strikes kill six palestinians,remote_violence
+juror_a,R2-ISR-w41,gaza · 11 oct · israeli fire kills brother of empoli resident,security_force_killing
+juror_a,R2-ISR-w41,gaza · 11 oct · israeli raid kills several palestinians,battle
+juror_a,R2-ISR-w41,gaza · 11 oct · strike on phone-charging chair kills 3,remote_violence
 juror_a,R2-ISR-w41,gaza · 5 oct · idf kills hamas nukhba commander who took part in oct 7,battle
+juror_a,R2-ISR-w41,gaza · 5 oct · israeli fire kills lifeguard volunteer,attack_on_civilians
+juror_a,R2-ISR-w41,"gaza · 5 oct · israeli fire kills one palestinian, wounds two",security_force_killing
+juror_a,R2-ISR-w41,"gaza · 5 oct · israeli strikes kill three, incl. aid worker and girl",remote_violence
+juror_a,R2-ISR-w41,gaza · 6 oct · israeli airstrike kills palestinian academic,remote_violence
+juror_a,R2-ISR-w41,"gaza · 6 oct · israeli fire kills minor, shot in head",security_force_killing
+juror_a,R2-ISR-w41,"gaza · 6 oct · israeli fire kills three palestinians, wounds others",security_force_killing
+juror_a,R2-ISR-w41,"gaza · 6 oct · israeli strike kills five, incl. christians",remote_violence
+juror_a,R2-ISR-w41,gaza · 6 oct · israeli strikes kill two palestinians,remote_violence
 juror_a,R2-ISR-w41,gaza · 7 oct · idf kills hamas militant planting explosives near hospital,battle
+juror_a,R2-ISR-w41,gaza · 7 oct · idf operation kills two terrorists,battle
 juror_a,R2-ISR-w41,gaza · 7 oct · israeli strikes kill three,remote_violence
+juror_a,R2-ISR-w41,gaza · 8 oct · deadly israeli strike near hospital,remote_violence
 juror_a,R2-ISR-w41,gaza · 8 oct · idf kills hamas commander who held hostages,battle
+juror_a,R2-ISR-w41,gaza · 8 oct · idf kills hamas commander who took part in oct 7,battle
 juror_a,R2-ISR-w41,gaza · 8 oct · idf kills hamas militant involved in soldier abduction,battle
 juror_a,R2-ISR-w41,gaza · 8 oct · idf kills two hamas militants,battle
+juror_a,R2-ISR-w41,gaza · 8 oct · israeli strike on apartment block kills seven,remote_violence
 juror_a,R2-ISR-w41,gaza · 9 oct · idf kills three hamas and islamic jihad commanders,battle
+juror_a,R2-ISR-w41,gaza · 9 oct · israeli attack kills former prisoner majdi al-ayoubi,security_force_killing
+juror_a,R2-ISR-w41,gaza · 9 oct · israeli attack kills one,battle
+juror_a,R2-ISR-w41,gaza · 9 oct · israeli drone strike kills two palestinians,remote_violence
+juror_a,R2-ISR-w41,gaza · 9 oct · israeli strikes kill eight displaced,remote_violence
 juror_a,R2-ISR-w41,geva binyamin · 5 oct · attacker neutralized after car arson and knife threat,security_force_killing
 juror_a,R2-ISR-w41,hebron area · 10 oct · israeli forces kill a palestinian in raids,security_force_killing
 juror_a,R2-ISR-w41,hebron · 5 oct · soldiers kill palestinian man and pose with body,security_force_killing
 juror_a,R2-ISR-w41,"hebron · 9 oct · israeli forces kill palestinian near hebron, withhold body",security_force_killing
+juror_a,R2-ISR-w41,"khan younis, gaza · 10 oct · idf kills pij company commander",battle
 juror_a,R2-ISR-w41,"khan younis, gaza · 10 oct · idf strike kills pij commander and hamas fighter",remote_violence
 juror_a,R2-ISR-w41,"khan younis, gaza · 11 oct · idf kills commander behind kissufim outpost attack",battle
 juror_a,R2-ISR-w41,"khan younis, gaza · 5 oct · idf strike kills hamas commander and operative",remote_violence
 juror_a,R2-ISR-w41,"khan younis, gaza · 7 oct · israeli strike kills pij company commander",remote_violence
+juror_a,R2-ISR-w41,"khan younis, gaza · 7 oct · israeli strike on camp kills four",remote_violence
+juror_a,R2-ISR-w41,"khan younis, gaza · 9 oct · israeli fire kills palestinian",security_force_killing
+juror_a,R2-ISR-w41,"maghazi, gaza · 9 oct · israeli fire kills palestinian, injures three",security_force_killing
+juror_a,R2-ISR-w41,"mawasi, khan younis · 5 oct · israeli drone strike kills 1",remote_violence
 juror_a,R2-ISR-w41,northern gaza · 8 oct · israeli army kills a palestinian,attack_on_civilians
 juror_a,R2-ISR-w41,"or akiva · 8 oct · car bomb kills noam salma, 25, witness in trial",remote_violence
 juror_a,R2-ISR-w41,"qizan rashwan, khan younis · 7 oct · israeli fire kills one civilian",remote_violence
 juror_a,R2-ISR-w41,samaria · 7 oct · attacker neutralized after rock-throwing clash,security_force_killing
 juror_a,R2-ISR-w41,southern israel · 11 oct · woman stabbed to death; husband arrested,criminal_homicide
 juror_a,R2-ISR-w41,west bank · 11 oct · israeli gunfire kills and wounds palestinians,security_force_killing
+juror_a,R2-ISR-w41,west bank · 5 oct · israeli army attacks kill one palestinian,security_force_killing
+juror_a,R2-ISR-w41,"west bank · 5 oct · israeli forces kill one, injure several",security_force_killing
+juror_a,R2-ISR-w41,west bank · 5 oct · israeli forces kill palestinians,security_force_killing
+juror_a,R2-ISR-w41,"west bank · 6 oct · israeli forces kill one, injure several",security_force_killing
+juror_a,R2-ISR-w41,"west bank · 7 oct · settlers attack olive harvesters, one palestinian killed",attack_on_civilians
+juror_a,R2-ISR-w41,west bank · 9 oct · israeli fire kills palestinian in settler clash,mob_or_riot
+juror_a,R2-ISR-w42,"al mughayyir, west bank · 17 oct · palestinian teen killed",security_force_killing
 juror_a,R2-ISR-w42,"ashkelon, israel · 18 oct · 17-year-old stabbed to death",criminal_homicide
 juror_a,R2-ISR-w42,beersheba · 18 oct · man suspected of stabbing wife to death,criminal_homicide
+juror_a,R2-ISR-w42,central gaza · 18 oct · israeli army fire kills palestinian girl,security_force_killing
+juror_a,R2-ISR-w42,"dayr al balah, gaza · 17 oct · israeli strike kills one, wounds others",remote_violence
+juror_a,R2-ISR-w42,"dayr dibwan, west bank · 17 oct · israeli strike kills four palestinians",remote_violence
+juror_a,R2-ISR-w42,gaza city · 14 oct · israeli strike kills palestinian woman,remote_violence
+juror_a,R2-ISR-w42,"gaza city · 15 oct · israeli airstrike kills mother, daughter survives",remote_violence
 juror_a,R2-ISR-w42,gaza city · 16 oct · israeli strike kills two pij commanders,remote_violence
 juror_a,R2-ISR-w42,"gaza city, tammous · 16 oct · israeli strike kills hamas operative",remote_violence
+juror_a,R2-ISR-w42,gaza strip · 14 oct · idf kills two militants,battle
+juror_a,R2-ISR-w42,gaza · 12 oct · israeli shelling kills three palestinians,remote_violence
+juror_a,R2-ISR-w42,gaza · 12 oct · israeli strike kills two people,remote_violence
 juror_a,R2-ISR-w42,gaza · 13 oct · idf says it killed five hamas and pij members,battle
+juror_a,R2-ISR-w42,gaza · 13 oct · israeli strike on hospital kills six,remote_violence
 juror_a,R2-ISR-w42,gaza · 14 oct · idf kills hamas commander (oct 7 field commander),battle
 juror_a,R2-ISR-w42,gaza · 15 oct · idf kills two militants smuggling weapons,battle
+juror_a,R2-ISR-w42,gaza · 15 oct · israeli strikes and gunfire kill palestinian,remote_violence
+juror_a,R2-ISR-w42,gaza · 16 oct · idf kills oct 7 nukhba commander who attacked re'im base,battle
 juror_a,R2-ISR-w42,gaza · 16 oct · idf strikes kill two hamas militants,remote_violence
+juror_a,R2-ISR-w42,gaza · 16 oct · palestinian shot dead by israeli fire,security_force_killing
+juror_a,R2-ISR-w42,gaza · 17 oct · israeli air strikes kill three palestinians,remote_violence
+juror_a,R2-ISR-w42,gaza · 17 oct · israeli airstrikes kill two in central and southern gaza,remote_violence
+juror_a,R2-ISR-w42,"gaza · 17 oct · israeli attacks kill five, including child and police officer",remote_violence
+juror_a,R2-ISR-w42,gaza · 17 oct · israeli drone strike kills one palestinian,remote_violence
+juror_a,R2-ISR-w42,"gaza · 17 oct · israeli drone strikes kill palestinians, wound others",remote_violence
+juror_a,R2-ISR-w42,gaza · 17 oct · palestinian killed by israeli fire,security_force_killing
 juror_a,R2-ISR-w42,"gaza · 17-18 oct · idf strikes kill four hamas militants, incl. oct 7 attacker",remote_violence
+juror_a,R2-ISR-w42,gaza · 18 oct · israeli drone strike kills six palestinians,remote_violence
+juror_a,R2-ISR-w42,gaza · 18 oct · israeli fire kills student walking home from school,security_force_killing
+juror_a,R2-ISR-w42,gaza · 18 oct · israeli fire kills three palestinians,security_force_killing
+juror_a,R2-ISR-w42,gaza · 18 oct · israeli forces kill two children,security_force_killing
+juror_a,R2-ISR-w42,"hebron, west bank · 16 oct · two idf soldiers killed in attack",battle
 juror_a,R2-ISR-w42,"israel · 18 oct · belarusian woman slain, suspect held",criminal_homicide
+juror_a,R2-ISR-w42,"khan yunis, gaza · 12 oct · israeli airstrike kills four palestinians",remote_violence
 juror_a,R2-ISR-w42,"khan yunis, gaza · 15 oct · idf kills two pij militants",battle
+juror_a,R2-ISR-w42,"khan yunis, gaza · 18 oct · girl killed by israeli fire",security_force_killing
 juror_a,R2-ISR-w42,"lavi forest, israel · 16 oct · man killed, three suspects held",criminal_homicide
+juror_a,R2-ISR-w42,north gaza · 13 oct · israeli strike kills palestinian,remote_violence
 juror_a,R2-ISR-w42,northern israel · 12 oct · cluster blast kills boy,remote_violence
 juror_a,R2-ISR-w42,southern israel · 12 oct · young man shot dead in land dispute,criminal_homicide
 juror_a,R2-ISR-w42,"umm al-fahm, israel · 13 oct · 20-year-old arab man shot dead",criminal_homicide
+juror_a,R2-ISR-w43,"bureij, gaza · 21 oct · israeli strike kills four",remote_violence
+juror_a,R2-ISR-w43,gaza city · 20 oct · israeli pre-dawn strike on apartment kills 2,remote_violence
+juror_a,R2-ISR-w43,gaza city · 22 oct · israeli air raid on car kills 1,remote_violence
 juror_a,R2-ISR-w43,"gaza city, al-jalaa street · 19 oct · israeli strike kills 2 (1 civilian)",remote_violence
 juror_a,R2-ISR-w43,gaza strip · 20 oct · israeli military kills senior hamas security official,battle
 juror_a,R2-ISR-w43,gaza strip · 20 oct · israeli strikes kill two militants,remote_violence
 juror_a,R2-ISR-w43,gaza strip · 25 oct · israeli army says it killed four hamas and pij members,battle
 juror_a,R2-ISR-w43,gaza strip · 25 oct · israeli strikes kill two hamas commanders,remote_violence
+juror_a,R2-ISR-w43,gaza · 19 oct · idf strike kills three hamas militants,remote_violence
+juror_a,R2-ISR-w43,gaza · 19 oct · israeli air strike kills palestinian,remote_violence
+juror_a,R2-ISR-w43,gaza · 19 oct · israeli fire kills three palestinians incl two children,security_force_killing
+juror_a,R2-ISR-w43,"gaza · 20 oct · israeli attacks kill six, incl. two children",attack_on_civilians
+juror_a,R2-ISR-w43,gaza · 20 oct · israeli fire kills worker despite ceasefire,attack_on_civilians
+juror_a,R2-ISR-w43,gaza · 20 oct · israeli strikes kill seven,remote_violence
+juror_a,R2-ISR-w43,gaza · 21 oct · 10-year-old boy dies of israeli attack wounds,remote_violence
 juror_a,R2-ISR-w43,gaza · 21 oct · idf kills nukhba militant linked to deaths of four soldiers,battle
+juror_a,R2-ISR-w43,gaza · 22 oct · israeli strike on school kills seven students,remote_violence
+juror_a,R2-ISR-w43,gaza · 24 oct · israeli fire kills two palestinians,attack_on_civilians
+juror_a,R2-ISR-w43,gaza · 24 oct · israeli strikes kill four palestinians,remote_violence
+juror_a,R2-ISR-w43,gaza · 24 oct · israeli strikes kill three palestinians,remote_violence
+juror_a,R2-ISR-w43,gaza · 25 oct · israeli attacks kill eight palestinians,remote_violence
+juror_a,R2-ISR-w43,gaza · 25 oct · israeli attacks kill four palestinians,attack_on_civilians
+juror_a,R2-ISR-w43,gaza · 25 oct · israeli attacks kill seven palestinians,attack_on_civilians
+juror_a,R2-ISR-w43,gaza · 25 oct · israeli attacks kill six palestinians,attack_on_civilians
+juror_a,R2-ISR-w43,gaza · 25 oct · israeli attacks kill two palestinians,attack_on_civilians
+juror_a,R2-ISR-w43,gaza · 25 oct · israeli raid kills 8-year-old girl,attack_on_civilians
+juror_a,R2-ISR-w43,hebron · 24 oct · armed attack kills 2 palestinians,attack_on_civilians
 juror_a,R2-ISR-w43,israel · 20 oct · boy killed by suspected hezbollah cluster bomb,remote_violence
 juror_a,R2-ISR-w43,israel · 24 oct · ukrainian immigrant murdered; ex-husband and father arrested,criminal_homicide
 juror_a,R2-ISR-w43,israel · 25 oct · forces kill two suspects accused of funnelling money to hamas,security_force_killing
 juror_a,R2-ISR-w43,"jabalia, gaza · 20 oct · idf kills hamas militant in shani louk abduction",battle
+juror_a,R2-ISR-w43,khan yunis · 20 oct · israeli fire kills couple and child,attack_on_civilians
+juror_a,R2-ISR-w43,khan yunis · 20 oct · israeli strikes kill five palestinians,remote_violence
+juror_a,R2-ISR-w43,"khan yunis, gaza · 22 oct · israeli strike assassinates palestinian official",remote_violence
 juror_a,R2-ISR-w43,near ma'ale adumim · 19 oct · israeli man shot dead in palestinian village,criminal_homicide
 juror_a,R2-ISR-w43,netanya · 20 oct · contract killing at gas-station store,criminal_homicide
 juror_a,R2-ISR-w43,northern israel · 23 oct · woman stabbed to death,criminal_homicide
@@ -903,6 +1102,7 @@ juror_a,R2-ISR-w43,yafa an-naseriyye · 26 oct · palestinian citizen of israel 
 juror_a,R2-ISR-w43,"yehuda junction, hebron · 23 oct · gunmen kill 2 soldiers",battle
 juror_a,R2-ISR-w43,"zeitoun, east of gaza city · 20 oct · israeli fire kills four, medics say",remote_violence
 juror_a,R2-PAK-w47,balochistan · 16 nov · former afghan military officer killed,criminal_homicide
+juror_a,R2-PAK-w47,balochistan · 17 nov · six soldiers killed in bla drone attack,remote_violence
 juror_a,R2-PAK-w47,balochistan · 18 nov · youth extrajudicially killed by forces,security_force_killing
 juror_a,R2-PAK-w47,balochistan · 19 nov · three afghans killed by gunmen,criminal_homicide
 juror_a,R2-PAK-w47,balochistan · 20 nov · 15-year-old extrajudicially killed by forces,security_force_killing
@@ -917,6 +1117,7 @@ juror_a,R2-PAK-w47,"chuhng, lahore · 21 nov · businessman sohail anjum jajja k
 juror_a,R2-PAK-w47,"dallo khel, lakki marwat · 17 nov · fc soldier killed in firing",criminal_homicide
 juror_a,R2-PAK-w47,dera ismail khan · 17 nov · father and daughter shot dead after court hearing,criminal_homicide
 juror_a,R2-PAK-w47,faisalabad · 16 nov · three robbers killed in police encounters,security_force_killing
+juror_a,R2-PAK-w47,"gulberg, lahore · 19 nov · man dies during police raid",security_force_killing
 juror_a,R2-PAK-w47,"hafizabad, punjab · 20 nov · ex-minister liaquat abbas bhatti strangled",criminal_homicide
 juror_a,R2-PAK-w47,islamabad · 17 nov · domestic worker fatima asghar killed,criminal_homicide
 juror_a,R2-PAK-w47,"janikhel, bannu · 16 nov · drone strike kills two ttp militants",remote_violence
@@ -931,15 +1132,18 @@ juror_a,R2-PAK-w47,"khadkocha, mastung · 16 nov · five militants killed in ibo
 juror_a,R2-PAK-w47,khyber pakhtunkhwa · 16 nov · forces kill militant linked to police attack,security_force_killing
 juror_a,R2-PAK-w47,khyber pakhtunkhwa · 18 nov · police officer killed by militants,attack_on_civilians
 juror_a,R2-PAK-w47,khyber pakhtunkhwa · 19 nov · boy killed in drone explosion,remote_violence
+juror_a,R2-PAK-w47,khyber pakhtunkhwa · 19 nov · two police personnel killed in attacks,battle
 juror_a,R2-PAK-w47,khyber pakhtunkhwa · 20 nov · police kill militant after attack on police van,battle
 juror_a,R2-PAK-w47,"kohat · 16 nov · police ambushed in gold-mining raid, militants killed",battle
 juror_a,R2-PAK-w47,"kohat, khyber pakhtunkhwa · 20 nov · three militants killed in joint operation",security_force_killing
 juror_a,R2-PAK-w47,lahore · 17 nov · woman murdered over divorce dispute,criminal_homicide
+juror_a,R2-PAK-w47,lahore · 19 nov · brother killed in knife attack over money dispute,criminal_homicide
 juror_a,R2-PAK-w47,lakki marwat · 16 nov · two brothers shot dead over petty dispute,criminal_homicide
 juror_a,R2-PAK-w47,"lakki marwat, kp · 17 nov · four militants killed in security operation",security_force_killing
 juror_a,R2-PAK-w47,"lakki marwat, kp · 18 nov · police repel attack, kill four militants",battle
 juror_a,R2-PAK-w47,"lakki marwat, kp · 19 nov · four killed during police search operation",security_force_killing
 juror_a,R2-PAK-w47,"landhi, karachi · 19 nov · man kills wife and brother-in-law",criminal_homicide
+juror_a,R2-PAK-w47,"landhi, karachi · 20 nov · three killed in house firing",criminal_homicide
 juror_a,R2-PAK-w47,"mastung, balochistan · 21 nov · security forces kill 15 militants in ibos",security_force_killing
 juror_a,R2-PAK-w47,"mastung, balochistan · 22 nov · bombing kills 18 soldiers (bla claim)",remote_violence
 juror_a,R2-PAK-w47,"matni, peshawar · 22 nov · three militants killed in ctd operation",security_force_killing
@@ -967,6 +1171,7 @@ juror_a,R2-YEM-w44,"al-aqroud, taiz · 27 oct · houthi snipers kill one civilia
 juror_a,R2-YEM-w44,al-dhale · 28 oct · murder suspect arrested after killing,criminal_homicide
 juror_a,R2-YEM-w44,"al-jarahi, hodeidah · 30 oct · houthi militia kills child outside home",attack_on_civilians
 juror_a,R2-YEM-w44,al-jawf · 26 oct · saudi strikes on market and fuel station kill 14,remote_violence
+juror_a,R2-YEM-w44,al-jawf · 29 oct · saudi airstrikes kill 13,remote_violence
 juror_a,R2-YEM-w44,"al-mahfad, abyan · 31 oct · ambush kills national shield soldiers",battle
 juror_a,R2-YEM-w44,"al-misrah, taiz · 30 oct · airstrikes kill 30+ houthis incl. police chiefs",remote_violence
 juror_a,R2-YEM-w44,"al-muqayla, lahij · 30 oct · commander sand al-sumati killed",battle
@@ -1009,6 +1214,7 @@ juror_a,R2-YEM-w44,"sabir, taiz · 27 oct · houthi shelling and sniping kill fi
 juror_a,R2-YEM-w44,"sabr al-mawadim, taiz · 26 oct · houthi shelling and sniper kill 3, wound 8",remote_violence
 juror_a,R2-YEM-w44,"safer, marib · 28 oct · gas truck driver killed",criminal_homicide
 juror_a,R2-YEM-w44,"salah al-din, aden · 26 oct · houthi missiles hit saudi troops (claimed)",remote_violence
+juror_a,R2-YEM-w44,sanaa · 1 nov · un worker dies in houthi custody,security_force_killing
 juror_a,R2-YEM-w44,sanaa · 27 oct · airstrike kills senior houthi leader at missile site,remote_violence
 juror_a,R2-YEM-w44,sanaa · 30 oct · three houthi police chiefs killed,attack_on_civilians
 juror_a,R2-YEM-w44,sanaa · 31 oct · gunmen kill three sons of houthi leaders,criminal_homicide
@@ -1028,10 +1234,12 @@ juror_a,R2-YEM-w44,"west coast, yemen · 27 oct · giants brigades kill houthi f
 juror_a,R2-YEM-w44,west of taiz · 1 nov · houthi shelling kills two women at home,remote_violence
 juror_a,R2-YEM-w44,yemen · 28 oct · engineer haroun killed by sniper,attack_on_civilians
 juror_a,R2-YEM-w44,yemen · 30 oct · houthi facilities police commander killed in clashes,battle
+juror_a,R2-YEM-w44,yemen · 30 oct · saudi strike kills 12 houthis (claimed),remote_violence
 juror_a,R3-IDN-w41,"indramayu, west java · 8 oct · teen killed in gang brawl",mob_or_riot
 juror_a,R3-IDN-w41,jakarta · 5 oct · father beats 11-month-old to death,criminal_homicide
 juror_a,R3-IDN-w41,"kendal, central java · 7 oct · handcuffed body found, murder",criminal_homicide
 juror_a,R3-IDN-w41,lampung · 8 oct · man kills loan collector with machete,criminal_homicide
+juror_a,R3-IDN-w41,"madina, north sumatra · 6 oct · councillor stabbed to death",criminal_homicide
 juror_a,R3-IDN-w41,"makassar, south sulawesi · 6 oct · akmal killed in motorbike gang beating",battle
 juror_a,R3-IDN-w41,"maybrat, west papua · 10 oct · opm commander shot dead",battle
 juror_a,R3-IDN-w41,"maybrat, west papua · 9 oct · troops kill three opm members",battle
@@ -1039,8 +1247,10 @@ juror_a,R3-IDN-w41,"pinang ranti, east jakarta · 8 oct · woman, 19, killed in 
 juror_a,R3-IDN-w41,"samboga, yahukimo, papua · 8 oct · marines kill detained tpnpb member",security_force_killing
 juror_a,R3-IDN-w41,"sampang, east java · 5 oct · grandfather beats neighbour to death",criminal_homicide
 juror_a,R3-IDN-w41,"serpong/alam sutera, south tangerang · 9 oct · two students die fleeing sharp-weapon gang",criminal_homicide
+juror_a,R3-IDN-w41,"surabaya · 7 oct · murder case, judge suspected executor",criminal_homicide
 juror_a,R3-IDN-w41,"tulang bawang, lampung · 5 oct · police shoot dead family murder suspect",security_force_killing
 juror_a,R3-KEN-w44,"fedha estate, nairobi · ~27 oct · gangster waweru shot dead by police",security_force_killing
+juror_a,R3-KEN-w44,homa bay · 28 oct · murder of sheila wegesha,criminal_homicide
 juror_a,R3-KEN-w44,"kajiado · ~29 oct · wife killed by husband, buried in shallow grave",criminal_homicide
 juror_a,R3-KEN-w44,"kibish, turkana · 26 oct · herder killed in cross-border attack",attack_on_civilians
 juror_a,R3-KEN-w44,"kibish, turkana · 29 oct · two men shot dead in cross-border attack",attack_on_civilians
@@ -1051,40 +1261,59 @@ juror_a,R3-KEN-w44,kitui · ~26 oct · fatal shooting at police training camp,se
 juror_a,R3-KEN-w44,kwale · ~31 oct · man fatally shot by gunmen,criminal_homicide
 juror_a,R3-KEN-w44,"likoni, mombasa · 26 oct · gang kills county enforcement officer at cess point",criminal_homicide
 juror_a,R3-KEN-w44,"loporna fora, marsabit · 29 oct · bandits raid kills two, including child",attack_on_civilians
+juror_a,R3-KEN-w44,marsabit · 31 oct · raid kills two as residents blame disarmament,attack_on_civilians
 juror_a,R3-KEN-w44,migori · ~29 oct · two men killed,criminal_homicide
+juror_a,R3-KEN-w44,"migori, nyanza · 28 oct · woman's body found in sack on railway",criminal_homicide
+juror_a,R3-KEN-w44,nairobi · 26 oct · lawyer mbobu mutiso murdered,criminal_homicide
+juror_a,R3-KEN-w44,"turkana · 31 oct · gunmen raid kills two, wound three",attack_on_civilians
 juror_a,R3-MOZ-w42,"litamanda, macomia · 16 oct · insurgents kill 2 civilians",attack_on_civilians
 juror_a,R3-MOZ-w42,"marijirane, macomia · 18 oct · government vs is clash, 6 killed",battle
 juror_a,R3-MOZ-w42,"mbau, mocímboa da praia · 15 oct · landmine kills civilian",remote_violence
 juror_a,R3-MOZ-w42,"mocímboa da praia, cabo delgado · 17 oct · navy marines kill 3 insurgents",battle
 juror_a,R3-MOZ-w43,"nangunde, muidumbe, cabo delgado · 21 oct · insurgents kill 2 civilians",attack_on_civilians
+juror_a,R3-MOZ-w43,"pemba, cabo delgado · 20 oct · marines kill suspected terrorists",security_force_killing
 juror_a,R3-MOZ-w43,"vanduzi bridge, mozambique · 22 oct · armed robbers kill man",criminal_homicide
 juror_a,R3-RUS-w43,belgorod oblast · 21 oct · attack kills 1,remote_violence
 juror_a,R3-RUS-w43,belgorod region · 20 oct · ukrainian attacks kill 1,remote_violence
+juror_a,R3-RUS-w43,belgorod region · 25 oct · drone strike on car kills 1,remote_violence
 juror_a,R3-RUS-w43,belgorod · 25 oct · overnight ukrainian drone attacks kill 3,remote_violence
+juror_a,R3-RUS-w43,"berdsk, novosibirsk · 21 oct · widow killed over car, suspect charged",criminal_homicide
 juror_a,R3-RUS-w43,bryansk region · 25 oct · drone strike on freight train kills driver,remote_violence
 juror_a,R3-RUS-w43,chechnya · 22 oct · security forces kill sabotage suspect,security_force_killing
+juror_a,R3-RUS-w43,chelyabinsk oblast · 21 oct · neighbour beaten to death,criminal_homicide
 juror_a,R3-RUS-w43,"graivoron district, belgorod · 22 oct · fpv drone kills truck driver",remote_violence
 juror_a,R3-RUS-w43,"khalturino, bryansk oblast · 23 oct · drone attack on bus kills woman",remote_violence
 juror_a,R3-RUS-w43,"klimovo, bryansk · 21 oct · drone strike on car kills 1",remote_violence
 juror_a,R3-RUS-w43,kursk oblast · 22 oct · ukrainian attack kills 3,remote_violence
 juror_a,R3-RUS-w43,kursk oblast · 24 oct · ukrainian attack kills 6,remote_violence
+juror_a,R3-RUS-w43,moscow oblast · 22 oct · car mechanic strangles wife,criminal_homicide
 juror_a,R3-RUS-w43,moscow oblast · 25 oct · church reader killed by uncle,criminal_homicide
+juror_a,R3-RUS-w43,moscow · 22 oct · 22-year-old man murdered in central moscow,criminal_homicide
 juror_a,R3-RUS-w43,moscow · 22 oct · model prikhodko held over ex-boyfriend's killing,criminal_homicide
+juror_a,R3-RUS-w43,"nizhny novgorod · 21 oct · ex-deputy's son killed, suspects held",criminal_homicide
+juror_a,R3-RUS-w43,novosibirsk · 20 oct · parents strangle son over inheritance,criminal_homicide
 juror_a,R3-RUS-w43,oryol · 23 oct · ukrainian missile strike on factory kills 4,remote_violence
 juror_a,R3-RUS-w43,"pogar, bryansk · 24 oct · drone strike on minibus kills 2",remote_violence
+juror_a,R3-RUS-w43,"shchelkovo, moscow oblast · 20 oct · church reader murdered",criminal_homicide
 juror_a,R3-RUS-w43,st petersburg · 19 oct · drone barrage kills 1,remote_violence
 juror_a,R3-RUS-w43,st petersburg · 19 oct · store guard suspected of beating man to death,criminal_homicide
 juror_a,R3-RUS-w43,st petersburg · 21 oct · man held over acquaintance's murder,criminal_homicide
 juror_a,R3-RUS-w43,tyumen region · 22 oct · missing woman found shot dead,criminal_homicide
+juror_a,R3-RUS-w43,tyumen · 23 oct · man kills ex-wife,criminal_homicide
 juror_a,R3-RUS-w43,"yelets, lipetsk · 25 oct · ukrainian missile strike on industrial zone kills guard",remote_violence
 juror_a,R3-RUS-w43,"zamostye, belgorod · 24 oct · fpv drone kills man",remote_violence
 juror_a,R3-RUS-w44,"altai · 31 oct · firefighter found dead, murder case opened",criminal_homicide
 juror_a,R3-RUS-w44,amur oblast · 31 oct · man charged with murdering acquaintance,criminal_homicide
 juror_a,R3-RUS-w44,"babinka, bryansk · 31 oct · drone strike kills 2",remote_violence
 juror_a,R3-RUS-w44,belgorod oblast · 27 oct · drone strike kills scooter rider,remote_violence
+juror_a,R3-RUS-w44,belgorod oblast · 30 oct · ukrainian attack kills 1,remote_violence
+juror_a,R3-RUS-w44,belgorod · 26 oct · ukrainian drone raid kills 3,remote_violence
 juror_a,R3-RUS-w44,"bessonovka, belgorod · 28 oct · drone strike kills man on farm machinery",remote_violence
+juror_a,R3-RUS-w44,"bryansk region · 27 oct · ukrainian attack kills man, six hurt",remote_violence
 juror_a,R3-RUS-w44,bryansk · 27 oct · drone attack kills 2,remote_violence
+juror_a,R3-RUS-w44,bryansk · 31 oct · ukrainian drone strike kills 2,remote_violence
 juror_a,R3-RUS-w44,chelyabinsk · 28 oct · security guard kills family,criminal_homicide
+juror_a,R3-RUS-w44,"chelyabinsk · 29 oct · man held for killing acquaintance, fire",criminal_homicide
 juror_a,R3-RUS-w44,dagestan · 3 nov · man confesses to murdering ex-wife,criminal_homicide
 juror_a,R3-RUS-w44,"georgiyevsk, stavropol · 26 oct · man beats acquaintance to death",criminal_homicide
 juror_a,R3-RUS-w44,khanty-mansi · 26 oct · pensioner held for double murder,criminal_homicide
@@ -1096,9 +1325,12 @@ juror_a,R3-RUS-w44,"makhachkala · 4 nov · taxi driver murder, suspects arreste
 juror_a,R3-RUS-w44,moscow · 27 oct · billionaire's son shot dead in parking lot,criminal_homicide
 juror_a,R3-RUS-w44,moscow · 27 oct · man strangles partner,criminal_homicide
 juror_a,R3-RUS-w44,moscow · 28 oct · man accused of strangling ex-wife,criminal_homicide
+juror_a,R3-RUS-w44,moscow · 28 oct · suspect held in beautician killing,criminal_homicide
 juror_a,R3-RUS-w44,"navlya, bryansk · 30 oct · drone strike kills 19-year-old",remote_violence
+juror_a,R3-RUS-w44,neryungri · 28 oct · man accused of killing neighbour,criminal_homicide
 juror_a,R3-RUS-w44,omsk · 2 nov · man accused of killing 15-year-old girl,criminal_homicide
 juror_a,R3-RUS-w44,oryol · 26 oct · missile strike on proton plant kills 5,remote_violence
+juror_a,R3-RUS-w44,oryol · 30 oct · woman scalds elderly father to death,criminal_homicide
 juror_a,R3-RUS-w44,primorye · 29 oct · murder of local resident,criminal_homicide
 juror_a,R3-RUS-w44,"rakitnoye, belgorod · 4 nov · drone strike on minibus kills 3",remote_violence
 juror_a,R3-RUS-w44,rostov region · 1 nov · married couple kidnapped and killed,criminal_homicide
@@ -1108,9 +1340,12 @@ juror_a,R3-RUS-w44,samara oblast · 30 oct · drone attack kills 2,remote_violen
 juror_a,R3-RUS-w44,"shebekino, belgorod · 26 oct · fpv drone kills woman",remote_violence
 juror_a,R3-RUS-w44,siberia · 28 oct · serial killer confesses to another murder,criminal_homicide
 juror_a,R3-RUS-w44,simferopol–moscow bus · 27 oct · drone attack kills passenger,remote_violence
+juror_a,R3-RUS-w44,st petersburg · 26 oct · man with hammer kills mother and son,criminal_homicide
+juror_a,R3-RUS-w44,st petersburg · 31 oct · man stabs acquaintance in quarrel,criminal_homicide
 juror_a,R3-RUS-w44,st. petersburg · 29 oct · drone attack victim dies,remote_violence
 juror_a,R3-RUS-w44,vladimir · 30 oct · 95-year-old woman beaten to death,criminal_homicide
 juror_a,R3-RUS-w44,voronezh · 26 oct · ukrainian drone attack kills 2,remote_violence
+juror_a,R3-RUS-w44,voronezh · 28 oct · drone strike on plant kills 3,remote_violence
 juror_a,R3-SAU-w41,abha airport · 7 oct · houthi strike kills algerian and moroccan women,remote_violence
 juror_a,R3-SAU-w41,abha and king khalid airports · 6-7 oct · houthi attacks kill 3,remote_violence
 juror_a,R3-SAU-w41,eastern province · 7 oct · son beats mother to death,criminal_homicide
@@ -1127,6 +1362,7 @@ juror_a,R3-ZAF-w42,"epping, cape town · 16 oct · two taxi owners shot dead",cr
 juror_a,R3-ZAF-w42,"eshowe, kwazulu-natal · 12 oct · former employee kills three boxer managers",criminal_homicide
 juror_a,R3-ZAF-w42,"hammarsdale, kwazulu-natal · 11 oct · police officer's partner shot dead",criminal_homicide
 juror_a,R3-ZAF-w42,"katlehong, ekurhuleni · 13 oct · memorial-service drive-by shooting kills four",attack_on_civilians
+juror_a,R3-ZAF-w42,"kwazulu, eastern cape · 16 oct · father accused of killing his daughters",criminal_homicide
 juror_a,R3-ZAF-w42,limpopo · 12 oct · teenager dies in mob attack over shop robbery,mob_or_riot
 juror_a,R3-ZAF-w42,limpopo · 17 oct · comedian skeem mafenya stabbed to death,criminal_homicide
 juror_a,R3-ZAF-w42,"old strandfontein, cape town · 17 oct · two men killed in gang shooting",criminal_homicide
@@ -1134,10 +1370,12 @@ juror_a,R3-ZAF-w42,south africa · 12 oct · biker shot dead,criminal_homicide
 juror_a,R3-ZAF-w42,south africa · 12 oct · collegiate pupil's stepfather gunned down,criminal_homicide
 juror_a,R3-ZAF-w42,south africa · 12 oct · elizabeth moselakgomo killed,criminal_homicide
 juror_a,R3-ZAF-w42,south africa · 16 oct · four cash-in-transit robbers shot dead by police,security_force_killing
+juror_a,R3-ZAF-w42,"soweto, gauteng · 12 oct · double murder",criminal_homicide
 juror_a,R3-ZAF-w42,"tembisa, gauteng · 18 oct · man raped to death, two women arrested",criminal_homicide
 juror_a,R3-ZAF-w42,"umbilo, durban · 15 oct · bmw owner killed in attempted hijacking",criminal_homicide
 juror_a,R3-ZAF-w42,"umgababa, durban · 15 oct · two anc members shot dead while campaigning",attack_on_civilians
 juror_a,R3-ZAF-w42,"umlazi, durban · 14 oct · three cash-in-transit robbers killed",security_force_killing
+juror_a,R3-ZAF-w42,"willowvale, eastern cape · 14 oct · headman and mother gunned down",criminal_homicide
 juror_a,R3-ZAF-w43,"bochabela, bloemfontein · 21 oct · twin brothers who owned lounge shot dead",criminal_homicide
 juror_a,R3-ZAF-w43,"bonteheuwel, cape town · 23 oct · man shot dead in street",criminal_homicide
 juror_a,R3-ZAF-w43,"buffelsdraai, kwazulu-natal · 25 oct · man found murdered on road",criminal_homicide
@@ -1202,6 +1440,7 @@ juror_b,COL-w43,córdoba · 25 oct · police officer killed thwarting gold-chain
 juror_b,COL-w43,"el tambo, cauca · 22 oct · military operation kills eln members",battle
 juror_b,COL-w43,"el tambo, cauca · 25 oct · operation ónix bombing kills 10 eln members",remote_violence
 juror_b,COL-w43,"el tarra, norte de santander · 24 oct · eln kills a civilian",attack_on_civilians
+juror_b,COL-w43,"fontibón, bogotá · 20 oct · millonarios fan shot dead",criminal_homicide
 juror_b,COL-w43,"guachaca, santa marta · 23 oct · clash with acsn kills a soldier",battle
 juror_b,COL-w43,"guapi river, cauca · 23 oct · farc dissident drone attack kills a marine and wounds four",remote_violence
 juror_b,COL-w43,ibagué · 23 oct · man murdered at his home,criminal_homicide
@@ -1211,6 +1450,7 @@ juror_b,COL-w43,maicao–riohacha road · 22 oct · gunmen kill alias comando 60
 juror_b,COL-w43,malambo · 20 oct · man shot dead in san martín neighborhood,criminal_homicide
 juror_b,COL-w43,malambo · 24 oct · man killed on his way to buy breakfast,criminal_homicide
 juror_b,COL-w43,"manrique, medellín · 25 oct · double homicide",criminal_homicide
+juror_b,COL-w43,"mateo pérez, sucre · 21 oct · journalist murdered by farc dissidents",attack_on_civilians
 juror_b,COL-w43,"mayoyoque, putumayo · 19 oct · armed incursion kills community leader and mechanic",attack_on_civilians
 juror_b,COL-w43,medellín · 22 oct · puerto rican man murdered,criminal_homicide
 juror_b,COL-w43,"nariño–cauca border, el tambo · 22 oct · military bombing kills eln members, including alias marcos pacífico",remote_violence
@@ -1230,6 +1470,8 @@ juror_b,COL-w43,soacha · 19 oct · environmental leader murdered,attack_on_civi
 juror_b,COL-w43,"sogamoso, boyacá · 20 oct · barracks fight kills two soldiers",criminal_homicide
 juror_b,COL-w43,"suesca, cundinamarca · 21 oct · couple murdered at their farm",criminal_homicide
 juror_b,COL-w43,"usaquén, bogotá · 20 oct · vanessa vera stabbed and killed",criminal_homicide
+juror_b,COL-w43,valle de aburrá · 20 oct · taxi driver dies after being shot in robbery attempt,criminal_homicide
+juror_b,COL-w43,valle del cauca · 20 oct · marine murdered,criminal_homicide
 juror_b,COL-w43,"virgilio barco, cúcuta · 22 oct · sister and brother-in-law shot dead",criminal_homicide
 juror_b,COL-w43,ábrego · 23 oct · man dies after robbery at a farm,criminal_homicide
 juror_b,ETH-w42,"dangur woreda, metekel · 14 oct · attack kills ambulance driver",attack_on_civilians
@@ -1245,18 +1487,23 @@ juror_b,ETH-w43,"moyale, ethiopia · 20 oct · 13-year-old girl killed amid flag
 juror_b,ETH-w43,"moyale, ethiopia · 21 oct · clashes kill at least nine",battle
 juror_b,ETH-w43,"shirka, arsi zone, oromia · 24 oct · attacks kill orthodox christians",attack_on_civilians
 juror_b,MLI-w41,anéfif · 5 oct · malian forces kill fighters,battle
+juror_b,MLI-w41,"barouéli, ségou · 8 oct · domestic violence kills a woman",criminal_homicide
 juror_b,MLI-w41,dialakorodji · 5 oct · salif sidibé dies after security-forces incident,security_force_killing
 juror_b,MLI-w41,"faladié, bamako · 8–9 oct · newlywed woman shot dead",criminal_homicide
 juror_b,MLI-w41,"near inafarak, kidal · 10 oct · four civilians killed in violence",attack_on_civilians
 juror_b,MLI-w41,northern mali · 6 oct · army airstrikes kill militants,remote_violence
+juror_b,MLI-w41,"ouro, mopti · 6 oct · civilians executed",attack_on_civilians
 juror_b,MLI-w41,southern mali · 11 oct · fama kills fighters,battle
 juror_b,MLI-w41,"southwest of amassine, kidal · 5 oct · government-jnim clash kills two",battle
 juror_b,MLI-w41,"tessit · 9 oct · jnim and islamic state clash, deaths reported",battle
 juror_b,MLI-w41,"tinzaouaten, kidal · 5 oct · malian strikes kill gunmen",remote_violence
 juror_b,MLI-w41,"tinzaouatène, kidal · 7 oct · malian operation kills fighters",battle
 juror_b,MLI-w43,"danlekanda, bandiagara · 22 oct · attack kills 1 and wounds 1",attack_on_civilians
+juror_b,MLI-w43,mali · 22 oct · police assassination,attack_on_civilians
 juror_b,MLI-w43,mali-algeria border · 20 oct · drone strike kills 15 miners,remote_violence
 juror_b,MLI-w43,ménaka region · 19 oct · attacks kill at least 48 civilians,attack_on_civilians
+juror_b,MLI-w44,mali · 29 oct · terror attack kills 13,attack_on_civilians
+juror_b,MLI-w44,"ménaka, gao · 26 oct · eigs attacks kill 54",attack_on_civilians
 juror_b,MLI-w44,"near lerneb, timbuktu · 26 oct · drone strike kills 13",remote_violence
 juror_b,MLI-w44,"sounga, near djenné · 29 oct · dozo-jnim clash",battle
 juror_b,MMR-w43,"budalin, sagaing · 20 oct · airstrike kills six civilians",remote_violence
@@ -1264,6 +1511,7 @@ juror_b,MMR-w43,"eastern shwegu, kachin · 20 oct · clash kills a civilian",bat
 juror_b,MMR-w43,homalin · 25 oct · drone strike on a naga camp kills 36,remote_violence
 juror_b,MMR-w43,"htan taw village, kanbalu · 23 oct · clash kills five",battle
 juror_b,MMR-w43,"indaw, sagaing · 23 oct · clash kills regime soldiers",battle
+juror_b,MMR-w43,"indaw, sagaing · 23 oct · junta troops execute a civilian",attack_on_civilians
 juror_b,MMR-w43,"kani, sagaing · 22 oct · airstrikes kill two civilians",remote_violence
 juror_b,MMR-w43,"le myo river boat dock, rakhine · 20 oct · bombing kills nine civilians",remote_violence
 juror_b,MMR-w43,"mae nu htar, hpapun · 25 oct · airstrike kills a child",remote_violence
@@ -1279,6 +1527,7 @@ juror_b,MMR-w44,ann–padan road · 30 oct 2026 · arakan army ambush kills 10 j
 juror_b,MMR-w44,chin state · 30 oct 2026 · junta bombing kills its own pows,remote_violence
 juror_b,MMR-w44,"gyobingauk, bago region · 31 oct 2026 · ambush kills 4 junta soldiers",battle
 juror_b,MMR-w44,indaw township · october 2026 · month-long fighting kills about 300,battle
+juror_b,MMR-w44,kachin state · 31 oct · elephant attack kills 7,other
 juror_b,MMR-w44,"kanyinchaung, thayetchaung township · 30 oct 2026 · airstrike kills 4 civilians",remote_violence
 juror_b,MMR-w44,loikaw township · 31 oct 2026 · airstrike on a school kills 3 children,remote_violence
 juror_b,MMR-w44,natthalin township · 30 oct 2026 · attack kills 2 pyu saw htee members,battle
@@ -1291,6 +1540,7 @@ juror_b,NGA-w40,anambra · 2026-10-02 · land-dispute clash between aguleri and 
 juror_b,NGA-w40,anambra · 2026-10-03 · aguleri–umuoba-anam clash kills five,mob_or_riot
 juror_b,NGA-w40,bauchi · 2026-10-03 · former apc women’s leader is murdered,criminal_homicide
 juror_b,NGA-w40,benue · 2026-10-01 · attackers allegedly kill a ward chairman,criminal_homicide
+juror_b,NGA-w40,"bokkos, plateau · 4 oct · violence kills 28",attack_on_civilians
 juror_b,NGA-w40,borno · 2026-10-01 · militants kill people gathering firewood and farmers,attack_on_civilians
 juror_b,NGA-w40,central nigeria · 2026-10-03–04 · gunmen kill six christians in attacks on communities,attack_on_civilians
 juror_b,NGA-w40,enugu · 2026-10-01 · task force officials kill a tricycle driver,security_force_killing
@@ -1314,11 +1564,14 @@ juror_b,NGA-w40,"wereng, plateau · 2026-10-01 · suspected militia members shoo
 juror_b,NGA-w40,zamfara · 2026-10-01 · kidnappers kill a couple and their driver,criminal_homicide
 juror_b,PAK-w43,"akakhel, bara, khyber district · 24 oct · security strike kills militant commander",security_force_killing
 juror_b,PAK-w43,bahawalpur · 21 oct · suspect in waseem abbas killing shot dead by police,security_force_killing
+juror_b,PAK-w43,bajaur · 23 oct · attack kills sarwar and three others,attack_on_civilians
 juror_b,PAK-w43,balochistan · 20 oct · attack on state-backed death-squad base kills 8,battle
 juror_b,PAK-w43,balochistan · 21 oct · drone strikes kill 3 civilians,remote_violence
 juror_b,PAK-w43,balochistan · 24 oct · army operation leaves 10 dead,battle
 juror_b,PAK-w43,chagai · 25 oct · clashes kill 10 soldiers and 2 bla fighters,battle
 juror_b,PAK-w43,"charpira, karak · 22 oct · gunfight kills 4 police officers and 2 militants",battle
+juror_b,PAK-w43,"civil lines, punjab · 19 oct · businessman shot dead while chasing carjackers",criminal_homicide
+juror_b,PAK-w43,dera ghazi khan · 21 oct · security operation kills militants,battle
 juror_b,PAK-w43,gujranwala · 25 oct · bride shot dead after rejecting marriage proposal,criminal_homicide
 juror_b,PAK-w43,gujrat · 22 oct · man stabs brother to death,criminal_homicide
 juror_b,PAK-w43,gwadar · 22 oct · foiled construction-camp attack leaves 3 militants dead,battle
@@ -1327,9 +1580,14 @@ juror_b,PAK-w43,gwadar · 23 oct · blf attack claims 7 pakistani personnel kill
 juror_b,PAK-w43,gwadar · 23 oct · clearance operation after camp attack kills 7 militants,battle
 juror_b,PAK-w43,islamabad · 20 oct · laiba case suspect killed in accomplices’ firing on police,criminal_homicide
 juror_b,PAK-w43,islamabad · 25 oct · police encounter kills 2 afghan suspects,security_force_killing
+juror_b,PAK-w43,karachi · 23 oct · shootouts kill 3 robbers,security_force_killing
 juror_b,PAK-w43,karachi · 25 oct · husband shoots wife dead,criminal_homicide
+juror_b,PAK-w43,"kech, balochistan · 22 oct · intelligence operation kills militant",battle
+juror_b,PAK-w43,"khuzdar, balochistan · 20 oct · joint security operation kills 5 militants",battle
 juror_b,PAK-w43,kohat · 20 oct · police operation kills suicide-attack mastermind,security_force_killing
 juror_b,PAK-w43,kurram and north waziristan · 23–24 oct · border clashes kill soldiers and fighters,battle
+juror_b,PAK-w43,lahore · 23 oct · car race crash kills 3,other
+juror_b,PAK-w43,lahore · 23 oct · overspeeding crash kills 4,other
 juror_b,PAK-w43,lasbela · 23 oct · road collision kills 12,other
 juror_b,PAK-w43,"miranshah, north waziristan · 20 oct · gunmen kill police officer near bypass",attack_on_civilians
 juror_b,PAK-w43,multan · 20 oct · car chase kills waseem abbas,criminal_homicide
@@ -1340,14 +1598,20 @@ juror_b,PAK-w43,pakistan · 20 oct · attack on police escort kills scholarship-
 juror_b,PAK-w43,pakistan · 24 oct · baloch rebel strike kills several,battle
 juror_b,PAK-w43,"panjpai, balochistan · 21 oct · clashes kill pakistani personnel and baloch fighters",battle
 juror_b,PAK-w43,"pasni, balochistan · 19 oct · ied attack kills major wajahat waheed",remote_violence
+juror_b,PAK-w43,peshawar · 23 oct · armed clash kills police and militants,battle
 juror_b,PAK-w43,qila saifullah · 25 oct · security operation kills militant commander,security_force_killing
 juror_b,PAK-w43,quetta · 20 oct · man killed,criminal_homicide
 juror_b,PAK-w43,quetta · 24 oct · police officer accused of killing two men,criminal_homicide
+juror_b,PAK-w43,"rajanpur, punjab · 21 oct · bus overturn kills 10",other
+juror_b,PAK-w43,rawalpindi · 22 oct · hina javed dies after brutal torture,criminal_homicide
 juror_b,PAK-w43,"shahdadpur, sindh · 24 oct · newlywed couple murdered",criminal_homicide
 juror_b,PAK-w43,sheikhupura · 21 oct · 12-year-old domestic worker dies after alleged abuse,criminal_homicide
 juror_b,PAK-w43,sheikhupura · 25 oct · man shoots and kills three women in child custody dispute,criminal_homicide
+juror_b,PAK-w43,"sherani, balochistan · 25 oct · security operation kills militants",battle
 juror_b,PAK-w43,"subati kach, jandola, tank · 20 oct · security operation kills ttp commander",security_force_killing
 juror_b,PAK-w43,"zarkani, dera ismail khan · 24 oct · security operation kills 6 militants and 2 soldiers",battle
+juror_b,R2-BFA-w42,burkina faso · 15 oct · assassination,attack_on_civilians
+juror_b,R2-BFA-w42,burkina faso · 16 oct · military assassination,attack_on_civilians
 juror_b,R2-BFA-w42,"oudalan, sahel · 12 oct · issp-jnim clash; issp claimed 400 jnim fighters killed",battle
 juror_b,R2-BFA-w44,kartasso · 30 oct · burkina forces-jnim clash kills 3,battle
 juror_b,R2-BFA-w44,"konga forest, gomboro · 29 oct · burkina forces kill 4 jnim militants",battle
@@ -1370,6 +1634,7 @@ juror_b,R2-BRA-w41,brazil’s southern coast · 6 oct · man shot dead,criminal_
 juror_b,R2-BRA-w41,cajobi · 11 oct · man shot dead on a public street,criminal_homicide
 juror_b,R2-BRA-w41,caxias do sul · 7 oct · woman killed,criminal_homicide
 juror_b,R2-BRA-w41,"caxias, rio de janeiro · 9 oct · police clash kills two men",security_force_killing
+juror_b,R2-BRA-w41,caçapava · 5 oct · man murdered in front of a bar,criminal_homicide
 juror_b,R2-BRA-w41,ceará · 9 oct · man shot and killed,criminal_homicide
 juror_b,R2-BRA-w41,"cidade nova, manaus · 6 oct · man killed after an argument with his brother-in-law",criminal_homicide
 juror_b,R2-BRA-w41,"compensa, manaus · 5 oct · man shot dead outside his home",criminal_homicide
@@ -1382,6 +1647,7 @@ juror_b,R2-BRA-w41,eunápolis · 8 oct · inmate dies after being beaten by othe
 juror_b,R2-BRA-w41,"gardênia azul, rio de janeiro · 11 oct · shootout kills a bope officer",battle
 juror_b,R2-BRA-w41,"igarapé do meio, macapá · 7 oct · young man shot dead",criminal_homicide
 juror_b,R2-BRA-w41,imperatriz · 8 oct · policewoman shot and killed in her car,criminal_homicide
+juror_b,R2-BRA-w41,interior of são paulo · 8 oct · judge found dead in burning car,criminal_homicide
 juror_b,R2-BRA-w41,itatiaia · 9 oct · young man shot dead,criminal_homicide
 juror_b,R2-BRA-w41,japoatã · 9 oct · two suspects killed in a police clash,security_force_killing
 juror_b,R2-BRA-w41,laranjal do jari · 5 oct · police operation leaves two dead,security_force_killing
@@ -1399,6 +1665,7 @@ juror_b,R2-BRA-w41,"novo buritizal, macapá · 10 oct · young man executed with
 juror_b,R2-BRA-w41,"paciência, rio de janeiro · 11 oct · man shot dead",criminal_homicide
 juror_b,R2-BRA-w41,paratinga · 9 oct · boy dies after being stabbed during a family dispute,criminal_homicide
 juror_b,R2-BRA-w41,piracicaba · 5 oct · man dies in a clash with military police,security_force_killing
+juror_b,R2-BRA-w41,"rio branco, acre · 11 oct · 18-year-old woman killed",criminal_homicide
 juror_b,R2-BRA-w41,romão · 8–9 oct · engineer vitória killed,criminal_homicide
 juror_b,R2-BRA-w41,salvador · 9 oct · nursing student murdered,criminal_homicide
 juror_b,R2-BRA-w41,santa catarina · 11 oct · two people stabbed to death,criminal_homicide
@@ -1408,10 +1675,14 @@ juror_b,R2-BRA-w41,saquarema · 9 oct · man shot in an attack,criminal_homicide
 juror_b,R2-BRA-w41,serra · 5 oct · firefighter sergeant stabbed to death after an argument,criminal_homicide
 juror_b,R2-BRA-w41,"south zone, são paulo · 10 oct · police chase leaves one suspect dead and another wounded",security_force_killing
 juror_b,R2-BRA-w41,são paulo · 7 oct · man dies after a traffic dispute,criminal_homicide
+juror_b,R2-BRA-w41,taubaté · 5 oct · student killed in a fight,mob_or_riot
 juror_b,R2-BRA-w41,teresina · 11 oct · young people executed,criminal_homicide
+juror_b,R2-BRA-w41,teresina · 9 oct · blogger shot dead,criminal_homicide
 juror_b,R2-BRA-w41,viana · 5 oct · attack kills a pastor and a worker,attack_on_civilians
 juror_b,R2-BRA-w41,várzea grande · 6 oct · man shot dead,criminal_homicide
 juror_b,R2-BRA-w42,acre · 16 oct · 37-year-old man shot dead,criminal_homicide
+juror_b,R2-BRA-w42,"afrânio, pernambuco · 15 oct · motorcycle shop owner shot dead",criminal_homicide
+juror_b,R2-BRA-w42,"agrestina, pernambuco · 13 oct · missing app driver found murdered",criminal_homicide
 juror_b,R2-BRA-w42,alagoas · 14 oct · man killed with gunshots and machete blows,criminal_homicide
 juror_b,R2-BRA-w42,anápolis · 16 oct · woman fatally stabs her husband after he beats her,criminal_homicide
 juror_b,R2-BRA-w42,arapiraca · 16 oct · man shot dead in front of his family,criminal_homicide
@@ -1421,8 +1692,10 @@ juror_b,R2-BRA-w42,barra de são miguel · 16 oct · bope kills a drug trafficke
 juror_b,R2-BRA-w42,belo horizonte · 12 oct · prison guard killed at a bar,criminal_homicide
 juror_b,R2-BRA-w42,belo horizonte · 16 oct · police shootout kills two men,security_force_killing
 juror_b,R2-BRA-w42,"benedito bentes, maceió · 13 oct · 26-year-old man killed",criminal_homicide
+juror_b,R2-BRA-w42,boa vista · 18 oct · man shot dead by reserve military during attempted robbery,security_force_killing
 juror_b,R2-BRA-w42,brasil novo · 13 oct · suspect killed in police shootout,security_force_killing
 juror_b,R2-BRA-w42,brazil · 12 oct · fugitive killed in bope confrontation,security_force_killing
+juror_b,R2-BRA-w42,brazil · 12 oct · gunman shoots surgeon dead,criminal_homicide
 juror_b,R2-BRA-w42,brazil · 13 oct · police clash at gang base kills two,security_force_killing
 juror_b,R2-BRA-w42,brazil · 13 oct · reality-show personality shot dead in a bar fight,criminal_homicide
 juror_b,R2-BRA-w42,brazil · 13 oct · woman shot dead in femicide,criminal_homicide
@@ -1432,13 +1705,16 @@ juror_b,R2-BRA-w42,brazil · 14 oct · woman killed by her partner; daughter sho
 juror_b,R2-BRA-w42,brazil · 15 oct · drug trafficker killed in police clash,security_force_killing
 juror_b,R2-BRA-w42,brazil · 15 oct · man kills his brother,criminal_homicide
 juror_b,R2-BRA-w42,brazil · 16 oct · pcc-linked father killed on his daughter’s orders,attack_on_civilians
+juror_b,R2-BRA-w42,brazil · 16 oct · police kill hostage-taker at school,security_force_killing
 juror_b,R2-BRA-w42,brazil · 16 oct · police officer kills three people during psychotic episode,security_force_killing
 juror_b,R2-BRA-w42,brazil · 16 oct · victim chased and killed after party fight,criminal_homicide
 juror_b,R2-BRA-w42,brazil · 18 oct · man on parole shot dead by occupants of a red car,criminal_homicide
 juror_b,R2-BRA-w42,brazil · 18 oct · young man stabbed to death during a drinking session,criminal_homicide
+juror_b,R2-BRA-w42,"buriti, maranhão · 13 oct · man killed in faction violence",battle
 juror_b,R2-BRA-w42,"cachambi, rio de janeiro · 13 oct · off-duty officer shoots bar owner dead",criminal_homicide
 juror_b,R2-BRA-w42,caicó · 16 oct · elderly woman shot dead,criminal_homicide
 juror_b,R2-BRA-w42,"cambará, roraima · 18 oct · man shot dead during a robbery",security_force_killing
+juror_b,R2-BRA-w42,campina grande · 12 oct · police shootout kills one,security_force_killing
 juror_b,R2-BRA-w42,campo grande · 18 oct · man dies after being shot during a home robbery,criminal_homicide
 juror_b,R2-BRA-w42,campo grande · 18 oct · young man fatally stabbed,criminal_homicide
 juror_b,R2-BRA-w42,cariacica · 13 oct · sales representative dies after being shot outside a bar,criminal_homicide
@@ -1458,12 +1734,15 @@ juror_b,R2-BRA-w42,macapá · 12 oct · robbery suspect killed in police shootou
 juror_b,R2-BRA-w42,maceió · 15 oct · 15-year-old dies after knife attack,criminal_homicide
 juror_b,R2-BRA-w42,manaus · 13 oct · man shoots and kills his partner,criminal_homicide
 juror_b,R2-BRA-w42,maranhão · 12 oct · three men killed at a birthday party,criminal_homicide
+juror_b,R2-BRA-w42,"matipó, minas gerais · 13 oct · ex-wife dies after suspected arson",criminal_homicide
 juror_b,R2-BRA-w42,mato grosso do sul · 16 oct · homicide suspect killed in police clash,security_force_killing
 juror_b,R2-BRA-w42,mato grosso · 14 oct · young man led to gang and killed,attack_on_civilians
 juror_b,R2-BRA-w42,minas gerais · 18 oct · youth killed after a chase,criminal_homicide
+juror_b,R2-BRA-w42,"moema, são paulo · 12 oct · police shoot young man with 27 shots",security_force_killing
 juror_b,R2-BRA-w42,"moema, são paulo · 18 oct · young man fatally shot by police",security_force_killing
 juror_b,R2-BRA-w42,near maringá · 18 oct · suspect in teenager’s killing dies in police shootout,security_force_killing
 juror_b,R2-BRA-w42,nova andradina · 15 oct · three suspects killed in police shootout,security_force_killing
+juror_b,R2-BRA-w42,"nova iguaçu, rio de janeiro · 15 oct · truck driver shot dead during robbery attempt",criminal_homicide
 juror_b,R2-BRA-w42,"pacoval, macapá · 13 oct · young man pursued and shot dead",battle
 juror_b,R2-BRA-w42,palmas · 18 oct · man shot dead,criminal_homicide
 juror_b,R2-BRA-w42,paraná · 17 oct · rural producer found murdered with hands tied,criminal_homicide
@@ -1485,15 +1764,19 @@ juror_b,R2-BRA-w42,"sepetiba, rio de janeiro · 14 oct · woman dies after assau
 juror_b,R2-BRA-w42,sinop · 13 oct · man found shot dead with hands tied,criminal_homicide
 juror_b,R2-BRA-w42,são josé dos campos · 13 oct · woman killed,criminal_homicide
 juror_b,R2-BRA-w42,são josé · 13 oct · man kills his partner in femicide,criminal_homicide
+juror_b,R2-BRA-w42,são luís · 14 oct · young man shot dead,security_force_killing
 juror_b,R2-BRA-w42,são luís · 15 oct · 23-year-old man shot dead,criminal_homicide
 juror_b,R2-BRA-w42,são paulo coast · 17 oct · police confrontation kills two suspects,security_force_killing
 juror_b,R2-BRA-w42,são paulo · 13 oct · leader of fake-lawyer gang stabbed to death,criminal_homicide
 juror_b,R2-BRA-w42,são paulo · 13 oct · police shoot and kill a young man,security_force_killing
 juror_b,R2-BRA-w42,são paulo · 15 oct · three robbery suspects killed in shootout at matsunaga family home,security_force_killing
+juror_b,R2-BRA-w42,são paulo · 16 oct · police shoot woman advancing with a knife during psychotic episode,security_force_killing
+juror_b,R2-BRA-w42,são paulo · 16 oct · police shoot young man dead after mistaking phone for gun,security_force_killing
 juror_b,R2-BRA-w42,"tauá, ceará · 13 oct · two sisters kidnapped and murdered by men posing as police",criminal_homicide
 juror_b,R2-BRA-w42,"vila embratel, são luís · 13 oct · faction leader killed in confrontation",security_force_killing
 juror_b,R2-BRA-w42,votouro indigenous land · 13 oct · conflict leaves three dead,mob_or_riot
 juror_b,R2-BRA-w43,alagoas · 20 oct · threatened man found dead in sugarcane field,criminal_homicide
+juror_b,R2-BRA-w43,alagoas · 24 oct · transgender former council candidate shot dead,criminal_homicide
 juror_b,R2-BRA-w43,axixá · 22 oct · hooded gunmen shoot a man dead,criminal_homicide
 juror_b,R2-BRA-w43,belo horizonte · 21 oct · former prison officer kills cousin after argument,criminal_homicide
 juror_b,R2-BRA-w43,bonito · 24 oct · lula supporter shot dead during political motorcade,mob_or_riot
@@ -1519,6 +1802,7 @@ juror_b,R2-BRA-w43,downtown joão pessoa · 20 oct · homicide leaves one dead a
 juror_b,R2-BRA-w43,duque de caxias · 22 oct · man shot dead during attempted robbery,criminal_homicide
 juror_b,R2-BRA-w43,duque de caxias · 23 oct · shooting kills one man and wounds another,criminal_homicide
 juror_b,R2-BRA-w43,espírito santo · 20 oct · man kills pregnant partner in femicide,criminal_homicide
+juror_b,R2-BRA-w43,"governador nunes freire, maranhão · 19 oct · gunmen kill trafficking chief and girlfriend",criminal_homicide
 juror_b,R2-BRA-w43,greater belo horizonte · 22 oct · beatriz vitória tied and buried in shallow grave,criminal_homicide
 juror_b,R2-BRA-w43,japeri · 19 oct · police shootout kills four suspects,security_force_killing
 juror_b,R2-BRA-w43,joão pessoa · 20 oct · father and son die in police clash,security_force_killing
@@ -1527,17 +1811,22 @@ juror_b,R2-BRA-w43,macapá · 22 oct · man known as chapolin shot dead,criminal
 juror_b,R2-BRA-w43,maceió · 20 oct · 24-year-old man killed in a square,criminal_homicide
 juror_b,R2-BRA-w43,maceió · 22 oct · 24-year-old killed on a staircase,criminal_homicide
 juror_b,R2-BRA-w43,maranhão · 20 oct · professor killed by his brother,criminal_homicide
+juror_b,R2-BRA-w43,"marginal tietê, são paulo · 21 oct · police shootout kills suspect",security_force_killing
 juror_b,R2-BRA-w43,mato grosso do sul · 22 oct · neighbor killed amid longstanding feud,criminal_homicide
 juror_b,R2-BRA-w43,mato grosso do sul · 23 oct · hooded men invade home and kill resident,criminal_homicide
 juror_b,R2-BRA-w43,mato grosso · 24 oct · man dies in police shootout,security_force_killing
+juror_b,R2-BRA-w43,minas gerais · 19 oct · 19-year-old killed after chase and shooting,criminal_homicide
 juror_b,R2-BRA-w43,minas gerais · 21 oct · man kills wife and suspends her body,criminal_homicide
 juror_b,R2-BRA-w43,minas gerais · 22 oct · suspect in teenager’s killing dies in police shootout,security_force_killing
+juror_b,R2-BRA-w43,"moema, são paulo · 19 oct · police shoot young man dead",security_force_killing
+juror_b,R2-BRA-w43,monte azul paulista · 23 oct · security guard killed by suspects,criminal_homicide
 juror_b,R2-BRA-w43,"muca, macapá · 21 oct · young man shot dead",criminal_homicide
 juror_b,R2-BRA-w43,"north zone, são paulo · 24 oct · pai de santo shot dead",criminal_homicide
 juror_b,R2-BRA-w43,nova iguaçu · 22 oct · woman killed in femicide,criminal_homicide
 juror_b,R2-BRA-w43,paraná · 19 oct · stepfather kills venezuelan teenager,criminal_homicide
 juror_b,R2-BRA-w43,paraná · 21 oct · boyfriend kills woman at home,criminal_homicide
 juror_b,R2-BRA-w43,paraná · 21 oct · man shot dead over cellphone debt,criminal_homicide
+juror_b,R2-BRA-w43,"petrópolis, manaus · 21 oct · painter shot dead at home",criminal_homicide
 juror_b,R2-BRA-w43,"posse, petrópolis · 21 oct · shooting kills one and injures two",criminal_homicide
 juror_b,R2-BRA-w43,potirendaba · 25 oct · stabbing kills one,criminal_homicide
 juror_b,R2-BRA-w43,queimados · 19 oct · municipal secretary shot dead during police stop,security_force_killing
@@ -1549,12 +1838,16 @@ juror_b,R2-BRA-w43,rio de janeiro · 22 oct · lawyer rodrigo marinho crespo sho
 juror_b,R2-BRA-w43,rondônia · 21 oct · rancher killed by his wife,criminal_homicide
 juror_b,R2-BRA-w43,santa catarina · 20 oct · three bodies found charred,other
 juror_b,R2-BRA-w43,santos · 23 oct · engineer dies after being beaten at a pro-lula rally,criminal_homicide
+juror_b,R2-BRA-w43,"sarzedo, minas gerais · 19 oct · young man dies in police confrontation",security_force_killing
 juror_b,R2-BRA-w43,"sepetiba, rio de janeiro · 23 oct · man shot dead on estrada do piaí",criminal_homicide
 juror_b,R2-BRA-w43,são josé do rio preto · 20 oct · man shot dead after intervening in debt dispute,criminal_homicide
+juror_b,R2-BRA-w43,"são josé, santa catarina · 23 oct · man stabs new wife to death",criminal_homicide
+juror_b,R2-BRA-w43,"são raimundo, maranhão · 23 oct · woman shot dead",criminal_homicide
 juror_b,R2-BRA-w43,"taquara, rio de janeiro · 22 oct · shooting kills two and wounds one",criminal_homicide
 juror_b,R2-BRA-w43,timon · 23 oct · armed group kills young man and beats others,battle
 juror_b,R2-BRA-w43,uberaba · 22 oct · man shot over workplace debt dies,criminal_homicide
 juror_b,R2-BRA-w43,"viracopos airport, campinas · 21 oct · police kill gang member",security_force_killing
+juror_b,R2-BRA-w43,"vitorino freire, maranhão · 19 oct · news-page administrator shot dead",criminal_homicide
 juror_b,R2-BRA-w43,volta redonda · 25 oct · gang clashes kill two and burn vehicles,battle
 juror_b,R2-BRA-w43,várzea grande · 20 oct · woman stabbed to death by partner in supermarket,criminal_homicide
 juror_b,R2-BRA-w43,"zona leste, são paulo · 20 oct · police officer shoots knife-wielding woman dead",security_force_killing
@@ -1563,6 +1856,7 @@ juror_b,R2-CMR-w42,foumban · 18 oct · gunfire kills at least one person,crimin
 juror_b,R2-CMR-w42,"kotserehe, mayo-sava · 17 oct · boko haram attack kills two civilians",attack_on_civilians
 juror_b,R2-CMR-w42,"melim, kumbo · 13 oct · military raid kills five",security_force_killing
 juror_b,R2-COL-w32,"aguachica, cesar · 2026-08-04 · woman killed after rejecting a man",criminal_homicide
+juror_b,R2-COL-w32,"anolaima, cundinamarca · 2026-08-09 · toddler dies with signs of physical and sexual abuse",criminal_homicide
 juror_b,R2-COL-w32,"armenia, quindío · 2026-08-05 · homicide in the city center",criminal_homicide
 juror_b,R2-COL-w32,arroyohondo · 2026-08-07 · eder ramos found dead with a facial injury,criminal_homicide
 juror_b,R2-COL-w32,barranquilla · 2026-08-03 · 17-year-old girl shot and killed,criminal_homicide
@@ -1580,31 +1874,40 @@ juror_b,R2-COL-w32,colombia · 2026-08-08 · helen nicoll martínez killed,crimi
 juror_b,R2-COL-w32,"comuneros ii, cali · 2026-08-03 · armed attack kills two",criminal_homicide
 juror_b,R2-COL-w32,"curumaní, cesar · 2026-08-08 · drone explosive attack on police substation kills an officer",remote_violence
 juror_b,R2-COL-w32,cúcuta · 2026-08-08 · venezuelan woman murdered,criminal_homicide
+juror_b,R2-COL-w32,envigado · 2026-08-03 · merchant murdered while leaving his armored vehicle,criminal_homicide
 juror_b,R2-COL-w32,"florida, valle del cauca · 2026-08-03 · armed group kills three, including indigenous leader",attack_on_civilians
 juror_b,R2-COL-w32,"fortalecillas, neiva · 2026-08-09 · fatal brawl",mob_or_riot
 juror_b,R2-COL-w32,fusagasugá · 2026-08-03 · hitman kills a couple in a bar,criminal_homicide
 juror_b,R2-COL-w32,"girón, santander · 2026-08-06 · inpec inspector shot dead on his way to work",criminal_homicide
 juror_b,R2-COL-w32,"girón, santander · 2026-08-09 · soldier kills a man and plants a grenade",criminal_homicide
+juror_b,R2-COL-w32,"ibagué, tolima · 2026-08-09 · brawl kills one and injures two",mob_or_riot
 juror_b,R2-COL-w32,los olivos · 2026-08-05 · man shot dead,criminal_homicide
 juror_b,R2-COL-w32,maicao · 2026-08-05 · two men murdered in a vehicle,criminal_homicide
 juror_b,R2-COL-w32,"malambo, atlántico · 2026-08-07 · hitman kills one man and wounds another",criminal_homicide
 juror_b,R2-COL-w32,"mercaderes, cauca · 2026-08-03 · lieutenant killed in clashes with eln",battle
 juror_b,R2-COL-w32,meta and antioquia · 2026-08-09 · military operations kill six armed-group members,battle
 juror_b,R2-COL-w32,nariño · 2026-08-03 · army operation kills three,battle
+juror_b,R2-COL-w32,nariño · 2026-08-08 · police chief killed in attack after prisoner transfer,attack_on_civilians
 juror_b,R2-COL-w32,"ocaña, norte de santander · 2026-08-06 · peace signatory murdered",attack_on_civilians
 juror_b,R2-COL-w32,pitalito · 2026-08-03 · man shot and killed,criminal_homicide
 juror_b,R2-COL-w32,"rural abejorral, antioquia · 2026-08-07 · three men killed in a massacre",criminal_homicide
 juror_b,R2-COL-w32,"san roque, cesar · 2026-08-08 · explosive attack kills police officer",remote_violence
 juror_b,R2-COL-w32,soledad · 2026-08-04 · 17-year-old mototaxi driver murdered,criminal_homicide
 juror_b,R2-COL-w32,tolima · 2026-08-03 · two police officers killed,battle
+juror_b,R2-COL-w32,"viva palmas, antioquia · 2026-08-03 · businessman murdered",criminal_homicide
 juror_b,R2-COL-w36,barranquilla · 2 sep · hitman kills josé luis samera,criminal_homicide
+juror_b,R2-COL-w36,barranquilla · 2 sep · man found dead beside arroyo el platanal,criminal_homicide
 juror_b,R2-COL-w36,barranquilla · 31 aug · woman dies after being impaled,criminal_homicide
 juror_b,R2-COL-w36,barranquilla · 4 sep · gunfire kills one and injures two,criminal_homicide
 juror_b,R2-COL-w36,"belén, cali · 3 sep · double homicide",criminal_homicide
+juror_b,R2-COL-w36,bogotá · 1 sep · businessman gustavo aponte is murdered,criminal_homicide
 juror_b,R2-COL-w36,bogotá · 1 sep · professor is murdered and dismembered,criminal_homicide
+juror_b,R2-COL-w36,bogotá · 2 sep · man found shot dead under a bridge,criminal_homicide
+juror_b,R2-COL-w36,bogotá · 3 sep · knife attack kills santa fe fan,criminal_homicide
 juror_b,R2-COL-w36,bogotá · 4 sep · shooting on avenida nqs kills retired police officer,criminal_homicide
 juror_b,R2-COL-w36,cali · 6 sep · massacre kills three,attack_on_civilians
 juror_b,R2-COL-w36,"cali, comuna 20 · 5 sep · social leader lady alejandra is murdered",attack_on_civilians
+juror_b,R2-COL-w36,casanare · 4 sep · soldier shoots two fellow soldiers,criminal_homicide
 juror_b,R2-COL-w36,cauca · 5 sep · dissidents’ attack kills a soldier,battle
 juror_b,R2-COL-w36,"ciudad jardín, barranquilla · 2 sep · shooting at a home kills an escort and suspected gunman",attack_on_civilians
 juror_b,R2-COL-w36,colombia · 3 sep · bendito menor is allegedly killed by his own organization,attack_on_civilians
@@ -1615,11 +1918,15 @@ juror_b,R2-COL-w36,colombia · 4 sep · sicario kills juan carlos martínez,crim
 juror_b,R2-COL-w36,colombia · 5 sep · airstrikes kill at least six minors,remote_violence
 juror_b,R2-COL-w36,"cáceres, antioquia · 2 sep · massacre kills three",attack_on_civilians
 juror_b,R2-COL-w36,cúcuta · 5 sep · gunman kills hardware store owner’s wife,criminal_homicide
+juror_b,R2-COL-w36,"el peñol, nariño · 6 sep · military operation kills seven farc dissidents",battle
 juror_b,R2-COL-w36,"el retorno, guaviare · 31 aug · military airstrike kills 10, including three minors",remote_violence
+juror_b,R2-COL-w36,"engativá, bogotá · 5 sep · hitmen kill gustavo aponte",criminal_homicide
 juror_b,R2-COL-w36,guaviare · 1 sep · airstrike kills 20 farc dissidents,remote_violence
 juror_b,R2-COL-w36,guaviare · 1 sep · airstrike kills four teenagers,remote_violence
 juror_b,R2-COL-w36,guaviare · 2 sep · airstrike kills 23 alleged farc dissidents,remote_violence
 juror_b,R2-COL-w36,huila · 4 sep · gunman kills four,attack_on_civilians
+juror_b,R2-COL-w36,"kennedy, bogotá · 4 sep · three adults killed in apartment",criminal_homicide
+juror_b,R2-COL-w36,medellín · 6 sep · transgender woman is killed,criminal_homicide
 juror_b,R2-COL-w36,"miraflores, guaviare · 31 aug · military bombing kills eight alleged dissidents",remote_violence
 juror_b,R2-COL-w36,norte de santander · 1 sep · car bomb outside police station kills one,remote_violence
 juror_b,R2-COL-w36,"obando, valle del cauca · 5 sep · gun attack kills three",criminal_homicide
@@ -1633,15 +1940,24 @@ juror_b,R2-COL-w36,southwestern colombia · 1 sep · two social leaders are assa
 juror_b,R2-COL-w36,southwestern colombia · 31 aug · soldiers kill a dissident commander,battle
 juror_b,R2-COL-w36,tuluá · 31 aug · clash with farc dissidents kills a soldier,battle
 juror_b,R2-COL-w36,ubaté · 4 sep · chef stabbed to death,criminal_homicide
+juror_b,R2-COL-w36,valle del cauca · 3 sep · military operation kills dissidents,battle
 juror_b,R2-COL-w36,zona bananera and ciénaga · 31 aug · motorcycle gunmen kill four,criminal_homicide
 juror_b,R2-COL-w37,"alcalá, valle del cauca · 11 sep · woman shot and killed",criminal_homicide
 juror_b,R2-COL-w37,"amalfi, antioquia · 12 sep · alias leito killed in a mine-laying explosion",remote_violence
 juror_b,R2-COL-w37,"anorí, antioquia · 7 sep · three abducted people murdered",attack_on_civilians
 juror_b,R2-COL-w37,"argelia, cauca · 11 sep · two people found dead with a message",criminal_homicide
+juror_b,R2-COL-w37,barranquilla · 8 sep · adolescent aleja cuesta murdered,criminal_homicide
+juror_b,R2-COL-w37,barranquilla · 8 sep · brayan camacho and angie gonzález killed,criminal_homicide
+juror_b,R2-COL-w37,barranquilla · 8 sep · yudelkys martínez dies after assault by four women,criminal_homicide
+juror_b,R2-COL-w37,barranquilla · 9 sep · man killed while talking with friends,criminal_homicide
+juror_b,R2-COL-w37,"cali, valle del cauca · 7 sep · massacre at commercial establishment kills 3",criminal_homicide
 juror_b,R2-COL-w37,"caucasia, antioquia · 13 sep · clash kills one person",battle
 juror_b,R2-COL-w37,"chipaque, cundinamarca · 12 sep · double homicide",criminal_homicide
+juror_b,R2-COL-w37,"ciudad bolívar, bogotá · 9 sep · police inspector killed during an operation",criminal_homicide
 juror_b,R2-COL-w37,colombia · 12 sep · crime figure killed after reaching a plea deal,criminal_homicide
+juror_b,R2-COL-w37,colombia · 8 sep · crime boss killed in police operation,security_force_killing
 juror_b,R2-COL-w37,cúcuta · 11 sep · shopkeeper ‘pito’ dies after being shot,criminal_homicide
+juror_b,R2-COL-w37,"dosquebradas, risaralda · 12 sep · man known as care niña shot and killed",criminal_homicide
 juror_b,R2-COL-w37,"el peñol, nariño · 12 sep · military operation kills seven farc dissidents",battle
 juror_b,R2-COL-w37,"el peñol, nariño · 7 sep · military operation kills seven farc dissidents",battle
 juror_b,R2-COL-w37,magdalena · 13 sep · young content creator murdered,criminal_homicide
@@ -1656,12 +1972,16 @@ juror_b,R2-COL-w37,"roncesvalles, tolima · 8 sep · armed attack on a couple ki
 juror_b,R2-COL-w37,"rovira, tolima · 11 sep · armed attack kills two people",criminal_homicide
 juror_b,R2-COL-w37,"san andrés de cuerquia, antioquia · 12 sep · army clash kills a farc dissident",battle
 juror_b,R2-COL-w37,"simaña, la gloria, cesar · 13 sep · four people killed in a massacre",attack_on_civilians
+juror_b,R2-COL-w37,"tibú, norte de santander · 10 sep · landmine kills 1",remote_violence
 juror_b,R2-COL-w37,"timbiquí, cauca · 13 sep · police officer josé david ahumada murdered",battle
 juror_b,R2-COL-w37,"venadillo, tolima · 12 sep · social leader maría mercedes díaz perdomo murdered",attack_on_civilians
+juror_b,R2-COL-w37,villavicencio · 10 sep · retired soldier shoots and kills robber,criminal_homicide
 juror_b,R2-COL-w37,vía al llano · 11 sep · soldier kills a mother and daughter,criminal_homicide
 juror_b,R2-COL-w41,"altamira, cauca · 10 oct · drone attack kills soldier luis david arrieta osorio",remote_violence
+juror_b,R2-COL-w41,"anorí, antioquia · 7 oct · journalist julián hincapié murdered",criminal_homicide
 juror_b,R2-COL-w41,atlántico · 9 oct · merchant murdered over alleged extortion refusal,criminal_homicide
 juror_b,R2-COL-w41,"barbosa, santander · 7 oct · businessman yesid camacho murdered by hitmen",criminal_homicide
+juror_b,R2-COL-w41,bogotá · 10 oct · barber joseph murillo murdered,criminal_homicide
 juror_b,R2-COL-w41,bucaramanga · 10 oct · police officer fredy leal killed stopping a jewelry-store robbery,criminal_homicide
 juror_b,R2-COL-w41,calarcá · 10 oct · naren garcía murdered,criminal_homicide
 juror_b,R2-COL-w41,cali · 5 oct · 19-year-old woman burned and killed beneath a bridge,criminal_homicide
@@ -1680,6 +2000,7 @@ juror_b,R2-COL-w41,colombia · 7 oct · viviana andrea killed in a dispute betwe
 juror_b,R2-COL-w41,colombia · 8 oct · adolfo bernal shot dead while tending parked cars,criminal_homicide
 juror_b,R2-COL-w41,colombia · 8 oct · motorcycle gunmen kill ‘jairito’,criminal_homicide
 juror_b,R2-COL-w41,colombia · 8 oct · omar augusto triana barrera murdered in his hardware store,criminal_homicide
+juror_b,R2-COL-w41,colombia · 8 oct · soldier killed by fellow soldier at military base,criminal_homicide
 juror_b,R2-COL-w41,colombia–panama border · 8 oct · operation against clan del golfo kills one,security_force_killing
 juror_b,R2-COL-w41,"el bosquecito, colombia · 5 oct · luis david tejedor killed in a gun attack",criminal_homicide
 juror_b,R2-COL-w41,"el carmen, ibagué · 10 oct · alias ‘cajamarca’ murdered",criminal_homicide
@@ -1689,6 +2010,7 @@ juror_b,R2-COL-w41,"engativá, bogotá · 10 oct · nightclub security guard mur
 juror_b,R2-COL-w41,"engativá, bogotá · 7 oct · woman merchant murdered after prior threats",criminal_homicide
 juror_b,R2-COL-w41,floridablanca · 6 oct · man shot and killed,criminal_homicide
 juror_b,R2-COL-w41,ibagué · 11 oct · man murdered near plaza de la 21,criminal_homicide
+juror_b,R2-COL-w41,"jamundí, valle del cauca · 9 oct · two missing older adults found dead",criminal_homicide
 juror_b,R2-COL-w41,malambo · 11 oct · hitmen kill two people and wound a teenager,criminal_homicide
 juror_b,R2-COL-w41,"mi bohío, near timbío, cauca · 10 oct · attack on police and army kills one",battle
 juror_b,R2-COL-w41,northeastern colombia · 11 oct · military offensive kills guerrillas,battle
@@ -1735,13 +2057,17 @@ juror_b,R2-IND-w46,"ahmedabad, gujarat · 9 nov · woman stabs husband to death 
 juror_b,R2-IND-w46,"amreli, gujarat · 9 nov · revenge attack kills 1",criminal_homicide
 juror_b,R2-IND-w46,amritsar · 10 nov · man shoots younger brother dead,criminal_homicide
 juror_b,R2-IND-w46,"amritsar, punjab · 9 nov · gold dispute shooting kills man, injures asi",criminal_homicide
+juror_b,R2-IND-w46,"andheri, mumbai · 12 nov · firecracker dispute attack kills couple",criminal_homicide
+juror_b,R2-IND-w46,"andheri, mumbai · 12 nov · youth killed in local train altercation",criminal_homicide
 juror_b,R2-IND-w46,araria · 14 nov · registry office clerk shot dead,criminal_homicide
 juror_b,R2-IND-w46,attapur · 9 nov · cab driver dies after assault over ₹20 note,criminal_homicide
 juror_b,R2-IND-w46,bahraich · 10 nov · land-dispute clash kills 1,mob_or_riot
 juror_b,R2-IND-w46,"ballia, uttar pradesh · 10 nov · deadly clash kills 1",mob_or_riot
 juror_b,R2-IND-w46,"baranagar, kolkata · 14 nov · yoga instructor killed",criminal_homicide
 juror_b,R2-IND-w46,"barauli, rajasthan · 15 nov · man killed in clash between local groups",mob_or_riot
+juror_b,R2-IND-w46,"baraut, uttar pradesh · 13 nov · man bludgeoned to death by his brother",criminal_homicide
 juror_b,R2-IND-w46,basti · 10 nov · assault kills schoolteacher,criminal_homicide
+juror_b,R2-IND-w46,"bawana, delhi · 10 nov · teenager stabbed to death",criminal_homicide
 juror_b,R2-IND-w46,"bawana, delhi · 15 nov · double murder after quarrel",criminal_homicide
 juror_b,R2-IND-w46,"bawana, delhi · 15 nov · man shoots victim, victim’s brother kills shooter",criminal_homicide
 juror_b,R2-IND-w46,belagavi · 12 nov · mother and lover murder 24-year-old,criminal_homicide
@@ -1759,7 +2085,9 @@ juror_b,R2-IND-w46,bhagalpur · 14 nov · man shot dead in land dispute,criminal
 juror_b,R2-IND-w46,"bhojpur district, bihar · 12 nov · shooting kills 1",criminal_homicide
 juror_b,R2-IND-w46,"bhojpur · 9 nov · suv runs over crowd, killing 2",criminal_homicide
 juror_b,R2-IND-w46,bhopal · 12 nov · auto driver beaten to death,criminal_homicide
+juror_b,R2-IND-w46,bhopal · 9 nov · elderly woman smothered during robbery,criminal_homicide
 juror_b,R2-IND-w46,bhopal · 9 nov · fatal stabbing after firecracker dispute,criminal_homicide
+juror_b,R2-IND-w46,bhubaneswar · 12 nov · caretaker murders elderly woman,criminal_homicide
 juror_b,R2-IND-w46,bihar · 15 nov · police officer shoots wife dead,criminal_homicide
 juror_b,R2-IND-w46,"bihta, bihar · 11 nov · youth shot dead at home",criminal_homicide
 juror_b,R2-IND-w46,"bihta, bihar · 14 nov · driver murdered by wife and lover",criminal_homicide
@@ -1767,23 +2095,32 @@ juror_b,R2-IND-w46,bijnor · 11 nov · man strangles lover and dumps her body,cr
 juror_b,R2-IND-w46,"birbhum, west bengal · 15 nov · police shoot ratan sheikh dead in encounter",security_force_killing
 juror_b,R2-IND-w46,"boisar, maharashtra · 9 nov · roommate stabs man to death",criminal_homicide
 juror_b,R2-IND-w46,"budaun, uttar pradesh · 14 nov · woman and grandson found dead in suspected robbery",criminal_homicide
+juror_b,R2-IND-w46,bulandshahr · 10 nov · woman murdered after facebook friendship,criminal_homicide
 juror_b,R2-IND-w46,"burari, delhi · 14 nov · woman beaten to death after resisting advances",criminal_homicide
 juror_b,R2-IND-w46,"cachar, assam · 13 nov · man found dead near home in suspected homicide",criminal_homicide
 juror_b,R2-IND-w46,chennai · 10 nov · community dog feeder hacked to death after firecracker dispute,criminal_homicide
 juror_b,R2-IND-w46,chennai · 11 nov · auto driver murdered,criminal_homicide
+juror_b,R2-IND-w46,"darbhanga, bihar · 14 nov · 15-year-old girl found dead at makhana factory",criminal_homicide
 juror_b,R2-IND-w46,"darbhanga, bihar · 9 nov · man shot dead by cousin",criminal_homicide
 juror_b,R2-IND-w46,dehradun · 11 nov · son kills father,criminal_homicide
 juror_b,R2-IND-w46,dehradun · 9 nov · 15-year-old beaten to death after diwali party,criminal_homicide
+juror_b,R2-IND-w46,delhi · 10 nov · mcd worker beaten to death,criminal_homicide
+juror_b,R2-IND-w46,delhi · 10 nov · red fort blast kills people,remote_violence
 juror_b,R2-IND-w46,delhi · 13 nov · juveniles fatally stab man over dispute,criminal_homicide
 juror_b,R2-IND-w46,delhi · 14 nov · 18-year-old woman killed in showroom changing room,criminal_homicide
+juror_b,R2-IND-w46,delhi · 14 nov · professor assassinates doctor,criminal_homicide
+juror_b,R2-IND-w46,delhi · 9 nov · juvenile killed with an iron rod over firecracker dispute,criminal_homicide
 juror_b,R2-IND-w46,delhi-jaipur expressway · 10 nov · gangster shot dead,criminal_homicide
 juror_b,R2-IND-w46,delhi-katra expressway · 12 nov · former sarpanch shoots man dead after highway chase,criminal_homicide
+juror_b,R2-IND-w46,"digha, west bengal · 9 nov · police shoot rape-murder accused dead",security_force_killing
 juror_b,R2-IND-w46,durgapur · 12 nov · bjp leader killed in land-dispute brawl,criminal_homicide
 juror_b,R2-IND-w46,faridabad · 13 nov · former tech mahindra executive shot dead,criminal_homicide
 juror_b,R2-IND-w46,faridabad · 9 nov · 22-year-old man murdered at dhaba,criminal_homicide
+juror_b,R2-IND-w46,firozabad · 10 nov · gang assault kills 16-year-old girl,criminal_homicide
 juror_b,R2-IND-w46,"ganjam, odisha · 10 nov · history-sheeter hacked to death",criminal_homicide
 juror_b,R2-IND-w46,"garia, kolkata · 10 nov · tech worker murdered",criminal_homicide
 juror_b,R2-IND-w46,"garoth, madhya pradesh · 11 nov · 7-year-old girl sexually assaulted and murdered",criminal_homicide
+juror_b,R2-IND-w46,"ghatampur, uttar pradesh · 14 nov · man kills younger brother with shovel",criminal_homicide
 juror_b,R2-IND-w46,ghaziabad · 15 nov · woman shot dead after confronting neighbors,criminal_homicide
 juror_b,R2-IND-w46,"ghaziabad, uttar pradesh · 12 nov · man stabbed to death",criminal_homicide
 juror_b,R2-IND-w46,"ghazipur, uttar pradesh · 11 nov · unidentified assailants kill man near temple",criminal_homicide
@@ -1792,13 +2129,16 @@ juror_b,R2-IND-w46,greater noida · 14 nov · hit-and-run kills biryani seller,o
 juror_b,R2-IND-w46,"greater noida, uttar pradesh · 9 nov · farmer found murdered",criminal_homicide
 juror_b,R2-IND-w46,gujarat · 13 nov · father strangles daughter over relationship dispute,criminal_homicide
 juror_b,R2-IND-w46,gurdaspur · 15 nov · police head constable shot dead,criminal_homicide
+juror_b,R2-IND-w46,gurugram · 9 nov · criminal shot dead,security_force_killing
 juror_b,R2-IND-w46,"guwahati · 14 nov · boy stabs mother, later dies",criminal_homicide
 juror_b,R2-IND-w46,gwalior · 13 nov · father and son murdered over land dispute,criminal_homicide
+juror_b,R2-IND-w46,"hajipur, bihar · 9 nov · youth murdered and body found in pond",criminal_homicide
 juror_b,R2-IND-w46,"hardoi, uttar pradesh · 14 nov · man bludgeons elder brother to death",criminal_homicide
 juror_b,R2-IND-w46,hathras · 12 nov · 4-year-old girl murdered and found in a sack,criminal_homicide
 juror_b,R2-IND-w46,"himachal pradesh · 9 nov · man runs over neighbors after firecracker dispute, killing them",criminal_homicide
 juror_b,R2-IND-w46,"hisar, haryana · 9 nov · youth stabbed to death after firecracker dispute",criminal_homicide
 juror_b,R2-IND-w46,hyderabad · 11 nov · man kills friend with knife,criminal_homicide
+juror_b,R2-IND-w46,hyderabad · 13 nov · neighbor kills woman over stock-market debt,criminal_homicide
 juror_b,R2-IND-w46,hyderabad · 13 nov · wife bludgeoned to death,criminal_homicide
 juror_b,R2-IND-w46,india · 10 nov · man killed in gambling dispute,criminal_homicide
 juror_b,R2-IND-w46,india · 10 nov · man murdered after posting punjabi song,criminal_homicide
@@ -1810,10 +2150,14 @@ juror_b,R2-IND-w46,india · 14 nov · wild elephant tramples shepherd to death,o
 juror_b,R2-IND-w46,india · 15 nov · hit-and-run kills warkari pilgrim,other
 juror_b,R2-IND-w46,india · 15 nov · man killed by wild-boar bomb explosion,remote_violence
 juror_b,R2-IND-w46,india · 15 nov · son kills 85-year-old mother,criminal_homicide
+juror_b,R2-IND-w46,india · 15 nov · worker assassinates student,criminal_homicide
 juror_b,R2-IND-w46,india · 9 nov · gunmen shoot lawyer dead,criminal_homicide
 juror_b,R2-IND-w46,india · 9 nov · police sub-inspector beaten to death in reel dispute,criminal_homicide
 juror_b,R2-IND-w46,indore · 10 nov · man dies after neighbor pushes him during dispute,criminal_homicide
+juror_b,R2-IND-w46,"indore · 9 nov · husband kills wife, then dies by suicide",criminal_homicide
 juror_b,R2-IND-w46,jabalpur · 9 nov · man killed after confronting abuse,criminal_homicide
+juror_b,R2-IND-w46,jabalpur · 9 nov · two youths stabbed to death over gambling dispute,criminal_homicide
+juror_b,R2-IND-w46,"jahangirpuri, delhi · 12 nov · e-rickshaw driver beaten to death over suspected battery theft",criminal_homicide
 juror_b,R2-IND-w46,jaipur · 11 nov · history-sheeter hacked to death,criminal_homicide
 juror_b,R2-IND-w46,jaipur · 12 nov · gang leader killed in axe attack,criminal_homicide
 juror_b,R2-IND-w46,"jalaun, uttar pradesh · 14 nov · man killed with spade",criminal_homicide
@@ -1825,6 +2169,7 @@ juror_b,R2-IND-w46,"jhajjar, haryana · 13 nov · attackers shoot 2 youths, kill
 juror_b,R2-IND-w46,jharkhand · 15 nov · girl killed by a relative,criminal_homicide
 juror_b,R2-IND-w46,"jillelaguda, hyderabad · 12 nov · woman murdered in apartment",criminal_homicide
 juror_b,R2-IND-w46,kannauj · 9 nov · lawyer shot dead,criminal_homicide
+juror_b,R2-IND-w46,kanpur · 9 nov · man kills wife after water dispute,criminal_homicide
 juror_b,R2-IND-w46,"karnal, haryana · 15 nov · custodial death of truck driver",security_force_killing
 juror_b,R2-IND-w46,karnataka · 15 nov · man kills friend over unpaid emis,criminal_homicide
 juror_b,R2-IND-w46,"karol bagh, delhi · 10 nov · man killed over affair",criminal_homicide
@@ -1838,20 +2183,25 @@ juror_b,R2-IND-w46,kolkata · 9 nov · engineer hacked to death,criminal_homicid
 juror_b,R2-IND-w46,koraput · 10 nov · hit-and-run kills couple,other
 juror_b,R2-IND-w46,kota · 12 nov · jeweller killed by brother-in-law,criminal_homicide
 juror_b,R2-IND-w46,"kurla, mumbai · 11 nov · gunman kills vinod pawar",criminal_homicide
+juror_b,R2-IND-w46,"lal bagh, delhi · 9 nov · man fatally stabbed",criminal_homicide
 juror_b,R2-IND-w46,"laskana, surat · 12 nov · man murdered by wife and brother",criminal_homicide
 juror_b,R2-IND-w46,"latur, maharashtra · 9 nov · father strangles son over property dispute",criminal_homicide
 juror_b,R2-IND-w46,"loni, ghaziabad · 10 nov · woman killed with brick",criminal_homicide
+juror_b,R2-IND-w46,"loni, uttar pradesh · 15 nov · woman shot dead after public urination row",criminal_homicide
 juror_b,R2-IND-w46,lucknow · 10 nov · suspected murder among three bodies found,criminal_homicide
 juror_b,R2-IND-w46,lucknow · 12 nov · history-sheeter murdered in cigarette dispute,criminal_homicide
 juror_b,R2-IND-w46,"ludhiana · 12 nov · man found dead, friend arrested",criminal_homicide
 juror_b,R2-IND-w46,"madhepura, bihar · 9 nov · man shot dead",criminal_homicide
+juror_b,R2-IND-w46,madhya pradesh · 13 nov · disguised bomb kills 35-year-old,remote_violence
 juror_b,R2-IND-w46,madhya pradesh · 15 nov · daughter poisoned to death by father,criminal_homicide
 juror_b,R2-IND-w46,"maijan, dibrugarh · 11 nov · man hacked to death",criminal_homicide
+juror_b,R2-IND-w46,"mandsaur · 10 nov · missing girl found dead, suspected murder",criminal_homicide
 juror_b,R2-IND-w46,manipur · 15 nov · militants kill 6 naga civilians,attack_on_civilians
 juror_b,R2-IND-w46,"manjari, pune · 9 nov · man found dead with head crushed",criminal_homicide
 juror_b,R2-IND-w46,"mankamkuzhy, alappuzha · 15 nov · father allegedly kills 2-year-old daughter",criminal_homicide
 juror_b,R2-IND-w46,"mattannur, kerala · 10 nov · mother and son hacked to death",criminal_homicide
 juror_b,R2-IND-w46,"mirzapur, uttar pradesh · 11 nov · kidnapped child killed for ransom",criminal_homicide
+juror_b,R2-IND-w46,"moti nagar, delhi · 15 nov · woman murdered inside clothing store",criminal_homicide
 juror_b,R2-IND-w46,mumbai · 12 nov · bmc worker shot and stabbed to death,criminal_homicide
 juror_b,R2-IND-w46,"munger, bihar · 12 nov · retired locomotive pilot kills wife",criminal_homicide
 juror_b,R2-IND-w46,murshidabad · 13 nov · 14-year-old strangles 9-year-old neighbor,criminal_homicide
@@ -1872,7 +2222,10 @@ juror_b,R2-IND-w46,"nowgam, jammu and kashmir · 10 nov · police station blast 
 juror_b,R2-IND-w46,"nrs hostel, kolkata · 9 nov · junior doctor found dead; murder case opened",criminal_homicide
 juror_b,R2-IND-w46,nuh · 15 nov · police encounter kills 2 cattle smugglers,security_force_killing
 juror_b,R2-IND-w46,odisha · 15 nov · 14-year-old boy beaten to death,criminal_homicide
+juror_b,R2-IND-w46,"palghar, maharashtra · 12 nov · head constable dies after fight with friend",criminal_homicide
 juror_b,R2-IND-w46,"panihati, west bengal · 15 nov · bjp worker dies after market clash",mob_or_riot
+juror_b,R2-IND-w46,"patna, bihar · 13 nov · retired railway employee kills wife",criminal_homicide
+juror_b,R2-IND-w46,"patna, bihar · 9 nov · doctor shoots wife dead",criminal_homicide
 juror_b,R2-IND-w46,"payarka village, kutch · 14 nov · illegal-hunting gunshot kills man",criminal_homicide
 juror_b,R2-IND-w46,"perambur, chennai · 11 nov · man stabbed to death over relationship",criminal_homicide
 juror_b,R2-IND-w46,"pilibhit, uttar pradesh · 10 nov · man beaten to death over ₹200 dispute",criminal_homicide
@@ -1884,6 +2237,7 @@ juror_b,R2-IND-w46,rajasthan · 11 nov · man hacked to death by wife's relative
 juror_b,R2-IND-w46,rajasthan · 12 nov · man hacked to death over marriage,criminal_homicide
 juror_b,R2-IND-w46,rampur · 10 nov · sharif murdered,criminal_homicide
 juror_b,R2-IND-w46,ranchi · 14 nov · man shot dead,criminal_homicide
+juror_b,R2-IND-w46,"rohini, delhi · 10 nov · man stabbed to death near unity one mall",criminal_homicide
 juror_b,R2-IND-w46,"rudrapur · 13 nov · mobile shop owners’ feud kills 1, injures 4",criminal_homicide
 juror_b,R2-IND-w46,rudrapur · 14 nov · shopkeeper murdered at hospital,criminal_homicide
 juror_b,R2-IND-w46,"saharanpur, uttar pradesh · 15 nov · woman murdered at home",criminal_homicide
@@ -1892,6 +2246,7 @@ juror_b,R2-IND-w46,"shahbad dairy, delhi · 11 nov · murder",criminal_homicide
 juror_b,R2-IND-w46,"sonipat, haryana · 11 nov · outlet manager shot dead",criminal_homicide
 juror_b,R2-IND-w46,sultanpur · 15 nov · stabbing kills 1,criminal_homicide
 juror_b,R2-IND-w46,surat · 13 nov · lynching kills man,mob_or_riot
+juror_b,R2-IND-w46,surat · 14 nov · man killed by his sister’s brothers,criminal_homicide
 juror_b,R2-IND-w46,surat · 15 nov · woman waste picker killed by partner,criminal_homicide
 juror_b,R2-IND-w46,tamil nadu · 10 nov · history-sheeter shoots pmk functionary dead,criminal_homicide
 juror_b,R2-IND-w46,"taphou, kangpokpi · 13 nov · woman killed in firing",attack_on_civilians
@@ -1906,6 +2261,7 @@ juror_b,R2-IND-w46,uttar pradesh · 10 nov · accused in rampur crpf camp attack
 juror_b,R2-IND-w46,uttar pradesh · 11 nov · wife and lover kill driver,criminal_homicide
 juror_b,R2-IND-w46,"vadodara, gujarat · 14 nov · father strangles daughter over relationship",criminal_homicide
 juror_b,R2-IND-w46,"vaishali, bihar · 9 nov · husband shoots wife dead",criminal_homicide
+juror_b,R2-IND-w46,varanasi · 11 nov · businessman shot dead,criminal_homicide
 juror_b,R2-IND-w46,vellore · 10 nov · man shot dead over old enmity,criminal_homicide
 juror_b,R2-IND-w46,vijayapura · 13 nov · land dispute clash kills 2,mob_or_riot
 juror_b,R2-IND-w46,"vyasarpadi, chennai · 9 nov · gang murders 18-year-old",criminal_homicide
@@ -1926,21 +2282,49 @@ juror_b,R2-IRN-w40,sistan and baluchestan · 2 oct · roadside bombing kills one
 juror_b,R2-IRN-w40,sistan and baluchestan · 2 oct · security forces kill two armed-group members,security_force_killing
 juror_b,R2-IRN-w40,southeastern iran · 3 oct · forces kill two in a counterterrorism operation,security_force_killing
 juror_b,R2-IRN-w40,zahedan · 1 oct · clashes kill six armed men,battle
+juror_b,R2-IRN-w40,zahedan · 3 oct · roadside bombing kills police official,remote_violence
+juror_b,R2-ISR-w41,"al-bureij, gaza · 9 oct · israeli airstrikes kill 8",remote_violence
+juror_b,R2-ISR-w41,"al-mawasi, gaza · 5 oct · israeli drone strike kills palestinian",remote_violence
 juror_b,R2-ISR-w41,"aqraba, west bank · 6 oct · settler attack kills palestinian",attack_on_civilians
+juror_b,R2-ISR-w41,ashkelon · 6 oct · police clash kills gunmen,security_force_killing
 juror_b,R2-ISR-w41,"bani naim, hebron · 5 oct · israeli forces kill palestinian after attempted car-ramming",security_force_killing
 juror_b,R2-ISR-w41,"beit lahia, gaza · 7 oct · israeli airstrike kills civil defence volunteer",remote_violence
 juror_b,R2-ISR-w41,"beit lahia, gaza · 7 oct · israeli strike kills hamas militant",battle
+juror_b,R2-ISR-w41,"bureij, gaza · 9 oct · israeli gunfire kills palestinian",attack_on_civilians
 juror_b,R2-ISR-w41,gaza city · 10 oct · israeli strikes kill palestinians,remote_violence
+juror_b,R2-ISR-w41,gaza city · 5 oct · israeli strike kills palestinian mother and daughter,remote_violence
+juror_b,R2-ISR-w41,gaza city · 6 oct · israeli fire and shelling kill palestinian,remote_violence
+juror_b,R2-ISR-w41,gaza city · 6 oct · israeli strike kills two palestinians,remote_violence
 juror_b,R2-ISR-w41,gaza strip · 7 oct · israeli strikes kill palestinians,remote_violence
 juror_b,R2-ISR-w41,gaza · 11 oct · israeli drone strikes kill palestinians,remote_violence
+juror_b,R2-ISR-w41,gaza · 11 oct · israeli violence kills palestinian,attack_on_civilians
 juror_b,R2-ISR-w41,gaza · 5 oct · israeli forces kill hamas commander,battle
+juror_b,R2-ISR-w41,gaza · 5 oct · israeli military kills rana,attack_on_civilians
+juror_b,R2-ISR-w41,gaza · 5 oct · israeli strike kills turkish humanitarian worker,remote_violence
+juror_b,R2-ISR-w41,gaza · 6 oct · gunfire kills palestinian minor,attack_on_civilians
+juror_b,R2-ISR-w41,gaza · 6 oct · israeli attack kills 3 palestinians,attack_on_civilians
+juror_b,R2-ISR-w41,gaza · 6 oct · israeli drone strike kills 1,remote_violence
+juror_b,R2-ISR-w41,gaza · 6 oct · israeli drone strike kills palestinian,remote_violence
+juror_b,R2-ISR-w41,gaza · 6 oct · israeli fire kills palestinian,attack_on_civilians
+juror_b,R2-ISR-w41,"gaza · 6 oct · israeli strike kills five, including christians",remote_violence
 juror_b,R2-ISR-w41,gaza · 8 oct · israeli forces kill hamas commander involved in holding hostages,battle
+juror_b,R2-ISR-w41,gaza · 8 oct · israeli strikes kill 5,remote_violence
 juror_b,R2-ISR-w41,gaza · 8 oct · israeli strikes kill two hamas members,remote_violence
+juror_b,R2-ISR-w41,gaza · 9 oct · drone strike kills 2 palestinians,remote_violence
+juror_b,R2-ISR-w41,gaza · 9 oct · israeli attack kills five palestinians,attack_on_civilians
+juror_b,R2-ISR-w41,gaza · 9 oct · israeli attack kills majdi al-ayyubi,attack_on_civilians
+juror_b,R2-ISR-w41,"gaza · 9 oct · israeli fire kills seven, including a child",attack_on_civilians
 juror_b,R2-ISR-w41,gaza · 9 oct · israeli forces kill three hamas and islamic jihad members,battle
 juror_b,R2-ISR-w41,hebron · 5 oct · israeli soldiers kill palestinian man,security_force_killing
+juror_b,R2-ISR-w41,"imriha, west bank · 5 oct · israeli forces kill 1",security_force_killing
+juror_b,R2-ISR-w41,"imriha, west bank · 6 oct · israeli forces kill 1",security_force_killing
+juror_b,R2-ISR-w41,"jabalia, gaza · 11 oct · israeli gunfire kills palestinian child",attack_on_civilians
 juror_b,R2-ISR-w41,jerusalem · 5 oct · israeli forces kill bahaa al-natsheh,security_force_killing
+juror_b,R2-ISR-w41,"khan younis, gaza · 10 oct · israeli fire kills palestinians",attack_on_civilians
 juror_b,R2-ISR-w41,"khan younis, gaza · 10 oct · israeli strikes kill islamic jihad commander and hamas fighter",remote_violence
 juror_b,R2-ISR-w41,"khan younis, gaza · 11 oct · israeli strike kills hamas commander behind kissufim attack",battle
+juror_b,R2-ISR-w41,"khan younis, gaza · 9 oct · israeli fire kills palestinian",attack_on_civilians
+juror_b,R2-ISR-w41,"maghazi, central gaza · 9 oct · israeli fire kills 1 palestinian",attack_on_civilians
 juror_b,R2-ISR-w41,northern gaza strip · 8 oct · israeli forces kill palestinian,security_force_killing
 juror_b,R2-ISR-w41,or akiva · 8 oct · car bomb kills noam salma,remote_violence
 juror_b,R2-ISR-w41,"qizan rashwan, khan younis · 7 oct · israeli fire and shelling kill palestinian",remote_violence
@@ -1952,28 +2336,96 @@ juror_b,R2-ISR-w41,west bank · 11 oct · israeli gunfire kills palestinians,sec
 juror_b,R2-ISR-w41,west bank · 7 oct · settler raid and clash kill palestinian,attack_on_civilians
 juror_b,R2-ISR-w41,west bank · 9 oct · israeli forces kill palestinian,security_force_killing
 juror_b,R2-ISR-w41,yavne · 11 oct · man killed when brother’s gun discharges,criminal_homicide
+juror_b,R2-ISR-w42,"al mughayyir, west bank · 17 oct · israeli forces kill palestinian teen",security_force_killing
 juror_b,R2-ISR-w42,ashkelon · 18 oct · 17-year-old stabbed to death,criminal_homicide
 juror_b,R2-ISR-w42,beersheba · 18 oct · man suspected of stabbing his wife to death,criminal_homicide
+juror_b,R2-ISR-w42,"bureij, gaza strip · 14 oct · israeli strike kills 5",remote_violence
+juror_b,R2-ISR-w42,central gaza · 18 oct · israeli army fire kills a palestinian girl,attack_on_civilians
+juror_b,R2-ISR-w42,"deir al-balah, gaza strip · 17 oct · israeli shelling kills 1",remote_violence
+juror_b,R2-ISR-w42,gaza city · 14 oct · israeli strike kills palestinian woman near al-shifa,remote_violence
+juror_b,R2-ISR-w42,gaza city · 15 oct · airstrike kills a mother and injures her daughter,remote_violence
+juror_b,R2-ISR-w42,gaza city · 15 oct · israeli strike on displaced people kills civilians,remote_violence
 juror_b,R2-ISR-w42,gaza city · 16 oct · israeli airstrike kills one near tammous intersection,remote_violence
 juror_b,R2-ISR-w42,gaza city · 16 oct · israeli strikes kill two pij commanders,remote_violence
 juror_b,R2-ISR-w42,gaza strip · 13 oct · israeli strike kills five hamas and islamic jihad members,battle
+juror_b,R2-ISR-w42,gaza strip · 14 oct · israeli attacks kill four,attack_on_civilians
 juror_b,R2-ISR-w42,gaza strip · 14 oct · israeli forces kill a hamas commander,battle
+juror_b,R2-ISR-w42,gaza strip · 15 oct · israeli attack kills one,attack_on_civilians
+juror_b,R2-ISR-w42,gaza strip · 15 oct · israeli forces kill hamas commander and islamic jihad member,attack_on_civilians
 juror_b,R2-ISR-w42,gaza strip · 15 oct · israeli forces kill two weapons smugglers,battle
+juror_b,R2-ISR-w42,gaza strip · 15 oct · israeli strikes and gunfire kill a palestinian,attack_on_civilians
+juror_b,R2-ISR-w42,gaza strip · 15 oct · israeli strikes kill four,remote_violence
+juror_b,R2-ISR-w42,gaza strip · 16 oct · israeli forces kill nukhba commander,attack_on_civilians
+juror_b,R2-ISR-w42,gaza strip · 17 oct · israeli airstrikes kill two in central and southern gaza,remote_violence
+juror_b,R2-ISR-w42,gaza strip · 17 oct · israeli attack kills a palestinian,attack_on_civilians
+juror_b,R2-ISR-w42,"gaza strip · 17 oct · israeli attacks kill five, including a child and a policeman",attack_on_civilians
 juror_b,R2-ISR-w42,gaza strip · 17 oct · israeli strikes kill four hamas militants,remote_violence
+juror_b,R2-ISR-w42,gaza strip · 18 oct · israeli attack kills student returning from school,attack_on_civilians
+juror_b,R2-ISR-w42,gaza strip · 18 oct · israeli attack kills two children,attack_on_civilians
+juror_b,R2-ISR-w42,gaza strip · 18 oct · israeli drone strike kills 6 palestinians,remote_violence
+juror_b,R2-ISR-w42,gaza strip · 18 oct · israeli fire kills three palestinians,attack_on_civilians
 juror_b,R2-ISR-w42,gaza strip · 18 oct · israeli forces kill four militants,battle
+juror_b,R2-ISR-w42,gaza · 12 oct · israeli airstrike kills a refugee,remote_violence
+juror_b,R2-ISR-w42,gaza · 12 oct · israeli forces kill a civilian,attack_on_civilians
+juror_b,R2-ISR-w42,gaza · 12 oct · israeli gunfire kills five palestinians,attack_on_civilians
+juror_b,R2-ISR-w42,gaza · 12 oct · israeli strike kills two palestinians,remote_violence
+juror_b,R2-ISR-w42,gaza · 13 oct · israeli attacks kill 1 palestinian,attack_on_civilians
+juror_b,R2-ISR-w42,gaza · 13 oct · israeli bombing of hospital kills six,remote_violence
+juror_b,R2-ISR-w42,gaza · 16 oct · israeli fire kills a palestinian,attack_on_civilians
+juror_b,R2-ISR-w42,gaza · 17 oct · israeli drone strike kills 1 palestinian,remote_violence
+juror_b,R2-ISR-w42,gaza · 17 oct · israeli shelling kills 1 at a gathering,remote_violence
+juror_b,R2-ISR-w42,gaza · 17 oct · israeli strike kills 3 palestinians,remote_violence
+juror_b,R2-ISR-w42,gaza · 17 oct · israeli strike kills journalist,remote_violence
+juror_b,R2-ISR-w42,hebron · 16 oct · attack kills two israeli soldiers,battle
+juror_b,R2-ISR-w42,hebron · 18 oct · israeli forces kill palestinian suspect,security_force_killing
+juror_b,R2-ISR-w42,israel · 12 oct · israeli assassination kills a hamas member,attack_on_civilians
+juror_b,R2-ISR-w42,"khan yunis, gaza strip · 12 oct · israeli airstrike kills four palestinians",remote_violence
 juror_b,R2-ISR-w42,"khan yunis, gaza strip · 15 oct · israeli strike kills one",remote_violence
+juror_b,R2-ISR-w42,"khan yunis, gaza strip · 18 oct · israeli fire kills a child",attack_on_civilians
 juror_b,R2-ISR-w42,lavi forest · 16 oct · man killed,criminal_homicide
+juror_b,R2-ISR-w42,northern gaza · 13 oct · israeli bombing kills a palestinian,remote_violence
 juror_b,R2-ISR-w42,northern israel · 12 oct · unexploded hezbollah munition blast kills a student,remote_violence
+juror_b,R2-ISR-w42,"rafah, gaza strip · 12 oct · israeli shelling kills 3 palestinians",remote_violence
 juror_b,R2-ISR-w42,southern israel · 12 oct · shooting kills a young man,criminal_homicide
 juror_b,R2-ISR-w42,umm al-fahm · 13 oct · 20-year-old shot dead,criminal_homicide
+juror_b,R2-ISR-w43,"bureij, gaza · 21 oct · israeli shelling kills 4",remote_violence
+juror_b,R2-ISR-w43,gaza city · 19 oct · israeli shelling kills a civilian,remote_violence
 juror_b,R2-ISR-w43,"gaza city · 19 oct · israeli strike kills two, including a hamas militant",remote_violence
+juror_b,R2-ISR-w43,gaza city · 22 oct · israeli strike on a car kills 1,remote_violence
+juror_b,R2-ISR-w43,gaza city · 24 oct · attack kills one,attack_on_civilians
+juror_b,R2-ISR-w43,gaza city · 25 oct · israeli strikes on islamic university kill 4,remote_violence
+juror_b,R2-ISR-w43,gaza strip · 19 oct · israeli attacks kill a palestinian man,attack_on_civilians
 juror_b,R2-ISR-w43,gaza strip · 21 oct · israeli forces kill nukhba militant,battle
+juror_b,R2-ISR-w43,gaza strip · 25 oct · israeli bombardment kills two and wounds several,remote_violence
+juror_b,R2-ISR-w43,gaza · 19 oct · israeli attack kills three students,attack_on_civilians
+juror_b,R2-ISR-w43,gaza · 19 oct · palestinian man dies in israeli custody,security_force_killing
+juror_b,R2-ISR-w43,gaza · 20 oct · israeli attacks kill six palestinians,attack_on_civilians
+juror_b,R2-ISR-w43,gaza · 20 oct · israeli fire kills four people,attack_on_civilians
 juror_b,R2-ISR-w43,gaza · 20 oct · israeli forces kill a hamas security official involved in shani louk’s abduction,battle
+juror_b,R2-ISR-w43,gaza · 20 oct · israeli strike kills a palestinian couple,remote_violence
 juror_b,R2-ISR-w43,gaza · 20 oct · israeli strikes kill two militants,remote_violence
+juror_b,R2-ISR-w43,gaza · 22 oct · israeli attacks kill at least three,attack_on_civilians
+juror_b,R2-ISR-w43,gaza · 22 oct · israeli bombing kills 7 students,remote_violence
+juror_b,R2-ISR-w43,gaza · 22 oct · israeli strike kills girl misk,remote_violence
+juror_b,R2-ISR-w43,gaza · 22 oct · israeli strike kills mother,remote_violence
+juror_b,R2-ISR-w43,gaza · 23 oct · israeli attacks kill three palestinians,attack_on_civilians
+juror_b,R2-ISR-w43,gaza · 23 oct · israeli forces kill a civilian,attack_on_civilians
+juror_b,R2-ISR-w43,gaza · 23 oct · israeli strikes kill two palestinians,remote_violence
+juror_b,R2-ISR-w43,gaza · 24 oct · israeli attacks kill four palestinians,attack_on_civilians
+juror_b,R2-ISR-w43,gaza · 24 oct · israeli strikes kill three palestinians,remote_violence
+juror_b,R2-ISR-w43,"gaza · 24 oct · israeli violations kill two palestinians, including a woman",attack_on_civilians
 juror_b,R2-ISR-w43,gaza · 25 oct · israeli army says it killed two hamas-linked commanders,battle
+juror_b,R2-ISR-w43,gaza · 25 oct · israeli forces kill four palestinian militants,battle
+juror_b,R2-ISR-w43,gaza · 25 oct · israeli raid kills an 8-year-old girl,attack_on_civilians
 juror_b,R2-ISR-w43,israel · 20 oct · suspected hezbollah cluster bomb kills a boy,remote_violence
 juror_b,R2-ISR-w43,israel · 24 oct · ukrainian immigrant murdered,criminal_homicide
+juror_b,R2-ISR-w43,"jabalia, gaza · 19 oct · israeli airstrikes kill 3 militants",remote_violence
 juror_b,R2-ISR-w43,"jabalia, gaza · 21 oct · israeli forces kill a hamas militant involved in shani louk’s abduction",battle
+juror_b,R2-ISR-w43,"khan younis, gaza · 20 oct · israeli strikes kill five palestinians",remote_violence
+juror_b,R2-ISR-w43,khan yunis · 20 oct · israeli fire kills a couple and child,attack_on_civilians
+juror_b,R2-ISR-w43,khan yunis · 22 oct · israeli fire kills a girl,attack_on_civilians
+juror_b,R2-ISR-w43,"khan yunis, gaza strip · 22 oct · israeli forces kill a hamas militant",battle
+juror_b,R2-ISR-w43,"khan yunis, gaza · 19 oct · israeli strikes kill three palestinians, including children",remote_violence
 juror_b,R2-ISR-w43,"near hebron, west bank · 23 oct · palestinian gunmen kill two israeli soldiers; israeli forces kill two attackers",battle
 juror_b,R2-ISR-w43,netanya · 20 oct · contract killing at a gas station store,criminal_homicide
 juror_b,R2-ISR-w43,northern israel · 23 oct · woman stabbed to death,criminal_homicide
@@ -2000,6 +2452,7 @@ juror_b,R2-PAK-w47,"chuhng, lahore · 21 nov · man stabs brother to death",crim
 juror_b,R2-PAK-w47,"dallo khel, lakki marwat · 17 nov · gunmen kill fc soldier",criminal_homicide
 juror_b,R2-PAK-w47,dera ismail khan · 17 nov · gunfire kills father and daughter,criminal_homicide
 juror_b,R2-PAK-w47,faisalabad · 16 nov · police encounters kill 3 suspected robbers,security_force_killing
+juror_b,R2-PAK-w47,"gulberg, lahore · 19 nov · man dies during police raid",security_force_killing
 juror_b,R2-PAK-w47,hafizabad · 20 nov · former minister liaquat abbas bhatti is strangled to death,criminal_homicide
 juror_b,R2-PAK-w47,islamabad · 18 nov · dog attack kills student,other
 juror_b,R2-PAK-w47,"islamabad, h-11 · 16 nov · domestic worker fatima asghar dies after torture",criminal_homicide
@@ -2017,7 +2470,9 @@ juror_b,R2-PAK-w47,khyber pakhtunkhwa · 18 nov · attackers abduct and beat a p
 juror_b,R2-PAK-w47,khyber pakhtunkhwa · 19 nov · drone explosion kills boy,remote_violence
 juror_b,R2-PAK-w47,kohat · 16 nov · ambush during illegal gold-mining raid leaves attackers dead,battle
 juror_b,R2-PAK-w47,kohat · 20 nov · joint operation kills 3 militants,security_force_killing
+juror_b,R2-PAK-w47,lahore · 16 nov · shooting kills 19-year-old during tiktok video,criminal_homicide
 juror_b,R2-PAK-w47,lahore · 17 nov · woman is killed in alleged murder amid divorce dispute,criminal_homicide
+juror_b,R2-PAK-w47,lahore · 19 nov · brother killed in knife attack,criminal_homicide
 juror_b,R2-PAK-w47,lahore · 19 nov · captive big cat kills farm worker,other
 juror_b,R2-PAK-w47,lakki marwat · 17 nov · security operation kills 4 militants,security_force_killing
 juror_b,R2-PAK-w47,lakki marwat · 18 nov · police repel attack and kill 4 militants,battle
@@ -2026,6 +2481,7 @@ juror_b,R2-PAK-w47,lakki marwat · 20 nov · police kill suicide bomber and foil
 juror_b,R2-PAK-w47,"landhi, karachi · 19 nov · man kills wife and her brother, then dies by suicide",criminal_homicide
 juror_b,R2-PAK-w47,"landhi, karachi · 20 nov · shooting at a home kills 3",criminal_homicide
 juror_b,R2-PAK-w47,"mastung, balochistan · 21 nov · security operations kill 15 militants",security_force_killing
+juror_b,R2-PAK-w47,"muzaffarabad colony, karachi · 21 nov · domestic dispute kills three",criminal_homicide
 juror_b,R2-PAK-w47,northwest pakistan · 19 nov · raids kill 22 militants,battle
 juror_b,R2-PAK-w47,"noshki, balochistan · 22 nov · bla attack kills fc personnel",battle
 juror_b,R2-PAK-w47,"nowshera · 22 nov · wedding shooting kills father, son and alleged attacker",criminal_homicide
@@ -2037,6 +2493,7 @@ juror_b,R2-PAK-w47,"passani, peshawar · 21 nov · ctd raid kills 3 militants",s
 juror_b,R2-PAK-w47,peshawar · 20 nov · police kill 3 wanted robbers,security_force_killing
 juror_b,R2-PAK-w47,peshawar · 22 nov · joint operation kills 3 militants,security_force_killing
 juror_b,R2-PAK-w47,rawalakot · 17 nov · gunfire exchange kills rangers officer and 4 gunmen,battle
+juror_b,R2-PAK-w47,rawalpindi · 20 nov · hina javed is murdered,criminal_homicide
 juror_b,R2-PAK-w47,"rohila colony, chilhar, sindh · 19 nov · land-dispute attack kills a man and his son",criminal_homicide
 juror_b,R2-PAK-w47,sargodha · 17 nov · man kills 2 daughters-in-law and grandson,criminal_homicide
 juror_b,R2-PAK-w47,southern pakistan · 20 nov · suicide bomber killed while foiling attack,security_force_killing
@@ -2140,6 +2597,7 @@ juror_b,R3-IDN-w41,jakarta · 5 oct · father beats 11-month-old child to death,
 juror_b,R3-IDN-w41,kendal · 7 oct · handcuffed man found murdered,criminal_homicide
 juror_b,R3-IDN-w41,lampung · 8 oct · man kills loan collector with machete,criminal_homicide
 juror_b,R3-IDN-w41,makassar · 7 oct · man killed in motorcycle gang violence,criminal_homicide
+juror_b,R3-IDN-w41,mandailing natal · 6 oct · local council member stabbed to death,criminal_homicide
 juror_b,R3-IDN-w41,maybrat · 11 oct · opm commander shot dead,security_force_killing
 juror_b,R3-IDN-w41,pemalang · 11 oct · student dies after suspected bullying,other
 juror_b,R3-IDN-w41,"pinang ranti, east jakarta · 8 oct · 19-year-old woman murdered",criminal_homicide
@@ -2164,19 +2622,23 @@ juror_b,R3-KEN-w44,kwale · 1 nov · gunmen fatally shoot man,criminal_homicide
 juror_b,R3-KEN-w44,"likoni, mombasa · 26 oct · gang attack kills county enforcement officer",criminal_homicide
 juror_b,R3-KEN-w44,"lokoliram grazing fields, turkana · 26 oct · cross-border attack kills a man",attack_on_civilians
 juror_b,R3-KEN-w44,"loporna fora, marsabit · 29 oct · bandit raid kills two and injures three",criminal_homicide
+juror_b,R3-KEN-w44,migori · 28 oct · woman found dead in sack,criminal_homicide
 juror_b,R3-KEN-w44,migori · 30 oct · two men killed,criminal_homicide
 juror_b,R3-KEN-w44,moyale · 1 nov · stray bullet kills woman amid border clashes,battle
 juror_b,R3-MOZ-w42,"litamanda, macomia · 16 oct · insurgents kill 2 in a village attack",attack_on_civilians
 juror_b,R3-MOZ-w42,"marijirane, macomia · 18 oct · government forces clash with is; 6 killed",battle
 juror_b,R3-MOZ-w42,"mbau, mocímboa da praia · 15 oct · landmine kills 1 civilian",remote_violence
 juror_b,R3-MOZ-w42,mocímboa da praia · 17 oct · marines kill 3 suspected is fighters in a sea clash,battle
+juror_b,R3-MOZ-w42,mozambique · 18 oct · australian woman murdered on a beach,criminal_homicide
 juror_b,R3-MOZ-w42,zambézia · 12 oct · anamola senior member murdered,criminal_homicide
 juror_b,R3-MOZ-w43,cabo delgado · 21 oct 2026 · suspected insurgents kill two people,attack_on_civilians
 juror_b,R3-MOZ-w43,inhambane · 21 oct 2026 · anamola leader araújo tendence shot dead,criminal_homicide
+juror_b,R3-MOZ-w43,maputo · 20 oct · death squad kills lawyer,attack_on_civilians
 juror_b,R3-MOZ-w43,mozambique · 20 oct 2026 · marines kill suspected insurgents,battle
 juror_b,R3-MOZ-w43,"nangunde, muidumbe · 22 oct 2026 · insurgents kill two civilians",attack_on_civilians
 juror_b,R3-MOZ-w43,vanduzi bridge · 22 oct 2026 · man killed in armed robbery,criminal_homicide
 juror_b,R3-RUS-w43,"aleshkinsky district, kherson oblast · 19 oct · attack kills a civilian",remote_violence
+juror_b,R3-RUS-w43,arkhangelsk region · 20 oct · bear attack kills a man,other
 juror_b,R3-RUS-w43,belgorod oblast · 20 oct · ukrainian attacks kill a civilian,remote_violence
 juror_b,R3-RUS-w43,belgorod oblast · 21 oct · attack kills a person,battle
 juror_b,R3-RUS-w43,belgorod oblast · 25 oct · ukrainian attacks kill people in multiple locations,remote_violence
@@ -2184,6 +2646,8 @@ juror_b,R3-RUS-w43,belgorod · 25 oct · drone attack kills residents,remote_vio
 juror_b,R3-RUS-w43,bryansk region · 25 oct · drone attack on freight train kills driver,remote_violence
 juror_b,R3-RUS-w43,chechnya · 22 oct · suspect killed during police operation,security_force_killing
 juror_b,R3-RUS-w43,chechnya · 23 oct · shootout kills a person,battle
+juror_b,R3-RUS-w43,chelyabinsk oblast · 21 oct · man beaten to death while defending women,criminal_homicide
+juror_b,R3-RUS-w43,chelyabinsk region · 25 oct · man killed after being beaten and run over,criminal_homicide
 juror_b,R3-RUS-w43,enerhodar · 21 oct · drone strike on nuclear plant staff bus kills a person,remote_violence
 juror_b,R3-RUS-w43,"golovchino–borisovka road, belgorod oblast · 22 oct · drone strike kills a truck driver",remote_violence
 juror_b,R3-RUS-w43,"khalturino, bryansk oblast · 23 oct · attack on passenger bus kills a woman",remote_violence
@@ -2193,20 +2657,30 @@ juror_b,R3-RUS-w43,kursk oblast · 22 oct · attack kills 3,battle
 juror_b,R3-RUS-w43,kursk oblast · 24 oct · violence kills 6,battle
 juror_b,R3-RUS-w43,luhansk · 21 oct · ukrainian strike kills 2,remote_violence
 juror_b,R3-RUS-w43,luhansk · 23 oct · ukrainian attacks kill 2 civilians,remote_violence
+juror_b,R3-RUS-w43,moscow region · 22 oct · husband strangles wife,criminal_homicide
 juror_b,R3-RUS-w43,moscow region · 25 oct · church reader murdered by uncle,criminal_homicide
+juror_b,R3-RUS-w43,moscow · 21 oct · security force assassination,attack_on_civilians
 juror_b,R3-RUS-w43,moscow · 22 oct · man killed by former girlfriend,criminal_homicide
+juror_b,R3-RUS-w43,moscow · 23 oct · authorities assassinate an activist,attack_on_civilians
+juror_b,R3-RUS-w43,nizhny novgorod · 21 oct · murder of ex-deputy's son,criminal_homicide
+juror_b,R3-RUS-w43,novosibirsk · 20 oct · parents strangle son over inheritance,criminal_homicide
 juror_b,R3-RUS-w43,oryol · 24 oct · missile strike on proton plant kills 5,remote_violence
 juror_b,R3-RUS-w43,"pogarsky district, bryansk · 24 oct · drone attack on minibus kills 2",remote_violence
+juror_b,R3-RUS-w43,rostov region · 24 oct · attack kills 2,criminal_homicide
 juror_b,R3-RUS-w43,russia · 19 oct · drone attack kills a person,remote_violence
+juror_b,R3-RUS-w43,russia · 20 oct · woman murdered after assault,criminal_homicide
 juror_b,R3-RUS-w43,st. petersburg · 19 oct · drone attack kills victims,remote_violence
 juror_b,R3-RUS-w43,st. petersburg · 19 oct · store guard suspected of beating a man to death,criminal_homicide
+juror_b,R3-RUS-w43,sverdlovsk oblast · 20 oct · woman kills husband in wheelchair,criminal_homicide
 juror_b,R3-RUS-w43,tyumen · 21 oct · woman shot dead,criminal_homicide
 juror_b,R3-RUS-w43,voronezh suburb · 19 oct · drone attack victim dies,remote_violence
 juror_b,R3-RUS-w43,voronezh · 25 oct · ukrainian drone attack kills 2,remote_violence
 juror_b,R3-RUS-w43,yelets · 25 oct · strike on industrial zone kills a guard,remote_violence
 juror_b,R3-RUS-w43,"zamostye, belgorod oblast · 24 oct · fpv drone attack kills a man",remote_violence
+juror_b,R3-RUS-w44,"alabuga, tatarstan · 27 oct · attack kills a nigerian",criminal_homicide
 juror_b,R3-RUS-w44,altai · 31 oct · emergency worker murdered,criminal_homicide
 juror_b,R3-RUS-w44,"babinka, bryansk region · 31 oct · explosive device kills a man",remote_violence
+juror_b,R3-RUS-w44,bashkortostan · 27 oct · boy fatally shoots sister with brother’s pistol,other
 juror_b,R3-RUS-w44,belgorod region · 1 nov · drone attacks kill one person,remote_violence
 juror_b,R3-RUS-w44,belgorod region · 26 oct · drone attack kills a woman,remote_violence
 juror_b,R3-RUS-w44,belgorod region · 27 oct · drone strike kills a man riding an electric scooter,remote_violence
@@ -2215,15 +2689,19 @@ juror_b,R3-RUS-w44,belgorod region · 29 oct · attacks kill a woman,remote_viol
 juror_b,R3-RUS-w44,bryansk region · 31 oct · drone strike on home kills two,remote_violence
 juror_b,R3-RUS-w44,bryansk · 27 oct · drone attack kills two,remote_violence
 juror_b,R3-RUS-w44,"chelyabinsk · 28 oct · security guard kills girlfriend and daughter, then himself",criminal_homicide
+juror_b,R3-RUS-w44,chelyabinsk · 29 oct · man murders acquaintance and sets apartment on fire,criminal_homicide
+juror_b,R3-RUS-w44,dagestan · 27 oct · accidental hunting shooting kills a man,other
 juror_b,R3-RUS-w44,donetsk settlements · 27 oct · ukrainian attacks kill two,attack_on_civilians
 juror_b,R3-RUS-w44,"georgievsk, stavropol krai · 26 oct · man beaten to death during an argument",criminal_homicide
 juror_b,R3-RUS-w44,"korenevo raion, kursk · 28 oct · russia–ukraine clash kills three",battle
 juror_b,R3-RUS-w44,leningrad region · 27 oct · woman and child murdered,criminal_homicide
 juror_b,R3-RUS-w44,luhansk · 1 nov · attacks on civilian transport kill four,attack_on_civilians
 juror_b,R3-RUS-w44,luhansk · 29 oct · strike on a home kills a woman,remote_violence
+juror_b,R3-RUS-w44,"mga, leningrad region · 27 oct · man kills rival over jealousy",criminal_homicide
 juror_b,R3-RUS-w44,moscow · 27 oct · man strangles partner and moves her body,criminal_homicide
 juror_b,R3-RUS-w44,"navlya, bryansk region · 30 oct · drone strike on home kills a young man",remote_violence
 juror_b,R3-RUS-w44,near moscow · 1 nov · russian officer killed,attack_on_civilians
+juror_b,R3-RUS-w44,oryol region · 30 oct · woman scalds elderly father to death,criminal_homicide
 juror_b,R3-RUS-w44,oryol · 26 oct · missile strike on factory kills five,remote_violence
 juror_b,R3-RUS-w44,primorye · 29 oct · local resident murdered,criminal_homicide
 juror_b,R3-RUS-w44,rostov region · 1 nov · kidnapped couple killed after a parking-lot dispute,criminal_homicide
@@ -2232,6 +2710,8 @@ juror_b,R3-RUS-w44,samara region · 30 oct · drone attack kills two,remote_viol
 juror_b,R3-RUS-w44,simferopol–moscow bus route · 27 oct · drone attack kills a passenger,remote_violence
 juror_b,R3-RUS-w44,st. petersburg · 26 oct · woman and toddler murdered,criminal_homicide
 juror_b,R3-RUS-w44,st. petersburg · 29 oct · injured drone-attack victim dies,remote_violence
+juror_b,R3-RUS-w44,st. petersburg · 31 oct · man stabs acquaintance during an argument,criminal_homicide
+juror_b,R3-RUS-w44,tyumen · 26 oct · man accidentally kills friend while wrestling,other
 juror_b,R3-RUS-w44,vladimir · 30 oct · 18-year-old kills a 95-year-old woman,criminal_homicide
 juror_b,R3-RUS-w44,voronezh · 26 oct · drone barrage kills people and injures others,remote_violence
 juror_b,R3-RUS-w44,voronezh · 27 oct · ukrainian drone attack kills three,remote_violence
@@ -2245,10 +2725,12 @@ juror_b,R3-SAU-w41,riyadh airport · 11 oct · shelling kills pakistani citizen,
 juror_b,R3-SAU-w41,riyadh airport · 9 oct · houthi attack kills 3,remote_violence
 juror_b,R3-SAU-w41,saudi airports · 6 oct · houthi attacks kill 3,remote_violence
 juror_b,R3-SAU-w41,saudi arabia airport · 11 oct · attack death toll reaches 13,remote_violence
+juror_b,R3-SAU-w41,saudi arabia · 7 oct · saudi arabia kills sri lankan worker,attack_on_civilians
 juror_b,R3-SAU-w41,saudi arabia · 8 oct · houthi attack kills people,remote_violence
 juror_b,R3-SAU-w41,saudi aramco facility · 5 oct · houthi attack kills bangladeshi worker,remote_violence
 juror_b,R3-ZAF-w42,"cafda, retreat · 15 oct · gang-related shooting kills two",criminal_homicide
 juror_b,R3-ZAF-w42,canelands · 17 oct · cellphone-tower battery thief shot dead,criminal_homicide
+juror_b,R3-ZAF-w42,cape town · 13 oct · nigerian national dies in police custody,security_force_killing
 juror_b,R3-ZAF-w42,durban · 15 oct · teenager killed after being dragged by a taxi,other
 juror_b,R3-ZAF-w42,"ekurhuleni, gauteng · 12–16 oct · father allegedly kills two daughters",criminal_homicide
 juror_b,R3-ZAF-w42,"epping, cape town · 16 oct · shooting kills two taxi owners",criminal_homicide
@@ -2266,6 +2748,7 @@ juror_b,R3-ZAF-w42,"umbilo, durban · 15 oct · bmw owner killed in attempted hi
 juror_b,R3-ZAF-w42,"umgababa, kwazulu-natal · 15 oct · gunmen kill two anc campaigners",attack_on_civilians
 juror_b,R3-ZAF-w42,"umlazi, kwazulu-natal · 15 oct · three suspects killed after cash-in-transit heist",security_force_killing
 juror_b,R3-ZAF-w42,"wedela, gauteng · 12 oct · tavern massacre",criminal_homicide
+juror_b,R3-ZAF-w42,"willowvale, eastern cape · 13 oct · headman and mother shot dead",criminal_homicide
 juror_b,R3-ZAF-w43,"bochabela, bloemfontein · 21 oct · twin ekhayeni lounge owners shot dead",criminal_homicide
 juror_b,R3-ZAF-w43,"bonteheuwel, cape town · 23 oct · shooting kills a man and wounds a woman",criminal_homicide
 juror_b,R3-ZAF-w43,"cala, eastern cape · 22 oct · shootout with police kills two suspected extortionists",security_force_killing
