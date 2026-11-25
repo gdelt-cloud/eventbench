@@ -26,7 +26,7 @@ Standard library only (Python 3.10+).
 """
 from __future__ import annotations
 
-import argparse, csv, concurrent.futures, datetime as dt, email.utils, gzip, hashlib, importlib, importlib.util, io, json, math, os, random, re
+import argparse, collections, csv, concurrent.futures, datetime as dt, email.utils, gzip, hashlib, importlib, importlib.util, io, json, math, os, random, re
 import shlex, sqlite3, subprocess, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request, zipfile
 from pathlib import Path
 
