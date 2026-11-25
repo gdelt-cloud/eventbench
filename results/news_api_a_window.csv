@@ -1,12 +1,12 @@
 family,service,asked,found_in_window,recall_in_window,ci_lo,ci_hi,projected_full_suite,projected_lo,projected_hi,method_bias_pts,note
-conflict,news_api_a,213,81,0.38,0.318,0.447,0.282,0.206,0.358,2.2,strata UCDP 13/79; SATP 3/36; Wikipedia 65/98
-conflict,news_api_a_clusters,213,54,0.254,0.2,0.316,0.175,0.114,0.236,2.2,strata UCDP 6/79; SATP 3/36; Wikipedia 45/98
-conflict,news_api_a_articles,213,66,0.31,0.252,0.375,0.214,0.148,0.28,2.2,strata UCDP 8/79; SATP 3/36; Wikipedia 55/98
-conflict,method check: GDELT Cloud,,,,,,0.484,,,3.2,same method applied to a service with a known full-suite figure (0.517)
-conflict,method check: web B,,,,,,0.218,,,2.7,same method applied to a service with a known full-suite figure (0.245)
-conflict,method check: web A,,,,,,0.169,,,1.3,same method applied to a service with a known full-suite figure (0.182)
-conflict,method check: web C,,,,,,0.119,,,0.4,same method applied to a service with a known full-suite figure (0.123)
-conflict,method check: GDELT Project,,,,,,0.29,,,3.3,same method applied to a service with a known full-suite figure (0.323)
+conflict,news_api_a,148,49,0.331,0.26,0.41,0.258,0.166,0.351,1.2,lethal conflict cases; strata UCDP 13/68; SATP 3/36; Wikipedia 33/44
+conflict,news_api_a_clusters,148,31,0.209,0.152,0.282,0.146,0.073,0.22,1.2,lethal conflict cases; strata UCDP 6/68; SATP 3/36; Wikipedia 22/44
+conflict,news_api_a_articles,148,42,0.284,0.217,0.361,0.193,0.113,0.274,1.2,lethal conflict cases; strata UCDP 8/68; SATP 3/36; Wikipedia 31/44
+conflict,method check: GDELT Cloud,,,,,,0.335,,,-1.0,same method applied to a service with a known figure on the lethal conflict cases (0.325)
+conflict,method check: web B,,,,,,0.248,,,2.5,same method applied to a service with a known figure on the lethal conflict cases (0.273)
+conflict,method check: web A,,,,,,0.193,,,1.5,same method applied to a service with a known figure on the lethal conflict cases (0.208)
+conflict,method check: web C,,,,,,0.106,,,0.4,same method applied to a service with a known figure on the lethal conflict cases (0.110)
+conflict,method check: GDELT Project,,,,,,0.261,,,2.7,same method applied to a service with a known figure on the lethal conflict cases (0.287)
 non-conflict,news_api_a,210,143,0.681,0.615,0.74,0.665,0.589,0.742,-1.7,strata Official 14/14; Wikipedia 129/196
 non-conflict,news_api_a_clusters,210,100,0.476,0.41,0.544,0.458,0.376,0.54,-1.7,strata Official 5/14; Wikipedia 95/196
 non-conflict,news_api_a_articles,225,111,0.493,0.429,0.558,0.476,0.398,0.554,-1.7,strata Official 15/16; Wikipedia 96/209

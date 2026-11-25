@@ -1,0 +1,1226 @@
+{
+ "R0001": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0002": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0004": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0005": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0006": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0007": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0008": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0009": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0010": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0012": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0013": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0014": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0015": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0016": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0018": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0020": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0021": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0023": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0025": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0026": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0027": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0028": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0029": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0030": {
+  "on_topic": "yes",
+  "incident": "Limpopo · 12 Oct · mob attack kills teenager"
+ },
+ "R0031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0032": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0037": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0038": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0039": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0040": {
+  "on_topic": "yes",
+  "incident": "Umlazi, KwaZulu-Natal · 15 Oct · three suspects killed after cash-in-transit heist"
+ },
+ "R0041": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0042": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0043": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0045": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0046": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0047": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0048": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0049": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0050": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0051": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0053": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0054": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0057": {
+  "on_topic": "yes",
+  "incident": "Epping, Cape Town · 16 Oct · shooting kills two taxi owners"
+ },
+ "R0058": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0060": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0061": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0062": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0063": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0064": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0066": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0067": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0068": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0070": {
+  "on_topic": "yes",
+  "incident": "South Africa · 13 Oct · biker shot dead"
+ },
+ "R0071": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0073": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0074": {
+  "on_topic": "yes",
+  "incident": "South Africa · 16 Oct · police shootout kills four cash-in-transit robbers"
+ },
+ "R0075": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0076": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0078": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0079": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0081": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0082": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0083": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0084": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0086": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0087": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0089": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0090": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0092": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0093": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0095": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0096": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0097": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0098": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0101": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0103": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0107": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0108": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0109": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0110": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0111": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0112": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0113": {
+  "on_topic": "yes",
+  "incident": "Old Strandfontein, Cape Town · 17 Oct · shooting kills two men"
+ },
+ "R0114": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0115": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0116": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0117": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0120": {
+  "on_topic": "yes",
+  "incident": "Cafda, Retreat · 15 Oct · gang-related shooting kills two"
+ },
+ "R0121": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0122": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0123": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0124": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0125": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0126": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0127": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0128": {
+  "on_topic": "yes",
+  "incident": "George · 18 Oct · Reinbrecht Piper fatally stabbed"
+ },
+ "R0129": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0130": {
+  "on_topic": "yes",
+  "incident": "Durban · 15 Oct · teenager killed after being dragged by a taxi"
+ },
+ "R0131": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0132": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0133": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0134": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0135": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0136": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0137": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0138": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0139": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0140": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0141": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0142": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0143": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0144": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0145": {
+  "on_topic": "yes",
+  "incident": "Ekurhuleni, Gauteng · 12–16 Oct · father allegedly kills two daughters"
+ },
+ "R0146": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0147": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0148": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0149": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0150": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0151": {
+  "on_topic": "yes",
+  "incident": "Epping, Cape Town · 16 Oct · shooting kills two taxi owners"
+ },
+ "R0152": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0153": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0154": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0155": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0156": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0157": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0158": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0159": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0160": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0161": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0162": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0163": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0164": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0165": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0166": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0167": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0168": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0169": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0170": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0171": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0172": {
+  "on_topic": "yes",
+  "incident": "South Africa · 18 Oct · teenager stabbed to death"
+ },
+ "R0173": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0174": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0175": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0176": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0177": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0178": {
+  "on_topic": "yes",
+  "incident": "Limpopo · 16 Oct · comedian Skeem Mafenya fatally stabbed"
+ },
+ "R0179": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0180": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0181": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0182": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0183": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0184": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0185": {
+  "on_topic": "yes",
+  "incident": "Limpopo · 12 Oct · mob attack kills teenager"
+ },
+ "R0186": {
+  "on_topic": "yes",
+  "incident": "Wedela, Gauteng · 12 Oct · tavern massacre"
+ },
+ "R0187": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0188": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0189": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0190": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0191": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0192": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0193": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0194": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0195": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0196": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0197": {
+  "on_topic": "yes",
+  "incident": "Canelands · 17 Oct · cellphone-tower battery thief shot dead"
+ },
+ "R0198": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0199": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0200": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0201": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0202": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0203": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0204": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0205": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0206": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0207": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0208": {
+  "on_topic": "yes",
+  "incident": "Old Strandfontein, Cape Town · 17 Oct · shooting kills two men"
+ },
+ "R0209": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0210": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0211": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0212": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0213": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0214": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0215": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0216": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0217": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0218": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0219": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0220": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0221": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0222": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0223": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0224": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0225": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0226": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0227": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0228": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0229": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0230": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0231": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0232": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0233": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0234": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0235": {
+  "on_topic": "yes",
+  "incident": "Limpopo · 16 Oct · comedian Skeem Mafenya fatally stabbed"
+ },
+ "R0236": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0237": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0238": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0239": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0240": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0241": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0242": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0243": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0244": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0245": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0246": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0247": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0248": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0249": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0250": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0251": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0252": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0253": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0254": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0255": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0256": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0257": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0258": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0259": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0260": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0261": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0262": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0263": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0264": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0265": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0266": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0267": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0268": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0269": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0270": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0271": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0272": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0273": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0274": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0275": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0276": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0277": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0278": {
+  "on_topic": "yes",
+  "incident": "Wedela, Gauteng · 12 Oct · tavern massacre"
+ },
+ "R0279": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0280": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0281": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0282": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0283": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0284": {
+  "on_topic": "yes",
+  "incident": "Hammarsdale · 12 Oct · police officer’s partner killed"
+ },
+ "R0285": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0286": {
+  "on_topic": "yes",
+  "incident": "Umgababa, KwaZulu-Natal · 15 Oct · gunmen kill two ANC campaigners"
+ },
+ "R0287": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0288": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0289": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0290": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0291": {
+  "on_topic": "yes",
+  "incident": "Umbilo, Durban · 15 Oct · BMW owner killed in attempted hijacking shootout"
+ },
+ "R0292": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0293": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0294": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0295": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0296": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0297": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0298": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0299": {
+  "on_topic": "yes",
+  "incident": "Eshowe, KwaZulu-Natal · 12 Oct · former employee kills three Boxer store managers"
+ },
+ "R0300": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0301": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0302": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0303": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0304": {
+  "on_topic": "yes",
+  "incident": "Katlehong, Gauteng · 13 Oct · shooting at ANCYL memorial kills four"
+ },
+ "R0305": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0306": {
+  "on_topic": "no",
+  "incident": null
+ }
+}

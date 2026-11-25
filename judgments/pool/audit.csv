@@ -1,0 +1,111 @@
+item,question,found_by,incident,type,real,repeats,note
+A001,MMR-w44,web_only,"gyobingauk, bago · 30 oct · ambush kills 4 junta troops",battle,yes,,
+A002,R2-BRA-w43,cloud_only,"macapá, amapá · 22 oct · man 'chapolin' shot dead",criminal_homicide,yes,,
+A003,R2-BRA-w41,web_only,"eunápolis, bahia · 7 oct · inmate beaten to death by fellow prisoners",criminal_homicide,yes,,
+A004,R3-KEN-w44,both,"likoni, mombasa · 26 oct · gang kills county enforcement officer at cess point",criminal_homicide,yes,,
+A005,R2-PAK-w47,web_only,"zhob, balochistan · 18 nov · two children killed in roadside blast",remote_violence,yes,,
+A006,MMR-w43,web_only,"pauktaw and ponnagyun, rakhine · 23 oct · aerial bombing kills 1",remote_violence,yes,,
+A007,R2-ECU-w41,web_only,ecuador prisons · 7 oct · prison clash kills four,battle,no,,"'Sunday' before 8 Oct report is 4 Oct, outside window; SEO-style undated article."
+A008,R2-ISR-w41,cloud_only,gaza · 8 oct · idf kills hamas militant involved in soldier abduction,battle,yes,,
+A009,R2-BRA-w43,web_only,brazil · 19 oct · young man dies after machete wound to neck,criminal_homicide,no,,"Killing occurred Sunday 18 Oct, before window starts 19 Oct."
+A010,R2-PAK-w47,both,khyber pakhtunkhwa · 20 nov · police kill militant after attack on police van,battle,yes,,
+A011,NGA-w40,both,"aguleri, anambra · 2 oct · land clash kills 1",mob_or_riot,yes,,
+A012,R2-YEM-w44,web_only,"bab al-mandab, yemen · 27 oct · clashes kill 97 combatants",battle,yes,,
+A013,R2-BRA-w41,cloud_only,"baixada fluminense, rio de janeiro · 7 oct · app driver killed; suspects detained",criminal_homicide,no,,Record reports arrests only; date of killing not established in window.
+A014,MMR-w43,web_only,"mindon, magway · 22 oct · paramotor bombing kills 1",remote_violence,yes,,
+A015,COD-w41,cloud_only,"butumba, haut-lomami · 8 oct · customary conflict kills 6",mob_or_riot,yes,,
+A016,MLI-w41,web_only,"tessit, gao · 9 oct · jnim and islamic state clash, both sides report dead",battle,yes,,
+A017,R3-IDN-w41,web_only,"indramayu, west java · 8 oct · teen killed in gang brawl",mob_or_riot,yes,,
+A018,R2-ECU-w41,cloud_only,quito · 6 oct · uber driver xavier granda murdered,criminal_homicide,yes,,
+A019,MMR-w44,cloud_only,"chaung-u festival, myanmar · 29 oct · airstrike kills pows",remote_violence,yes,,
+A020,R2-ISR-w43,cloud_only,"northwest israel · 24 oct · palestinian man shot dead, family wounded",criminal_homicide,yes,,
+A021,COL-w43,cloud_only,"bosconia, cesar · 25 oct · traffic official murdered",criminal_homicide,yes,,
+A022,R3-SAU-w41,cloud_only,"jubail, eastern province · 5 oct · houthi missile attack on aramco facility kills bangladeshi worker",remote_violence,yes,,
+A023,R2-BRA-w41,web_only,"caxias, rio de janeiro · 9 oct · police clash kills two men",security_force_killing,yes,,
+A024,R3-SAU-w41,cloud_only,saudi arabia · 11 oct · umrah pilgrim killed in houthi attack,remote_violence,yes,,
+A025,R2-BRA-w42,cloud_only,"petrópolis, rio de janeiro · 21 oct · shooting kills 1",criminal_homicide,no,,"incident 21 Oct, outside 12-18 Oct window"
+A026,R2-IRN-w40,web_only,sistan-baluchestan checkpoint · 2 oct · checkpoint attack and siege kill 7,battle,yes,,
+A027,R2-IND-w46,web_only,"sant kabir nagar, up · 11 nov · firing on farmers kills 2",criminal_homicide,yes,"sant kabir nagar, up · 15 nov · firing over rivalry kills two","same Jamohra firing, reported 16 Nov"
+A028,COD-w41,both,"kingwangala, kwango · 5 oct · police-soldier clash kills 5",other,yes,,
+A029,R3-RUS-w43,cloud_only,moscow oblast · 25 oct · church reader killed by uncle,criminal_homicide,no,,only body found 25 Oct; killing date not established
+A030,R2-ECU-w41,both,guayaquil · 7 oct · gun attack leaves three dead,criminal_homicide,no,,"two separate shootings in different sectors, not one incident"
+A031,SOM-w41,both,"jilib, middle juba · 5 oct · military op kills al-shabaab security chief nunow",battle,yes,,
+A032,MLI-w41,cloud_only,"anéfif, kidal · 5 oct · army strikes kill about 10 fighters",remote_violence,no,,multi-site operation roundup; incident date not established
+A033,PAK-w43,cloud_only,"noshahro feroze, sindh · 23 oct · property dispute clash kills 4",criminal_homicide,yes,,
+A034,R2-BRA-w42,web_only,"santa rita, paraíba · 12 oct · shooting kills 1",criminal_homicide,yes,"santa rita, paraíba · 12 oct · shooting kills 1",identical label and incident
+A035,ETH-w42,web_only,"dangur, metekel · 14 oct · armed attack kills red cross ambulance driver",attack_on_civilians,yes,,
+A036,R3-RUS-w44,cloud_only,siberia · 28 oct · serial killer confesses to another murder,criminal_homicide,no,,"confession, murder date unknown"
+A037,R2-ISR-w42,web_only,gaza · 16 oct · idf strikes kill two hamas militants,remote_violence,no,gaza · 14 oct · idf kills hamas commander (oct 7 field commander),two separate strikes; Wednesday strike matches 14 Oct item
+A038,R2-BRA-w42,web_only,"tauá, ceará · 13 oct · two sisters killed by fake police",attack_on_civilians,yes,,
+A039,ETH-w42,both,"moyale, borana · 18 oct · flag dispute kills 13-year-old girl",mob_or_riot,yes,,
+A040,R2-PAK-w47,web_only,"lakki marwat, kp · 19 nov · four killed during police search operation",security_force_killing,yes,"lakki marwat, kp · 18 nov · police repel attack, kill four militants",Wednesday 18 Nov attack and four killed
+A041,R2-ISR-w42,cloud_only,gaza · 15 oct · idf kills two militants smuggling weapons,battle,yes,,
+A042,R2-BRA-w43,web_only,"taquara, rio de janeiro · 23 oct · shooting attack leaves two dead",criminal_homicide,yes,,
+A043,R2-COL-w37,cloud_only,"morales, cauca · ~10 sep · indigenous guard member murdered",attack_on_civilians,yes,,
+A044,COL-w43,web_only,"puerto guzmán, putumayo · 19 oct · armed incursion kills leader and mechanic",attack_on_civilians,yes,"mayoyoque, putumayo · 19 oct · land defender nancy espinel murdered",same Nancy Espinel killing
+A045,PAK-w43,web_only,"kurram / north waziristan border · 24 oct · cross-border clashes kill 5 soldiers, 25 fighters",battle,yes,,
+A046,R3-RUS-w43,cloud_only,st petersburg · 21 oct · man held over acquaintance's murder,criminal_homicide,no,,Murder date unknown; only detention on 21 Oct reported.
+A047,MLI-w41,cloud_only,"faladié, bamako · 8 oct · newlywed shot dead, husband detained",criminal_homicide,yes,,
+A048,COL-w43,both,cali · 24 oct · policewoman killed stopping robbery,criminal_homicide,yes,,
+A049,MLI-w43,cloud_only,ouagadou forest · 21 oct · army says several fighters neutralised,battle,yes,,
+A050,COL-w43,web_only,"catatumbo, norte de santander · 20 oct · eln and farc dissident clash kills guerrillas",battle,yes,,
+A051,NGA-w40,web_only,"bokkos, plateau · 4 oct · fulani gunmen kill 2 christians",attack_on_civilians,yes,,
+A052,MMR-w44,web_only,"nat yay kan, ann, rakhine · 29–30 oct · aa ambush kills 10 soldiers",battle,yes,,
+A053,R2-IRN-w40,both,"zahedan, sistan-baluchestan · 1 oct · irgc says it killed 6 gunmen in clashes",battle,yes,,
+A054,MLI-w41,both,"tinzaouaten, kidal · 5 oct · army air and ground strikes kill gunmen",remote_violence,yes,,
+A055,R3-MOZ-w43,cloud_only,"vanduzi bridge, mozambique · 22 oct · armed robbers kill man",criminal_homicide,yes,,
+A056,R3-RUS-w43,both,oryol · 23 oct · ukrainian missile strike on factory kills 4,remote_violence,yes,,
+A057,PAK-w43,cloud_only,"shahdadpur, sindh · 24 oct · newlywed couple murdered",criminal_homicide,yes,,
+A058,R3-ZAF-w43,web_only,"cala, eastern cape · 22 oct · two extortionists killed in police shootout",battle,yes,,
+A059,R2-HTI-w42,web_only,"santo 17, croix-des-bouquets · 18 oct · gang ambush on salvadoran gsf vehicle kills 4 soldiers",battle,yes,,
+A060,PAK-w43,both,gwadar · 22 oct · clearance operation kills 10 militants,battle,yes,,
+A061,R2-ISR-w42,both,northern israel · 12 oct · cluster blast kills boy,remote_violence,no,,Unexploded cluster ordnance blast; not an established attack.
+A062,MMR-w43,cloud_only,"indaw, sagaing · 23 oct · soldiers execute civilian",attack_on_civilians,yes,,
+A063,ETH-w42,web_only,gambella city · 13 oct · gunfire and burning kill 25,mob_or_riot,yes,,
+A064,R3-ZAF-w42,cloud_only,"umbilo, durban · 15 oct · bmw owner killed in attempted hijacking",criminal_homicide,yes,,
+A065,SOM-w41,cloud_only,hiiraan · 9 oct · al-shabaab and macaawiisley clash kill 7,battle,yes,,
+A066,R2-PAK-w47,cloud_only,lahore · 17 nov · woman murdered over divorce dispute,criminal_homicide,no,,Murder date unknown; only arrest on 17 Nov reported.
+A067,SOM-w41,cloud_only,"hiiraan · 8 oct · al-shabaab attacks residents, civilians killed",attack_on_civilians,yes,hiiraan · 9 oct · al-shabaab and macaawiisley clash kill 7,"Likely same Hiiraan al-Shabaab-vs-local-militia clash, a day apart"
+A068,PAK-w43,web_only,islamabad · 25 oct · five suspects killed in police encounters,security_force_killing,no,,"Year-to-date statistic across 61 encounters, not one incident"
+A069,ETH-w43,both,amhara · 20 oct · drone strike kills schoolchildren,remote_violence,yes,,
+A070,R2-YEM-w44,web_only,"salah al-din, aden · 26 oct · houthi missiles hit saudi troops (claimed)",remote_violence,no,,Houthi spokesman claim only; no verified deaths
+A071,R3-KEN-w44,cloud_only,kitui · ~26 oct · fatal shooting at police training camp,security_force_killing,yes,,
+A072,R2-COL-w32,cloud_only,barranquilla · 6 aug · mother of three shot dead,criminal_homicide,yes,,
+A073,R2-COL-w37,both,"san andrés de cuerquia, antioquia · 13 sep · farc dissident killed in clash with army",battle,yes,,
+A074,R2-ISR-w43,both,"yehuda junction, hebron · 23 oct · gunmen kill 2 soldiers",battle,yes,,
+A075,R2-BRA-w43,cloud_only,"zona norte, brazil · 21 oct · missing 19-year-old found in shallow grave",criminal_homicide,no,,Body found in shallow grave; killing date unestablished
+A076,MMR-w44,web_only,"natthalin, bago · 30 oct · ambush kills 2 militia members",battle,yes,,
+A077,R3-RUS-w44,both,bryansk · 27 oct · drone attack kills 2,remote_violence,yes,,
+A078,R2-ECU-w41,cloud_only,"machala, el oro · 9 oct · dockworker shot dead",criminal_homicide,yes,,
+A079,MLI-w43,web_only,mali-algeria border · 20 oct · drone strike kills 15 gold miners,remote_violence,yes,,
+A080,R2-YEM-w44,cloud_only,"hayfan, taiz · 31 oct · houthi shelling kills two civilians",remote_violence,yes,,
+A081,R2-COL-w37,web_only,"caucasia, antioquia · ~12 sep · clash leaves one dead, three captured (clan del golfo)",battle,yes,,
+A082,R2-COL-w41,cloud_only,"calarcá, quindío · 10 oct · naren garcía murdered",criminal_homicide,yes,,
+A083,NGA-w40,cloud_only,lagos · 2 oct · cult clash kills 1,battle,yes,,
+A084,R2-ECU-w41,web_only,"portovelo, el oro · 6 oct · armed attack kills three in house",criminal_homicide,yes,,
+A085,R3-ZAF-w42,web_only,"cafda, retreat, cape town · 16 oct · two killed in gang shooting",criminal_homicide,yes,,
+A086,R2-CMR-w42,cloud_only,foumban · ~18 oct · gunfire kills at least one,criminal_homicide,yes,,
+A087,R2-IND-w46,cloud_only,"thiruvottiyur, chennai · 8 nov · social activist killed in cracker dispute",criminal_homicide,no,,"Killing occurred 8 Nov, before the window starts"
+A088,MMR-w43,both,rakhine and sagaing · 23 oct · bombings at three sites kill 13,remote_violence,no,"sittwe, rakhine · 23 oct · downtown blasts and shelling kill 2 to 9",Roundup of three-site attacks; overlaps Sittwe incident
+A089,R2-ECU-w41,web_only,"santa rosa, el oro · 9 oct · gunmen kill police officer and civilian",criminal_homicide,yes,,
+A090,R2-BRA-w41,web_only,"paratinga, bahia · 9 oct · boy killed by knife thrown in mother-grandmother fight",criminal_homicide,yes,,
+A091,R2-IRN-w40,cloud_only,near tehran · 1 oct · security forces kill 6 militants in raid,security_force_killing,yes,,
+A092,COL-w43,cloud_only,"chinácota, norte de santander · 20 oct · army kills eln finance chief 'resorte'",security_force_killing,yes,,
+A093,R2-IND-w46,web_only,"rohtak, haryana · 16 nov · teen killed in chhath puja violence",mob_or_riot,no,,"Incident on Monday 16 Nov, outside 9-15 Nov window"
+A094,R3-KEN-w44,cloud_only,"fedha estate, nairobi · ~27 oct · gangster waweru shot dead by police",security_force_killing,yes,,
+A095,R2-COL-w37,web_only,colombia · 10 sep · yanakuna leaders maría ovidia palechor and james flor murdered,attack_on_civilians,yes,,
+A096,R2-ISR-w41,web_only,"burqa, ramallah · 7 oct · settlers raid village with idf, palestinian killed",mob_or_riot,yes,,
+A097,R2-BRA-w43,both,"avenida brasil, rio de janeiro · 20 oct · queimados secretary shot dead in police stop",security_force_killing,yes,,
+A098,R2-CMR-w42,cloud_only,obala · ~11 oct · farmhand kills boss over cocoa proceeds,criminal_homicide,no,,"Killing around 11 Oct, before window start 12 Oct"
+A099,R3-ZAF-w43,both,durban · 21 oct · mob of about 50 beats foreign national to death,mob_or_riot,yes,,
+A100,R2-CMR-w42,web_only,"melim, kumbo · 13 oct · military raid leaves five dead",security_force_killing,yes,,
+A101,R2-COL-w36,cloud_only,"puerto asís, putumayo · 4 sep · police officer kills colleague",criminal_homicide,yes,"puerto asís, putumayo · 3 sep · police officer killed at station","Same Puerto Asís police station killing, reported a day apart"
+A102,R3-ZAF-w43,cloud_only,gauteng · 22 oct · actor dies after violent altercation,criminal_homicide,no,,Died in sleep after altercation; killing not established
+A103,R3-IDN-w41,cloud_only,"maybrat, west papua · 10 oct · opm commander shot dead",battle,yes,"maybrat, west papua · 9 oct · troops kill three opm members","Likely same Maybrat operation killing OPM members, a day apart"
+A104,R3-IDN-w41,web_only,"sampang, east java · 5 oct · grandfather beats neighbour to death",criminal_homicide,yes,,
+A105,R2-ISR-w42,web_only,"umm al-fahm, israel · 13 oct · 20-year-old arab man shot dead",criminal_homicide,yes,,
+A106,R2-ISR-w41,web_only,gaza city · 10 oct · israeli strikes kill four near panda mall,remote_violence,yes,,
+A107,R3-ZAF-w43,web_only,"maitland, cape town · 22 oct · two men shot dead in taxi-related shooting",criminal_homicide,yes,,
+A108,R2-COL-w41,web_only,cauca · 11 oct · drone and clash attacks kill soldiers,remote_violence,yes,,
+A109,ETH-w43,cloud_only,"medebay tarer, tigray · 22 oct · drone strike kills father and 4 children",remote_violence,yes,,
+A110,R3-IDN-w41,cloud_only,jakarta · 5 oct · father beats 11-month-old to death,criminal_homicide,yes,,

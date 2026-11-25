@@ -35,3 +35,24 @@ Output one JSON object keyed by record id, with every record in the packet inclu
 {"R0001": {"on_topic": "yes", "incident": "Lymanivka, Kharkiv · 21 Oct · Russian strike kills 1"},
  "R0002": {"on_topic": "no", "incident": null}}
 ```
+
+## Incident type (release 2026.11.1)
+
+After the pool is judged, each distinct incident gets exactly one type, from its label and one report of it
+(`judgments/pool/incident_types.csv`). *Armed conflict* is every type except `criminal_homicide`.
+
+- `battle`: armed clash between organised armed forces or groups, including ambushes of troops, raids on
+  military or police posts, and fighting between militias or gangs fighting as armed groups for territory.
+- `remote_violence`: air or drone strike, shelling, artillery, missile or rocket attack, bombing, IED,
+  landmine, unexploded ordnance, suicide bombing.
+- `attack_on_civilians`: an armed group, militia, insurgents or state forces deliberately attacking,
+  massacring, abducting and killing or assassinating civilians or named individuals for a political or
+  armed-conflict purpose.
+- `security_force_killing`: police or security forces kill people in an operation, raid, encounter, arrest or
+  crowd control, outside battle with an armed group.
+- `criminal_homicide`: ordinary crime: murder, femicide, domestic killing, robbery killing, gang or cartel
+  killing framed as crime, contract killing, a killing by an unknown gunman with no stated armed-conflict link.
+- `mob_or_riot`: mob violence, lynching, communal or ethnic clash between civilians, violent demonstration or riot.
+- `other`: none of these.
+
+Judge by what happened, from the label and the report.

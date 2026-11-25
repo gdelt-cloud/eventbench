@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parent
 # Column in occurrences.csv -> default display name. Web services carry anonymous labels.
 DEFAULT_ALIASES = OrderedDict([
     ('cloud_monitor', 'GDELT Cloud'),
-    ('cloud_filters', 'GDELT Cloud, place filters only'),
+    ('cloud_filters', 'GDELT Cloud, first page of each list'),
     ('gdelt_project', 'GDELT Project 2.0'),
     ('web_a', 'AI web search A'),
     ('web_b', 'AI web search B'),
@@ -71,7 +71,27 @@ def venn_svg(a, b, c, labels, colors):
     return ''.join(s)
 
 
+def like_for_like(rows):
+    """Release 2026.11.1: conflict counts only lethal cases (`scope`), and GDELT Cloud is its blind country-week
+    lists under the same single review as every service (`cloud_pages`; first pages `cloud_calls2`; Events
+    `cloud_lethal_events`). On news GDELT Cloud is its first review. The first release's columns stay in the file."""
+    if not rows or 'scope' not in rows[0] or 'cloud_pages' not in rows[0]:
+        return rows
+    out = []
+    for r in rows:
+        r = dict(r)
+        if r['family'] == 'conflict':
+            if r.get('scope') != 'lethal':
+                continue
+            r.update(cloud_monitor=r['cloud_pages'], cloud_filters=r['cloud_calls2'], cloud_event=r['cloud_lethal_events'])
+        else:
+            r.update(cloud_monitor=r.get('cloud_filters', ''), cloud_filters='')
+        out.append(r)
+    return out
+
+
 def build(rows, aliases, title, run_label):
+    rows = like_for_like(rows)
     cols = [c for c in aliases if c in rows[0]]
     # The headline GDELT Cloud column: with the second look and recheck when the results carry it.
     cloud = 'cloud_monitor' if 'cloud_monitor' in cols else 'cloud_filters'
@@ -172,7 +192,7 @@ def main():
     ap.add_argument('--aliases', help='JSON file mapping result columns to display names')
     ap.add_argument('--out', default=str(ROOT / 'results' / 'report.html'))
     ap.add_argument('--title', default='GDELT Cloud EventBench results')
-    ap.add_argument('--run', default='Run 2026.11')
+    ap.add_argument('--run', default='Release 2026.11.1')
     a = ap.parse_args()
     rows = canonical(list(csv.DictReader(open(a.results))))
     aliases = OrderedDict(DEFAULT_ALIASES)

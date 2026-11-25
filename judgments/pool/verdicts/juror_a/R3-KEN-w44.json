@@ -1,0 +1,766 @@
+{
+ "R0001": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0002": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0004": {
+  "on_topic": "yes",
+  "incident": "Likoni, Mombasa · 26 Oct · Gang kills county enforcement officer at cess point"
+ },
+ "R0005": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0006": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0007": {
+  "on_topic": "yes",
+  "incident": "Likoni, Mombasa · 26 Oct · Gang kills county enforcement officer at cess point"
+ },
+ "R0008": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0009": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0010": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0012": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0013": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0014": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0015": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0016": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0018": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0020": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0021": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0023": {
+  "on_topic": "yes",
+  "incident": "Kibish, Turkana · 29 Oct · Two men shot dead in cross-border attack"
+ },
+ "R0024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0025": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0026": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0027": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0028": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0029": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0030": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0032": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0037": {
+  "on_topic": "yes",
+  "incident": "Likoni, Mombasa · 26 Oct · Gang kills county enforcement officer at cess point"
+ },
+ "R0038": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0039": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0040": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0041": {
+  "on_topic": "yes",
+  "incident": "Loporna Fora, Marsabit · 29 Oct · Bandits raid kills two, including child"
+ },
+ "R0042": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0043": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0045": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0046": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0047": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0048": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0049": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0050": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0051": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0053": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0054": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0057": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0058": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0060": {
+  "on_topic": "yes",
+  "incident": "Loporna Fora, Marsabit · 29 Oct · Bandits raid kills two, including child"
+ },
+ "R0061": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0062": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0063": {
+  "on_topic": "yes",
+  "incident": "Likoni, Mombasa · 26 Oct · Gang kills county enforcement officer at cess point"
+ },
+ "R0064": {
+  "on_topic": "yes",
+  "incident": "Loporna Fora, Marsabit · 29 Oct · Bandits raid kills two, including child"
+ },
+ "R0065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0066": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0067": {
+  "on_topic": "yes",
+  "incident": "Kajiado · ~29 Oct · Wife killed by husband, buried in shallow grave"
+ },
+ "R0068": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0070": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0071": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0073": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0074": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0075": {
+  "on_topic": "yes",
+  "incident": "Kitui · ~26 Oct · Fatal shooting at police training camp"
+ },
+ "R0076": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0078": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0079": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0081": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0082": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0083": {
+  "on_topic": "yes",
+  "incident": "Kwale · ~31 Oct · Man fatally shot by gunmen"
+ },
+ "R0084": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0086": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0087": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0089": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0090": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0092": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0093": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0095": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0096": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0097": {
+  "on_topic": "yes",
+  "incident": "Kibra, Nairobi · ~28 Oct · Murder and stabbing, two arrested"
+ },
+ "R0098": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0101": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0103": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0107": {
+  "on_topic": "yes",
+  "incident": "Kibish, Turkana · 26 Oct · Herder killed in cross-border attack"
+ },
+ "R0108": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0109": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0110": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0111": {
+  "on_topic": "yes",
+  "incident": "Likoni, Mombasa · 26 Oct · Gang kills county enforcement officer at cess point"
+ },
+ "R0112": {
+  "on_topic": "yes",
+  "incident": "Kibish, Turkana · 26 Oct · Herder killed in cross-border attack"
+ },
+ "R0113": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0114": {
+  "on_topic": "yes",
+  "incident": "Kibish, Turkana · 29 Oct · Two men shot dead in cross-border attack"
+ },
+ "R0115": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0116": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0117": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0120": {
+  "on_topic": "yes",
+  "incident": "Kilifi · ~31 Oct · Two killed in palm wine joint fight"
+ },
+ "R0121": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0122": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0123": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0124": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0125": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0126": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0127": {
+  "on_topic": "yes",
+  "incident": "Likoni, Mombasa · 26 Oct · Gang kills county enforcement officer at cess point"
+ },
+ "R0128": {
+  "on_topic": "yes",
+  "incident": "Kibish, Turkana · 29 Oct · Two men shot dead in cross-border attack"
+ },
+ "R0129": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0130": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0131": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0132": {
+  "on_topic": "yes",
+  "incident": "Kajiado · ~29 Oct · Wife killed by husband, buried in shallow grave"
+ },
+ "R0133": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0134": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0135": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0136": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0137": {
+  "on_topic": "yes",
+  "incident": "Likoni, Mombasa · 26 Oct · Gang kills county enforcement officer at cess point"
+ },
+ "R0138": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0139": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0140": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0141": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0142": {
+  "on_topic": "yes",
+  "incident": "Loporna Fora, Marsabit · 29 Oct · Bandits raid kills two, including child"
+ },
+ "R0143": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0144": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0145": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0146": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0147": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0148": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0149": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0150": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0151": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0152": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0153": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0154": {
+  "on_topic": "yes",
+  "incident": "Fedha Estate, Nairobi · ~27 Oct · Gangster Waweru shot dead by police"
+ },
+ "R0155": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0156": {
+  "on_topic": "yes",
+  "incident": "Migori · ~29 Oct · Two men killed"
+ },
+ "R0157": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0158": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0159": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0160": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0161": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0162": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0163": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0164": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0165": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0166": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0167": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0168": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0169": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0170": {
+  "on_topic": "yes",
+  "incident": "Kipkelion, Kericho · ~27 Oct · Senator's aide murdered"
+ },
+ "R0171": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0172": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0173": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0174": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0175": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0176": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0177": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0178": {
+  "on_topic": "yes",
+  "incident": "Kibra, Nairobi · ~28 Oct · Murder and stabbing, two arrested"
+ },
+ "R0179": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0180": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0181": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0182": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0183": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0184": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0185": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0186": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0187": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0188": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0189": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0190": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0191": {
+  "on_topic": "no",
+  "incident": null
+ }
+}

@@ -1,0 +1,10 @@
+found_by,scope,checked,real_and_distinct,share,lo,hi
+both,all,20,17,0.85,0.6396,0.9476
+both,armed_conflict,17,15,0.8824,0.6566,0.9671
+both,criminal_homicide,3,2,0.6667,0.2077,0.9385
+cloud_only,all,45,31,0.6889,0.5433,0.8047
+cloud_only,armed_conflict,20,17,0.85,0.6396,0.9476
+cloud_only,criminal_homicide,25,14,0.56,0.3707,0.7333
+web_only,all,45,35,0.7778,0.6373,0.8746
+web_only,armed_conflict,33,26,0.7879,0.6225,0.8932
+web_only,criminal_homicide,12,9,0.75,0.4677,0.9111

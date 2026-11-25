@@ -46,7 +46,7 @@ The question is the one a monitoring customer asks, and it never names the incid
 
 | Service | What it was asked | Depth |
 |---|---|---|
-| GDELT Cloud | Events and Stories in the country, ±2–5 days, **all categories**, matched by country or by either actor's origin; within 150 km where coordinates exist; the expected category for non-conflict items; optionally `search=` with the place | Every page (up to 800 records per route) |
+| GDELT Cloud | Conflict (release 2026.11.1): the country-week lists, never the incident: conflict Stories and Events with deaths for the country and week. Non-conflict: Events and Stories in the country around the item's date, the expected category. Release 2026.11's conflict calls searched within 150 km of each incident and ±2–5 days around it; they are withdrawn (below) | Every page (up to 800 records per route) |
 | GDELT Project 2.0 | See "What we searched in the GDELT Project" below | All rows near the case, 25 nearest kept |
 | AI web search A and B (well-known AI web search APIs) | Conflict: one natural-language question per country-week (*"people killed in attacks, clashes or violence in {country}, {week}"*). Non-conflict: one question per item naming the topic, country and approximate date, but not the incident | 10 results, in each service's news or date-window mode |
 | AI web search C | The same questions as short keyword queries (*"{country} attack killed"*, *"{country} arrest court trial"*), the style its documentation recommends, in its news mode with the date range. Its run with the long question is kept as a disclosed variant: that run returned mostly off-topic pages | 20 results |
@@ -56,9 +56,9 @@ The question is the one a monitoring customer asks, and it never names the incid
 
 Depth differs on purpose: a database lists everything that matches, and a search engine returns a ranked page. A run can page the web services further by issuing more queries; the runner records every request and its cost.
 
-**GDELT Cloud's two figures.** The first review counts what the place-and-week calls returned (`cloud_filters`). Reviewers then took a second look at the candidates the same calls returned, and rechecked each incident that only web search had found: it was looked up through the API's search and counts only when a monitoring call (the country in any role, all categories) also returns the record. The headline figure (`cloud_monitor`) includes both; both are published.
+**GDELT Cloud's conflict figure is like for like (release 2026.11.1).** Release 2026.11 scored GDELT Cloud through calls built around each incident (`cloud_filters`), plus a second look and a recheck only GDELT Cloud received (`cloud_monitor`). Both columns stay in `results/occurrences.csv` for the record and are no longer scored. The scored conflict figure is `cloud_pages`: GDELT Cloud's blind country-week lists (conflict Stories and Events with deaths, every page), credited only where the same single review every service got matched a record (`results/cloud_blind_calls.csv`). `cloud_call1` and `cloud_calls2` are its first page and first two pages. Conflict counts only the lethal reference incidents (`scope = lethal`, 480): UCDP rows with a best estimate of zero deaths and Wikipedia items reporting no death are left out for every service. On news, GDELT Cloud's like-for-like figure is the first review (93%); the second look's 95% is disclosed beside it.
 
-**A second look for web search.** Web reviewers saw each result's title, date and opening excerpt, never the article. The equivalent of GDELT Cloud's second look is to re-read the full articles behind the results the same question already returned, with no new searches. It was run on a seeded sample of 40 conflict incidents the best web search missed (`results/web_second_look.md`): it adds an estimated 2–4 points to web search A and B and none to C. These estimates are published beside, not inside, the scored tables.
+**A second look for web search.** Release 2026.11 also sampled a second look for web search (`results/web_second_look.md`, `results/web_depth.csv`), measured on its 604-case scope. With GDELT Cloud's second look withdrawn, it is kept for the record and not scored.
 
 ### News API A, asked inside its 30-day window
 
@@ -147,9 +147,22 @@ the way shared search evaluations (TREC) have long pooled the results of every t
    incidents for that country and week, shuffled, with the sources hidden.
 3. **Jurors** (`bench.py pool-judge`, rules in `JUDGE_POOL.md`): each record on topic or not, and one label
    per incident. Two jurors from different model families judge every record; their agreement is published.
-4. **Scores** (`bench.py pool-score`): the pool is every incident any record was labelled with. For each
-   service, the incidents it delivered, its share of the pool, the share of its records that were on topic,
-   and its records per question.
+4. **Scores** (`bench.py pool-score` for any run; `pool_report.py` for every published table): the pool is
+   every incident any record was labelled with. For each service, the incidents it delivered, its share of
+   the pool, the share of its records that were on topic, and its records per question; GDELT Cloud also as
+   its first page of each list (one call per route). Paired over the questions with a bootstrap interval.
+5. **Incident types** (`judgments/pool/incident_types.csv`, rules in `JUDGE_POOL.md`): each pooled incident
+   gets one type. *Armed conflict* is every type but criminal homicide, and it is the headline: the web
+   search brief names armed groups, gangs and security forces, not ordinary murder.
+6. **Blind audit** (`judgments/pool/audit.csv`): 110 sampled incidents, 45 found only by GDELT Cloud, 45
+   only by web search and 20 by both, shown with the source hidden to a third model, which checks that each
+   is a real lethal incident in the week and not a repeat of another incident in the pool.
+
+**Release 2026.11.1's pooled run** (`judgments/pool/`): 40 country-weeks, 18,734 records. The jurors are a Claude
+model (`juror_a`) and a model from another lab (`juror_b`); they agree on 96.0% of records (κ = 0.82). GDELT Cloud
+was asked through `bench.py monitor` on 25 November 2026; web search A, B and C at 20, 25 and 20 results. The key
+(`key.json`) names each record's source and its URL or id, and each GDELT Cloud record's position in the API's
+answer; record text is not published. `python3 pool_report.py` rebuilds every `results/pooled_*.csv` table.
 
 A pooled share measures what each service delivered against what the tested services found together. It is
 not a share of everything that happened: the reference-list recall above stays beside it as the check no

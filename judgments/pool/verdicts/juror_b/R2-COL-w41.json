@@ -1,0 +1,2094 @@
+{
+ "R0001": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0002": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0004": {
+  "on_topic": "yes",
+  "incident": "Pereira · 5 Oct · Two men murdered inside a home"
+ },
+ "R0005": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0006": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0007": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0008": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0009": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0010": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0012": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0013": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0014": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0015": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0016": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0018": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0020": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0021": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0023": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0025": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0026": {
+  "on_topic": "yes",
+  "incident": "Calarcá · 10 Oct · Naren García murdered"
+ },
+ "R0027": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0028": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0029": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0030": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0032": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0037": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0038": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0039": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0040": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0041": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0042": {
+  "on_topic": "yes",
+  "incident": "Segovia, Antioquia · 5 Oct · Three people murdered in a massacre"
+ },
+ "R0043": {
+  "on_topic": "yes",
+  "incident": "Cartagena · 8 Oct · Jesús Puerta Pérez murdered by gunmen"
+ },
+ "R0044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0045": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0046": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0047": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0048": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0049": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0050": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0051": {
+  "on_topic": "yes",
+  "incident": "Colombia · 7 Oct · Viviana Andrea killed in a dispute between ‘Frijol’ and ‘Carne’"
+ },
+ "R0052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0053": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0054": {
+  "on_topic": "yes",
+  "incident": "Northeastern Colombia · 11 Oct · Military offensive kills guerrillas"
+ },
+ "R0055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0057": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0058": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0060": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0061": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0062": {
+  "on_topic": "yes",
+  "incident": "Altamira, Cauca · 10 Oct · Drone attack kills soldier Luis David Arrieta Osorio"
+ },
+ "R0063": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0064": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0066": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0067": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0068": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0070": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0071": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0073": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0074": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0075": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0076": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0078": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0079": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0081": {
+  "on_topic": "yes",
+  "incident": "Cartagena · 8 Oct · Child fatally shoots another child"
+ },
+ "R0082": {
+  "on_topic": "yes",
+  "incident": "Yarumal, Antioquia · 9 Oct · Army clash kills two suspected FARC dissidents"
+ },
+ "R0083": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0084": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0086": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0087": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0089": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0090": {
+  "on_topic": "yes",
+  "incident": "Colombia · 8 Oct · Motorcycle gunmen kill ‘Jairito’"
+ },
+ "R0091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0092": {
+  "on_topic": "yes",
+  "incident": "Santander de Quilichao, Cauca · 5 Oct · Three people killed in a massacre"
+ },
+ "R0093": {
+  "on_topic": "yes",
+  "incident": "Santander · 8 Oct · Merchant murdered outside a gym"
+ },
+ "R0094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0095": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0096": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0097": {
+  "on_topic": "yes",
+  "incident": "Malambo · 11 Oct · Hitmen kill two people and wound a teenager"
+ },
+ "R0098": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0101": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0103": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0107": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0108": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0109": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0110": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0111": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0112": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0113": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0114": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0115": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0116": {
+  "on_topic": "yes",
+  "incident": "Pamplona · 7 Oct · Two Venezuelan cousins killed at a gathering"
+ },
+ "R0117": {
+  "on_topic": "yes",
+  "incident": "San Bernardo, Nariño · 7 Oct · Blanca Emeria Pardo Rosero murdered"
+ },
+ "R0118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0120": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0121": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0122": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0123": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0124": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0125": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0126": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0127": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0128": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0129": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0130": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0131": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0132": {
+  "on_topic": "yes",
+  "incident": "Segovia, Antioquia · 5 Oct · Three people murdered in a massacre"
+ },
+ "R0133": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0134": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0135": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0136": {
+  "on_topic": "yes",
+  "incident": "Engativá, Bogotá · 7 Oct · Woman merchant murdered after prior threats"
+ },
+ "R0137": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0138": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0139": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0140": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0141": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0142": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0143": {
+  "on_topic": "yes",
+  "incident": "Mi Bohío, near Timbío, Cauca · 10 Oct · Attack on police and army kills one"
+ },
+ "R0144": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0145": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0146": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0147": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0148": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0149": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0150": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0151": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0152": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0153": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 11 Oct · Bombing of FARC dissident camp kills several"
+ },
+ "R0154": {
+  "on_topic": "yes",
+  "incident": "Yarumal, Antioquia · 9 Oct · Army clash kills two suspected FARC dissidents"
+ },
+ "R0155": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0156": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0157": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0158": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0159": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0160": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 11 Oct · Bombing of FARC dissident camp kills several"
+ },
+ "R0161": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0162": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0163": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 9 Oct · Social leader Oliver Sánchez murdered"
+ },
+ "R0164": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0165": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0166": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0167": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0168": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0169": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0170": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0171": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0172": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0173": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0174": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0175": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0176": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0177": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0178": {
+  "on_topic": "yes",
+  "incident": "El Carmen, Ibagué · 10 Oct · Alias ‘Cajamarca’ murdered"
+ },
+ "R0179": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0180": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0181": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0182": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0183": {
+  "on_topic": "yes",
+  "incident": "Engativá, Bogotá · 10 Oct · Nightclub security guard murdered in suspected extortion attack"
+ },
+ "R0184": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0185": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0186": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0187": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0188": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0189": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 9 Oct · Social leader Oliver Sánchez murdered"
+ },
+ "R0190": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 9 Oct · Social leader Oliver Sánchez murdered"
+ },
+ "R0191": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0192": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0193": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0194": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0195": {
+  "on_topic": "yes",
+  "incident": "Santander de Quilichao, Cauca · 5 Oct · Three people killed in a massacre"
+ },
+ "R0196": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0197": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0198": {
+  "on_topic": "yes",
+  "incident": "Ibagué · 11 Oct · Man murdered near Plaza de la 21"
+ },
+ "R0199": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0200": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0201": {
+  "on_topic": "yes",
+  "incident": "San Bernardo, Nariño · 7 Oct · Blanca Emeria Pardo Rosero murdered"
+ },
+ "R0202": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0203": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0204": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0205": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0206": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0207": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0208": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0209": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0210": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0211": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0212": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0213": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0214": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0215": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0216": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0217": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0218": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0219": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0220": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0221": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0222": {
+  "on_topic": "yes",
+  "incident": "Pasto · 9 Oct · Deisy Guerrero murdered in a femicide"
+ },
+ "R0223": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0224": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0225": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0226": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0227": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0228": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0229": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0230": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0231": {
+  "on_topic": "yes",
+  "incident": "Yarumal, Antioquia · 8 Oct · Army clash kills two alleged members of armed groups"
+ },
+ "R0232": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0233": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0234": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0235": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0236": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0237": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0238": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0239": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0240": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0241": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0242": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0243": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0244": {
+  "on_topic": "yes",
+  "incident": "Barbosa, Santander · 7 Oct · Businessman Yesid Camacho murdered by hitmen"
+ },
+ "R0245": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0246": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0247": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0248": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0249": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0250": {
+  "on_topic": "yes",
+  "incident": "Atlántico · 9 Oct · Merchant murdered over alleged extortion refusal"
+ },
+ "R0251": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0252": {
+  "on_topic": "yes",
+  "incident": "Yarumal, Antioquia · 8 Oct · Army clash kills two alleged members of armed groups"
+ },
+ "R0253": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0254": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0255": {
+  "on_topic": "yes",
+  "incident": "Puente Aranda, Bogotá · 7 Oct · Police officer kills two suspected robbers"
+ },
+ "R0256": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0257": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0258": {
+  "on_topic": "yes",
+  "incident": "Colombia · 8 Oct · Omar Augusto Triana Barrera murdered in his hardware store"
+ },
+ "R0259": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0260": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0261": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0262": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0263": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0264": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0265": {
+  "on_topic": "yes",
+  "incident": "Barbosa, Santander · 7 Oct · Businessman Yesid Camacho murdered by hitmen"
+ },
+ "R0266": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0267": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0268": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0269": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0270": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0271": {
+  "on_topic": "yes",
+  "incident": "Catatumbo · 10 Oct · Army bombing kills members of FARC dissident group"
+ },
+ "R0272": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0273": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0274": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0275": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0276": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0277": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0278": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0279": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0280": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0281": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0282": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0283": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0284": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0285": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0286": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0287": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0288": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0289": {
+  "on_topic": "yes",
+  "incident": "Colombia · 7 Oct · Man killed by his ex-girlfriend’s current boyfriend"
+ },
+ "R0290": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0291": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0292": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0293": {
+  "on_topic": "yes",
+  "incident": "Mi Bohío, near Timbío, Cauca · 10 Oct · Attack on police and army kills one"
+ },
+ "R0294": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0295": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0296": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0297": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0298": {
+  "on_topic": "yes",
+  "incident": "Caquetá · 6 Oct · Clash with FARC dissidents kills a soldier"
+ },
+ "R0299": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0300": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0301": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0302": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0303": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0304": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0305": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0306": {
+  "on_topic": "yes",
+  "incident": "El Espinal, Tolima · 11 Oct · Two people killed in a double homicide"
+ },
+ "R0307": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0308": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0309": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0310": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0311": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0312": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0313": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0314": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0315": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 11 Oct · Bombing of FARC dissident camp kills several"
+ },
+ "R0316": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0317": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0318": {
+  "on_topic": "yes",
+  "incident": "Colombia–Panama border · 8 Oct · Operation against Clan del Golfo kills one"
+ },
+ "R0319": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0320": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0321": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0322": {
+  "on_topic": "yes",
+  "incident": "Colombia · 8 Oct · Adolfo Bernal shot dead while tending parked cars"
+ },
+ "R0323": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0324": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0325": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0326": {
+  "on_topic": "yes",
+  "incident": "Colombia · 5 Oct · Motorcycle gunmen kill two men playing dominoes"
+ },
+ "R0327": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0328": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0329": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0330": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0331": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0332": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0333": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0334": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0335": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0336": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0337": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0338": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0339": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0340": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0341": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0342": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0343": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0344": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0345": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0346": {
+  "on_topic": "yes",
+  "incident": "Santander de Quilichao, Cauca · 5 Oct · Three people killed in a massacre"
+ },
+ "R0347": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0348": {
+  "on_topic": "yes",
+  "incident": "El Bosquecito, Colombia · 5 Oct · Luis David Tejedor killed in a gun attack"
+ },
+ "R0349": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0350": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0351": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0352": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 11 Oct · Bombing of FARC dissident camp kills several"
+ },
+ "R0353": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0354": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0355": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0356": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0357": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0358": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0359": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0360": {
+  "on_topic": "yes",
+  "incident": "Pamplona · 7 Oct · Two Venezuelan cousins killed at a gathering"
+ },
+ "R0361": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0362": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0363": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0364": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0365": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0366": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0367": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0368": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0369": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0370": {
+  "on_topic": "yes",
+  "incident": "Catatumbo, Norte de Santander · 9 Oct · Social leader Oliver Sánchez murdered"
+ },
+ "R0371": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0372": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0373": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0374": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0375": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0376": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0377": {
+  "on_topic": "yes",
+  "incident": "San Bernardo, Nariño · 7 Oct · Blanca Emeria Pardo Rosero murdered"
+ },
+ "R0378": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0379": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0380": {
+  "on_topic": "yes",
+  "incident": "Mi Bohío, near Timbío, Cauca · 10 Oct · Attack on police and army kills one"
+ },
+ "R0381": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0382": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0383": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0384": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0385": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0386": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0387": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0388": {
+  "on_topic": "yes",
+  "incident": "Cartagena · 7 Oct · Teenager dies after being shot"
+ },
+ "R0389": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0390": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0391": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0392": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0393": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0394": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0395": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0396": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0397": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0398": {
+  "on_topic": "yes",
+  "incident": "Cali · 5 Oct · 19-year-old woman burned and killed beneath a bridge"
+ },
+ "R0399": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0400": {
+  "on_topic": "yes",
+  "incident": "San Vicente del Caguán · 5 Oct · Soldier killed in clash with dissidents"
+ },
+ "R0401": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0402": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0403": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0404": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0405": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0406": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0407": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0408": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0409": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0410": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0411": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0412": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0413": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0414": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0415": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0416": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0417": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0418": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0419": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0420": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0421": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0422": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0423": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0424": {
+  "on_topic": "yes",
+  "incident": "Yarumal, Antioquia · 9 Oct · Army clash kills two suspected FARC dissidents"
+ },
+ "R0425": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0426": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0427": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0428": {
+  "on_topic": "yes",
+  "incident": "Tuluá, Valle del Cauca · 11 Oct · Armed attack kills a police officer and an alleged dissident"
+ },
+ "R0429": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0430": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0431": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0432": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0433": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0434": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0435": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0436": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0437": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0438": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0439": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0440": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0441": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0442": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0443": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0444": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0445": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0446": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0447": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0448": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0449": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0450": {
+  "on_topic": "yes",
+  "incident": "San Antero · 10 Oct · Two urban artists murdered in separate attacks"
+ },
+ "R0451": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0452": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0453": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0454": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0455": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0456": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0457": {
+  "on_topic": "yes",
+  "incident": "Tuluá, Valle del Cauca · 11 Oct · Armed attack kills a police officer and an alleged dissident"
+ },
+ "R0458": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0459": {
+  "on_topic": "yes",
+  "incident": "Olaya Herrera · 10 Oct · Loan collector Cristian Campuzano murdered"
+ },
+ "R0460": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0461": {
+  "on_topic": "yes",
+  "incident": "El Líbano, Cartagena · 5 Oct · Man shot dead"
+ },
+ "R0462": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0463": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0464": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0465": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0466": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0467": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0468": {
+  "on_topic": "yes",
+  "incident": "Villa Karla, Soledad · 8 Oct · 55-year-old man shot dead"
+ },
+ "R0469": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0470": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0471": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0472": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0473": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0474": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0475": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0476": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0477": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0478": {
+  "on_topic": "yes",
+  "incident": "Chaparral, Tolima · 8 Oct · Luz Edenis Méndez Ramírez murdered"
+ },
+ "R0479": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0480": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0481": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0482": {
+  "on_topic": "yes",
+  "incident": "Bucaramanga · 10 Oct · Police officer Fredy Leal killed stopping a jewelry-store robbery"
+ },
+ "R0483": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0484": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0485": {
+  "on_topic": "yes",
+  "incident": "Floridablanca · 6 Oct · Man shot and killed"
+ },
+ "R0486": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0487": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0488": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0489": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0490": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0491": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0492": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0493": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0494": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0495": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0496": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0497": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0498": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0499": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0500": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0501": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0502": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0503": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0504": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0505": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0506": {
+  "on_topic": "yes",
+  "incident": "Colombia · 6 Oct · Man dies after being shot in a suspected robbery"
+ },
+ "R0507": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0508": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0509": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0510": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0511": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0512": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0513": {
+  "on_topic": "yes",
+  "incident": "Engativá, Bogotá · 10 Oct · Nightclub security guard murdered in suspected extortion attack"
+ },
+ "R0514": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0515": {
+  "on_topic": "yes",
+  "incident": "Tuluá, Valle del Cauca · 11 Oct · Armed attack kills a police officer and an alleged dissident"
+ },
+ "R0516": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0517": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0518": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0519": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0520": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0521": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0522": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0523": {
+  "on_topic": "no",
+  "incident": null
+ }
+}

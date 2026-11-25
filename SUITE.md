@@ -1,6 +1,6 @@
 # The test suite, in plain terms
 
-The benchmark is four CSV files of inputs, one adapter per service, a judging step and a scoring step. Release 2026.11 scores 955 occurrences from `suite/occurrences_v2.csv`. Everything a service returns is saved in your local `run/` folder, so you can re-judge it. Any search service plugs in through an adapter ([adapters/README.md](adapters/README.md)), and any event list through `bench.py eventlist` ([AGENTS.md](AGENTS.md)).
+The benchmark is four CSV files of inputs, one adapter per service, a judging step and a scoring step. Release 2026.11.1 scores 831 occurrences from `suite/occurrences_v2.csv` (480 lethal conflict incidents and 351 non-conflict items), plus the pooled run of `suite/pool_questions_2026_11.csv`. Everything a service returns is saved in your local `run/` folder, so you can re-judge it. Any search service plugs in through an adapter ([adapters/README.md](adapters/README.md)), and any event list through `bench.py eventlist` ([AGENTS.md](AGENTS.md)).
 
 ## The inputs
 
@@ -8,7 +8,7 @@ The benchmark is four CSV files of inputs, one adapter per service, a judging st
 
 One row per real-world occurrence, taken from a list no tested service produced. `suite/occurrences.csv` is the rounds 1–3 subset (436 rows plus the earthquakes); `occurrences_v2.csv` adds 520 rows and a `region` and `round` column.
 
-- **Scored:** 955 rows, 604 conflict and 351 non-conflict.
+- **Scored:** 831 rows, 480 lethal conflict and 351 non-conflict. Release 2026.11 scored 955; the 124 conflict rows with no death (57 UCDP rows with a best estimate of zero, and Wikipedia items reporting none) carry `scope` `zero_deaths` or `no_deaths_reported` in `results/occurrences.csv` and are no longer scored.
 - **Not in the scored tables:** 78 USGS earthquakes, judged for GDELT Cloud only (`judgments/usgs_out.json`), and one Wikipedia item.
 
 | Column | Meaning | Example |

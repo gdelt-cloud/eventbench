@@ -1,0 +1,7 @@
+juror,panel,references,judged_lethal,cloud,cloud_first_page,cloud_deaths_flag,cloud_events,web_a,web_b,web_c,any_web
+juror_a,Indepaz,7,7,4,2,1,1,0,1,0,1
+juror_a,SATP,10,8,3,3,0,0,0,0,0,0
+juror_a,UCDP,70,70,24,16,7,5,8,19,2,21
+juror_b,Indepaz,7,7,3,2,1,1,0,1,0,1
+juror_b,SATP,10,8,3,2,0,0,0,1,0,1
+juror_b,UCDP,70,70,20,14,6,4,7,16,3,18

@@ -1,0 +1,1702 @@
+{
+ "R0001": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0002": {
+  "on_topic": "yes",
+  "incident": "Plateau · 4 Oct · gunmen kill two miners at mining site"
+ },
+ "R0003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0004": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0005": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0006": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0007": {
+  "on_topic": "yes",
+  "incident": "Adamawa · 1 Oct · army repels attacks on bases, 16 militants and 3 soldiers killed"
+ },
+ "R0008": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0009": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0010": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0012": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0013": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0014": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0015": {
+  "on_topic": "yes",
+  "incident": "Ungushi, Sokoto · 4 Oct · Lakurawa attack kills 2"
+ },
+ "R0016": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0018": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0020": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0021": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0023": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0025": {
+  "on_topic": "yes",
+  "incident": "Bauchi · 4 Oct · former APC women's leader murdered"
+ },
+ "R0026": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0027": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0028": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0029": {
+  "on_topic": "yes",
+  "incident": "Adamawa · 1 Oct · army repels attacks on bases, 16 militants and 3 soldiers killed"
+ },
+ "R0030": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0032": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0037": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0038": {
+  "on_topic": "yes",
+  "incident": "Kaduna · 1 Oct · bandits kill man, abduct family"
+ },
+ "R0039": {
+  "on_topic": "yes",
+  "incident": "Lagos · 2 Oct · cult clash kills 1"
+ },
+ "R0040": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0041": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0042": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0043": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0045": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0046": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0047": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0048": {
+  "on_topic": "yes",
+  "incident": "Rivers · 2 Oct · man kills father with machete"
+ },
+ "R0049": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0050": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0051": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0053": {
+  "on_topic": "yes",
+  "incident": "Osogbo, Osun · 2 Oct · cult clash kills 2"
+ },
+ "R0054": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0057": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0058": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0060": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0061": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0062": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0063": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0064": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0066": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0067": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0068": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0070": {
+  "on_topic": "yes",
+  "incident": "Minna, Niger State · 3 Oct · vigilante-youth clash kills 3"
+ },
+ "R0071": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0073": {
+  "on_topic": "yes",
+  "incident": "Nigeria · 4 Oct · soldier's bullet kills student"
+ },
+ "R0074": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0075": {
+  "on_topic": "yes",
+  "incident": "Wereng, Plateau · 1 Oct · teenager shot dead by militia"
+ },
+ "R0076": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0078": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0079": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0081": {
+  "on_topic": "yes",
+  "incident": "Benue · 1 Oct · NDC chairman killed by attackers"
+ },
+ "R0082": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0083": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0084": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0086": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0087": {
+  "on_topic": "yes",
+  "incident": "Bukuru, Jos South · 4 Oct · gunmen kill trader"
+ },
+ "R0088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0089": {
+  "on_topic": "yes",
+  "incident": "Adamawa · 1 Oct · army repels attacks on bases, 16 militants and 3 soldiers killed"
+ },
+ "R0090": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0092": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0093": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0095": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0096": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0097": {
+  "on_topic": "yes",
+  "incident": "Ungushi, Sokoto · 4 Oct · Lakurawa attack kills 2"
+ },
+ "R0098": {
+  "on_topic": "yes",
+  "incident": "Minna, Niger State · 3 Oct · vigilante-youth clash kills 3"
+ },
+ "R0099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0101": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0103": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0107": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0108": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0109": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0110": {
+  "on_topic": "yes",
+  "incident": "Enugu · 1 Oct · task force officials kill tricycle driver"
+ },
+ "R0111": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0112": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0113": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0114": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0115": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0116": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0117": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0120": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0121": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0122": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0123": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0124": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0125": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0126": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0127": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0128": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0129": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0130": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0131": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0132": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0133": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0134": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0135": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0136": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0137": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0138": {
+  "on_topic": "yes",
+  "incident": "Minna, Niger State · 3 Oct · vigilante-youth clash kills 3"
+ },
+ "R0139": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0140": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0141": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0142": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0143": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0144": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0145": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0146": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0147": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0148": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0149": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0150": {
+  "on_topic": "yes",
+  "incident": "Minna, Niger State · 3 Oct · vigilante-youth clash kills 3"
+ },
+ "R0151": {
+  "on_topic": "yes",
+  "incident": "Kano · 1 Oct · bandits abduct and kill village head"
+ },
+ "R0152": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0153": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0154": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0155": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0156": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0157": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0158": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0159": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0160": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0161": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0162": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0163": {
+  "on_topic": "yes",
+  "incident": "Bukuru, Jos South · 4 Oct · gunmen kill trader"
+ },
+ "R0164": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0165": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0166": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0167": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0168": {
+  "on_topic": "yes",
+  "incident": "Wereng, Plateau · 1 Oct · teenager shot dead by militia"
+ },
+ "R0169": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0170": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0171": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0172": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0173": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0174": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0175": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0176": {
+  "on_topic": "yes",
+  "incident": "Bukuru, Jos South · 4 Oct · gunmen kill trader"
+ },
+ "R0177": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0178": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0179": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0180": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0181": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0182": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0183": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0184": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0185": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0186": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0187": {
+  "on_topic": "yes",
+  "incident": "Kebbi–Niger border · 1 Oct · bandits kill 3 vigilantes"
+ },
+ "R0188": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0189": {
+  "on_topic": "yes",
+  "incident": "Adamawa · 1 Oct · army repels attacks on bases, 16 militants and 3 soldiers killed"
+ },
+ "R0190": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0191": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0192": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0193": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0194": {
+  "on_topic": "yes",
+  "incident": "Kuru Jenta, Plateau · 2 Oct · gunmen kill 2 at mining site"
+ },
+ "R0195": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0196": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0197": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0198": {
+  "on_topic": "yes",
+  "incident": "Kano · 1 Oct · bandits abduct and kill village head"
+ },
+ "R0199": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0200": {
+  "on_topic": "yes",
+  "incident": "Aguleri, Anambra · 2 Oct · land clash kills 1"
+ },
+ "R0201": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0202": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0203": {
+  "on_topic": "yes",
+  "incident": "Benue · 1 Oct · NDC chairman killed by attackers"
+ },
+ "R0204": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0205": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0206": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0207": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0208": {
+  "on_topic": "yes",
+  "incident": "Ungushi, Sokoto · 4 Oct · Lakurawa attack kills 2"
+ },
+ "R0209": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0210": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0211": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0212": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0213": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0214": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0215": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0216": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0217": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0218": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0219": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0220": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0221": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0222": {
+  "on_topic": "yes",
+  "incident": "Ungushi, Sokoto · 4 Oct · Lakurawa attack kills 2"
+ },
+ "R0223": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0224": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0225": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0226": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0227": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0228": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0229": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0230": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0231": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0232": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0233": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0234": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0235": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0236": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0237": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0238": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0239": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0240": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0241": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0242": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0243": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0244": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0245": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0246": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0247": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0248": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0249": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0250": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0251": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0252": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0253": {
+  "on_topic": "yes",
+  "incident": "Adamawa · 1 Oct · army repels attacks on bases, 16 militants and 3 soldiers killed"
+ },
+ "R0254": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0255": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0256": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0257": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0258": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0259": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0260": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0261": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0262": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0263": {
+  "on_topic": "yes",
+  "incident": "Osogbo, Osun · 2 Oct · cult clash kills 2"
+ },
+ "R0264": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0265": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0266": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0267": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0268": {
+  "on_topic": "yes",
+  "incident": "Kebbi–Niger border · 1 Oct · bandits kill 3 vigilantes"
+ },
+ "R0269": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0270": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0271": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0272": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0273": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0274": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0275": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0276": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0277": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0278": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0279": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0280": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0281": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0282": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0283": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0284": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0285": {
+  "on_topic": "yes",
+  "incident": "Bokkos, Plateau · 4 Oct · Fulani gunmen kill 2 Christians"
+ },
+ "R0286": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0287": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0288": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0289": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0290": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0291": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0292": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0293": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0294": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0295": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0296": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0297": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0298": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0299": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0300": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0301": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0302": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0303": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0304": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0305": {
+  "on_topic": "yes",
+  "incident": "Kaduna · 1 Oct · bandits kill man, abduct family"
+ },
+ "R0306": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0307": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0308": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0309": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0310": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0311": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0312": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0313": {
+  "on_topic": "yes",
+  "incident": "Osogbo, Osun · 2 Oct · cult clash kills 2"
+ },
+ "R0314": {
+  "on_topic": "yes",
+  "incident": "Osogbo, Osun · 2 Oct · cult clash kills 2"
+ },
+ "R0315": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0316": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0317": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0318": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0319": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0320": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0321": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0322": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0323": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0324": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0325": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0326": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0327": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0328": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0329": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0330": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0331": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0332": {
+  "on_topic": "yes",
+  "incident": "Bauchi · 4 Oct · former APC women's leader murdered"
+ },
+ "R0333": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0334": {
+  "on_topic": "yes",
+  "incident": "Osogbo, Osun · 2 Oct · cult clash kills 2"
+ },
+ "R0335": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0336": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0337": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0338": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0339": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0340": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0341": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0342": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0343": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0344": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0345": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0346": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0347": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0348": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0349": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0350": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0351": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0352": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0353": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0354": {
+  "on_topic": "yes",
+  "incident": "Otuocha, Anambra · 3 Oct · Aguleri–Umuoba-Anam clash kills 5"
+ },
+ "R0355": {
+  "on_topic": "yes",
+  "incident": "Bauchi · 4 Oct · former APC women's leader murdered"
+ },
+ "R0356": {
+  "on_topic": "yes",
+  "incident": "Bauchi · 4 Oct · former APC women's leader murdered"
+ },
+ "R0357": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0358": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0359": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0360": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0361": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0362": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0363": {
+  "on_topic": "yes",
+  "incident": "Ungushi, Sokoto · 4 Oct · Lakurawa attack kills 2"
+ },
+ "R0364": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0365": {
+  "on_topic": "yes",
+  "incident": "Minna, Niger State · 3 Oct · vigilante-youth clash kills 3"
+ },
+ "R0366": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0367": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0368": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0369": {
+  "on_topic": "yes",
+  "incident": "Kuru Jenta, Plateau · 2 Oct · gunmen kill 2 at mining site"
+ },
+ "R0370": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0371": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0372": {
+  "on_topic": "yes",
+  "incident": "Adamawa · 1 Oct · army repels attacks on bases, 16 militants and 3 soldiers killed"
+ },
+ "R0373": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0374": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0375": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0376": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0377": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0378": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0379": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0380": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0381": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0382": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0383": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0384": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0385": {
+  "on_topic": "yes",
+  "incident": "Bokkos, Plateau · 4 Oct · Fulani gunmen kill 2 Christians"
+ },
+ "R0386": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0387": {
+  "on_topic": "yes",
+  "incident": "Zamfara · 1 Oct · kidnappers kill parents and driver"
+ },
+ "R0388": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0389": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0390": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0391": {
+  "on_topic": "yes",
+  "incident": "Aguleri, Anambra · 2 Oct · land clash kills 1"
+ },
+ "R0392": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0393": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0394": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0395": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0396": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0397": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0398": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0399": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0400": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0401": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0402": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0403": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0404": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0405": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0406": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0407": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0408": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0409": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0410": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0411": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0412": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0413": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0414": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0415": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0416": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0417": {
+  "on_topic": "yes",
+  "incident": "Aguleri, Anambra · 2 Oct · land clash kills 1"
+ },
+ "R0418": {
+  "on_topic": "yes",
+  "incident": "Marte, Borno · 1 Oct · Boko Haram kills 15 villagers gathering firewood"
+ },
+ "R0419": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0420": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0421": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0422": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0423": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0424": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0425": {
+  "on_topic": "no",
+  "incident": null
+ }
+}

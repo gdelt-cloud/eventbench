@@ -1,0 +1,7 @@
+juror,scope,pool,cloud_only,both,web_only,references_only
+juror_a,all,1166,902,134,87,43
+juror_a,armed_conflict,484,273,113,61,37
+juror_a,criminal_homicide,682,629,21,26,6
+juror_b,all,1129,844,132,105,48
+juror_b,armed_conflict,564,337,112,76,39
+juror_b,criminal_homicide,565,507,20,29,9

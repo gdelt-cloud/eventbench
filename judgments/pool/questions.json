@@ -1,0 +1,628 @@
+{
+ "COD-w41": {
+  "country": "DR Congo",
+  "scope": "DR Congo",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 156,
+  "by_source": {
+   "cloud_story": 103,
+   "web_b": 25,
+   "reference": 3,
+   "web_a": 20,
+   "cloud_event": 4,
+   "web_c": 1
+  }
+ },
+ "COL-w43": {
+  "country": "Colombia",
+  "scope": "Colombia",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 616,
+  "by_source": {
+   "web_a": 20,
+   "cloud_story": 544,
+   "cloud_event": 16,
+   "web_c": 8,
+   "web_b": 25,
+   "reference": 3
+  }
+ },
+ "ETH-w42": {
+  "country": "Ethiopia",
+  "scope": "Ethiopia",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 124,
+  "by_source": {
+   "web_a": 20,
+   "cloud_story": 59,
+   "web_c": 20,
+   "web_b": 25
+  }
+ },
+ "ETH-w43": {
+  "country": "Ethiopia",
+  "scope": "Ethiopia",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 109,
+  "by_source": {
+   "cloud_story": 51,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 10,
+   "reference": 3
+  }
+ },
+ "MLI-w41": {
+  "country": "Mali",
+  "scope": "Mali",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 111,
+  "by_source": {
+   "web_b": 25,
+   "cloud_story": 63,
+   "web_a": 20,
+   "web_c": 1,
+   "reference": 2
+  }
+ },
+ "MLI-w43": {
+  "country": "Mali",
+  "scope": "Mali",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 127,
+  "by_source": {
+   "cloud_story": 71,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 10,
+   "cloud_event": 1
+  }
+ },
+ "MLI-w44": {
+  "country": "Mali",
+  "scope": "Mali",
+  "start": "2026-10-26",
+  "end": "2026-10-31",
+  "tail_days": 3,
+  "records": 96,
+  "by_source": {
+   "cloud_story": 43,
+   "cloud_event": 1,
+   "web_a": 20,
+   "web_b": 25,
+   "web_c": 7
+  }
+ },
+ "MMR-w43": {
+  "country": "Myanmar",
+  "scope": "Myanmar",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 124,
+  "by_source": {
+   "web_a": 20,
+   "web_b": 25,
+   "cloud_story": 60,
+   "cloud_event": 6,
+   "reference": 4,
+   "web_c": 9
+  }
+ },
+ "MMR-w44": {
+  "country": "Myanmar",
+  "scope": "Myanmar",
+  "start": "2026-10-26",
+  "end": "2026-10-31",
+  "tail_days": 3,
+  "records": 122,
+  "by_source": {
+   "web_b": 25,
+   "cloud_story": 73,
+   "web_a": 20,
+   "web_c": 3,
+   "reference": 1
+  }
+ },
+ "NGA-w40": {
+  "country": "Nigeria",
+  "scope": "Nigeria",
+  "start": "2026-10-01",
+  "end": "2026-10-04",
+  "tail_days": 3,
+  "records": 425,
+  "by_source": {
+   "cloud_story": 352,
+   "cloud_event": 7,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 20,
+   "reference": 1
+  }
+ },
+ "PAK-w43": {
+  "country": "Pakistan",
+  "scope": "Pakistan",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 332,
+  "by_source": {
+   "cloud_story": 259,
+   "web_c": 20,
+   "web_a": 20,
+   "web_b": 25,
+   "cloud_event": 7,
+   "reference": 1
+  }
+ },
+ "R2-BFA-w42": {
+  "country": "Burkina Faso",
+  "scope": "Burkina Faso",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 57,
+  "by_source": {
+   "web_c": 2,
+   "web_a": 20,
+   "web_b": 25,
+   "cloud_story": 10
+  }
+ },
+ "R2-BFA-w44": {
+  "country": "Burkina Faso",
+  "scope": "Burkina Faso",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "tail_days": 3,
+  "records": 72,
+  "by_source": {
+   "web_a": 20,
+   "cloud_story": 15,
+   "web_b": 25,
+   "web_c": 8,
+   "reference": 4
+  }
+ },
+ "R2-BRA-w41": {
+  "country": "Brazil",
+  "scope": "Brazil",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 790,
+  "by_source": {
+   "cloud_story": 718,
+   "web_b": 25,
+   "cloud_event": 17,
+   "reference": 7,
+   "web_a": 20,
+   "web_c": 3
+  }
+ },
+ "R2-BRA-w42": {
+  "country": "Brazil",
+  "scope": "Brazil",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 870,
+  "by_source": {
+   "cloud_story": 815,
+   "web_b": 25,
+   "cloud_event": 8,
+   "web_a": 20,
+   "web_c": 1,
+   "reference": 1
+  }
+ },
+ "R2-BRA-w43": {
+  "country": "Brazil",
+  "scope": "Brazil",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 993,
+  "by_source": {
+   "cloud_story": 906,
+   "cloud_event": 31,
+   "web_c": 10,
+   "web_b": 25,
+   "web_a": 20,
+   "reference": 1
+  }
+ },
+ "R2-CMR-w42": {
+  "country": "Cameroon",
+  "scope": "Cameroon",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 82,
+  "by_source": {
+   "cloud_story": 35,
+   "web_a": 20,
+   "web_c": 1,
+   "web_b": 25,
+   "reference": 1
+  }
+ },
+ "R2-COL-w32": {
+  "country": "Colombia",
+  "scope": "Colombia",
+  "start": "2026-08-03",
+  "end": "2026-08-09",
+  "tail_days": 3,
+  "records": 418,
+  "by_source": {
+   "cloud_story": 365,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 2,
+   "cloud_event": 5,
+   "reference": 1
+  }
+ },
+ "R2-COL-w36": {
+  "country": "Colombia",
+  "scope": "Colombia",
+  "start": "2026-08-31",
+  "end": "2026-09-06",
+  "tail_days": 3,
+  "records": 389,
+  "by_source": {
+   "cloud_story": 330,
+   "web_b": 25,
+   "cloud_event": 10,
+   "web_a": 20,
+   "web_c": 1,
+   "reference": 3
+  }
+ },
+ "R2-COL-w37": {
+  "country": "Colombia",
+  "scope": "Colombia",
+  "start": "2026-09-07",
+  "end": "2026-09-13",
+  "tail_days": 3,
+  "records": 421,
+  "by_source": {
+   "cloud_story": 361,
+   "web_b": 25,
+   "web_a": 20,
+   "reference": 2,
+   "cloud_event": 12,
+   "web_c": 1
+  }
+ },
+ "R2-COL-w41": {
+  "country": "Colombia",
+  "scope": "Colombia",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 523,
+  "by_source": {
+   "cloud_story": 454,
+   "cloud_event": 18,
+   "web_a": 20,
+   "web_c": 3,
+   "web_b": 25,
+   "reference": 3
+  }
+ },
+ "R2-ECU-w41": {
+  "country": "Ecuador",
+  "scope": "Ecuador",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 269,
+  "by_source": {
+   "reference": 3,
+   "cloud_story": 215,
+   "cloud_event": 3,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 3
+  }
+ },
+ "R2-HTI-w42": {
+  "country": "Haiti",
+  "scope": "Haiti",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 120,
+  "by_source": {
+   "web_c": 20,
+   "web_a": 20,
+   "cloud_story": 54,
+   "web_b": 25,
+   "reference": 1
+  }
+ },
+ "R2-IND-w46": {
+  "country": "India",
+  "scope": "India",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "tail_days": 3,
+  "records": 2107,
+  "by_source": {
+   "cloud_story": 1995,
+   "web_b": 25,
+   "web_c": 20,
+   "cloud_event": 42,
+   "web_a": 20,
+   "reference": 5
+  }
+ },
+ "R2-IRN-w40": {
+  "country": "Iran",
+  "scope": "Iran",
+  "start": "2026-09-28",
+  "end": "2026-10-04",
+  "tail_days": 3,
+  "records": 457,
+  "by_source": {
+   "cloud_story": 404,
+   "web_b": 25,
+   "web_a": 20,
+   "cloud_event": 5,
+   "web_c": 1,
+   "reference": 2
+  }
+ },
+ "R2-ISR-w41": {
+  "country": "Israel",
+  "scope": "Israel, including the West Bank and the Gaza Strip, which the UCDP reference list codes as Israel",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 772,
+  "by_source": {
+   "cloud_story": 720,
+   "reference": 2,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 1,
+   "cloud_event": 4
+  }
+ },
+ "R2-ISR-w42": {
+  "country": "Israel",
+  "scope": "Israel, including the West Bank and the Gaza Strip, which the UCDP reference list codes as Israel",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 714,
+  "by_source": {
+   "cloud_story": 664,
+   "web_b": 25,
+   "web_a": 20,
+   "cloud_event": 2,
+   "reference": 2,
+   "web_c": 1
+  }
+ },
+ "R2-ISR-w43": {
+  "country": "Israel",
+  "scope": "Israel, including the West Bank and the Gaza Strip, which the UCDP reference list codes as Israel",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 763,
+  "by_source": {
+   "cloud_story": 703,
+   "web_a": 20,
+   "web_c": 10,
+   "cloud_event": 3,
+   "web_b": 25,
+   "reference": 2
+  }
+ },
+ "R2-PAK-w47": {
+  "country": "Pakistan",
+  "scope": "Pakistan",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "tail_days": 3,
+  "records": 355,
+  "by_source": {
+   "web_a": 20,
+   "cloud_story": 274,
+   "web_c": 9,
+   "cloud_event": 22,
+   "web_b": 25,
+   "reference": 5
+  }
+ },
+ "R2-YEM-w44": {
+  "country": "Yemen",
+  "scope": "Yemen",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "tail_days": 3,
+  "records": 1260,
+  "by_source": {
+   "cloud_story": 1190,
+   "web_a": 20,
+   "web_c": 10,
+   "web_b": 25,
+   "cloud_event": 13,
+   "reference": 2
+  }
+ },
+ "R3-IDN-w41": {
+  "country": "Indonesia",
+  "scope": "Indonesia",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 337,
+  "by_source": {
+   "cloud_story": 266,
+   "web_c": 20,
+   "web_b": 25,
+   "web_a": 20,
+   "cloud_event": 4,
+   "reference": 2
+  }
+ },
+ "R3-KEN-w44": {
+  "country": "Kenya",
+  "scope": "Kenya",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "tail_days": 3,
+  "records": 191,
+  "by_source": {
+   "cloud_story": 133,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 10,
+   "cloud_event": 1,
+   "reference": 2
+  }
+ },
+ "R3-MOZ-w42": {
+  "country": "Mozambique",
+  "scope": "Mozambique",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 65,
+  "by_source": {
+   "web_a": 20,
+   "cloud_story": 16,
+   "web_b": 25,
+   "reference": 3,
+   "web_c": 1
+  }
+ },
+ "R3-MOZ-w43": {
+  "country": "Mozambique",
+  "scope": "Mozambique",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 79,
+  "by_source": {
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 20,
+   "cloud_story": 13,
+   "reference": 1
+  }
+ },
+ "R3-RUS-w43": {
+  "country": "Russia",
+  "scope": "Russia",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 1296,
+  "by_source": {
+   "cloud_story": 1229,
+   "web_c": 10,
+   "web_a": 20,
+   "reference": 3,
+   "web_b": 25,
+   "cloud_event": 9
+  }
+ },
+ "R3-RUS-w44": {
+  "country": "Russia",
+  "scope": "Russia",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "tail_days": 3,
+  "records": 1290,
+  "by_source": {
+   "cloud_story": 1213,
+   "web_b": 25,
+   "web_a": 20,
+   "web_c": 20,
+   "cloud_event": 11,
+   "reference": 1
+  }
+ },
+ "R3-SAU-w41": {
+  "country": "Saudi Arabia",
+  "scope": "Saudi Arabia",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 987,
+  "by_source": {
+   "cloud_story": 934,
+   "web_b": 25,
+   "reference": 3,
+   "cloud_event": 2,
+   "web_a": 20,
+   "web_c": 3
+  }
+ },
+ "R3-ZAF-w42": {
+  "country": "South Africa",
+  "scope": "South Africa",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "tail_days": 3,
+  "records": 306,
+  "by_source": {
+   "cloud_story": 256,
+   "web_a": 20,
+   "web_b": 25,
+   "reference": 3,
+   "cloud_event": 1,
+   "web_c": 1
+  }
+ },
+ "R3-ZAF-w43": {
+  "country": "South Africa",
+  "scope": "South Africa",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "tail_days": 3,
+  "records": 303,
+  "by_source": {
+   "cloud_story": 239,
+   "web_a": 20,
+   "web_b": 25,
+   "cloud_event": 6,
+   "web_c": 10,
+   "reference": 3
+  }
+ },
+ "SOM-w41": {
+  "country": "Somalia",
+  "scope": "Somalia",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "tail_days": 3,
+  "records": 106,
+  "by_source": {
+   "cloud_story": 58,
+   "web_a": 20,
+   "reference": 1,
+   "web_b": 25,
+   "cloud_event": 1,
+   "web_c": 1
+  }
+ }
+}

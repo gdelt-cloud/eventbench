@@ -1,0 +1,5042 @@
+{
+ "R0001": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0002": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0004": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0005": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0006": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0007": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0008": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0009": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0010": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0012": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0013": {
+  "on_topic": "yes",
+  "incident": "Western coast, Yemen · 28 Oct · Giants Brigades kill Houthi fighter in targeted attack"
+ },
+ "R0014": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0015": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0016": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0018": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0020": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0021": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0023": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0025": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0026": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0027": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0028": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0029": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0030": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0032": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0037": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0038": {
+  "on_topic": "yes",
+  "incident": "Taiz, Yemen · 29 Oct · Saudi airstrike kills 12 in residential area"
+ },
+ "R0039": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0040": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0041": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0042": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0043": {
+  "on_topic": "yes",
+  "incident": "Al-Sabihah, Lahij · 26 Oct · Houthi attack kills commander Al-Saidi"
+ },
+ "R0044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0045": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0046": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0047": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0048": {
+  "on_topic": "yes",
+  "incident": "Yemen · 30 Oct · Clashes kill Houthi facilities police commander"
+ },
+ "R0049": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0050": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0051": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0053": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0054": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0057": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0058": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0060": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0061": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0062": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0063": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0064": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0066": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0067": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0068": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0070": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0071": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0073": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0074": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0075": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0076": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0078": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0079": {
+  "on_topic": "yes",
+  "incident": "West of Taiz · 1 Nov · Houthi shelling kills two women"
+ },
+ "R0080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0081": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0082": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0083": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0084": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0086": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0087": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0089": {
+  "on_topic": "yes",
+  "incident": "Taiz, Yemen · 29 Oct · Saudi airstrike kills 12 in residential area"
+ },
+ "R0090": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0092": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0093": {
+  "on_topic": "yes",
+  "incident": "Hodeidah · 26 Oct · Airstrike kills Iranian commander and four military experts"
+ },
+ "R0094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0095": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0096": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0097": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0098": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0101": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0103": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0107": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0108": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0109": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0110": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0111": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0112": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0113": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0114": {
+  "on_topic": "yes",
+  "incident": "Lahj · 27 Oct · Giants Brigades destroy two Houthi vehicles and kill fighters"
+ },
+ "R0115": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0116": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0117": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0120": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0121": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0122": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0123": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0124": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0125": {
+  "on_topic": "yes",
+  "incident": "Al-Dhale · 28 Oct · murder"
+ },
+ "R0126": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0127": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0128": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0129": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0130": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0131": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0132": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0133": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0134": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0135": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0136": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0137": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0138": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0139": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0140": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0141": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0142": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0143": {
+  "on_topic": "yes",
+  "incident": "Taiz, Yemen · 29 Oct · Saudi airstrike kills 12 in residential area"
+ },
+ "R0144": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0145": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0146": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0147": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0148": {
+  "on_topic": "yes",
+  "incident": "Taiz · 1 Nov · clashes kill 14 Houthi fighters and a senior officer"
+ },
+ "R0149": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0150": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0151": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0152": {
+  "on_topic": "yes",
+  "incident": "Sana'a · 31 Oct · recruited boy dies in police custody amid torture allegations"
+ },
+ "R0153": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0154": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0155": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0156": {
+  "on_topic": "yes",
+  "incident": "Kahlan, Taiz · 1 Nov · Houthi attack repelled, 3 killed"
+ },
+ "R0157": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0158": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0159": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0160": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0161": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0162": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0163": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0164": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0165": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0166": {
+  "on_topic": "yes",
+  "incident": "Yemen · 31 Oct · Saudi-Houthi fighting kills 6"
+ },
+ "R0167": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0168": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0169": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0170": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0171": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0172": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0173": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0174": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0175": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0176": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0177": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0178": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0179": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0180": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0181": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0182": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0183": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0184": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0185": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0186": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0187": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0188": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0189": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0190": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0191": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0192": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0193": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0194": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0195": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0196": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0197": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0198": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0199": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0200": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0201": {
+  "on_topic": "yes",
+  "incident": "Karsh front, Lahij · 31 Oct · Artillery exchange kills soldier"
+ },
+ "R0202": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0203": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0204": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0205": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0206": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0207": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0208": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0209": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0210": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0211": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0212": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0213": {
+  "on_topic": "yes",
+  "incident": "Ibb · 31 Oct · Woman kills husband with a knife"
+ },
+ "R0214": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0215": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0216": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0217": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0218": {
+  "on_topic": "yes",
+  "incident": "Al-Mudharaba front, Lahij · 30 Oct · Strike kills occupants of two Houthi vehicles"
+ },
+ "R0219": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0220": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0221": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0222": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0223": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0224": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0225": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0226": {
+  "on_topic": "yes",
+  "incident": "Al-Aqroud, Taiz · 31 Oct · Houthi shelling kills and wounds civilians"
+ },
+ "R0227": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0228": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0229": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0230": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0231": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0232": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0233": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0234": {
+  "on_topic": "yes",
+  "incident": "Al-Mahfad, Abyan · 31 Oct · Ambush kills five National Shield troops"
+ },
+ "R0235": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0236": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0237": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0238": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0239": {
+  "on_topic": "yes",
+  "incident": "Jabal Saber, Taiz · 30 Oct · Houthi shelling and sniper fire kill a woman"
+ },
+ "R0240": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0241": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0242": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0243": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0244": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0245": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0246": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0247": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0248": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0249": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0250": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0251": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0252": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0253": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0254": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0255": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0256": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0257": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0258": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0259": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0260": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0261": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0262": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0263": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0264": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0265": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0266": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0267": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0268": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0269": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0270": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0271": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0272": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0273": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0274": {
+  "on_topic": "yes",
+  "incident": "Al-Misrakh, Taiz · 29 Oct · Ambush kills Houthi fighters"
+ },
+ "R0275": {
+  "on_topic": "yes",
+  "incident": "Taiz · 1 Nov · Houthi shelling kills a woman and child"
+ },
+ "R0276": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0277": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0278": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0279": {
+  "on_topic": "yes",
+  "incident": "Sabir, Taiz · 27 Oct · Houthi shelling kills 5 civilians"
+ },
+ "R0280": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0281": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0282": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0283": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0284": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0285": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0286": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0287": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0288": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0289": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0290": {
+  "on_topic": "yes",
+  "incident": "Al-Wadea, Abyan · 27 Oct · Gunmen kill man outside his home"
+ },
+ "R0291": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0292": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0293": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0294": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0295": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0296": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0297": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0298": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0299": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0300": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0301": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0302": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0303": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0304": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0305": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0306": {
+  "on_topic": "yes",
+  "incident": "Sabir front, Taiz · 30 Oct · Houthi police commanders killed in clashes"
+ },
+ "R0307": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0308": {
+  "on_topic": "yes",
+  "incident": "Bab al-Mandab · 27 Oct · Yemeni fighter killed in clashes with Houthis"
+ },
+ "R0309": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0310": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0311": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0312": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0313": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0314": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0315": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0316": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0317": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0318": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0319": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0320": {
+  "on_topic": "yes",
+  "incident": "Tur al-Baha, Lahj · 1 Nov · Dozens of Houthis killed in battles and airstrikes"
+ },
+ "R0321": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0322": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0323": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0324": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0325": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0326": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0327": {
+  "on_topic": "yes",
+  "incident": "Kahbub front, Lahij · 27 Oct · Clash kills 11 Houthis"
+ },
+ "R0328": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0329": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0330": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0331": {
+  "on_topic": "yes",
+  "incident": "Ibb · 28 Oct · Woman killed at Quranic healing center"
+ },
+ "R0332": {
+  "on_topic": "yes",
+  "incident": "Al-Mudhariba front, Lahij · 26 Oct · Houthi vehicle crews killed in attack"
+ },
+ "R0333": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0334": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0335": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0336": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0337": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0338": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0339": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0340": {
+  "on_topic": "yes",
+  "incident": "Taiz · 29 Oct · Yemeni army fire kills Houthi leader’s son"
+ },
+ "R0341": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0342": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0343": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0344": {
+  "on_topic": "yes",
+  "incident": "Hijet al-Abd, between Taiz and Lahij · 31 Oct · Airstrikes hit Houthi convoy, killing and wounding over 50"
+ },
+ "R0345": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0346": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0347": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0348": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0349": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0350": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0351": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0352": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0353": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0354": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0355": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0356": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0357": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0358": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0359": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0360": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0361": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0362": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0363": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0364": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0365": {
+  "on_topic": "yes",
+  "incident": "Sanaa · 31 Oct · UN staffer dies in Houthi detention"
+ },
+ "R0366": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0367": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0368": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0369": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0370": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0371": {
+  "on_topic": "yes",
+  "incident": "Kahbub, Lahij · 30 Oct · clashes kill 22 Houthi fighters"
+ },
+ "R0372": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0373": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0374": {
+  "on_topic": "yes",
+  "incident": "Taiz, Yemen · 29 Oct · Saudi airstrike kills 12 in residential area"
+ },
+ "R0375": {
+  "on_topic": "yes",
+  "incident": "Al-Dhabab, Taiz · 30 Oct · clashes kill Houthi leaders and aides"
+ },
+ "R0376": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0377": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0378": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0379": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0380": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0381": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0382": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0383": {
+  "on_topic": "yes",
+  "incident": "Sabir, Taiz · 27 Oct · Houthi shelling kills 5 civilians"
+ },
+ "R0384": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0385": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0386": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0387": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0388": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0389": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0390": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0391": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0392": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0393": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0394": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0395": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0396": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0397": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0398": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0399": {
+  "on_topic": "yes",
+  "incident": "Rimi neighborhood, Aden · 30 Oct · resident killed in dispute"
+ },
+ "R0400": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0401": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0402": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0403": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0404": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0405": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0406": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0407": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0408": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0409": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0410": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0411": {
+  "on_topic": "yes",
+  "incident": "Taiz · 29 Oct · army fire reportedly kills Houthi commander Abu Nasr al-Shumairi"
+ },
+ "R0412": {
+  "on_topic": "yes",
+  "incident": "Taiz village · 1 Nov · Houthi shelling kills civilians"
+ },
+ "R0413": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0414": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0415": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0416": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0417": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0418": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0419": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0420": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0421": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0422": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0423": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0424": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0425": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0426": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0427": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0428": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0429": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0430": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0431": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0432": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0433": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0434": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0435": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0436": {
+  "on_topic": "yes",
+  "incident": "Aden and Taiz · 1 Nov · two shootings kill people"
+ },
+ "R0437": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0438": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0439": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0440": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0441": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0442": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0443": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0444": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0445": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0446": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0447": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0448": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0449": {
+  "on_topic": "yes",
+  "incident": "Sabir, Taiz · 27 Oct · Houthi fire kills field commander"
+ },
+ "R0450": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0451": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0452": {
+  "on_topic": "yes",
+  "incident": "Al-Mahfad, Abyan · 31 Oct · Ambush kills five National Shield troops"
+ },
+ "R0453": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0454": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0455": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0456": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0457": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0458": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0459": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0460": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0461": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0462": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0463": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0464": {
+  "on_topic": "yes",
+  "incident": "Taiz, Yemen · 29 Oct · Saudi airstrike kills 12 in residential area"
+ },
+ "R0465": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0466": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0467": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0468": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0469": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0470": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0471": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0472": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0473": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0474": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0475": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0476": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0477": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0478": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0479": {
+  "on_topic": "yes",
+  "incident": "Al-Sharaf, Al-Maqatirah, Lahj · 1 Nov · Attack on a home kills one man"
+ },
+ "R0480": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0481": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0482": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0483": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0484": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0485": {
+  "on_topic": "yes",
+  "incident": "Jabal Saber, Taiz · 27 Oct · Houthi drone kills child"
+ },
+ "R0486": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0487": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0488": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0489": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0490": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0491": {
+  "on_topic": "yes",
+  "incident": "Maashiq presidential complex, Aden · 27 Oct · bombing kills 5"
+ },
+ "R0492": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0493": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0494": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0495": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0496": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0497": {
+  "on_topic": "yes",
+  "incident": "Mawiya, Taiz · 26 Oct · Houthi clash kills district chief’s son"
+ },
+ "R0498": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0499": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0500": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0501": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0502": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0503": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0504": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0505": {
+  "on_topic": "yes",
+  "incident": "Al-Aqroudh, Taiz · 27 Oct · Houthi snipers kill 1 civilian"
+ },
+ "R0506": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0507": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0508": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0509": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0510": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0511": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0512": {
+  "on_topic": "yes",
+  "incident": "Taiz · 31 Oct · Airstrike kills son of prominent Houthi leader"
+ },
+ "R0513": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0514": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0515": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0516": {
+  "on_topic": "yes",
+  "incident": "Al-Aqroudh, Taiz · 30 Oct · Fighting kills Houthi fighters"
+ },
+ "R0517": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0518": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0519": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0520": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0521": {
+  "on_topic": "yes",
+  "incident": "Sanaa · 31 Oct · UN staffer dies in Houthi detention"
+ },
+ "R0522": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0523": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0524": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0525": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0526": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0527": {
+  "on_topic": "yes",
+  "incident": "Taiz · 27 Oct · Airstrike kills Houthi brigade commander"
+ },
+ "R0528": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0529": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0530": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0531": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0532": {
+  "on_topic": "yes",
+  "incident": "Shaqra, Abyan · 1 Nov · Tire shop owner killed"
+ },
+ "R0533": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0534": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0535": {
+  "on_topic": "yes",
+  "incident": "Hayfan, Taiz · 31 Oct · Houthi shelling kills two civilians"
+ },
+ "R0536": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0537": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0538": {
+  "on_topic": "yes",
+  "incident": "Sanaa · 31 Oct · UN staffer dies in Houthi detention"
+ },
+ "R0539": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0540": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0541": {
+  "on_topic": "yes",
+  "incident": "Rural Taiz · 28 Oct · Houthi military leaders killed in clashes"
+ },
+ "R0542": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0543": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0544": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0545": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0546": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0547": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0548": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0549": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0550": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0551": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0552": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0553": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0554": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0555": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0556": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0557": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0558": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0559": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0560": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0561": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0562": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0563": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0564": {
+  "on_topic": "yes",
+  "incident": "Salah al-Din, Aden · 26 Oct · Houthi missile strike kills Saudi troops"
+ },
+ "R0565": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0566": {
+  "on_topic": "yes",
+  "incident": "Al-Sabiha, Lahij · 1 Nov · Houthi ballistic strike kills civilians at a health complex"
+ },
+ "R0567": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0568": {
+  "on_topic": "yes",
+  "incident": "Sanaa · 31 Oct · UN staffer dies in Houthi detention"
+ },
+ "R0569": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0570": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0571": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0572": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0573": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0574": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0575": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0576": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0577": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0578": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0579": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0580": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0581": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0582": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0583": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0584": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0585": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0586": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0587": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0588": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0589": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0590": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0591": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0592": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0593": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0594": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0595": {
+  "on_topic": "yes",
+  "incident": "Shabwa · 26 Oct · Houthi missiles kill at least 75 at a training camp"
+ },
+ "R0596": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0597": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0598": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0599": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0600": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0601": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0602": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0603": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0604": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0605": {
+  "on_topic": "yes",
+  "incident": "Yemen · 28 Oct · Saudi sniper kills engineer Haroun"
+ },
+ "R0606": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0607": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0608": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0609": {
+  "on_topic": "yes",
+  "incident": "Sabir front, Taiz · 30 Oct · Houthi police commanders killed in clashes"
+ },
+ "R0610": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0611": {
+  "on_topic": "yes",
+  "incident": "Taiz · 30 Oct · Sniper kills woman returning from market"
+ },
+ "R0612": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0613": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0614": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0615": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0616": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0617": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0618": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0619": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0620": {
+  "on_topic": "yes",
+  "incident": "Ibb · 31 Oct · Woman kills husband with a knife"
+ },
+ "R0621": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0622": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0623": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0624": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0625": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0626": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0627": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0628": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0629": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0630": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0631": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0632": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0633": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0634": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0635": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0636": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0637": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0638": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0639": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0640": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0641": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0642": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0643": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0644": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0645": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0646": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0647": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0648": {
+  "on_topic": "yes",
+  "incident": "Sana'a · 1 Nov · Three Houthi leaders assassinated"
+ },
+ "R0649": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0650": {
+  "on_topic": "yes",
+  "incident": "Al-Muqayla · 30 Oct · Commander Sand Ahmad Kaseer al-Sumati killed"
+ },
+ "R0651": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0652": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0653": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0654": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0655": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0656": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0657": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0658": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0659": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0660": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0661": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0662": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0663": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0664": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0665": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0666": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0667": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0668": {
+  "on_topic": "yes",
+  "incident": "Taiz · 30 Oct · Clashes and airstrikes kill and wound 38 Houthi fighters"
+ },
+ "R0669": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0670": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0671": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0672": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0673": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0674": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0675": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0676": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0677": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0678": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0679": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0680": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0681": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0682": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0683": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0684": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0685": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0686": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0687": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0688": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0689": {
+  "on_topic": "yes",
+  "incident": "Nati, Al Bayda · 26 Oct · Landmine kills civilian"
+ },
+ "R0690": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0691": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0692": {
+  "on_topic": "yes",
+  "incident": "Al-Misrah, Taiz · 30 Oct · Airstrikes kill over 30 Houthis"
+ },
+ "R0693": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0694": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0695": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0696": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0697": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0698": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0699": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0700": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0701": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0702": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0703": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0704": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0705": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0706": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0707": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0708": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0709": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0710": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0711": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0712": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0713": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0714": {
+  "on_topic": "yes",
+  "incident": "Jabal Saber, Taiz · 30 Oct · Houthi shelling and sniper fire kill a woman"
+ },
+ "R0715": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0716": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0717": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0718": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0719": {
+  "on_topic": "yes",
+  "incident": "Ibb · 28 Oct · Sorcerer beats woman to death"
+ },
+ "R0720": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0721": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0722": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0723": {
+  "on_topic": "yes",
+  "incident": "Southwestern Yemen · 27 Oct · clashes kill 97 combatants"
+ },
+ "R0724": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0725": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0726": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0727": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0728": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0729": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0730": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0731": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0732": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0733": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0734": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0735": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0736": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0737": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0738": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0739": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0740": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0741": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0742": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0743": {
+  "on_topic": "yes",
+  "incident": "Kahbub front, Lahij · 27 Oct · Clash kills 11 Houthis"
+ },
+ "R0744": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0745": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0746": {
+  "on_topic": "yes",
+  "incident": "Shabwa · 26 Oct · Houthi missiles kill at least 75 at a training camp"
+ },
+ "R0747": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0748": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0749": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0750": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0751": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0752": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0753": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0754": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0755": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0756": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0757": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0758": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0759": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0760": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0761": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0762": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0763": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0764": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0765": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0766": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0767": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0768": {
+  "on_topic": "yes",
+  "incident": "Shaqra, Abyan · 1 Nov · Tire shop owner killed"
+ },
+ "R0769": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0770": {
+  "on_topic": "yes",
+  "incident": "Taiz · 27 Oct · Mohammed al-Baadani killed in clashes"
+ },
+ "R0771": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0772": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0773": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0774": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0775": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0776": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0777": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0778": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0779": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0780": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0781": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0782": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0783": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0784": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0785": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0786": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0787": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0788": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0789": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0790": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0791": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0792": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0793": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0794": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0795": {
+  "on_topic": "yes",
+  "incident": "Yemen · 28 Oct · Airstrikes reportedly kill about 440"
+ },
+ "R0796": {
+  "on_topic": "yes",
+  "incident": "West of Taiz · 1 Nov · Houthi shelling kills two women"
+ },
+ "R0797": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0798": {
+  "on_topic": "yes",
+  "incident": "Jabal Habashi, Taiz · 1 Nov · Woman shot dead"
+ },
+ "R0799": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0800": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0801": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0802": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0803": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0804": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0805": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0806": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0807": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0808": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0809": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0810": {
+  "on_topic": "yes",
+  "incident": "Sanaa · 31 Oct · UN staffer dies in Houthi detention"
+ },
+ "R0811": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0812": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0813": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0814": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0815": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0816": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0817": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0818": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0819": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0820": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0821": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0822": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0823": {
+  "on_topic": "yes",
+  "incident": "Al-Sabihah, Lahij · 26 Oct · Houthi attack kills commander Al-Saidi"
+ },
+ "R0824": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0825": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0826": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0827": {
+  "on_topic": "yes",
+  "incident": "Aqroud and Kahlan, Yemen · 29 Oct · suspected toxic shells cause deaths"
+ },
+ "R0828": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0829": {
+  "on_topic": "yes",
+  "incident": "South of Taiz · 30 Oct · Houthi attack repelled, two leaders killed"
+ },
+ "R0830": {
+  "on_topic": "yes",
+  "incident": "Sabr Al-Mawadim and Jabal Habashy, Taiz · 26 Oct · mortar shelling kills 3"
+ },
+ "R0831": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0832": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0833": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0834": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0835": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0836": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0837": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0838": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0839": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0840": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0841": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0842": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0843": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0844": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0845": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0846": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0847": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0848": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0849": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0850": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0851": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0852": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0853": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0854": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0855": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0856": {
+  "on_topic": "yes",
+  "incident": "Sabir, Taiz · 27 Oct · Houthi shelling kills 5 civilians"
+ },
+ "R0857": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0858": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0859": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0860": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0861": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0862": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0863": {
+  "on_topic": "yes",
+  "incident": "Aden and Taiz · 1 Nov · two shootings kill people"
+ },
+ "R0864": {
+  "on_topic": "yes",
+  "incident": "Al-Aqroudh, Taiz · 27 Oct · Houthi sniper kills 1, wounds 3"
+ },
+ "R0865": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0866": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0867": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0868": {
+  "on_topic": "yes",
+  "incident": "Hijet al-Abd, between Taiz and Lahij · 31 Oct · Airstrikes hit Houthi convoy, killing and wounding over 50"
+ },
+ "R0869": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0870": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0871": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0872": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0873": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0874": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0875": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0876": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0877": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0878": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0879": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0880": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0881": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0882": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0883": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0884": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0885": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0886": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0887": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0888": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0889": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0890": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0891": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0892": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0893": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0894": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0895": {
+  "on_topic": "yes",
+  "incident": "Taiz, Yemen · 29 Oct · Saudi airstrike kills 12 in residential area"
+ },
+ "R0896": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0897": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0898": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0899": {
+  "on_topic": "yes",
+  "incident": "Jabal Saber, Taiz · 27 Oct · Houthi drone kills child"
+ },
+ "R0900": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0901": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0902": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0903": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0904": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0905": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0906": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0907": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0908": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0909": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0910": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0911": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0912": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0913": {
+  "on_topic": "yes",
+  "incident": "Taiz · 30 Oct · Clashes and airstrikes kill and wound 38 Houthi fighters"
+ },
+ "R0914": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0915": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0916": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0917": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0918": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0919": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R0920": {
+  "on_topic": "yes",
+  "incident": "Saada · 30 Oct · taxi driver murdered in cemetery"
+ },
+ "R0921": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0922": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0923": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0924": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0925": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0926": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0927": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0928": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0929": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0930": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0931": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0932": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0933": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0934": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0935": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0936": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0937": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0938": {
+  "on_topic": "yes",
+  "incident": "Northern Lahij · 28 Oct · Strikes kill Houthi fighters"
+ },
+ "R0939": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0940": {
+  "on_topic": "yes",
+  "incident": "Sanaa · 30 Oct · Three Houthi-affiliated police chiefs killed"
+ },
+ "R0941": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0942": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0943": {
+  "on_topic": "yes",
+  "incident": "Sana'a · 1 Nov · Three Houthi leaders assassinated"
+ },
+ "R0944": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0945": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0946": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0947": {
+  "on_topic": "yes",
+  "incident": "Nati, Al Bayda · 26 Oct · Landmine kills civilian"
+ },
+ "R0948": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0949": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0950": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0951": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0952": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0953": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0954": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0955": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0956": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0957": {
+  "on_topic": "yes",
+  "incident": "Kahlan front · 31 Oct · Houthi commander killed"
+ },
+ "R0958": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0959": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0960": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0961": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0962": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0963": {
+  "on_topic": "yes",
+  "incident": "Sanhan, Sanaa · 29 Oct · woman killed after Houthi drone launch"
+ },
+ "R0964": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0965": {
+  "on_topic": "yes",
+  "incident": "Al-Jarahi, Hodeidah · 30 Oct · Houthi militia kills child"
+ },
+ "R0966": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0967": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0968": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0969": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0970": {
+  "on_topic": "yes",
+  "incident": "Southern Taiz · 29 Oct · Houthi vehicle burned with its occupants"
+ },
+ "R0971": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0972": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0973": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0974": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0975": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0976": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0977": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0978": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0979": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0980": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0981": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0982": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0983": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0984": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0985": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0986": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0987": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0988": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0989": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0990": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0991": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0992": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0993": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0994": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0995": {
+  "on_topic": "yes",
+  "incident": "Safer, Marib · 28 Oct · gas truck driver killed"
+ },
+ "R0996": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0997": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0998": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0999": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1000": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1001": {
+  "on_topic": "yes",
+  "incident": "Aden · 30 Oct · Neighbor fatally shoots man"
+ },
+ "R1002": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1004": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1005": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1006": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1007": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1008": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1009": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1010": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1012": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1013": {
+  "on_topic": "yes",
+  "incident": "Taiz · 1 Nov · Saudi strike on market kills 8"
+ },
+ "R1014": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R1015": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1016": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1018": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1020": {
+  "on_topic": "yes",
+  "incident": "Al-Dhabab, Taiz · 27 Oct · Shelling at gas station kills 2"
+ },
+ "R1021": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1023": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1025": {
+  "on_topic": "yes",
+  "incident": "Hayfan, Taiz · 31 Oct · Houthi shelling kills two civilians"
+ },
+ "R1026": {
+  "on_topic": "yes",
+  "incident": "Al-Dhabab, Taiz · 27 Oct · Shelling at gas station kills 2"
+ },
+ "R1027": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1028": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1029": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1030": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1032": {
+  "on_topic": "yes",
+  "incident": "Jabal Saber, Taiz · 30 Oct · Houthi shelling and sniper fire kill a woman"
+ },
+ "R1033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1037": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1038": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1039": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1040": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1041": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1042": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1043": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1045": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1046": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1047": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1048": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1049": {
+  "on_topic": "yes",
+  "incident": "Hayfan, Taiz · 31 Oct · Houthi shelling kills two civilians"
+ },
+ "R1050": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1051": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1053": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1054": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1057": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1058": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1060": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R1061": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1062": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1063": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1064": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1066": {
+  "on_topic": "yes",
+  "incident": "Bab al-Mandab front · 26 Oct · Sabri Kadish killed in fighting"
+ },
+ "R1067": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1068": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1070": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1071": {
+  "on_topic": "yes",
+  "incident": "Abyan governorate · 28 Oct · Gunmen assassinate a man outside his home"
+ },
+ "R1072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1073": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1074": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1075": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R1076": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1078": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1079": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1081": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1082": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1083": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1084": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1086": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1087": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1089": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1090": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1092": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1093": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1095": {
+  "on_topic": "yes",
+  "incident": "Al-Misrah, Taiz · 30 Oct · Airstrikes kill over 30 Houthis"
+ },
+ "R1096": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1097": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1098": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1101": {
+  "on_topic": "yes",
+  "incident": "Al-Damnah, Taiz · 30 Oct · Houthi sniper kills a woman"
+ },
+ "R1102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1103": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1107": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1108": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1109": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1110": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1111": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1112": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1113": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1114": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1115": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1116": {
+  "on_topic": "yes",
+  "incident": "Sanaa · 27 Oct · Airstrike kills senior Houthi leader at missile launch site"
+ },
+ "R1117": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1120": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1121": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1122": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1123": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1124": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1125": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1126": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1127": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1128": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1129": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1130": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1131": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1132": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1133": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1134": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1135": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1136": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1137": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1138": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1139": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1140": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1141": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1142": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1143": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1144": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1145": {
+  "on_topic": "yes",
+  "incident": "Taiz · 30 Oct · Shelling kills a woman and wounds four"
+ },
+ "R1146": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1147": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1148": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1149": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1150": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1151": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1152": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1153": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1154": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1155": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1156": {
+  "on_topic": "yes",
+  "incident": "Taiz · 26 Oct · Houthi shelling and sniper fire kill and wound civilians"
+ },
+ "R1157": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1158": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1159": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1160": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1161": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1162": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1163": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1164": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1165": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1166": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1167": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1168": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1169": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1170": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1171": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1172": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1173": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1174": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1175": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1176": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1177": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1178": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1179": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1180": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1181": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1182": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1183": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1184": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1185": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1186": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1187": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1188": {
+  "on_topic": "yes",
+  "incident": "Shabwa · 26 Oct · Houthi missiles kill at least 75 at a training camp"
+ },
+ "R1189": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1190": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1191": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1192": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1193": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1194": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1195": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1196": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1197": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1198": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1199": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1200": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1201": {
+  "on_topic": "yes",
+  "incident": "Al-Sabiha, Lahij · 1 Nov · Houthi ballistic strike kills civilians at a health complex"
+ },
+ "R1202": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1203": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1204": {
+  "on_topic": "yes",
+  "incident": "Northern Yemen · 28 Oct · Saudi airstrike on market kills 14"
+ },
+ "R1205": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1206": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1207": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1208": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1209": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1210": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1211": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1212": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1213": {
+  "on_topic": "yes",
+  "incident": "Southern Marib · 27 Oct · Clashes kill Houthi fighters"
+ },
+ "R1214": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1215": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1216": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1217": {
+  "on_topic": "yes",
+  "incident": "Kahbub, Lahij · 30 Oct · clashes kill 22 Houthi fighters"
+ },
+ "R1218": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1219": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1220": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1221": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1222": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1223": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1224": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1225": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1226": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1227": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1228": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1229": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1230": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1231": {
+  "on_topic": "yes",
+  "incident": "Jabal Saber, Taiz · 27 Oct · Houthi drone kills child"
+ },
+ "R1232": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1233": {
+  "on_topic": "yes",
+  "incident": "Al-Sabiha, Lahij · 1 Nov · Houthi ballistic strike kills civilians at a health complex"
+ },
+ "R1234": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1235": {
+  "on_topic": "yes",
+  "incident": "Al-Sabiha, Lahij · 1 Nov · Houthi ballistic strike kills civilians at a health complex"
+ },
+ "R1236": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1237": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1238": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1239": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1240": {
+  "on_topic": "yes",
+  "incident": "Kahboub, Lahij · 27 Oct · Soldier killed in fighting"
+ },
+ "R1241": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1242": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1243": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1244": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1245": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1246": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1247": {
+  "on_topic": "yes",
+  "incident": "Taiz · 26 Oct · field commander killed in fighting"
+ },
+ "R1248": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1249": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1250": {
+  "on_topic": "yes",
+  "incident": "Kahbub front · 28 Oct · man killed in fighting"
+ },
+ "R1251": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1252": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1253": {
+  "on_topic": "yes",
+  "incident": "Al-Sabiha, Lahij · 1 Nov · Houthi ballistic strike kills civilians at a health complex"
+ },
+ "R1254": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1255": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1256": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1257": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1258": {
+  "on_topic": "yes",
+  "incident": "Sabir, Taiz · 27 Oct · Houthi fire kills field commander"
+ },
+ "R1259": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R1260": {
+  "on_topic": "no",
+  "incident": null
+ }
+}

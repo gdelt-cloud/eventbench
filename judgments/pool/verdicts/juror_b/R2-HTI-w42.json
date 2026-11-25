@@ -1,0 +1,482 @@
+{
+ "R0001": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0002": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0004": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0005": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0006": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0007": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0008": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0009": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0010": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0012": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0013": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0014": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0015": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0016": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0018": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0020": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0021": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0023": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0025": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0026": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0027": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0028": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0029": {
+  "on_topic": "yes",
+  "incident": "Merger, Gressier · 15 Oct · clashes kill 2 suspected gang members"
+ },
+ "R0030": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0032": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0037": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0038": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0039": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0040": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0041": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0042": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0043": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0045": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0046": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0047": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0048": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0049": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0050": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0051": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0053": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0054": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0057": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0058": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0060": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0061": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0062": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0063": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0064": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0066": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0067": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0068": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0070": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0071": {
+  "on_topic": "yes",
+  "incident": "Santo 17, Croix-des-Bouquets · 18 Oct · gang ambush leaves 4 Salvadoran soldiers missing, presumed killed"
+ },
+ "R0072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0073": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0074": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0075": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0076": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0078": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0079": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0081": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0082": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0083": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0084": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0086": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0087": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0089": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0090": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0092": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0093": {
+  "on_topic": "yes",
+  "incident": "Merger, Gressier · 15 Oct · clashes kill 2 suspected gang members"
+ },
+ "R0094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0095": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0096": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0097": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0098": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0101": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0103": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0107": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0108": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0109": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0110": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0111": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0112": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0113": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0114": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0115": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0116": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0117": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0120": {
+  "on_topic": "no",
+  "incident": null
+ }
+}

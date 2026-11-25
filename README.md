@@ -13,7 +13,7 @@
 
 **The full results, with charts and every figure explained, are at [gdeltcloud.com/benchmarks/events](https://gdeltcloud.com/benchmarks/events).**
 
-> **Correction, 25 November 2026.** The conflict comparison in release 2026.11 is withdrawn until a like-for-like re-run in the December release. GDELT Cloud's conflict figures came from searches that used each incident's place and dates, plus a second look and a recheck that only GDELT Cloud received; the GDELT Project arm also searched near each incident. Asked the same monitoring question and reviewed the same way, GDELT Cloud's country-week lists found 33% of lethal conflict incidents and the best AI web search 27%, a difference inside the margin of error. The news result holds when every service is reviewed the same way: 93% against 72%. Verdict files are published for the first 436 of the 955 cases; the rest follow with the re-run. See [CHANGELOG.md](CHANGELOG.md).
+> **Release 2026.11.1, 25 November 2026 (corrected).** The conflict comparison first published in release 2026.11 ("2.1×") is withdrawn: GDELT Cloud's searches used each incident's place and dates, it alone got a second look and a recheck, and incidents with no deaths were counted. Every conflict figure is now like for like, and a new run judges every service against every lethal incident any of them found (the pooled truth, [METHOD.md](METHOD.md#pooled-truth-release-2026111)). **Headline:** asked who was killed in attacks, clashes or violence in 40 country-weeks across 23 countries, GDELT Cloud returned **2.5×** as many distinct armed-conflict incidents as the best AI web search (9.7 against 3.9 a week; second juror 11.2 against 4.2), ahead in 27 of the 40 weeks. Against the reference lists alone, counting only lethal incidents: 32% against 27%. News results are unchanged: 93% against 72%. See [CHANGELOG.md](CHANGELOG.md).
 
 
 When something happens in the world, does a data service give you a record of it? Is the record right? What does it tell you?
@@ -25,10 +25,11 @@ EventBench answers those questions for five kinds of source:
 - web search + LLM, where an LLM turns search results into records (explained below)
 - and any search service or event list you plug in yourself ([AGENTS.md](AGENTS.md))
 
-Every occurrence comes from a reference list that none of these services produced. Release 2026.11 covers:
-- 955 occurrences: 604 conflict incidents in 59 countries and 351 non-conflict items
+Every occurrence comes from a reference list that none of these services produced. Release 2026.11.1 covers:
+- 831 occurrences: 480 lethal conflict incidents in 54 countries and 351 non-conflict items
+- 40 conflict country-weeks in 23 countries judged against every lethal incident any service returned: 18,734 records, two jurors
 - 40 country × category × week listing cells
-- 40 random conflict country-weeks in which every returned record was judged for relevance
+- 40 random conflict country-weeks in which every returned record was judged for relevance (release 2026.11)
 
 Everything needed to rerun it is in this repository.
 
@@ -56,52 +57,72 @@ Details and sampling: [METHOD.md](METHOD.md) and [SUITE.md](SUITE.md).
 
 ## What each service was asked
 
-- **GDELT Cloud:** the filters its customers use, through the public API: country (either actor's country), category, dates and a radius around the place. Reviewers then took a second look at the candidates those same calls returned, and rechecked each incident only web search had found: it counts only when a monitoring call (the country in any role, all categories) returns the record. Place filters alone are reported too.
+- **GDELT Cloud:** its API filters for the same question, by country and week, never by the incident: conflict Events with deaths and homicide Events (`CR01`) located in the country, and the conflict and crime Stories about the country, every page (`bench.py monitor`). Release 2026.11 searched around each incident (its coordinates and dates) and gave GDELT Cloud alone a second look and a recheck; those figures are withdrawn, and the reference-list recall below uses GDELT Cloud's blind country-week lists under the same single review as everyone else.
 - **GDELT Project 2.0:** the public 15-minute Events export and the translation export, CAMEO root codes 18–20 (assault, fight, mass violence). Rows within 100 km of the case and from one day before to three days after it, up to 25 nearest; with no coordinates, rows in the same country whose source URL shares words with the case. Reviewers judged each row from its coded fields plus its source article's headline. Not searched: the GKG, the Mentions table, other CAMEO roots, and the GDELT DOC full-text search. Not tested on non-conflict items.
-- **AI web search A, B and C:** each in the style its own documentation recommends. A and B take a natural-language question (*"people killed in attacks, clashes or violence in Mali October 5-11 2026"*). C takes a short keyword query in its news mode (*"Mali attack killed"*), because the long question returned off-topic pages; its result for the long question is kept as a disclosed variant. Each uses its own date filter, and A and B return 10 results, C 20.
+- **AI web search A, B and C:** each in the style its own documentation recommends. A and B take a natural-language question (*"people killed in attacks, clashes or violence in Mali October 5-11 2026"*). C takes a short keyword query in its news mode (*"Mali attack killed"*), because the long question returned off-topic pages; its result for the long question is kept as a disclosed variant. Each uses its own date filter. On the reference lists A and B returned 10 results and C 20; in the pooled run each returned its maximum (A 20, B 25, C 20).
 - **Web search + LLM:** the pipeline a developer builds to imitate an event feed from web search. It runs the search, hands the results page to an LLM, and the LLM returns a de-duplicated list of incident records with date, place, parties, deaths and source URLs. There is one LLM call per results page. It makes results readable and countable, but it cannot find anything the search did not return.
 
-## Results, release 2026.11
+## Results, release 2026.11.1
 
-### Recall: of what happened, how much did each service return?
+### Conflict: every lethal incident found
 
-No question named the incident. GDELT Cloud got the filters its customers use: country, category, dates and radius. Each web search got the question a person would type.
+The question, for 40 country-weeks in 23 countries: *people killed in attacks, clashes or violence in {country}, {week}*. Every record any service returned, plus the reference incidents for the week, was pooled blind; two jurors from different model families (`juror_a`, `juror_b`) named each lethal incident in it, and each is scored on its own. Armed conflict is every incident type but criminal homicide.
 
-| Service | Conflict · 604 incidents, 59 countries | Non-conflict · 351 news and official items |
+| Distinct lethal incidents a week (juror a / juror b) | Armed conflict | All lethal violence |
 |---|---:|---:|
-| **GDELT Cloud** (Events or Stories) | **52%** (48–56) | **95%** (92–97) |
-| GDELT Cloud, place filters only | 44% (40–48) | 93% (90–95) |
-| GDELT Cloud, Events only | 30% (26–33) | 58% (53–63) |
-| GDELT Project 2.0 rows | 32% (29–36) | not tested |
-| AI web search A, top 10 | 18% (15–21) | 59% (54–64) |
-| AI web search B, top 10 | 25% (21–28) | 72% (67–77) |
-| AI web search C, top 20, keyword query | 12% (10–15) | 42% (37–47) |
-| AI web search C, the long question (first 120 conflict incidents) | 2% (0–6) | not tested |
-| Web search A + LLM | 17% (14–20) | 55% (50–60) |
-| Web search B + LLM | 23% (19–26) | 66% (61–71) |
-| Web search C + LLM | 8% (6–11) | 39% (34–45) |
-| GDELT Cloud, the GDELT Project or any web search | 60% (364) | 98% (345) |
-| News API A\*, article search and clusters (2 calls) | 28%\* (21–36) | 67%\* (59–74) |
-| News API A\*, article search, top 100 | 21%\* (15–28) | 48%\* (40–55) |
-| News API A\*, article clusters, top 50 | 18%\* (11–24) | 46%\* (38–54) |
+| **GDELT Cloud**, every record | **9.7 / 11.2** | **25.9 / 24.4** |
+| GDELT Cloud, first page of each list (3 calls) | 4.9 / 5.3 | 7.3 / 7.2 |
+| GDELT Cloud, Events only | 2.0 / 2.3 | 2.4 / 2.6 |
+| AI web search B | 3.9 / 4.2 | 5.1 / 5.4 |
+| AI web search A | 1.2 / 1.2 | 1.2 / 1.2 |
+| AI web search C | 0.6 / 0.8 | 0.6 / 0.8 |
+| AI web search A, B or C | 4.4 / 4.7 | 5.5 / 5.9 |
+| Pool (incidents in 40 weeks) | 484 / 564 | 1,166 / 1,129 |
 
-95% Wilson intervals are in brackets.
+- **GDELT Cloud against web search B, paired over the weeks:** armed conflict +5.7 a week (95% bootstrap interval +3.3 to +9.0; juror b +7.0, +3.9 to +11.2), ahead in 27 of 40 weeks, tied in 7, behind in 6. First page only: +1.0 (+0.05 to +2.2). All lethal violence: +20.8 (+11.3 to +33.8).
+- **By type** (share of the pool, juror a): battles 75% against web B's 32%; strikes, shelling and bombs 79% against 39%; attacks on civilians 74% against 35%; killings by police or security forces 89% against 19%; mob violence 82% against 55%; criminal homicide 95% against 7%.
+- **By country:** GDELT Cloud leads most in India, Brazil, Yemen, Colombia, Pakistan and Russia; web search found more in Myanmar and Ethiopia, and the two are level in the Sahel and Haiti weeks.
+- **Reference incidents inside those weeks:** UCDP 24 of 70 (web B 19), SATP 3 of 8 (0), Indepaz 4 of 7 (1).
+- **Blind audit** of a sample of incidents only one side found, by a third model: 85% of GDELT Cloud's armed-conflict incidents were real, in the week and not a repeat, against 79% of web search's; for criminal homicide, 56% against 75%.
+- **Precision is the price:** 11% of GDELT Cloud's 413 records a week were about a lethal incident in the country and week, against 43% of web search B's 25.
+- Wider GDELT Cloud filters (gang, kidnapping and prison crime codes, or violent Events with no death count) added 1 incident in 40 weeks.
 
-\* News API A is a news-database API that stores articles and clusters them into events. The plan we ran on searches only the last 30 days, so it answered the 311 questions inside that window (438 occurrences: 213 conflict, 225 non-conflict), and its full-suite figure is projected by reference list. Applied to the services measured on every question, the same projection lands within 0.4–3.3 points of their real conflict figure (always below it) and 0.7–3.6 points of their non-conflict figure; we correct by the average of those errors and widen the interval by their spread. Inside the window it found 38% of conflict incidents (both calls), against GDELT Cloud's 64% and web search B's 25% on the same incidents. Details: `results/news_api_a_window.csv` and [METHOD.md](METHOD.md#news-api-a-asked-inside-its-30-day-window).
+Tables: `results/pooled_*.csv`, rebuilt from `judgments/pool/` by `python3 pool_report.py`.
 
-- **Conflict:** GDELT Cloud found 79 incidents that neither the GDELT Project nor any web search returned. Web search alone found 39, mostly from specialist monitors outside the news stream. 240 of 604 were found by no service.
-- **Non-conflict:** the 25 official, scheduled items work like lookups: web search A and B found all 25, C 24 and GDELT Cloud 23. On Wikipedia's 326 news developments, GDELT Cloud found 309, web search B 228, A 182 and C 123.
+### Recall against the reference lists
 
-**By reference list:**
+No question named the incident; every service's records got the same single review. Conflict counts only the lethal reference incidents the question asks about.
+
+| Service | Conflict · 480 lethal incidents, 54 countries | Non-conflict · 351 news and official items |
+|---|---:|---:|
+| **GDELT Cloud**, country-week lists, every page | **32%** (28–37) | **93%** (90–95) |
+| GDELT Cloud, first page of each list | 31% (27–36) | |
+| GDELT Cloud, Events only | 20% (16–24) | 58% (53–63) |
+| GDELT Project 2.0 rows | 29% (25–33) | not tested |
+| AI web search A, top 10 | 21% (17–25) | 59% (54–64) |
+| AI web search B, top 10 | 27% (24–31) | 72% (67–77) |
+| AI web search C, top 20, keyword query | 11% (9–14) | 42% (37–47) |
+| Web search A + LLM | 21% (17–24) | 55% (50–60) |
+| Web search B + LLM | 27% (23–31) | 66% (61–71) |
+| GDELT Cloud, the GDELT Project or any web search | 54% (257) | 98% (345) |
+| News API A\*, article search and clusters (2 calls) | 26%\* (17–35) | 67%\* (59–74) |
+
+95% Wilson intervals are in brackets. On news, a second look GDELT Cloud alone received added 6 items (95%); the like-for-like 93% is the figure compared.
+
+\* News API A is a news-database API that stores articles and clusters them into events. The plan we ran on searches only the last 30 days, so it answered the questions inside that window and its full-suite figure is projected by reference list. Details: `results/news_api_a_window.csv` and [METHOD.md](METHOD.md#news-api-a-asked-inside-its-30-day-window).
+
+**By reference list** (lethal conflict incidents):
 
 | List | Items | GDELT Cloud | GDELT Project | Web A | Web B | Web C |
 |---|---:|---:|---:|---:|---:|---:|
-| UCDP Candidate Events, October | 428 | 174 | 85 | 65 | 98 | 21 |
-| Indepaz massacres, Aug–Oct | 19 | 9 | 5 | 2 | 4 | 0 |
-| SATP timelines, November | 36 | 16 | 10 | 1 | 1 | 3 |
-| Wikipedia, armed conflicts and attacks | 121 | 113 | 95 | 42 | 45 | 50 |
+| UCDP Candidate Events, October | 371 | 99 | 80 | 63 | 92 | 19 |
+| Indepaz massacres, Aug–Oct | 19 | 3 | 5 | 2 | 4 | 0 |
+| SATP timelines, November | 36 | 9 | 10 | 1 | 1 | 3 |
+| Wikipedia, armed conflicts and attacks | 54 | 45 | 43 | 34 | 34 | 31 |
 | Wikipedia, non-conflict | 326 | 309 | not tested | 182 | 228 | 123 |
 | Official lists | 25 | 23 | not tested | 25 | 25 | 24 |
+
+Reference lists record a small share of what happens: inside the 40 pooled country-weeks they held 84 of the 1,166 lethal incidents the services and lists found between them. That is why the pooled view leads.
 
 Per-panel and per-case results are in `results/`. Worked examples are in [cases.md](cases.md).
 
@@ -127,10 +148,8 @@ Two different checks. Accuracy reads the source article and checks every field. 
 | Service | What was checked | Fully right | Right action |
 |---|---|---:|---:|
 | GDELT Cloud Events | 200 drawn at random; 149 had a readable source article | **86%** (79–91) | 99% (96–100) |
-| GDELT Cloud Events, same articles as the GDELT Project rows | The Events coded from the 98 articles below | 88% | |
-| GDELT Project rows | All 259 rows coded from the same 98 articles, judged blind | 9% | 40% |
 
-**Relevance to the question.** 40 conflict country-weeks drawn at random. Every record each service returned was judged blind: is it a specific lethal incident in the country and week asked?
+**Relevance to the question** (release 2026.11 sample, one page of web results). 40 conflict country-weeks drawn at random. Every record each service returned was judged blind: is it a specific lethal incident in the country and week asked?
 
 | Service | Records per question | On topic |
 |---|---:|---:|
@@ -164,12 +183,10 @@ Two different checks. Accuracy reads the source article and checks every field. 
 | Step | GDELT Project 2.0 | GDELT Cloud |
 |---|---|---|
 | Reading | Dictionary-based coding: one row per actor–action pattern in a sentence | A language model reads the article and decides whether an event happened |
-| One occurrence | 4.1 rows per matched incident, never merged | Articles clustered into a Story, one Event per occurrence (1.2 records per incident) |
+| One occurrence | One row per actor–action pattern; later reports of a row go to a Mentions table | Articles clustered into a Story, one Event per occurrence |
 | Who and where | Actor strings and the first place named | Parties with roles, resolved to entities, coordinates and locality |
-| When | Publication date | Occurrence date with its basis |
+| When | The date the event took place, at day resolution | Occurrence date with its basis |
 | Sources | The article stream | The stream, plus native feeds from 440+ regional outlets and translated non-English sources |
-
-On the same 98 articles, 9% of the GDELT Project's rows were fully right, against 88% of Cloud's.
 
 **Where web search wins.**
 - It indexes more of the web, including specialist monitors that are not in any news stream.
@@ -177,25 +194,25 @@ On the same 98 articles, 9% of the GDELT Project's rows were fully right, agains
 
 **Where web search loses.**
 - A results page is a ranking, not a list.
-- One monitoring question returns about 1–4 distinct lethal incidents from a page of 10 results, and often the day's dominant story rather than the one you need.
+- One monitoring question returned 1–5 distinct lethal incidents a week at each service's maximum results, often the day's dominant story rather than the one you need.
 
 **Why everyone's conflict recall is low.**
 - UCDP counts single deaths and builds its list from sources no news crawl reaches, such as broadcast monitoring, army communiqués, NGO monitors and local radio.
-- 40% of the conflict incidents (240 of 604) were found by no tested service.
+- 46% of the lethal conflict incidents (223 of 480) were found by no tested service.
 
 ## Expected criticisms, and our answers
 
 | Criticism | Answer |
 |---|---|
 | "UCDP is the wrong denominator." | It is independent of every service, public, and counts single deaths, so it is hard for everyone. We add Indepaz, SATP and five non-conflict lists, and report each panel separately. |
-| "Web search was not given a fair chance." | Each web service was asked in the query style its own documentation recommends, with its own news or date-window mode. Depth differs on purpose: a database lists, a search engine ranks. At an equal number of calls GDELT Cloud still returns more: 31% of conflict incidents from one call, against 25% for the best web search. All three web searches together reached 33% (37% with an LLM step). A sample second look at the full articles behind web search's own results, the equivalent of GDELT Cloud's, adds about 2 points to the best web search (24.5% to 26%, at most 34%), and recall by depth extrapolates to 30–32% at twice the results and 37–42% at five times (`results/web_second_look.md`, `results/web_depth.csv`). The next release measures a deeper-search configuration directly, and a lookup mode where web search is strongest. |
+| "Web search was not given a fair chance." | Each web service was asked in the query style its own documentation recommends, with its own news or date-window mode, and in the pooled run at its maximum results per call. At one call each on the reference lists, web search B leads: 27% against GDELT Cloud's 23%. GDELT Cloud's lead comes from listing everything that matched, which is what a monitoring question asks for: its first page alone is slightly ahead of web search B on armed conflict (4.9 against 3.9 a week), its full lists 2.5×. The next release adds a deeper-search configuration and a lookup mode where web search is strongest. |
 | "Web search + LLM is as good as GDELT Cloud." | Its 97% is relevance: the LLM keeps records of the kind asked. It does not check fields against the source, it adds no recall (A 17% against A's 18%, B 23% against 25%, C 8% against 12%), and its records carry fewer fields. It adds about 0.06¢ and 7 seconds a question. |
-| "An AI judged it." | Reviewers were Claude models, a different model family from the one GDELT Cloud uses for coding. Records were shuffled and stripped of source names. A second reviewer re-judged 40 incidents (κ = 0.83). Every verdict is published in `judgments/`. |
+| "An AI judged it." | Reviewers were Claude models, a different model family from the one GDELT Cloud uses for coding. Records were shuffled and stripped of source names. A second reviewer re-judged 40 incidents (κ = 0.83). The pooled run had two jurors from different labs judging every record (κ = 0.82), and a third model audited a sample blind. Every verdict is published in `judgments/`. |
 | "You picked categories that suit you." | Conflict and non-conflict lists were sampled at random or taken in full, across every category we code, including those where Cloud loses. |
 | "Searching after the fact flatters web search." | It does. Web indexes gain follow-up coverage with hindsight, so web figures are, if anything, high. Timeliness is not measured directly; `results/timeliness_estimate.md` estimates it from the publication dates of each service's matches. |
 | "Why are the web services anonymous?" | Their terms restrict publishing named performance comparisons. The scores describe how this kind of tool behaves on monitoring questions. To compare a service you use, plug it in: any web search service works through a small adapter ([AGENTS.md](AGENTS.md)). |
 | "Wikipedia Current Events favours English-language prominence." | Yes. We disclose it and stratify by Wikipedia's own categories. |
-| "GDELT Cloud's figures depend on how you queried it." | They do. Place filters alone returned 44% of conflict incidents and 93% of non-conflict items. A second look at the candidates the same calls returned, and a recheck of the incidents only web search found, raised that to 52% and 95%. Both are published (`cloud_filters` and `cloud_monitor` in `results/occurrences.csv`). |
+| "GDELT Cloud's figures depend on how you queried it." | They do, which is why release 2026.11's are withdrawn: they searched around each incident and gave GDELT Cloud alone a second look. Every figure now comes from country-week queries any customer would send, reviewed like everyone else's; `results/occurrences.csv` keeps the first release's columns beside them. |
 
 ## Run it yourself
 
@@ -263,7 +280,7 @@ python report.py --results run/occurrences.csv
 
 ### Cost, time and value per task
 
-Fees and latency are measured at list prices (`results/cost.csv`, rounds 1–3: 158 conflict country-weeks and 93 non-conflict questions). Recall at an equal number of calls covers all 604 conflict incidents (`results/equal_calls.csv`). Yield per question comes from 40 random conflict country-weeks with every record judged blind (`results/on_topic.csv`). A GDELT Cloud call costs 3.3¢ inside a plan, up to 6.7¢ at the highest overage rate.
+Fees and latency are measured at list prices (`results/cost.csv`, rounds 1–3: 158 conflict country-weeks and 93 non-conflict questions). Recall at an equal number of calls covers the 480 lethal conflict incidents (`results/equal_calls.csv`). Yield per question comes from 40 random conflict country-weeks with every record judged blind (`results/on_topic.csv`). A GDELT Cloud call costs 3.3¢ inside a plan, up to 6.7¢ at the highest overage rate.
 
 A call does different work on each side. One GDELT Cloud call returns up to 100 structured records, and GDELT Cloud pages through everything that matched the place, week and topic. One web search call returns a page of links, and the search stops there.
 
@@ -279,15 +296,15 @@ A call does different work on each side. One GDELT Cloud call returns up to 100 
 | News API A\*, article search (up to 100 articles) | 1.5¢ (0.6–1.8¢ by plan; 5× for dates over 30 days old) | 1.4 s |
 | News API A\*, article clusters (up to 50) | 7.5¢ (3–9¢ by plan; 4× for dates over 30 days old) | 1.5 s |
 
-**Conflict recall at an equal number of calls** (604 incidents):
+**Conflict recall at an equal number of calls** (480 lethal incidents):
 
 | Calls per question | GDELT Cloud | AI web search B | AI web search A | AI web search C |
 |---|---:|---:|---:|---:|
-| 1 | 31% (27–35), first page of conflict Stories | 25% (21–28) | 18% (15–21) | 12% (10–15) |
-| 2 | 39% (35–43), plus the first page of lethal Events | | | |
-| Every page of the two filtered lists, 4.5 calls on average | 41% (37–45) | | | |
+| 1 | 23% (19–27), first page of conflict Stories | 27% (24–31) | 21% (17–25) | 11% (9–14) |
+| 2 | 31% (27–36), plus the first page of lethal Events | | | |
+| Every page of the two lists | 32% (28–37) | | | |
 
-**Per question, 40 random conflict country-weeks:**
+**Per question, 40 random conflict country-weeks** (release 2026.11 sample, one page of web results; the pooled run above measures incidents directly):
 
 | Service | Calls | Records | On topic | Distinct lethal incidents | Per question | Per distinct incident |
 |---|---:|---:|---:|---:|---:|---:|

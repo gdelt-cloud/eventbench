@@ -1,0 +1,1422 @@
+{
+ "R0001": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0002": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0003": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0004": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0005": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0006": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0007": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0008": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0009": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0010": {
+  "on_topic": "yes",
+  "incident": "Northwest Pakistan · 19 Nov · Military raids kill 22 militants"
+ },
+ "R0011": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0012": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0013": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0014": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0015": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0016": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0017": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0018": {
+  "on_topic": "yes",
+  "incident": "Lakki Marwat, KP · 18 Nov · Police repel attack, kill four militants"
+ },
+ "R0019": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0020": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0021": {
+  "on_topic": "yes",
+  "incident": "Pakistan · 21 Nov · Brother kills girl fleeing forced marriage"
+ },
+ "R0022": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0023": {
+  "on_topic": "yes",
+  "incident": "Rawalakot, Azad Kashmir · 17 Nov · Rangers officer killed, four gunmen shot dead"
+ },
+ "R0024": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0025": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0026": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0027": {
+  "on_topic": "yes",
+  "incident": "Chilhar, Sindh · 19 Nov · Father and son killed in land-dispute attack"
+ },
+ "R0028": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0029": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 16 Nov · Former Afghan military officer killed"
+ },
+ "R0030": {
+  "on_topic": "yes",
+  "incident": "Nowshera, KP · 22 Nov · Father and son shot dead at wedding"
+ },
+ "R0031": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0032": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0033": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0034": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0035": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0036": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0037": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0038": {
+  "on_topic": "yes",
+  "incident": "Battagram, KP · 21 Nov · Seven killed in tribal clash over forest"
+ },
+ "R0039": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0040": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0041": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0042": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0043": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0044": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0045": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0046": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 21 Nov · Two civilians extrajudicially killed by forces"
+ },
+ "R0047": {
+  "on_topic": "yes",
+  "incident": "Dallo Khel, Lakki Marwat · 17 Nov · FC soldier killed in firing"
+ },
+ "R0048": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0049": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0050": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0051": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0052": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0053": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0054": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0055": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0056": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0057": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0058": {
+  "on_topic": "yes",
+  "incident": "Peshawar · 20 Nov · Police kill three wanted robbers"
+ },
+ "R0059": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0060": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0061": {
+  "on_topic": "yes",
+  "incident": "Battagram, KP · 21 Nov · Seven killed in tribal clash over forest"
+ },
+ "R0062": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0063": {
+  "on_topic": "yes",
+  "incident": "Janikhel, Bannu · 16 Nov · Drone strike kills two TTP militants"
+ },
+ "R0064": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0065": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0066": {
+  "on_topic": "yes",
+  "incident": "Pakistan · 21 Nov · Fan beaten to death by influencer's family"
+ },
+ "R0067": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0068": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0069": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0070": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0071": {
+  "on_topic": "yes",
+  "incident": "Rawalakot, Azad Kashmir · 17 Nov · Rangers officer killed, four gunmen shot dead"
+ },
+ "R0072": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0073": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0074": {
+  "on_topic": "yes",
+  "incident": "Hafizabad, Punjab · 20 Nov · Ex-minister Liaquat Abbas Bhatti strangled"
+ },
+ "R0075": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0076": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 22 Nov · Bombing kills 18 soldiers (BLA claim)"
+ },
+ "R0077": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0078": {
+  "on_topic": "yes",
+  "incident": "Dera Ismail Khan · 17 Nov · Father and daughter shot dead after court hearing"
+ },
+ "R0079": {
+  "on_topic": "yes",
+  "incident": "Khadkocha, Mastung · 16 Nov · Five militants killed in IBO"
+ },
+ "R0080": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0081": {
+  "on_topic": "yes",
+  "incident": "Noshki, Balochistan · 22 Nov · BLA attack kills FC personnel"
+ },
+ "R0082": {
+  "on_topic": "yes",
+  "incident": "Lakki Marwat, KP · 17 Nov · Four militants killed in security operation"
+ },
+ "R0083": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0084": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0085": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0086": {
+  "on_topic": "yes",
+  "incident": "Landhi, Karachi · 19 Nov · Man kills wife and brother-in-law"
+ },
+ "R0087": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0088": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0089": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0090": {
+  "on_topic": "yes",
+  "incident": "Hafizabad, Punjab · 20 Nov · Ex-minister Liaquat Abbas Bhatti strangled"
+ },
+ "R0091": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0092": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0093": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 16 Nov · Forces kill militant linked to police attack"
+ },
+ "R0094": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0095": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0096": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0097": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0098": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 18 Nov · Youth extrajudicially killed by forces"
+ },
+ "R0099": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0100": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0101": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0102": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0103": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0104": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0105": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0106": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0107": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0108": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0109": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0110": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0111": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0112": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 18 Nov · Police officer killed by militants"
+ },
+ "R0113": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0114": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0115": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0116": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0117": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0118": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0119": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0120": {
+  "on_topic": "yes",
+  "incident": "Noshki, Balochistan · 22 Nov · BLA attack kills FC personnel"
+ },
+ "R0121": {
+  "on_topic": "yes",
+  "incident": "Battagram, KP · 21 Nov · Seven killed in tribal clash over forest"
+ },
+ "R0122": {
+  "on_topic": "yes",
+  "incident": "Baragi, Lakki Marwat · 20 Nov · Suicide bomber killed, attack foiled"
+ },
+ "R0123": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0124": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0125": {
+  "on_topic": "yes",
+  "incident": "Pakistan · 21 Nov · Brother kills girl fleeing forced marriage"
+ },
+ "R0126": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0127": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0128": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0129": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0130": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0131": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0132": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0133": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0134": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0135": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0136": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0137": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0138": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0139": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0140": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0141": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0142": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0143": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0144": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 19 Nov · Three Afghans killed by gunmen"
+ },
+ "R0145": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0146": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0147": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 18 Nov · Police officer killed by militants"
+ },
+ "R0148": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0149": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 20 Nov · Police kill militant after attack on police van"
+ },
+ "R0150": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0151": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0152": {
+  "on_topic": "yes",
+  "incident": "Pakistan · 20 Nov · Pregnant woman dies after husband's assault"
+ },
+ "R0153": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0154": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0155": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0156": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0157": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0158": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0159": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0160": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 19 Nov · Boy killed in drone explosion"
+ },
+ "R0161": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0162": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0163": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0164": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0165": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0166": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0167": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0168": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0169": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0170": {
+  "on_topic": "yes",
+  "incident": "Spinkai, South Waziristan · 17 Nov · Security forces kill 10 militants"
+ },
+ "R0171": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0172": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0173": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0174": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0175": {
+  "on_topic": "yes",
+  "incident": "Karachi · 21 Nov · Son allegedly kills father"
+ },
+ "R0176": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0177": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0178": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0179": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0180": {
+  "on_topic": "yes",
+  "incident": "Rawalakot, Azad Kashmir · 17 Nov · Rangers officer killed, four gunmen shot dead"
+ },
+ "R0181": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0182": {
+  "on_topic": "yes",
+  "incident": "Kanganpur, Kasur · 22 Nov · Woman poisons five relatives"
+ },
+ "R0183": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 18 Nov · Police officer killed by militants"
+ },
+ "R0184": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0185": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0186": {
+  "on_topic": "yes",
+  "incident": "Pallandri, Azad Kashmir · 22 Nov · Police constable dies after gang firing"
+ },
+ "R0187": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0188": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0189": {
+  "on_topic": "yes",
+  "incident": "Karachi · 21 Nov · Son allegedly kills father"
+ },
+ "R0190": {
+  "on_topic": "yes",
+  "incident": "Kohat · 16 Nov · Police ambushed in gold-mining raid, militants killed"
+ },
+ "R0191": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0192": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0193": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0194": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0195": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0196": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0197": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0198": {
+  "on_topic": "yes",
+  "incident": "Battagram, KP · 21 Nov · Seven killed in tribal clash over forest"
+ },
+ "R0199": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0200": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0201": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0202": {
+  "on_topic": "yes",
+  "incident": "Karachi · 20 Nov · Policeman killed in attack on Punjab police team"
+ },
+ "R0203": {
+  "on_topic": "yes",
+  "incident": "Karachi · 16 Nov · Four-year-old girl dies after mother's beating"
+ },
+ "R0204": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0205": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0206": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0207": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0208": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0209": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0210": {
+  "on_topic": "yes",
+  "incident": "Northwest Pakistan · 19 Nov · Military raids kill 22 militants"
+ },
+ "R0211": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0212": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0213": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0214": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0215": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0216": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0217": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0218": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0219": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0220": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0221": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0222": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0223": {
+  "on_topic": "yes",
+  "incident": "Bannu · 18 Nov · Policeman abducted and killed"
+ },
+ "R0224": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0225": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0226": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0227": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0228": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0229": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0230": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 22 Nov · Three bodies found, lawmaker charged with murder"
+ },
+ "R0231": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0232": {
+  "on_topic": "yes",
+  "incident": "Lahore · 17 Nov · Woman murdered over divorce dispute"
+ },
+ "R0233": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0234": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0235": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0236": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0237": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0238": {
+  "on_topic": "yes",
+  "incident": "Lakki Marwat · 16 Nov · Two brothers shot dead over petty dispute"
+ },
+ "R0239": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0240": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0241": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0242": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0243": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0244": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0245": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 18 Nov · Police officer killed by militants"
+ },
+ "R0246": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0247": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0248": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0249": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0250": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0251": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0252": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0253": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0254": {
+  "on_topic": "yes",
+  "incident": "Karachi · 22 Nov · Mother and daughter murdered, suspect arrested"
+ },
+ "R0255": {
+  "on_topic": "yes",
+  "incident": "Noshki, Balochistan · 22 Nov · BLA attack kills FC personnel"
+ },
+ "R0256": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0257": {
+  "on_topic": "yes",
+  "incident": "Faisalabad · 16 Nov · Three robbers killed in police encounters"
+ },
+ "R0258": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0259": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0260": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0261": {
+  "on_topic": "yes",
+  "incident": "Hafizabad, Punjab · 20 Nov · Ex-minister Liaquat Abbas Bhatti strangled"
+ },
+ "R0262": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 20 Nov · 15-year-old extrajudicially killed by forces"
+ },
+ "R0263": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0264": {
+  "on_topic": "yes",
+  "incident": "Lakki Marwat, KP · 18 Nov · Police repel attack, kill four militants"
+ },
+ "R0265": {
+  "on_topic": "yes",
+  "incident": "Baragi, Lakki Marwat · 20 Nov · Suicide bomber killed, attack foiled"
+ },
+ "R0266": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0267": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0268": {
+  "on_topic": "yes",
+  "incident": "Karachi · 21 Nov · Son allegedly kills father"
+ },
+ "R0269": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0270": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0271": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0272": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0273": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0274": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0275": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0276": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0277": {
+  "on_topic": "yes",
+  "incident": "Chilhar, Sindh · 19 Nov · Father and son killed in land-dispute attack"
+ },
+ "R0278": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0279": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0280": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0281": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0282": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0283": {
+  "on_topic": "yes",
+  "incident": "Kohat, Khyber Pakhtunkhwa · 20 Nov · Three militants killed in joint operation"
+ },
+ "R0284": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0285": {
+  "on_topic": "yes",
+  "incident": "Battagram, KP · 21 Nov · Seven killed in tribal clash over forest"
+ },
+ "R0286": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0287": {
+  "on_topic": "yes",
+  "incident": "Landhi, Karachi · 19 Nov · Man kills wife and brother-in-law"
+ },
+ "R0288": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0289": {
+  "on_topic": "yes",
+  "incident": "Hafizabad, Punjab · 20 Nov · Ex-minister Liaquat Abbas Bhatti strangled"
+ },
+ "R0290": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0291": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0292": {
+  "on_topic": "yes",
+  "incident": "Karachi · 22 Nov · Attack on police station leaves dead"
+ },
+ "R0293": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0294": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0295": {
+  "on_topic": "yes",
+  "incident": "Rawalakot, Azad Kashmir · 17 Nov · Rangers officer killed, four gunmen shot dead"
+ },
+ "R0296": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0297": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 16 Nov · Former Afghan military officer killed"
+ },
+ "R0298": {
+  "on_topic": "yes",
+  "incident": "Sargodha · 17 Nov · Father-in-law kills two daughters-in-law and grandson"
+ },
+ "R0299": {
+  "on_topic": "yes",
+  "incident": "Matni, Peshawar · 22 Nov · Three militants killed in CTD operation"
+ },
+ "R0300": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 20 Nov · Police kill militant after attack on police van"
+ },
+ "R0301": {
+  "on_topic": "yes",
+  "incident": "Chuhng, Lahore · 21 Nov · Businessman Sohail Anjum Jajja killed by brother"
+ },
+ "R0302": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0303": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0304": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0305": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0306": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0307": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0308": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0309": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0310": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0311": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0312": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0313": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0314": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0315": {
+  "on_topic": "yes",
+  "incident": "Lakki Marwat, KP · 19 Nov · Four killed during police search operation"
+ },
+ "R0316": {
+  "on_topic": "yes",
+  "incident": "Khyber Pakhtunkhwa · 20 Nov · Police kill militant after attack on police van"
+ },
+ "R0317": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0318": {
+  "on_topic": "yes",
+  "incident": "Karachi · 21 Nov · Son allegedly kills father"
+ },
+ "R0319": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0320": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0321": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0322": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0323": {
+  "on_topic": "yes",
+  "incident": "Chuhng, Lahore · 21 Nov · Businessman Sohail Anjum Jajja killed by brother"
+ },
+ "R0324": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0325": {
+  "on_topic": "yes",
+  "incident": "Zhob, Balochistan · 18 Nov · Two children killed in roadside blast"
+ },
+ "R0326": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0327": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0328": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0329": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0330": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0331": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0332": {
+  "on_topic": "yes",
+  "incident": "Pallandri, Azad Kashmir · 22 Nov · Police constable dies after gang firing"
+ },
+ "R0333": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0334": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0335": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0336": {
+  "on_topic": "yes",
+  "incident": "Northwest Pakistan · 19 Nov · Military raids kill 22 militants"
+ },
+ "R0337": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0338": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0339": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0340": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0341": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0342": {
+  "on_topic": "yes",
+  "incident": "Mastung, Balochistan · 21 Nov · Security forces kill 15 militants in IBOs"
+ },
+ "R0343": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0344": {
+  "on_topic": "yes",
+  "incident": "Karak, KP · 16 Nov · Six terrorists killed in IBO"
+ },
+ "R0345": {
+  "on_topic": "yes",
+  "incident": "Operation Radd-ul-Fitna-III · 21 Nov · Two soldiers martyred, six militants killed"
+ },
+ "R0346": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0347": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0348": {
+  "on_topic": "yes",
+  "incident": "Islamabad · 17 Nov · Domestic worker Fatima Asghar killed"
+ },
+ "R0349": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0350": {
+  "on_topic": "yes",
+  "incident": "Balochistan · 19 Nov · Three Afghans killed by gunmen"
+ },
+ "R0351": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0352": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0353": {
+  "on_topic": "no",
+  "incident": null
+ },
+ "R0354": {
+  "on_topic": "yes",
+  "incident": "Lakki Marwat, KP · 18 Nov · Police repel attack, kill four militants"
+ },
+ "R0355": {
+  "on_topic": "yes",
+  "incident": "Bannu · 17 Nov · Police constable killed in targeted attack"
+ }
+}

@@ -18,7 +18,7 @@ _PRIV = ROOT / 'internal' / 'aliases.private.json'
 _P = json.loads(_PRIV.read_text()) if _PRIV.exists() else {}
 COLS, TEXT, PATHS = _P.get('columns', {}), _P.get('text', {}), _P.get('paths', {})
 
-NAMES = {'cloud_monitor': 'GDELT Cloud', 'cloud_filters': 'GDELT Cloud, place filters only', 'cloud_event': 'GDELT Cloud, Events only', 'gdelt_project': 'GDELT Project 2.0',
+NAMES = {'cloud_monitor': 'GDELT Cloud', 'cloud_filters': 'GDELT Cloud, first page of each list', 'cloud_event': 'GDELT Cloud, Events only', 'gdelt_project': 'GDELT Project 2.0',
          'web_a': 'AI web search A', 'web_b': 'AI web search B', 'web_c': 'AI web search C',
          'web_a_llm': 'Web search A + LLM', 'web_b_llm': 'Web search B + LLM', 'web_c_llm': 'Web search C + LLM'}
 COLOR = {'cloud_monitor': 'cloud', 'cloud_filters': 'cloud', 'cloud_event': 'cloud', 'gdelt_project': 'gdelt', 'web_a': 'wa', 'web_b': 'wb', 'web_c': 'wc',
@@ -61,7 +61,26 @@ def pct(x):
 
 # ------------------------------------------------------------------ data
 
-OCC = read_csv('results/occurrences.csv')
+def like_for_like(rows):
+    """Release 2026.11.1: conflict counts only lethal cases (`scope`), and GDELT Cloud is its blind country-week
+    lists under the same single review as every service (`cloud_pages`; first pages `cloud_calls2`; Events
+    `cloud_lethal_events`). On news GDELT Cloud is its first review. The first release's columns stay in the file."""
+    if not rows or 'scope' not in rows[0] or 'cloud_pages' not in rows[0]:
+        return rows
+    out = []
+    for r in rows:
+        r = dict(r)
+        if r['family'] == 'conflict':
+            if r.get('scope') != 'lethal':
+                continue
+            r.update(cloud_monitor=r['cloud_pages'], cloud_filters=r['cloud_calls2'], cloud_event=r['cloud_lethal_events'])
+        else:
+            r.update(cloud_monitor=r.get('cloud_filters', ''), cloud_filters='')
+        out.append(r)
+    return out
+
+
+OCC = like_for_like(read_csv('results/occurrences.csv'))
 FAM = {'conflict': [r for r in OCC if r['family'] == 'conflict'], 'non-conflict': [r for r in OCC if r['family'] != 'conflict']}
 # The headline GDELT Cloud column: place filters plus the second look and recheck when the results carry it.
 HEAD = 'cloud_monitor' if any(r.get('cloud_monitor', '') != '' for r in OCC) else 'cloud_filters'
@@ -354,6 +373,17 @@ a{color:var(--cloud)}
 '''
 
 
+def pooled_lede():
+    """The pooled headline, from results/pooled_compare.csv (pool_report.py): armed conflict, first juror."""
+    rows = read_csv('results/pooled_compare.csv') if path('results/pooled_compare.csv').exists() else []
+    r = next((x for x in rows if x['scope'] == 'armed_conflict' and x['service'] == 'cloud' and x['versus'] == 'web_b'), None)
+    if not r or not r['ratio']:
+        return ''
+    return (f'Asked who was killed in armed conflict in a country and week, GDELT Cloud returned {float(r["ratio"]):.1f}× as many distinct incidents '
+            f'as the best AI web search ({float(r["per_question"]):.1f} against {float(r["versus_per_question"]):.1f} a week, '
+            f'{int(r["questions_ahead"]) + int(r["questions_tied"]) + int(r["questions_behind"])} country-weeks, judged against every incident any service found). ')
+
+
 def page():
     cf, nc = FAM['conflict'], FAM['non-conflict']
     kc, nc_n = recall(cf, HEAD); kn, nn = recall(nc, HEAD)
@@ -409,11 +439,11 @@ def page():
         ('UCDP is the wrong denominator', 'It is independent of every service, public, and counts single deaths, so it is hard for everyone. Indepaz, SATP and five non-conflict lists are added, and every panel is reported on its own.'),
         ('UCDP is human-built and not real time', 'UCDP researchers code each event by hand from news, NGO and local sources; the Candidate release comes about a month after the events and the final dataset once a year. That makes it an independent yardstick, and a hard one.'),
         ('Web search was not given a fair chance', 'Each web service was asked in the query style its own documentation recommends, in its own news or date-window mode. A deeper-search configuration and a lookup mode, where web search is strongest, come next.'),
-        ('An AI judged it', 'Claude reviewers, a different model family from the one GDELT Cloud uses for coding. Records shuffled, sources hidden. A second reviewer re-judged 40 incidents: κ = 0.83. Every verdict is published.'),
+        ('An AI judged it', 'Claude reviewers, a different model family from the one GDELT Cloud uses for coding. Records shuffled, sources hidden. A second reviewer re-judged 40 incidents: κ = 0.83. The pooled run had two jurors from different labs judging every record, and a third model audited a sample blind. Every verdict is published.'),
         ('Searching after the fact', 'Web indexes gain follow-up coverage with hindsight, so web figures are, if anything, high. Timeliness is not measured.'),
         ('Why are the web services anonymous?', 'Their terms restrict publishing named comparisons. The scores describe how this kind of tool behaves on monitoring questions. To compare a service you use, plug it in: any web search service works through a small adapter.'),
         ('What is web search + LLM?', 'The pipeline a developer builds to imitate an event feed: run the search, hand the results page to an LLM, get back de-duplicated records with date, place, parties, deaths and sources. It cannot find what the search did not return.'),
-        ('GDELT Cloud depends on how you query it', 'It does. Place filters alone returned ' + pct(recall(FAM['conflict'], 'cloud_filters')[0] / max(1, recall(FAM['conflict'], 'cloud_filters')[1])) + ' of conflict incidents. A second look at the candidates the same calls returned, and a recheck of the incidents only web search found, raised that to ' + pct(recall(FAM['conflict'], HEAD)[0] / max(1, recall(FAM['conflict'], HEAD)[1])) + '. Both figures are published.'),
+        ('GDELT Cloud depends on how you query it', 'It does, which is why release 2026.11\'s conflict figures are withdrawn: they searched around each incident and gave GDELT Cloud alone a second look. Every figure here comes from country-week queries any customer would send, reviewed like everyone else\'s. Its first page of each list alone returned ' + pct(recall(FAM['conflict'], 'cloud_filters')[0] / max(1, recall(FAM['conflict'], 'cloud_filters')[1])) + ' of lethal conflict incidents, every page ' + pct(recall(FAM['conflict'], HEAD)[0] / max(1, recall(FAM['conflict'], HEAD)[1])) + '.'),
     ]
     qa_html = ''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q, a in qa)
 
@@ -425,9 +455,9 @@ def page():
 <div class="wrap">
 
 <header class="hero">
-  <span class="eyebrow">Release 2026.11 · {len(OCC)} reference occurrences</span>
+  <span class="eyebrow">Release 2026.11.1 · {len(OCC)} reference occurrences</span>
   <h1>EventBench</h1>
-  <p class="lede">Asked by place, time and topic, without naming the incident, GDELT Cloud returned {pct(kc / nc_n)} of {nc_n} conflict incidents and {pct(kn / nn)} of {nn} news and official items. The best AI web search API returned {pct(bk / bn)} and {pct(bkn / bnn)}.</p>
+  <p class="lede">{pooled_lede()}Against the reference lists, asked by place, time and topic without naming the incident, GDELT Cloud returned {pct(kc / nc_n)} of {nc_n} lethal conflict incidents and {pct(kn / nn)} of {nn} news and official items; the best AI web search API returned {pct(bk / bn)} and {pct(bkn / bnn)}.</p>
   <div class="legend">{legend}</div>
   <div class="board">
     <div class="panel"><h3>Conflict · {len(cf)} incidents</h3>{bars(cf, order)}</div>
