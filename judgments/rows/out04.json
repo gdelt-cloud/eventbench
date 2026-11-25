@@ -1,0 +1,22 @@
+{
+"R081":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Masked assailants beat US journalist in West Bank; no Israeli military force against the US."},
+"R082":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Ukrainian border guards chased man on Dniester; no bandit or assassination attempt in Russia."},
+"R083":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Opinion column; no Ukrainian violence in Moscow, only refinery strikes mentioned."},
+"R084":{"source":"ok","verdict":"partial","lethal":"yes","note":"Houthi missile strike on Al-Alam camp, Shabwa reported, but on Oct 19; at least 75 killed."},
+"R085":{"source":"ok","verdict":"partial","lethal":"no","note":"Police shot accused murder suspect in knee during evidence recovery; not a homicide."},
+"R086":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Page returned 403 twice."},
+"R087":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Man threatened shopkeeper with sword; no killing in Nagpur."},
+"R088":{"source":"ok","verdict":"supported","lethal":"no","note":"Teen shot 17-year-old student with traumatic pistol near Kitay-gorod; victim survived."},
+"R089":{"source":"ok","verdict":"supported","lethal":"no","note":"Gang attacked and beat motorist in Depok, tried to steal motorcycle; no deaths."},
+"R090":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Article reports government statement on Taizz siege; no civilian violence act."},
+"R091":{"source":"ok","verdict":"supported","lethal":"yes","note":"Drone blast killed woman in Krasnaya Yaruga, Belgorod; launcher unnamed."},
+"R092":{"source":"ok","verdict":"supported","lethal":"no","note":"Woman's relative apparently ran over Air-e technician in La Concepcion; injured only."},
+"R093":{"source":"ok","verdict":"partial","lethal":"yes","note":"Russia struck Kyiv with missile on Oct 22, not Moscow; two killed."},
+"R094":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Fetch tool refused the Guardian domain twice."},
+"R095":{"source":"ok","verdict":"partial","lethal":"no","note":"Settlers attacked farmers near Abu Falah, not by a village or in Turmusayya."},
+"R096":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Man sprayed fuel on car; no violence reported."},
+"R097":{"source":"ok","verdict":"partial","lethal":"yes","note":"Armed attack near Hebron wounded five Israelis; two attackers killed; not Nablus, not refugees."},
+"R098":{"source":"ok","verdict":"supported","lethal":"yes","note":"Artillery shell hit central Sittwe on Oct 23; shooter unconfirmed; 2-3 civilians killed."},
+"R099":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Fetch tool refused the domain twice."},
+"R100":{"source":"ok","verdict":"supported","lethal":"no","note":"Woman stabbed male partner in arm and shoulder in Porto Velho; he survived."}
+}

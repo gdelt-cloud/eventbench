@@ -1,0 +1,22 @@
+{
+"R121":{"source":"unavailable","verdict":"","lethal":"","note":"403 twice"},
+"R122":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Cabinet meeting on Iran options only; no force used against Iran's president."},
+"R123":{"source":"ok","verdict":"supported","lethal":"no","note":"Man stabbed in chest at Boa Vista bar; attempted homicide, victim alive."},
+"R124":{"source":"ok","verdict":"partial","lethal":"no","note":"Palestinians stoned Israeli shepherds near Sebastia, West Bank, not Gaza."},
+"R125":{"source":"ok","verdict":"partial","lethal":"no","note":"Teen fired shots with less-lethal weapon and self-harmed; no one else hurt."},
+"R126":{"source":"ok","verdict":"supported","lethal":"yes","note":"FPV drone attack killed local man in Zamostye, Belgorod; attributed to Ukraine."},
+"R127":{"source":"ok","verdict":"supported","lethal":"no","note":"Inpec guard shot four times in Armenia; attackers unknown; no death reported."},
+"R128":{"source":"unavailable","verdict":"","lethal":"","note":"fetch blocked twice"},
+"R129":{"source":"ok","verdict":"partial","lethal":"yes","note":"Hina Javed killed in Lahore on Aug 20; article dated Oct 23."},
+"R130":{"source":"ok","verdict":"supported","lethal":"yes","note":"Rizwan allegedly killed father Naseer Ahmed in Karachi, took head."},
+"R131":{"source":"unavailable","verdict":"","lethal":"","note":"domain check rate-limited twice"},
+"R132":{"source":"ok","verdict":"supported","lethal":"no","note":"Extremists stoned Rebbe's car leaving Beit Shemesh wedding Sunday evening; no injuries."},
+"R133":{"source":"unavailable","verdict":"","lethal":"","note":"403 forbidden"},
+"R134":{"source":"unavailable","verdict":"","lethal":"","note":"fetch blocked"},
+"R135":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Houthis attacked Saudi airports; no Saudi force against Pakistanis."},
+"R136":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Israel raised alert over possible Hamas attack; no attack reported."},
+"R137":{"source":"ok","verdict":"supported","lethal":"no","note":"Two men on motorcycle shot at Ternera prison gate; no one hurt."},
+"R138":{"source":"ok","verdict":"supported","lethal":"yes","note":"Sniper attributed to Houthis killed woman near Jabal Sabr, Taiz."},
+"R139":{"source":"ok","verdict":"unsupported","lethal":"yes","note":"Russian forces shelled Donetsk Oblast killing civilians; row reverses actor and place."},
+"R140":{"source":"unavailable","verdict":"","lethal":"","note":"domain check rate-limited twice"}
+}

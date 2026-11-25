@@ -1,0 +1,22 @@
+{
+"R101":{"source":"ok","verdict":"supported","lethal":"no","note":"Unknown attacker stabbed Australian in Laureles Oct 11; victim survived, guarded condition."},
+"R102":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Settlers assaulted Palestinians in West Bank; no conventional military force; place wrong."},
+"R103":{"source":"ok","verdict":"unsupported","lethal":"no","note":"No US military force against Palestinians reported; only commentary and settler attack mention."},
+"R104":{"source":"ok","verdict":"supported","lethal":"no","note":"Woman stabbed 32-year-old man, Rua Petrolina, Porto Velho, Oct 13; no death."},
+"R105":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Article about Pakistan court case; only a sidebar teaser on a call for strike on Iran."},
+"R106":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"HTTP 403 twice."},
+"R107":{"source":"ok","verdict":"partial","lethal":"yes","note":"Russian ballistic missile attack on Kyiv, one killed; row place Russia is wrong."},
+"R108":{"source":"ok","verdict":"partial","lethal":"no","note":"Israeli troop presence in Syria reported by Turkish envoy; place Sufa, Israel wrong; no specific new occupation."},
+"R109":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"HTTP 403 twice."},
+"R110":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Saudi-led coalition air support for Yemeni government against Houthis; no Saudi occupation of Yemen reported."},
+"R111":{"source":"ok","verdict":"supported","lethal":"yes","note":"Houthi drone struck village in Jabal Sabir Oct 27, killing a child."},
+"R112":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Article reports missile attack on Oryol facility, not artillery fighting at Denisov, Volgograd."},
+"R113":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain safety check rate-limited twice."},
+"R114":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain safety check rate-limited twice."},
+"R115":{"source":"ok","verdict":"unsupported","lethal":"no","note":"TikTok user threatened to kill De la Espriella; no attack occurred."},
+"R116":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain safety check rate-limited twice."},
+"R117":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain safety check rate-limited twice."},
+"R118":{"source":"ok","verdict":"supported","lethal":"yes","note":"Police operation in Karak Oct 22 killed two militants and four policemen; place roughly right."},
+"R119":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain safety check rate-limited twice."},
+"R120":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain safety check rate-limited twice."}
+}

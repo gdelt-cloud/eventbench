@@ -1,0 +1,22 @@
+{
+"R141":{"source":"unavailable","verdict":"","lethal":"no","note":"fetch failed twice (socket closed)"},
+"R142":{"source":"ok","verdict":"supported","lethal":"yes","note":"Unidentified assailants beat policeman to death in Bannu, Khyber Pakhtunkhwa, 18 Nov."},
+"R143":{"source":"unavailable","verdict":"","lethal":"no","note":"fetch blocked twice"},
+"R144":{"source":"ok","verdict":"supported","lethal":"no","note":"53-year-old woman shot and seriously injured at house in Tur'an, Saturday evening; shooter unknown."},
+"R145":{"source":"ok","verdict":"supported","lethal":"yes","note":"Colombian president says forces air-struck ELN in Cauca, nine killed."},
+"R146":{"source":"unavailable","verdict":"","lethal":"no","note":"fetch blocked/rate-limited twice"},
+"R147":{"source":"unavailable","verdict":"","lethal":"no","note":"fetch blocked twice"},
+"R148":{"source":"ok","verdict":"partial","lethal":"no","note":"Romania F-16s shot down two drones over Black Sea on Oct 17; not a fighter jet, not Russia."},
+"R149":{"source":"unavailable","verdict":"","lethal":"no","note":"fetch blocked twice"},
+"R150":{"source":"ok","verdict":"partial","lethal":"no","note":"Brothers-in-law stabbed man, attempted homicide, in Rorainopolis not Boa Vista, on the 17th; survived."},
+"R151":{"source":"unavailable","verdict":"","lethal":"no","note":"rate-limited twice"},
+"R152":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Page has only headline: Fidan says Mecca Agreement is not an attack agreement; no violence reported."},
+"R153":{"source":"unavailable","verdict":"","lethal":"no","note":"rate-limited twice"},
+"R154":{"source":"unavailable","verdict":"","lethal":"no","note":"rate-limited twice"},
+"R155":{"source":"unavailable","verdict":"","lethal":"no","note":"rate-limited twice"},
+"R156":{"source":"unavailable","verdict":"","lethal":"no","note":"rate-limited twice"},
+"R157":{"source":"ok","verdict":"partial","lethal":"no","note":"Unidentified men abducted Tanzanian activist in Machakos, Kenya; not reported as Tanzanian state acting on Kenya."},
+"R158":{"source":"unavailable","verdict":"","lethal":"no","note":"rate-limited twice"},
+"R159":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Assailants killed a history-sheeter in Jaipur with sticks and axe; no military force."},
+"R160":{"source":"ok","verdict":"supported","lethal":"no","note":"Boyfriend Pedro Henrique suspected of shooting Clear Medeiros in face in Parnagua on Oct 16; she survived."}
+}

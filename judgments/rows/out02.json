@@ -1,0 +1,22 @@
+{
+"R041":{"source":"ok","verdict":"partial","lethal":"no","note":"Settlers attacked Burin village, tried arson, forces fired tear gas; place is West Bank, not Israel."},
+"R042":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Fetch blocked twice."},
+"R043":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Fetch blocked twice."},
+"R044":{"source":"ok","verdict":"partial","lethal":"yes","note":"Security forces killed the commander in Qila Saifullah; row has actors reversed and wrong place."},
+"R045":{"source":"ok","verdict":"partial","lethal":"yes","note":"Consulate alleges police tortured Nigerian who died in custody 9 Oct; unconfirmed, date offset."},
+"R046":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Election feature; ethnic cleansing only quoted commentary, no act reported; Haifa is speaker's affiliation."},
+"R047":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"HTTP 403 twice."},
+"R048":{"source":"ok","verdict":"supported","lethal":"no","note":"Suspect fired at off-duty officers near landfill off MA-226; no injuries or deaths."},
+"R049":{"source":"ok","verdict":"supported","lethal":"yes","note":"Gang fired on police in Pallandri; Constable Arbab died next day."},
+"R050":{"source":"ok","verdict":"supported","lethal":"no","note":"Two men on motorbike threw grenade in Caribe Verde; two wounded, none killed."},
+"R051":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Fetch blocked."},
+"R052":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain check rate-limited."},
+"R053":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain check rate-limited."},
+"R054":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"HTTP 403."},
+"R055":{"source":"ok","verdict":"partial","lethal":"yes","note":"Army operation killed 23 EMC dissidents in Guaviare; actor missing, target is dissidents, date unstated."},
+"R056":{"source":"ok","verdict":"supported","lethal":"yes","note":"Army clashed with Front 36 in San Andres de Cuerquia on 12 Sept; one killed."},
+"R057":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain check rate-limited."},
+"R058":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Commemorates Oct 2023 PIJ raid from Lebanon on Israeli soldiers; not Israel attacking Palestinians in 2026."},
+"R059":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain check rate-limited."},
+"R060":{"source":"unavailable","verdict":"unavailable","lethal":"no","note":"Domain check rate-limited."}
+}

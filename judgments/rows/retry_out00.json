@@ -1,0 +1,98 @@
+{
+ "R010": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R012": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R013": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R017": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R018": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R020": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R022": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R023": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R035": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R042": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R043": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R047": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R051": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ },
+ "R052": {
+  "source": "ok",
+  "verdict": "supported",
+  "lethal": "yes",
+  "note": "Iran hanged Hemati and Nikandish 30 Sep over Mashhad January unrest."
+ },
+ "R053": {
+  "source": "ok",
+  "verdict": "supported",
+  "lethal": "no",
+  "note": "Two hooded men shot mother Edilene and son at home in Rosario; both survived."
+ },
+ "R054": {
+  "source": "unavailable",
+  "verdict": "",
+  "lethal": "no",
+  "note": "article failed to load after retry"
+ }
+}

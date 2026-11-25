@@ -1,0 +1,16 @@
+{
+"R153": {"source": "ok", "verdict": "supported", "lethal": "no", "note": "Teenage former pupil stabbed six-year-old girl at Umhlali school; critically injured, not killed."},
+"R154": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Settlers attacked farmers and burned trees; no conventional military force, actor 'village' wrong."},
+"R155": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Article on Palantir Maven assurances; no military force against Russia reported."},
+"R156": {"source": "ok", "verdict": "supported", "lethal": "no", "note": "Unidentified group attacked Persib U-18 bus at Batang rest area, looted bags, assaulted officer."},
+"R158": {"source": "ok", "verdict": "supported", "lethal": "yes", "note": "Two groups clashed over sarpanch election in Barauli; man shot dead."},
+"R165": {"source": "unavailable", "verdict": "unsupported", "lethal": "no", "note": "Fetch failed twice."},
+"R168": {"source": "unavailable", "verdict": "unsupported", "lethal": "no", "note": "HTTP 403 twice."},
+"R175": {"source": "ok", "verdict": "supported", "lethal": "yes", "note": "Houthi militia clashed with forces on Al-Sabihah front, Lahij; commander killed."},
+"R176": {"source": "ok", "verdict": "partial", "lethal": "yes", "note": "BLA drone attacks on Pakistani army in Balochistan, but incidents dated Nov 5-14, not Nov 17."},
+"R182": {"source": "unavailable", "verdict": "unsupported", "lethal": "no", "note": "Fetch failed twice."},
+"R184": {"source": "unavailable", "verdict": "unsupported", "lethal": "no", "note": "HTTP 403 twice."},
+"R196": {"source": "unavailable", "verdict": "unsupported", "lethal": "no", "note": "Fetch failed twice."},
+"R197": {"source": "unavailable", "verdict": "unsupported", "lethal": "no", "note": "HTTP 403 twice."},
+"R200": {"source": "unavailable", "verdict": "unsupported", "lethal": "no", "note": "Fetch failed twice."}
+}

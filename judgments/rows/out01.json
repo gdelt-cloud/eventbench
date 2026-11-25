@@ -1,0 +1,22 @@
+{
+"R021":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Opinion column; mentions Rubio visit only, no US military force in Barranquilla."},
+"R022":{"source":"unavailable","verdict":"","lethal":"","note":"Article would not load."},
+"R023":{"source":"unavailable","verdict":"","lethal":"","note":"Article would not load."},
+"R024":{"source":"ok","verdict":"supported","lethal":"no","note":"Armed attack on bus near Esmita River on Oct 21; no deaths reported."},
+"R025":{"source":"ok","verdict":"partial","lethal":"no","note":"Car explosion injured man and son, criminal motive; article dated Oct 6, victim named via Yediot."},
+"R026":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Article reports Israeli attacks on Lebanon; no Lebanese military force against Israel."},
+"R027":{"source":"ok","verdict":"supported","lethal":"no","note":"Photo caption: loyalist fighter firing machine gun at Houthis in Taiz; no casualties."},
+"R028":{"source":"ok","verdict":"supported","lethal":"no","note":"Large dog bit and shook small dog in Fusagasuga; pet survived."},
+"R029":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Only civil infrastructure and energy facility damage reported; no business target."},
+"R030":{"source":"ok","verdict":"partial","lethal":"yes","note":"Israeli forces, not Palestinians, fired on civilians around Bureij; one reportedly shot dead."},
+"R031":{"source":"ok","verdict":"unsupported","lethal":"no","note":"No Ukrainian artillery or tank fighting at Moscow; only refinery strikes mentioned generally."},
+"R032":{"source":"ok","verdict":"supported","lethal":"no","note":"Hussain allegedly beat 13-year-old Abdullah in Nawab Town, Lahore; leg fractured, no death."},
+"R033":{"source":"ok","verdict":"supported","lethal":"yes","note":"Disguised assailants shot SACP candidate Fipaza at home in Mbhashe; killed."},
+"R034":{"source":"ok","verdict":"partial","lethal":"no","note":"18-year-old woman set police car on fire, Balashov, Oct 19; arson not homicide."},
+"R035":{"source":"unavailable","verdict":"","lethal":"","note":"Article would not load."},
+"R036":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Netanyahu warning and contingency plan only; no Israeli military action reported."},
+"R037":{"source":"ok","verdict":"supported","lethal":"no","note":"Settlers beat Washington Post photographer near Ramallah during olive harvest; injuries only."},
+"R038":{"source":"ok","verdict":"supported","lethal":"no","note":"Mother suspected of attempted infanticide, newborn in hospital bin Oct 21; baby's fate unstated."},
+"R039":{"source":"ok","verdict":"supported","lethal":"yes","note":"Crowd of about 50 beat foreign national to death in Durban."},
+"R040":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Settlers beat reporter near Ramallah, not conventional force in Gaza; no deaths."}
+}

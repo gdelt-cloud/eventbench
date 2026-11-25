@@ -4,7 +4,7 @@ title: "GDELT Cloud EventBench: recall, precision and structure of event records
 type: dataset
 authors:
   - name: "GDELT Cloud"
-version: "2026.11.1"
+version: "2026.11.2"
 date-released: "2026-11-25"
 license: CC-BY-4.0
 url: "https://gdeltcloud.com/benchmarks/events"

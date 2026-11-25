@@ -1,0 +1,22 @@
+{
+"R001":{"source":"ok","verdict":"partial","lethal":"yes","note":"Israeli strikes killed Hamas members in Gaza; row reverses actor and target."},
+"R002":{"source":"ok","verdict":"supported","lethal":"no","note":"Street brawl after crash at that intersection; early Sept 14; no deaths."},
+"R003":{"source":"ok","verdict":"partial","lethal":"no","note":"Elderly man set grassland fire in San Cristobal; arson, no violence against people."},
+"R004":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Opinion piece; only historical Oct 7 2023 references, no current assault."},
+"R005":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Article on Zelensky territory talks; no Russian unconventional violence reported."},
+"R006":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Houthi missiles intercepted over Riyadh/Khamis Mushait; no Saudi artillery fighting at Mecca."},
+"R007":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Ukraine drone funding article from 2025; no artillery or tank fighting at Moscow."},
+"R008":{"source":"ok","verdict":"supported","lethal":"yes","note":"TNI clashed with OPM at Frambu river, Maybrat, Oct 9; OPM members killed."},
+"R009":{"source":"ok","verdict":"supported","lethal":"yes","note":"Ukrainian forces struck civilian bus near Khalturino, Bryansk; one woman killed."},
+"R010":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"Page would not load."},
+"R011":{"source":"ok","verdict":"supported","lethal":"yes","note":"Suspected Boko Haram/ISWAP killed 15 firewood collectors in Marte, Borno, about Oct 1."},
+"R012":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"403 Forbidden twice."},
+"R013":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"Page would not load."},
+"R014":{"source":"ok","verdict":"supported","lethal":"no","note":"Suspects petrol-bombed Anti-Gang Unit officer's home, Eerste River, Oct 19; no officer killed."},
+"R015":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Raids and detentions near Bethlehem reported; no territory occupation, no killings."},
+"R016":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Obituary of banker whistleblower; no military force reported."},
+"R017":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"Page would not load."},
+"R018":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"403 Forbidden twice."},
+"R019":{"source":"ok","verdict":"supported","lethal":"yes","note":"Pakistani forces fought militants in Khyber Pakhtunkhwa; 22 militants killed; place only country-level."},
+"R020":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"403 Forbidden twice."}
+}

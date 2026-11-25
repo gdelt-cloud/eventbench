@@ -1,0 +1,22 @@
+{
+"R161":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Drug-control raids on chemists; no military force reported."},
+"R162":{"source":"ok","verdict":"supported","lethal":"no","note":"Rent dispute turned into stone-throwing clash at Saunkh Adda; injuries, no deaths."},
+"R163":{"source":"ok","verdict":"supported","lethal":"no","note":"Man shot dogs in Nakhodka, one dog died; no people killed. Date Oct 23."},
+"R164":{"source":"ok","verdict":"supported","lethal":"no","note":"Security guard machete attack injured three in Villanueva; no deaths."},
+"R165":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"Fetch blocked twice."},
+"R166":{"source":"ok","verdict":"partial","lethal":"no","note":"Assault reported, but victim was a man from Assam, not Bhalukpong; alleged only."},
+"R167":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Man arrested for killing wife; no military force."},
+"R168":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"HTTP 403 twice."},
+"R169":{"source":"ok","verdict":"supported","lethal":"no","note":"Man hit guard twice with stone in Modelia; no death reported."},
+"R170":{"source":"ok","verdict":"supported","lethal":"yes","note":"Air strike on ELN camp in Nariño Oct 22; 8 killed."},
+"R171":{"source":"ok","verdict":"supported","lethal":"yes","note":"Ukrainian drone hit minibus at Borshchovo; two men killed."},
+"R172":{"source":"ok","verdict":"supported","lethal":"yes","note":"Brother Jamshed allegedly stabbed Sohail in Lahore, who died; exact date unstated."},
+"R173":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Dayr Dibwan raid by ground forces; no aerial weapons mentioned."},
+"R174":{"source":"ok","verdict":"supported","lethal":"no","note":"Two motorcycle gunmen fired at prison facade; no injuries."},
+"R175":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"Domain check rate-limited."},
+"R176":{"source":"unavailable","verdict":"unsupported","lethal":"no","note":"Domain check rate-limited."},
+"R177":{"source":"ok","verdict":"supported","lethal":"no","note":"Homeless man beaten with beam while sleeping; survived."},
+"R178":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Attack was on CRPF post in Kulgam; Pahalgam only a historical mention."},
+"R179":{"source":"ok","verdict":"partial","lethal":"no","note":"Settler attacks in West Bank reported, not in Jerusalem; no deaths."},
+"R180":{"source":"ok","verdict":"partial","lethal":"yes","note":"Palestinians ambushed soldiers in Hebron; row reverses roles and place; two soldiers killed."}
+}

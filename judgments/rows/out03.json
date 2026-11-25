@@ -1,0 +1,22 @@
+{
+"R061": {"source": "ok", "verdict": "partial", "lethal": "no", "note": "Settlers attacked a home in al-Lubban al-Sharqiya, Nablus area; method vague, not clearly military force; no deaths."},
+"R062": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Article reports settlers stole a car and falsely claimed being run over; no Palestinian attack established."},
+"R063": {"source": "unavailable", "verdict": "unavailable", "lethal": "no", "note": "lexpress.fr could not be fetched twice."},
+"R064": {"source": "unavailable", "verdict": "unavailable", "lethal": "no", "note": "g1.globo.com could not be fetched twice."},
+"R065": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Workshop employee hit TV reporter and smashed phone in Reutov; no firearms fight, Moscow not a party."},
+"R066": {"source": "ok", "verdict": "supported", "lethal": "yes", "note": "Pakistan military clashes with militants in Gwadar, Balochistan; 10 militants and a civilian killed."},
+"R067": {"source": "ok", "verdict": "supported", "lethal": "yes", "note": "ISPR operation in Zarkani, DI Khan on Oct 24; 6 militants and 2 soldiers killed."},
+"R068": {"source": "unavailable", "verdict": "unavailable", "lethal": "no", "note": "timesofindia.indiatimes.com could not be fetched twice."},
+"R069": {"source": "ok", "verdict": "supported", "lethal": "no", "note": "Passenger spat at and struck bus driver in Afula on Oct 11; no deaths."},
+"R070": {"source": "unavailable", "verdict": "unavailable", "lethal": "no", "note": "channel3000.com returned HTTP 429 twice."},
+"R071": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Man only threatened mother and daughter with a knife; restrained, nobody hurt."},
+"R072": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Article is about a possible Hamas attack; no Israeli violence against Hamas reported."},
+"R073": {"source": "ok", "verdict": "supported", "lethal": "no", "note": "Front 36 dissidents and Clan del Golfo clash with explosive drones in Briceno; displacement, no deaths."},
+"R074": {"source": "ok", "verdict": "supported", "lethal": "no", "note": "Partner stabbed pregnant woman in Maceio on Oct 19; she survived."},
+"R075": {"source": "ok", "verdict": "partial", "lethal": "yes", "note": "Airstrikes killed 30+ Houthis in Taiz south, but attacker unnamed and date only '3 weeks ago'."},
+"R076": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Iranian official recounts earlier 2025/2026 war strikes on Iran; not an Oct 11 act, place not Israel."},
+"R077": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Sharif was shot dead by unidentified attackers in Rampur; police not reported as perpetrators."},
+"R078": {"source": "ok", "verdict": "supported", "lethal": "no", "note": "Three men stabbed construction helper outside Boa Vista bus station on the 9th; he survived."},
+"R079": {"source": "unavailable", "verdict": "unavailable", "lethal": "no", "note": "timesofindia.indiatimes.com safety check rate-limited twice."},
+"R080": {"source": "unavailable", "verdict": "unavailable", "lethal": "no", "note": "eurasiareview.com returned HTTP 403 twice."}
+}

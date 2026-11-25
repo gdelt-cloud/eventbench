@@ -1,0 +1,18 @@
+{
+"R057": {"source": "ok", "verdict": "supported", "lethal": "no", "note": "Machete-armed youths robbing and attacking residents in Industriel district, Kananga; no deaths reported."},
+"R059": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Ethnic cleansing only appears as a B'Tselem warning; no Israeli act of that kind reported."},
+"R060": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "US MOAB strike on Iran is only planned, not used; place Israel also wrong."},
+"R063": {"source": "unavailable", "verdict": "", "lethal": "", "note": "WebFetch refused the domain twice."},
+"R064": {"source": "unavailable", "verdict": "", "lethal": "", "note": "WebFetch refused the domain twice."},
+"R068": {"source": "unavailable", "verdict": "", "lethal": "", "note": "WebFetch refused the domain twice."},
+"R070": {"source": "unavailable", "verdict": "", "lethal": "", "note": "Page returned 404 twice."},
+"R079": {"source": "unavailable", "verdict": "", "lethal": "", "note": "WebFetch refused the domain twice."},
+"R080": {"source": "unavailable", "verdict": "", "lethal": "", "note": "HTTP 403 twice."},
+"R086": {"source": "unavailable", "verdict": "", "lethal": "", "note": "HTTP 403 twice."},
+"R094": {"source": "unavailable", "verdict": "", "lethal": "", "note": "WebFetch refused the domain twice."},
+"R099": {"source": "unavailable", "verdict": "", "lethal": "", "note": "WebFetch refused the domain twice."},
+"R106": {"source": "unavailable", "verdict": "", "lethal": "", "note": "HTTP 403 twice."},
+"R109": {"source": "unavailable", "verdict": "", "lethal": "", "note": "HTTP 403 twice."},
+"R113": {"source": "unavailable", "verdict": "", "lethal": "", "note": "WebFetch refused the domain twice."},
+"R114": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Article is about hospital generator fuel shortage; Israeli attacks mentioned only as background totals."}
+}

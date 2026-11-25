@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026.11.2, 25 November 2026
+
+**Coded rows against their article.** How often a coded event row is right against the article it was coded from, for
+GDELT Cloud and the GDELT Project 2.0, on one row test (`ROW_JUDGING.md`).
+
+- **Same articles:** every row either system coded from the 149 readable articles of the accuracy audit. GDELT Cloud's
+  row was right 88% of the time (131 of 149); the GDELT Project's rows 9% (23 of 259), with 31% more partly right. The
+  GDELT Project coded no row from 51 of the articles.
+- **Conflict rows, fully blind (new):** 100 rows from each system drawn at random from the pooled run's 40 country-weeks,
+  mixed, each shown with its article and nothing to say which system coded it. GDELT Cloud 81% right (65 of 80
+  readable), the GDELT Project 5% (4 of 74), with 31% more partly right.
+- **Corrected:** METHOD.md said the GDELT Project's rows from the audit's articles were scored. They were judged in release
+  2026.11 and never published; they are now (`results/rows_same_articles.csv`). The 2026.11.1 entry below listed a GDELT
+  Project reference-list figure (29%) that the release had withdrawn; it is removed.
+- **Files:** `ROW_JUDGING.md`, `judgments/rows/`, `results/rows_same_articles.csv`, `results/rows_conflict.csv`.
+
 ## 2026.11.1, 25 November 2026
 
 **The conflict comparison, like for like.** Release 2026.11's conflict figures are withdrawn and replaced. See the
@@ -25,7 +41,7 @@ corrected entry below for what was wrong.
   armed-conflict incidents only GDELT Cloud found, 79% of those only web search found and 63% of those only the GDELT
   Project found; 56%, 75% and 64% for criminal homicide.
 - **Reference-list recall, like for like:** lethal incidents only (480; `scope` in `results/occurrences.csv`), GDELT
-  Cloud's blind country-week lists under the same single review (`cloud_pages`): GDELT Cloud 32%, GDELT Project 29%, web
+  Cloud's blind country-week lists under the same single review (`cloud_pages`): GDELT Cloud 32%, web
   search B 27%, A 21%, C 11%. One call each: GDELT Cloud 23%, web search B 27%.
 - **Unchanged:** news recall (GDELT Cloud 93% on the first review, web search B 72%) and accuracy (86% of 149 audited
   Events right against their source).

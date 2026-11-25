@@ -1,0 +1,22 @@
+{
+"R181":{"source":"ok","verdict":"supported","lethal":"yes","note":"Houthi-laid landmine killed a civilian in Nati, Al Bayda."},
+"R182":{"source":"unavailable","verdict":"","lethal":"no","note":"Fetch failed twice."},
+"R183":{"source":"ok","verdict":"supported","lethal":"no","note":"Lawyer Niazi hit judge Miran in Rawalpindi chamber; no deaths."},
+"R184":{"source":"unavailable","verdict":"","lethal":"no","note":"403 on both attempts."},
+"R185":{"source":"ok","verdict":"supported","lethal":"no","note":"Two men choked and threw down Lebanese woman in robbery attempt; no death."},
+"R186":{"source":"ok","verdict":"partial","lethal":"no","note":"Settlers fired at shepherds in Al-Maniya, West Bank; receiver 'Israel' wrong."},
+"R187":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Opinion on Oct 7, 2023; no Israeli assault in Gaza reported."},
+"R188":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Settler attacks on olive farmers; no US force against Israelis."},
+"R189":{"source":"ok","verdict":"partial","lethal":"no","note":"Settlers attacked Jaba Bedouin community; actor labelled Jerusalem, wrong."},
+"R190":{"source":"ok","verdict":"supported","lethal":"yes","note":"Kamikaze drone hit car in Klimovo, killing a 19-year-old."},
+"R191":{"source":"ok","verdict":"supported","lethal":"yes","note":"Unidentified gunmen killed three in Santander de Quilichao, Cauca."},
+"R192":{"source":"ok","verdict":"supported","lethal":"yes","note":"Boko Haram shot farmers in Borno; 15-18 killed."},
+"R193":{"source":"ok","verdict":"partial","lethal":"no","note":"Settlers fired at olive pickers in West Bank, not Gaza; target mislabelled."},
+"R194":{"source":"ok","verdict":"partial","lethal":"yes","note":"Forces killed two LeT militants in Kulgam, Kashmir; place Pakistan wrong."},
+"R195":{"source":"ok","verdict":"partial","lethal":"no","note":"Settlers attacked photojournalist in West Bank; not Israel state, not Tel Aviv."},
+"R196":{"source":"unavailable","verdict":"","lethal":"no","note":"Domain fetch blocked."},
+"R197":{"source":"unavailable","verdict":"","lethal":"no","note":"403 on both attempts."},
+"R198":{"source":"ok","verdict":"supported","lethal":"no","note":"Fare evaders stoned MIO driver in Cali; date unstated, no death."},
+"R199":{"source":"ok","verdict":"unsupported","lethal":"no","note":"Houthi-government fighting in Lahj; Djibouti not involved."},
+"R200":{"source":"unavailable","verdict":"","lethal":"no","note":"Domain fetch blocked."}
+}

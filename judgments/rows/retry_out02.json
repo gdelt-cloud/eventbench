@@ -1,0 +1,18 @@
+{
+"R116": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked twice"},
+"R117": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked twice"},
+"R119": {"source": "ok", "verdict": "supported", "lethal": "yes", "note": "FLA says Malian army/Africa Corps drones hit Hassi Laghdaf, killing 13 civilians; claim unconfirmed."},
+"R120": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Government bombing in Guaviare killed 20 guerrillas; not an armed group attacking civilians."},
+"R121": {"source": "unavailable", "verdict": "", "lethal": "", "note": "HTTP 403 twice"},
+"R128": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked twice"},
+"R131": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked twice"},
+"R133": {"source": "unavailable", "verdict": "", "lethal": "", "note": "HTTP 403 twice"},
+"R134": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked twice"},
+"R140": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked twice"},
+"R141": {"source": "unavailable", "verdict": "", "lethal": "", "note": "socket closed twice"},
+"R143": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked"},
+"R146": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked twice"},
+"R147": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked"},
+"R149": {"source": "unavailable", "verdict": "", "lethal": "", "note": "fetch blocked"},
+"R151": {"source": "ok", "verdict": "unsupported", "lethal": "no", "note": "Article on US deportation statistics; no assassination in Gaza; Kirk killing only a passing mention."}
+}

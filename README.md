@@ -13,6 +13,8 @@
 
 **The full results, with charts and every figure explained, are at [gdeltcloud.com/benchmarks/events](https://gdeltcloud.com/benchmarks/events).**
 
+> **Release 2026.11.2, 25 November 2026.** Adds how often a coded event row is right against its own article: on the same 149 articles, 88% of GDELT Cloud's rows against 9% of the GDELT Project's; on a fully blind conflict sample, 81% against 5%. See [Precision](#precision-of-what-each-service-returned-how-much-was-right).
+>
 > **Release 2026.11.1, 25 November 2026 (corrected).** The conflict comparison first published in release 2026.11 ("2.1×") is withdrawn: GDELT Cloud's searches used each incident's place and dates, it alone got a second look and a recheck, and incidents with no deaths were counted. Every conflict figure is now like for like, and a new run judges every service against every lethal incident any of them found (the pooled truth, [METHOD.md](METHOD.md#pooled-truth-release-2026111)). **Headline:** asked who was killed in attacks, clashes or violence in 40 country-weeks across 23 countries, GDELT Cloud returned **2.5×** as many distinct armed-conflict incidents as the best AI web search (9.7 against 3.9 a week; second juror 11.2 against 4.2), ahead in 27 of the 40 weeks; against the raw GDELT Project event stream it was about level on armed conflict (9.7 against 7.6; second juror 11.2 against 10.9) from about half as many records, and ahead on all lethal violence (25.9 against 15.5). Against the reference lists alone, counting only lethal incidents: 32% against 27% for the best AI web search. News results are unchanged: 93% against 72%. See [CHANGELOG.md](CHANGELOG.md).
 
 
@@ -149,6 +151,16 @@ Two different checks. Accuracy reads the source article and checks every field. 
 | Service | What was checked | Fully right | Right action |
 |---|---|---:|---:|
 | GDELT Cloud Events | 200 drawn at random; 149 had a readable source article | **86%** (79–91) | 99% (96–100) |
+
+**Coded rows against their article, GDELT Cloud and the GDELT Project.** One test for every row ([ROW_JUDGING.md](ROW_JUDGING.md)): *right* when the article reports that party doing that kind of thing to that party, with the place and date roughly right; *partly right* when the action is right but a party, the place or the date is wrong.
+
+| Sample | GDELT Cloud | GDELT Project 2.0 |
+|---|---:|---:|
+| Same articles: every row either system coded from the 149 readable audit articles | **88%** of 149 rows (82–92) | **9%** of 259 rows (6–13); 31% more partly right |
+| Conflict rows, fully blind: drawn at random from the pooled run's 40 country-weeks | **81%** of 80 Events (71–88) | **5%** of 74 rows (2–13); 31% more partly right |
+
+- **Same articles.** The accuracy audit above showed the reviewer every row either system coded from each Event's first source article, all CAMEO categories, shuffled and unlabelled in one terse form (`judgments/j2_out_*.json`; which row came from which system: `results/rows_same_articles.csv`). The GDELT Cloud record was shown above the rows, so its own row could be told apart; the GDELT Project's rows were judged on the article alone. The GDELT Project coded no row from 51 of the 149 articles, and 2.6 rows from each of the others.
+- **Conflict rows, fully blind.** 100 GDELT Project rows drawn at random from what a user gets by filtering the export (CAMEO 18–20 located in the country, dated in the week) and 100 GDELT Cloud Events drawn at random from what its filters returned (conflict Events with deaths, and `CR01` homicide and violent crime), mixed, each shown with its article and nothing to say which system coded it (`judgments/rows/`, `results/rows_conflict.csv`). 46 of the 200 articles could not be read, most of them closed to automated fetches, and are not counted. GDELT Cloud's conflict Events were right 25 of 28 times and its violent-crime Events 40 of 52.
 
 **Relevance to the question** (release 2026.11 sample, one page of web results). 40 conflict country-weeks drawn at random. Every record each service returned was judged blind: is it a specific lethal incident in the country and week asked?
 
