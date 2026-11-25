@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026.11, corrected 25 November 2026
+
+- **The conflict comparison is withdrawn until a like-for-like re-run.** GDELT Cloud's conflict figures (`cloud_filters`, `cloud_monitor`) came from searches built around each incident: a 150 km radius around its coordinates, a date window around its date, and candidates ranked by its place names. `cloud_monitor` adds a second look and a recheck that only GDELT Cloud received. The GDELT Project arm also searched within 100 km of each incident. The web searches were asked only the country and the week.
+- **Asked the same question and reviewed the same way**, GDELT Cloud's country-week lists (conflict Stories and Events with deaths, every page) found 33% of the lethal conflict incidents and AI web search B 27% (+5 points, 95% interval −4 to +14, resampled by country). One call each: 23% against 27%.
+- **The conflict cases the question describes.** The question asks for people killed; 57 UCDP events with a best estimate of zero deaths and about 65 Wikipedia items that report no death (talks, deployments, strikes on infrastructure) were scored in 2026.11 and will be scored apart.
+- **The news result holds** when every service is reviewed the same way: GDELT Cloud 93% (326 of 351), AI web search B 72%.
+- **Accuracy:** 86% of the 149 audited GDELT Cloud Events with a readable source were right against it.
+- **Verdict files** are published for the 436 cases of rounds 1–3; the 519 v2 cases follow with the re-run.
+
 ## 2026.11
 
 **Scored results.**

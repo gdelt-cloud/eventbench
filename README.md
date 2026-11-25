@@ -13,6 +13,8 @@
 
 **The full results, with charts and every figure explained, are at [gdeltcloud.com/benchmarks/events](https://gdeltcloud.com/benchmarks/events).**
 
+> **Correction, 25 November 2026.** The conflict comparison in release 2026.11 is withdrawn until a like-for-like re-run in the December release. GDELT Cloud's conflict figures came from searches that used each incident's place and dates, plus a second look and a recheck that only GDELT Cloud received; the GDELT Project arm also searched near each incident. Asked the same monitoring question and reviewed the same way, GDELT Cloud's country-week lists found 33% of lethal conflict incidents and the best AI web search 27%, a difference inside the margin of error. The news result holds when every service is reviewed the same way: 93% against 72%. Verdict files are published for the first 436 of the 955 cases; the rest follow with the re-run. See [CHANGELOG.md](CHANGELOG.md).
+
 
 When something happens in the world, does a data service give you a record of it? Is the record right? What does it tell you?
 
