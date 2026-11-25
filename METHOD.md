@@ -129,6 +129,32 @@ Two checks, reported separately.
 - **Equal calls:** recall when every service gets the same number of calls per question: one web search page against GDELT Cloud's first page, its first two pages, and every page of its two filtered lists.
 - **Per distinct incident:** fees per question divided by the distinct on-topic incidents it returned, from the relevance sample above.
 
+## Pooled truth (release 2026.11.1)
+
+Recall against a reference list counts only the incidents on that list, and the lists are samples. A service
+that returns many real incidents the lists never sampled gets no credit for them. The pooled truth fixes that,
+the way shared search evaluations (TREC) have long pooled the results of every tested system:
+
+1. **One question per country and week**, asked of every service in the same words or its filters for the
+   same words: *"people killed in attacks, clashes or violence in {country}, {week}"*
+   (`suite/pool_questions_2026_11.csv`: 40 country-weeks, the random sample of the relevance test).
+   - GDELT Cloud: `bench.py monitor`. Conflict Events located in the country with deaths reported, crime
+     Events (`CR01`, homicide or violent crime) located in the country, and the conflict and crime Stories
+     about the country, every page.
+   - Web search: `bench.py web` with each service's own adapter, at its maximum results per call, in the
+     style its documentation recommends, with the same three-day grace for reports published after the week.
+2. **One packet per question** (`bench.py pool`): every record every service returned, plus the reference
+   incidents for that country and week, shuffled, with the sources hidden.
+3. **Jurors** (`bench.py pool-judge`, rules in `JUDGE_POOL.md`): each record on topic or not, and one label
+   per incident. Two jurors from different model families judge every record; their agreement is published.
+4. **Scores** (`bench.py pool-score`): the pool is every incident any record was labelled with. For each
+   service, the incidents it delivered, its share of the pool, the share of its records that were on topic,
+   and its records per question.
+
+A pooled share measures what each service delivered against what the tested services found together. It is
+not a share of everything that happened: the reference-list recall above stays beside it as the check no
+service can influence.
+
 ## What this does not measure
 
 - **Timeliness.** Everything was searched after the fact. Web indexes gain follow-up coverage with hindsight.

@@ -13,6 +13,7 @@ Reproduce the published round, or compare any search service or event list you l
     python bench.py eventlist --file my_events.csv --label my_list   # optional: any event list export
     python bench.py packets                    # blinded judge packets + the key that unblinds them
     python bench.py score                      # recall table and run/occurrences.csv from the judgments
+    python bench.py monitor | pool | pool-judge | pool-score   # pooled truth: credit every real incident any service returns
 
 Any search service plugs in through an adapter: a Python file exposing search(request) or any command
 that reads one JSON request on stdin and writes JSON results on stdout. See adapters/README.md,
@@ -324,7 +325,7 @@ def read_questions(path: Path):
     out = []
     for r in rows:
         q = {k: v for k, v in r.items() if v not in (None, '')}
-        for k in ('covers', 'keywords'):
+        for k in ('covers', 'keywords', 'keyword_queries'):
             if isinstance(q.get(k), str): q[k] = [s for s in re.split(r'[;|]', q[k]) if s]
         q.setdefault('keywords', keywords_of(q['keyword_query'], q['country']))
         out.append(q)
@@ -374,7 +375,7 @@ def normalize_results(o):
     for r in o:
         if isinstance(r, dict) and r.get('url'):
             x = {'url': clean(r['url']), 'title': clean(r.get('title') or '')[:300], 'published': as_date(r.get('published')),
-                 'excerpt': clean(r.get('excerpt') or '')[:700]}
+                 'excerpt': clean(r.get('excerpt') or '')[:1000]}
             # Optional, for news databases: the date the service gives the occurrence itself, when it first had the
             # item (an ingest or first-seen timestamp, kept as given), and the place it assigns.
             if r.get('occurred'): x['occurred'] = as_date(r['occurred'])
@@ -516,6 +517,218 @@ def cmd_extract(a):
                     'tokens': [tin, tout], 'secs': round(time.time() - t0, 2)})
         n += 1
     print(f'extracted {n} result pages; extract spend ${led.spent():.3f} of ${a.max_usd:.2f}')
+
+# ---------------------------------------------------------------- pooled truth (release 2026.11.1)
+#
+# Recall against a reference list counts only the incidents on that list. A pooled truth also credits every
+# other real incident a service returns: every record every service returned to the same monitoring question,
+# plus the reference incidents, is pooled in one shuffled, blind packet; jurors mark each record on topic or not
+# and give records about the same incident one label; the pool is every incident found. Rules: JUDGE_POOL.md.
+#
+#   python bench.py monitor   --questions suite/pool_questions_2026_11.csv        # GDELT Cloud's answer to each question
+#   python bench.py web       --questions suite/pool_questions_2026_11.csv --adapter ... --label ... --max-results 20 --max-usd 2
+#   python bench.py pool      --questions suite/pool_questions_2026_11.csv --labels web_a,web_b,web_c
+#   python bench.py pool-judge --juror my_llm --model <name> --base-url <endpoint> --usd-in .. --usd-out .. --max-usd 2
+#   python bench.py pool-score
+
+VIOLENT = 'Battles,Explosions/Remote violence,Violence against civilians,Riots'
+POOL_TEXT = 600
+
+def cmd_monitor(a):
+    """GDELT Cloud's answer to each monitoring question, through the API's own filters for "people killed in
+    attacks, clashes or violence in {country}, {week}": conflict Events located in the country with deaths, crime
+    Events (CR01, homicide or violent crime) located in the country, and the conflict and crime Stories about the
+    country (a Story's own country; Stories are dated by reporting, so they get the question's publication tail)."""
+    for q in read_questions(Path(a.questions)):
+        f = RUN / 'monitor' / f"{q['id']}.json"
+        if f.exists(): continue
+        iso, start, end = q.get('iso3') or q['country'], q['start_date'], q['end_date']
+        tail = day(end, int(q.get('publication_tail_days') or 0))
+        calls = {
+            'event_conflict': ('events', dict(country=iso, country_match='location', date_start=start, date_end=end, category=VIOLENT, has_fatalities='true')),
+            'event_crime': ('events', dict(country=iso, country_match='location', date_start=start, date_end=end, category='CRIME', subcategory='CR01')),
+            'story': ('stories', dict(country=iso, date_start=start, date_end=tail, story_category='conflict_security,cameoplus_crime')),
+        }
+        out, n_calls = {'id': q['id'], 'country': q['country'], 'calls': {}, 'records': []}, 0
+        for route, (path, params) in calls.items():
+            rows, cur, pages = [], None, 0
+            for _ in range(a.max_pages):
+                o = cloud_get(path, dict(params, limit=100, cursor=cur)); pages += 1
+                if o['_status'] != 200:
+                    out['calls'][route] = {'status': o['_status'], 'error': str(o.get('error') or o)[:300]}; break
+                rows += o.get('data') or []
+                cur = (o.get('pagination') or {}).get('next_cursor')
+                if not cur: break
+            out['calls'].setdefault(route, {'status': 200, 'pages': pages, 'rows': len(rows), 'params': params}); n_calls += pages
+            for r in rows:
+                g = r.get('geo') or {}
+                heads = [t.get('title') for t in (r.get('top_articles') or [])[:3] if t.get('title')]
+                out['records'].append({'id': r.get('id'), 'route': route, 'type': 'event' if path == 'events' else 'story',
+                                       'date': r.get('event_date') or r.get('story_date'), 'title': r.get('title'),
+                                       'summary': r.get('summary') or r.get('event_description'), 'category': r.get('category'),
+                                       'subcategory': r.get('subcategory'), 'has_fatalities': r.get('has_fatalities'),
+                                       'country': g.get('country'), 'place': ', '.join(x for x in (g.get('location'), g.get('admin1'), g.get('country')) if x),
+                                       'headlines': heads})
+        # A Story matches a country it is about, or one of its Events' actors is from: keep the Stories about it.
+        names = {norm(q['country'])} | {norm(x) for x in (q.get('country_aliases') or '').split(';') if x}
+        if any(norm(r['country']) in names for r in out['records'] if r['type'] == 'story'):
+            out['records'] = [r for r in out['records'] if r['type'] == 'event' or norm(r['country']) in names]
+        out['n_calls'] = n_calls
+        wjson(f, out)
+        print(f"{q['id']:16s} {len(out['records']):5d} records in {n_calls} calls", {k: v.get('rows', v.get('status')) for k, v in out['calls'].items()}, flush=True)
+
+def pool_clip(s, n=POOL_TEXT):
+    s = re.sub(r'\s+', ' ', s or '').strip()
+    return s if len(s) <= n else s[:n].rsplit(' ', 1)[0] + '…'
+
+def cmd_pool(a):
+    """One blind, shuffled packet per question: every record GDELT Cloud (`monitor`) and each web label (`web`)
+    returned, plus the reference incidents the question covers. Writes run/pool/packets and run/pool/key.json."""
+    occ = {r['uid']: r for r in csv.DictReader(open(ROOT / 'suite' / 'occurrences_v2.csv', encoding='utf-8'))}
+    ref_text = {}
+    if a.reference_text:
+        ref_text = {r['uid']: r['text'] for r in csv.DictReader(open(a.reference_text, encoding='utf-8'))}
+    labels = [x for x in a.labels.split(',') if x]
+    key, meta = {}, {}
+    (RUN / 'pool' / 'packets').mkdir(parents=True, exist_ok=True)
+    for q in read_questions(Path(a.questions)):
+        recs = []
+        m = RUN / 'monitor' / f"{q['id']}.json"
+        if m.exists():
+            for r in rjson(m)['records']:
+                src = 'cloud_event' if r['type'] == 'event' else 'cloud_story'
+                text = f"[{r['date']}] {pool_clip(r['title'], 200)}. " + (f"{pool_clip(r['summary'], 360)} " if r.get('summary') else '') \
+                       + f"Place: {r['place']}. Headlines: {pool_clip('; '.join(r['headlines']), 420)}"
+                recs.append((src, r['id'], {'route': r['route'], 'strict': r['type'] == 'event' or bool(r.get('has_fatalities'))}, text))
+        for lab in labels:
+            w = RUN / 'web' / f"{q['id']}-{lab}.json"
+            if not w.exists(): continue
+            for rank, r in enumerate(rjson(w).get('results') or [], 1):
+                recs.append((lab, r['url'], {'rank': rank}, f"[{r.get('published') or ''}] {pool_clip(r.get('title'), 200)}. {pool_clip(r.get('excerpt'))}"))
+        for u in q.get('covers') or []:
+            o = occ.get(u)
+            if o: recs.append(('reference', u, {}, f"[{o['date']}] {pool_clip(ref_text.get(u) or o['what'], 500)} Place: {pool_clip(o['place'], 160)}."))
+        random.Random(f"{SEED}-{q['id']}").shuffle(recs)
+        items = []
+        for i, (src, rid, extra, text) in enumerate(recs, 1):
+            key[f"{q['id']}:R{i:04d}"] = {'q': q['id'], 'src': src, 'id': rid, **extra}
+            items.append({'id': f'R{i:04d}', 'text': text})
+        meta[q['id']] = {'country': q['country'], 'scope': q.get('scope') or q['country'], 'start': q['start_date'], 'end': q['end_date'],
+                         'tail_days': int(q.get('publication_tail_days') or 0), 'records': len(items),
+                         'by_source': dict(collections.Counter(s for s, *_ in recs))}
+        mq = meta[q['id']]
+        head = (f"### QUESTION {q['id']}\nAsked of every source: people killed in attacks, clashes or violence in {q['country']}, {q['start_date']} to {q['end_date']}.\n"
+                + (f"Scope for this question: {q['scope']}.\n" if q.get('scope') else '') + f"Records ({len(items)}), shuffled, sources hidden:\n")
+        (RUN / 'pool' / 'packets' / f"{q['id']}.md").write_text(head + '\n'.join(f"{it['id']}: {it['text']}" for it in items) + '\n', encoding='utf-8')
+        wjson(RUN / 'pool' / 'packets' / f"{q['id']}.json", {'question': q['id'], **mq, 'items': items})
+        print(f"{q['id']:16s} {len(items):5d} records", mq['by_source'])
+    wjson(RUN / 'pool' / 'key.json', key); wjson(RUN / 'pool' / 'questions.json', meta)
+
+POOL_GROUP = ('These records were judged on topic for one monitoring question. Group them by incident: the same act, at the same place, '
+              'at the same time is one incident; different acts are different incidents, however similar. A record that only restates a '
+              'reference description is the same incident as the records that report it. Every id must appear in exactly one group. '
+              'Give each group one label in the form "place · date · what happened". Reply with JSON: {"incidents": [{"label": "...", "ids": ["R0001", ...]}]}.')
+
+def cmd_pool_judge(a):
+    """An LLM juror over the pooled packets: each packet in chunks (on topic or not, with a provisional incident
+    label), then one grouping call per question that gives every record of one incident the same label."""
+    need_label(a.juror)
+    if a.require_model and a.model != a.require_model: sys.exit(f'STOP: --model {a.model} is not --require-model {a.require_model}')
+    key = os.environ.get('LLM_API_KEY')
+    if not key: sys.exit('LLM_API_KEY is not set')
+    a.base_url = a.base_url or os.environ.get('LLM_BASE_URL')
+    if not a.base_url: sys.exit('--base-url (or LLM_BASE_URL) is required')
+    rules = (ROOT / 'JUDGE_POOL.md').read_text(encoding='utf-8')
+    led = Ledger('pool_' + a.juror, a.max_usd)
+    outdir = RUN / 'pool' / 'verdicts' / a.juror; outdir.mkdir(parents=True, exist_ok=True)
+
+    def ask(rid, instr, user):
+        est = (len(instr) + len(user)) / 3.5 / 1e6 * a.usd_in + a.max_tokens / 1e6 * a.usd_out
+        if not led.reserve(rid, est): sys.exit('spend cap reached')
+        for attempt in (1, 2):
+            st, o, tin, tout, text = llm_call(a, key, instr, user)
+            led.settle(rid, (tin * a.usd_in + tout * a.usd_out) / 1e6, str(st))
+            got = parse_json_object(text) if st == 200 else None
+            if isinstance(got, dict): return got
+            print(f'  {rid} attempt {attempt}: status {st}, unparseable or failed', flush=True)
+        raise SystemExit(f'two attempts failed for {rid}')
+
+    for f in sorted((RUN / 'pool' / 'packets').glob('*.json')):
+        if a.ids and f.stem not in set(a.ids.split(',')): continue
+        out = outdir / f.name
+        if out.exists(): continue
+        p = rjson(f)
+        ask_line = f"People killed in attacks, clashes or violence in {p['country']}, from {p['start']} to {p['end']}." + (f" Scope: {p['scope']}." if p.get('scope') != p['country'] else '')
+        sys_rules = rules.replace('{COUNTRY}', p['scope']).replace('{START}', p['start']).replace('{END}', p['end']).replace('{TAIL}', str(p.get('tail_days') or 0))
+        verdicts = {}
+        for i in range(0, len(p['items']), a.chunk):
+            chunk = p['items'][i:i + a.chunk]
+            got = ask(f"{p['question']}-s1-{i}", sys_rules + '\n\nReply with JSON: {"verdicts": [{"id": "R0001", "on_topic": "yes|no", "incident": "label or null"}, ...]}, one entry per record in this batch.',
+                      f"QUESTION: {ask_line}\n\n" + '\n'.join(f"{it['id']}: {it['text']}" for it in chunk))
+            for v in got.get('verdicts') or []:
+                if isinstance(v, dict) and v.get('id'): verdicts[v['id']] = {'on_topic': 'yes' if v.get('on_topic') == 'yes' else 'no', 'incident': v.get('incident') if v.get('on_topic') == 'yes' else None}
+        on = [it for it in p['items'] if verdicts.get(it['id'], {}).get('on_topic') == 'yes']
+        if on:
+            got = ask(f"{p['question']}-s2", POOL_GROUP, f"QUESTION: {ask_line}\n\n" + '\n'.join(f"{it['id']} [first label: {verdicts[it['id']]['incident']}]: {it['text'][:320]}" for it in on))
+            for g in got.get('incidents') or []:
+                for rid in g.get('ids') or []:
+                    if verdicts.get(rid, {}).get('on_topic') == 'yes': verdicts[rid]['incident'] = g.get('label')
+        for it in p['items']: verdicts.setdefault(it['id'], {'on_topic': 'no', 'incident': None, 'missing': True})
+        wjson(out, verdicts)
+        print(f"{p['question']:16s} {len(p['items'])} records, {len(on)} on topic, {len({verdicts[it['id']]['incident'] for it in on})} incidents", flush=True)
+    print(f'{a.juror}: spend ${led.spent():.3f} of ${a.max_usd:.2f}')
+
+POOL_SERVICES = [
+    ('cloud', 'GDELT Cloud, every record', lambda k: k['src'] in ('cloud_event', 'cloud_story')),
+    ('cloud_strict', 'GDELT Cloud, Events and Stories with deaths', lambda k: k['src'] == 'cloud_event' or (k['src'] == 'cloud_story' and k.get('strict'))),
+    ('cloud_events', 'GDELT Cloud, Events only', lambda k: k['src'] == 'cloud_event'),
+]
+
+def cmd_pool_score(a):
+    """Per juror: the pool, each service's distinct incidents, its share of the pool, its records on topic; per
+    question; and juror agreement. Writes results/pooled_recall.csv and results/pooled_by_question.csv."""
+    key = rjson(RUN / 'pool' / 'key.json'); meta = rjson(RUN / 'pool' / 'questions.json')
+    web = sorted({k['src'] for k in key.values() if k['src'] not in ('cloud_event', 'cloud_story', 'reference')})
+    services = POOL_SERVICES + [(w, w, (lambda w: lambda k: k['src'] == w)(w)) for w in web] + [('any_web', 'any web search', lambda k: k['src'] in web)]
+    jurors = sorted(d.name for d in (RUN / 'pool' / 'verdicts').iterdir() if d.is_dir())
+    rows, byq, V = [], [], {}
+    lab = lambda x: re.sub(r'\s+', ' ', (x.get('incident') or '').lower()).strip() if x.get('on_topic') == 'yes' and x.get('incident') else None
+    for j in jurors:
+        V[j] = {f.stem: rjson(f) for f in (RUN / 'pool' / 'verdicts' / j).glob('*.json')}
+        qs = [q for q in meta if q in V[j]]
+        agg = collections.defaultdict(collections.Counter); pool_n = 0
+        for q in qs:
+            v = V[j][q]; recs = {k.split(':', 1)[1]: x for k, x in key.items() if x['q'] == q}
+            labels = {rid: lab(x) for rid, x in v.items() if lab(x)}
+            pool = set(labels.values()); pool_n += len(pool)
+            refs = {labels[r] for r, k in recs.items() if k['src'] == 'reference' and r in labels}
+            row = {'juror': j, 'question': q, 'pool': len(pool), 'reference_incidents': len(refs)}
+            for sid, _, test in services:
+                ids = [r for r, k in recs.items() if test(k)]
+                got = {labels[r] for r in ids if r in labels}
+                agg[sid].update(records=len(ids), on_topic=sum(r in labels for r in ids), delivered=len(got), refs=len(got & refs))
+                row[sid] = len(got)
+            byq.append(row)
+        for sid, name, _ in services:
+            x = agg[sid]
+            rows.append({'juror': j, 'service': sid, 'description': name, 'questions': len(qs), 'pool': pool_n, 'delivered': x['delivered'],
+                         'share_of_pool': round(x['delivered'] / pool_n, 3) if pool_n else '', 'per_question': round(x['delivered'] / len(qs), 2) if qs else '',
+                         'reference_incidents_delivered': x['refs'], 'records': x['records'], 'records_on_topic': x['on_topic'],
+                         'on_topic_share': round(x['on_topic'] / x['records'], 3) if x['records'] else ''})
+    for name, data in (('pooled_recall.csv', rows), ('pooled_by_question.csv', byq)):
+        if not data: continue
+        with open(ROOT / 'results' / name, 'w', newline='', encoding='utf-8') as fo:
+            w = csv.DictWriter(fo, fieldnames=list(data[0]), lineterminator='\r\n'); w.writeheader(); w.writerows(data)
+    for r in rows:
+        print(f"{r['juror']:8s} {r['service']:14s} {r['delivered']:5d} of {r['pool']:5d}  {r['share_of_pool']!s:6s} {r['per_question']!s:6s}/q  on topic {r['on_topic_share']!s:6s} of {r['records']}")
+    if len(jurors) >= 2:
+        a1, b1 = [], []
+        for q in set(V[jurors[0]]) & set(V[jurors[1]]):
+            for rid in set(V[jurors[0]][q]) & set(V[jurors[1]][q]):
+                a1.append(V[jurors[0]][q][rid].get('on_topic') == 'yes'); b1.append(V[jurors[1]][q][rid].get('on_topic') == 'yes')
+        n = len(a1); po = sum(x == y for x, y in zip(a1, b1)) / n; pa, pb = sum(a1) / n, sum(b1) / n; pe = pa * pb + (1 - pa) * (1 - pb)
+        print(f"agreement {jurors[0]} vs {jurors[1]}: {po:.1%} of {n} records, kappa {(po - pe) / (1 - pe):.2f}")
+
 
 # ---------------------------------------------------------------- any event list (dataset export)
 
@@ -763,6 +976,18 @@ def main():
     p.add_argument('--file', required=True); p.add_argument('--label', required=True); p.add_argument('--km', type=float, default=100)
     p.add_argument('--days-before', type=int, default=1); p.add_argument('--days-after', type=int, default=3); p.add_argument('--cap', type=int, default=25)
     p = sp.add_parser('packets'); p.add_argument('--excerpt', type=int, default=260, help='characters of each web result shown to reviewers')
+    p = sp.add_parser('monitor', help="GDELT Cloud's answer to each monitoring question (pooled truth)")
+    p.add_argument('--questions', default=str(ROOT / 'suite' / 'pool_questions_2026_11.csv')); p.add_argument('--max-pages', type=int, default=30)
+    p = sp.add_parser('pool', help='one blind packet per question: every service\'s records plus the reference incidents')
+    p.add_argument('--questions', default=str(ROOT / 'suite' / 'pool_questions_2026_11.csv')); p.add_argument('--labels', default='web_a,web_b,web_c')
+    p.add_argument('--reference-text', help='optional CSV (uid,text) with fuller reference descriptions')
+    p = sp.add_parser('pool-judge', help='an LLM juror over the pooled packets')
+    p.add_argument('--juror', required=True, help='name for this juror\'s verdicts, e.g. my_llm'); p.add_argument('--model', required=True)
+    p.add_argument('--require-model', help='refuse to send any request unless --model equals this'); p.add_argument('--base-url')
+    p.add_argument('--api', choices=('chat', 'responses'), default='chat'); p.add_argument('--token-param', default='max_tokens')
+    p.add_argument('--usd-in', type=float, required=True); p.add_argument('--usd-out', type=float, required=True); p.add_argument('--max-usd', type=float, required=True)
+    p.add_argument('--max-tokens', type=int, default=6000); p.add_argument('--chunk', type=int, default=40); p.add_argument('--ids', help='only these question ids')
+    sp.add_parser('pool-score', help='score every juror\'s verdicts against the pooled truth')
     sp.add_parser('score')
     p = sp.add_parser('cells'); p.add_argument('--countries', default='Nigeria,Brazil,India,France,Indonesia')
     p.add_argument('--categories', default=','.join(CELL_LABEL)); p.add_argument('--start', default='2026-11-09'); p.add_argument('--end', default='2026-11-15')
@@ -770,7 +995,8 @@ def main():
     p.add_argument('--max-usd', type=float, default=0.25); p.add_argument('--score', action='store_true')
     a = ap.parse_args(); RUN.mkdir(parents=True, exist_ok=True)
     {'refs': cmd_refs, 'cloud': cmd_cloud, 'gdelt': cmd_gdelt, 'check-adapter': cmd_check_adapter, 'web': cmd_web, 'extract': cmd_extract,
-     'eventlist': cmd_eventlist, 'packets': cmd_packets, 'score': cmd_score, 'cells': cmd_cells}[a.cmd](a)
+     'eventlist': cmd_eventlist, 'packets': cmd_packets, 'score': cmd_score, 'cells': cmd_cells, 'monitor': cmd_monitor, 'pool': cmd_pool,
+     'pool-judge': cmd_pool_judge, 'pool-score': cmd_pool_score}[a.cmd](a)
 
 if __name__ == '__main__':
     main()
