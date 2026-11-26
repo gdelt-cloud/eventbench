@@ -177,6 +177,49 @@ A pooled share measures what each service delivered against what the tested serv
 not a share of everything that happened: the reference-list recall above stays beside it as the check no
 service can influence.
 
+## Comparing runs
+
+The pool belongs to one run, so a share of it is relative to the services in that run. The three kinds of number
+compare differently:
+
+| Number | Depends on | Compare it |
+|---|---|---|
+| Share of the pool (GDELT Cloud 63%, web search B 26%) | Every service in the pool | Within one run only |
+| Ratio of two services' incidents (2.5×) | Those two services' records | Across runs, as the replication target |
+| Recall against a reference list (news events 93%) | A list fixed for the release | Across runs of the same release |
+
+Adding a service grows the pool and lowers every share, though no other service's answers changed. Without the
+GDELT Project's records the armed-conflict pool holds 484 incidents instead of 615 (`juror_a`): GDELT Cloud's share
+is 80% instead of 63% and web search B's 32% instead of 26%, while the ratio between them stays 2.46 (386 incidents
+against 157).
+
+What changes when someone runs it again:
+
+- **AI web search:** answers change with the index, the ranking and from one call to the next.
+- **GDELT Cloud:** the API is live. Late articles are coded and duplicates merged, so a later query for the same
+  week usually returns a few more Events.
+- **The GDELT Project:** its export files do not change, so the same filter returns the same rows. The cached exports
+  end on 22 November, so a later download adds the last week's late reports.
+- **Reference lists:** fixed for the release.
+- **Jurors:** model verdicts vary a little. The two jurors here agreed on 94.7% of records.
+
+So:
+
+1. **Reproduce a release** from its published verdicts: `python3 pool_report.py` rebuilds every
+   `results/pooled_*.csv` table exactly from `judgments/pool/`.
+2. **Replicate it** with a fresh run: expect the same order and a similar ratio, not the same shares. A fresh run
+   builds its own pool, so its shares cannot be set beside ours.
+3. **Add a service to an existing pool** instead of building a new one. Judge only its records, each against the
+   labels already in `judgments/pool/verdicts/` for its question (the same incident as a pooled label, or a new
+   one; `JUDGE_POOL.md`), keep every earlier verdict, and re-score every service on the grown pool. This is how the
+   GDELT Project joined in release 2026.11.1. The earlier services' answers and incident counts stay as they were;
+   every share is recalculated, so the shares in one table always come from one pool.
+4. **Across releases**, compare ratios and reference-list recall. Each release asks about new weeks, so its pool is
+   new anyway.
+
+Every record a service returned is judged, not only its top results, so the pool holds no unjudged records. It
+still misses incidents no service found, which is why the reference lists stay beside it.
+
 ## What this does not measure
 
 - **Timeliness.** Everything was searched after the fact. Web indexes gain follow-up coverage with hindsight.
@@ -186,4 +229,4 @@ service can influence.
 
 ## Reproduce it
 
-See [README.md](README.md#run-it-yourself) and [AGENTS.md](AGENTS.md). With the same seed, `bench.py refs` draws the same UCDP sample. Live services change, so expect small differences. To compare a service or dataset we did not test, plug it in through an adapter or `bench.py eventlist`; it is judged blind beside the rest.
+See [README.md](README.md#run-it-yourself) and [AGENTS.md](AGENTS.md). With the same seed, `bench.py refs` draws the same UCDP sample. Live services change, so expect small differences; [Comparing runs](#comparing-runs) says which numbers a re-run can be compared on. To compare a service or dataset we did not test, plug it in through an adapter or `bench.py eventlist`; it is judged blind beside the rest.

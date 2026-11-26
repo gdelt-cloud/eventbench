@@ -1,5 +1,10 @@
 # Changelog
 
+## Documentation, 26 November 2026
+
+- **Comparing runs** (`METHOD.md`): which numbers compare across runs and which only within one, how to add a service
+  to an existing pool, and how much the pool moves when a service joins it. No figure changed.
+
 ## 2026.11.2, 25 November 2026
 
 **Coded rows against their article.** How often a coded event row is right against the article it was coded from, for
