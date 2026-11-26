@@ -11,6 +11,11 @@
 - **Worked examples (new file):** `results/pooled_examples.json`, real rows from the pooled run: DR Congo 5–11 October
   and Ethiopia 12–18 October in full (each incident, which service returned it, and whether the second juror counted
   it), the pool of every question split by who found each incident, and six news items. Shown on the results page.
+- **Reviewers, stated in full (corrected).** The pooled run's jurors were described as "a Claude model and a model from
+  another lab". They are Claude Haiku (`juror_a`, whose figures lead) and the model GDELT Cloud uses to code its Events
+  (`juror_b`), which also assigned the incident types; the second juror is therefore not independent of GDELT Cloud. Both
+  give GDELT Cloud 63% of the armed-conflict pool, and all lethal violence, which needs no type, shows the same lead (74%
+  against 15%). The row test and the blind audit were Claude Sonnet. The README's pooled κ (0.82) is corrected to 0.71.
 - No verdict, label or count changed.
 
 ## Documentation, 26 November 2026

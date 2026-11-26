@@ -93,7 +93,7 @@ There is one LLM call per results page. It makes results countable and removes r
 
 1. All candidate records for an occurrence are pooled, shuffled, and stripped of their source names ([JUDGING.md](JUDGING.md)).
 2. A reviewer marks each record **S** (this occurrence) or **A** (a roundup that names it), or leaves it out.
-3. A second reviewer re-judges a subset, and we report Cohen's κ. Our published round used Claude models as reviewers, a different model family from the one GDELT Cloud uses for coding. Disagreements are listed in the results.
+3. A second reviewer re-judges a subset, and we report Cohen's κ. The reference-list rounds used Claude models as reviewers, a different model family from the one GDELT Cloud uses for coding. Disagreements are listed in the results. The pooled run's jurors are described below.
 4. The key that maps record ids back to services is applied only after judging (`bench.py score`).
 
 ## The listing test (taxonomy cells)
@@ -169,7 +169,9 @@ the way shared search evaluations (TREC) have long pooled the results of every t
    is a real lethal incident in the week and not a repeat of another incident in the pool.
 
 **Release 2026.11.1's pooled run** (`judgments/pool/`): 40 country-weeks, 48,771 records (30,037 of them the GDELT
-Project's). The jurors are a Claude model (`juror_a`) and a model from another lab (`juror_b`); they agree on 94.7% of
+Project's). The jurors are Claude Haiku (`juror_a`, whose figures lead) and the model GDELT Cloud uses to code its Events
+(`juror_b`), which is therefore not independent of GDELT Cloud; that model also assigned the incident types, and the audit
+was Claude Sonnet. The jurors agree on 94.7% of
 records (κ = 0.71): κ 0.80 on GDELT Cloud's records, 0.81 on web search's and 0.63 on the GDELT Project's, which carry
 no text (`results/pooled_agreement.csv`). GDELT Cloud
 was asked through `bench.py monitor` on 25 November 2026; web search A, B and C at 20, 25 and 20 results. The key
