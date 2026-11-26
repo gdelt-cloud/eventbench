@@ -1,0 +1,962 @@
+{
+ "juror": "juror_a",
+ "weeks": [
+  {
+   "id": "COD-w41",
+   "country": "DR Congo",
+   "week": "5–11 Oct",
+   "question": "people killed in attacks, clashes or violence in DR Congo October 5-11 2026",
+   "keywordQuery": "DR Congo attack killed",
+   "records": {
+    "gdelt_project": 17,
+    "cloud": 107,
+    "web_b": 25,
+    "web_a": 20,
+    "web_c": 1
+   },
+   "onTopic": {
+    "gdelt_project": 1,
+    "cloud": 16,
+    "web_b": 4
+   },
+   "armed": [
+    {
+     "label": "Ilebo · 4–7 Oct · four days of deadly clashes",
+     "type": "mob_or_riot",
+     "hits": {
+      "cloud": {
+       "shown": "Calm returns to DR Congo’s Ilebo after four days of deadly clashes",
+       "sub": "Story",
+       "n": 1
+      }
+     },
+     "secondJuror": false
+    },
+    {
+     "label": "Kingwangala, Kwango · 5 Oct · police-soldier clash kills 5",
+     "type": "other",
+     "hits": {
+      "cloud": {
+       "shown": "Clash between police and soldiers kills five in Kingwangala, DR Congo",
+       "sub": "Story",
+       "n": 3
+      },
+      "web_b": {
+       "shown": "radiookapi.net",
+       "sub": "result 2",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Nduye, Mambasa · 5 Oct · six civilian bodies after ADF attack",
+     "type": "attack_on_civilians",
+     "hits": {
+      "cloud": {
+       "shown": "Six civilian bodies found in Nduye after ADF-attributed attack in DR Congo",
+       "sub": "Story",
+       "n": 1
+      }
+     },
+     "secondJuror": false
+    },
+    {
+     "label": "Longela, Mambasa · 7 Oct · ADF attack kills 2 civilians",
+     "type": "attack_on_civilians",
+     "hits": {
+      "cloud": {
+       "shown": "ADF attack kills two civilians in Longela, Mambasa, DR Congo",
+       "sub": "Story",
+       "n": 2
+      },
+      "web_b": {
+       "shown": "reporter.cd",
+       "sub": "result 6",
+       "n": 2
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Butumba, Haut-Lomami · 8 Oct · customary conflict kills 6",
+     "type": "mob_or_riot",
+     "hits": {
+      "cloud": {
+       "shown": "Customary conflict in Butumba, DR Congo, leaves six dead",
+       "sub": "Story",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Buray, Walikale · 9 Oct · woman beheaded in land dispute",
+     "type": "attack_on_civilians",
+     "hits": {
+      "reference": {
+       "shown": "UCDP",
+       "sub": "U646224",
+       "n": 1
+      },
+      "cloud": {
+       "shown": "Woman beheaded in Buray amid land dispute in Walikale, DR Congo",
+       "sub": "Story",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Bahema Badjere, Djugu · 10 Oct · CODECO attack kills 1 child",
+     "type": "attack_on_civilians",
+     "hits": {
+      "web_b": {
+       "shown": "beroyafm.net",
+       "sub": "result 3",
+       "n": 1
+      },
+      "reference": {
+       "shown": "UCDP",
+       "sub": "U646658",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Djugu, Ituri · 10 Oct · CODECO attack kills 11 civilians",
+     "type": "attack_on_civilians",
+     "hits": {
+      "gdelt_project": {
+       "shown": "en.apa.az",
+       "sub": "source article",
+       "n": 1
+      },
+      "cloud": {
+       "shown": "CODECO militia attack kills 11 civilians in Djugu, eastern Congo",
+       "sub": "Story",
+       "n": 4
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Masango, Uvira · 10 Oct · FARDC-Wazalendo vs FRN clash kills 1",
+     "type": "battle",
+     "hits": {
+      "reference": {
+       "shown": "UCDP",
+       "sub": "U646863",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Kolwezi, Lualaba · 11 Oct · prison escape attempt kills 1",
+     "type": "other",
+     "hits": {
+      "cloud": {
+       "shown": "Prison escape attempt in Kolwezi, DR Congo, leaves one dead and several injured",
+       "sub": "Story",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Djugu, Ituri · 12 Oct · CODECO-CRP clashes kill 45",
+     "type": "battle",
+     "hits": {
+      "cloud": {
+       "shown": "CODECO-CRP clashes kill at least 45 in Djugu, eastern DR Congo",
+       "sub": "Story",
+       "n": 1
+      }
+     },
+     "secondJuror": false
+    }
+   ],
+   "homicide": [
+    {
+     "label": "Goma · 12 Oct · four youths found bound and tortured",
+     "type": "criminal_homicide",
+     "hits": {
+      "cloud": {
+       "shown": "Four youths found bound and showing signs of torture at Lake Kivu in Goma",
+       "sub": "Story",
+       "n": 1
+      }
+     },
+     "secondJuror": false
+    }
+   ]
+  },
+  {
+   "id": "ETH-w42",
+   "country": "Ethiopia",
+   "week": "12–18 Oct",
+   "question": "people killed in attacks, clashes or violence in Ethiopia October 12-18 2026",
+   "keywordQuery": "Ethiopia attack killed",
+   "records": {
+    "gdelt_project": 104,
+    "web_a": 20,
+    "cloud": 59,
+    "web_c": 20,
+    "web_b": 25
+   },
+   "onTopic": {
+    "web_b": 7,
+    "cloud": 1,
+    "web_a": 1
+   },
+   "armed": [
+    {
+     "label": "Arsi Zone, Oromia · 12–17 Oct · attacks kill 6 Orthodox Christians",
+     "type": "attack_on_civilians",
+     "hits": {
+      "web_b": {
+       "shown": "borkena.com",
+       "sub": "result 4",
+       "n": 2
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Gambella city · 13 Oct · gunfire and burning kill 25",
+     "type": "mob_or_riot",
+     "hits": {
+      "web_b": {
+       "shown": "gambellavision.net",
+       "sub": "result 10",
+       "n": 3
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Dangur, Metekel · 14 Oct · armed attack kills Red Cross ambulance driver",
+     "type": "attack_on_civilians",
+     "hits": {
+      "web_b": {
+       "shown": "redcrosseth.org",
+       "sub": "result 5",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    },
+    {
+     "label": "Moyale, Borana · 18 Oct · flag dispute kills 13-year-old girl",
+     "type": "mob_or_riot",
+     "hits": {
+      "cloud": {
+       "shown": "Flag dispute in Ethiopia's Moyale kills 13-year-old girl, sparks transport blockade",
+       "sub": "Story",
+       "n": 1
+      },
+      "web_a": {
+       "shown": "aljazeera.com",
+       "sub": "result 5",
+       "n": 1
+      },
+      "web_b": {
+       "shown": "africalix.com",
+       "sub": "result 6",
+       "n": 1
+      }
+     },
+     "secondJuror": true
+    }
+   ],
+   "homicide": []
+  }
+ ],
+ "perQuestion": [
+  {
+   "id": "R2-BRA-w41",
+   "country": "Brazil",
+   "week": "5–11 Oct",
+   "pool": 25,
+   "cloud": 21,
+   "web_b": 4,
+   "gdelt_project": 6,
+   "squares": {
+    "both": 3,
+    "cloud": 18,
+    "webB": 1,
+    "other": 3
+   }
+  },
+  {
+   "id": "R2-BRA-w42",
+   "country": "Brazil",
+   "week": "12–18 Oct",
+   "pool": 41,
+   "cloud": 31,
+   "web_b": 12,
+   "gdelt_project": 17,
+   "squares": {
+    "both": 7,
+    "cloud": 24,
+    "webB": 5,
+    "other": 5
+   }
+  },
+  {
+   "id": "R2-BRA-w43",
+   "country": "Brazil",
+   "week": "19–25 Oct",
+   "pool": 22,
+   "cloud": 20,
+   "web_b": 4,
+   "gdelt_project": 9,
+   "squares": {
+    "both": 4,
+    "cloud": 16,
+    "webB": 0,
+    "other": 2
+   }
+  },
+  {
+   "id": "R2-BFA-w42",
+   "country": "Burkina Faso",
+   "week": "12–18 Oct",
+   "pool": 0,
+   "cloud": 0,
+   "web_b": 0,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 0,
+    "cloud": 0,
+    "webB": 0,
+    "other": 0
+   }
+  },
+  {
+   "id": "R2-BFA-w44",
+   "country": "Burkina Faso",
+   "week": "26 Oct – 1 Nov",
+   "pool": 4,
+   "cloud": 1,
+   "web_b": 1,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 1,
+    "cloud": 0,
+    "webB": 0,
+    "other": 3
+   }
+  },
+  {
+   "id": "R2-CMR-w42",
+   "country": "Cameroon",
+   "week": "12–18 Oct",
+   "pool": 3,
+   "cloud": 1,
+   "web_b": 2,
+   "gdelt_project": 1,
+   "squares": {
+    "both": 1,
+    "cloud": 0,
+    "webB": 1,
+    "other": 1
+   }
+  },
+  {
+   "id": "R2-COL-w32",
+   "country": "Colombia",
+   "week": "3–9 Aug",
+   "pool": 15,
+   "cloud": 13,
+   "web_b": 4,
+   "gdelt_project": 7,
+   "squares": {
+    "both": 4,
+    "cloud": 9,
+    "webB": 0,
+    "other": 2
+   }
+  },
+  {
+   "id": "R2-COL-w36",
+   "country": "Colombia",
+   "week": "31 Aug – 6 Sep",
+   "pool": 21,
+   "cloud": 11,
+   "web_b": 2,
+   "gdelt_project": 15,
+   "squares": {
+    "both": 2,
+    "cloud": 9,
+    "webB": 0,
+    "other": 10
+   }
+  },
+  {
+   "id": "R2-COL-w37",
+   "country": "Colombia",
+   "week": "7–13 Sep",
+   "pool": 17,
+   "cloud": 7,
+   "web_b": 6,
+   "gdelt_project": 10,
+   "squares": {
+    "both": 1,
+    "cloud": 6,
+    "webB": 5,
+    "other": 5
+   }
+  },
+  {
+   "id": "R2-COL-w41",
+   "country": "Colombia",
+   "week": "5–11 Oct",
+   "pool": 14,
+   "cloud": 11,
+   "web_b": 7,
+   "gdelt_project": 9,
+   "squares": {
+    "both": 6,
+    "cloud": 5,
+    "webB": 1,
+    "other": 2
+   }
+  },
+  {
+   "id": "COL-w43",
+   "country": "Colombia",
+   "week": "19–25 Oct",
+   "pool": 10,
+   "cloud": 6,
+   "web_b": 5,
+   "gdelt_project": 4,
+   "squares": {
+    "both": 3,
+    "cloud": 3,
+    "webB": 2,
+    "other": 2
+   }
+  },
+  {
+   "id": "COD-w41",
+   "country": "DR Congo",
+   "week": "5–11 Oct",
+   "pool": 11,
+   "cloud": 9,
+   "web_b": 3,
+   "gdelt_project": 1,
+   "squares": {
+    "both": 2,
+    "cloud": 7,
+    "webB": 1,
+    "other": 1
+   }
+  },
+  {
+   "id": "R2-ECU-w41",
+   "country": "Ecuador",
+   "week": "5–11 Oct",
+   "pool": 2,
+   "cloud": 1,
+   "web_b": 2,
+   "gdelt_project": 1,
+   "squares": {
+    "both": 1,
+    "cloud": 0,
+    "webB": 1,
+    "other": 0
+   }
+  },
+  {
+   "id": "ETH-w42",
+   "country": "Ethiopia",
+   "week": "12–18 Oct",
+   "pool": 4,
+   "cloud": 1,
+   "web_b": 4,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 1,
+    "cloud": 0,
+    "webB": 3,
+    "other": 0
+   }
+  },
+  {
+   "id": "ETH-w43",
+   "country": "Ethiopia",
+   "week": "19–25 Oct",
+   "pool": 6,
+   "cloud": 5,
+   "web_b": 3,
+   "gdelt_project": 2,
+   "squares": {
+    "both": 3,
+    "cloud": 2,
+    "webB": 0,
+    "other": 1
+   }
+  },
+  {
+   "id": "R2-HTI-w42",
+   "country": "Haiti",
+   "week": "12–18 Oct",
+   "pool": 2,
+   "cloud": 1,
+   "web_b": 1,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 0,
+    "cloud": 1,
+    "webB": 1,
+    "other": 0
+   }
+  },
+  {
+   "id": "R2-IND-w46",
+   "country": "India",
+   "week": "9–15 Nov",
+   "pool": 23,
+   "cloud": 19,
+   "web_b": 6,
+   "gdelt_project": 11,
+   "squares": {
+    "both": 4,
+    "cloud": 15,
+    "webB": 2,
+    "other": 2
+   }
+  },
+  {
+   "id": "R3-IDN-w41",
+   "country": "Indonesia",
+   "week": "5–11 Oct",
+   "pool": 6,
+   "cloud": 3,
+   "web_b": 2,
+   "gdelt_project": 1,
+   "squares": {
+    "both": 0,
+    "cloud": 3,
+    "webB": 2,
+    "other": 1
+   }
+  },
+  {
+   "id": "R2-IRN-w40",
+   "country": "Iran",
+   "week": "28 Sep – 4 Oct",
+   "pool": 10,
+   "cloud": 8,
+   "web_b": 3,
+   "gdelt_project": 4,
+   "squares": {
+    "both": 2,
+    "cloud": 6,
+    "webB": 1,
+    "other": 1
+   }
+  },
+  {
+   "id": "R2-ISR-w41",
+   "country": "Israel",
+   "week": "5–11 Oct",
+   "pool": 62,
+   "cloud": 22,
+   "web_b": 7,
+   "gdelt_project": 49,
+   "squares": {
+    "both": 2,
+    "cloud": 20,
+    "webB": 5,
+    "other": 35
+   }
+  },
+  {
+   "id": "R2-ISR-w42",
+   "country": "Israel",
+   "week": "12–18 Oct",
+   "pool": 36,
+   "cloud": 6,
+   "web_b": 1,
+   "gdelt_project": 32,
+   "squares": {
+    "both": 1,
+    "cloud": 5,
+    "webB": 0,
+    "other": 30
+   }
+  },
+  {
+   "id": "R2-ISR-w43",
+   "country": "Israel",
+   "week": "19–25 Oct",
+   "pool": 35,
+   "cloud": 9,
+   "web_b": 1,
+   "gdelt_project": 31,
+   "squares": {
+    "both": 1,
+    "cloud": 8,
+    "webB": 0,
+    "other": 26
+   }
+  },
+  {
+   "id": "R3-KEN-w44",
+   "country": "Kenya",
+   "week": "26 Oct – 1 Nov",
+   "pool": 8,
+   "cloud": 5,
+   "web_b": 2,
+   "gdelt_project": 3,
+   "squares": {
+    "both": 2,
+    "cloud": 3,
+    "webB": 0,
+    "other": 3
+   }
+  },
+  {
+   "id": "MLI-w41",
+   "country": "Mali",
+   "week": "5–11 Oct",
+   "pool": 5,
+   "cloud": 2,
+   "web_b": 2,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 1,
+    "cloud": 1,
+    "webB": 1,
+    "other": 2
+   }
+  },
+  {
+   "id": "MLI-w43",
+   "country": "Mali",
+   "week": "19–25 Oct",
+   "pool": 5,
+   "cloud": 4,
+   "web_b": 3,
+   "gdelt_project": 2,
+   "squares": {
+    "both": 2,
+    "cloud": 2,
+    "webB": 1,
+    "other": 0
+   }
+  },
+  {
+   "id": "MLI-w44",
+   "country": "Mali",
+   "week": "26–31 Oct",
+   "pool": 2,
+   "cloud": 2,
+   "web_b": 2,
+   "gdelt_project": 1,
+   "squares": {
+    "both": 2,
+    "cloud": 0,
+    "webB": 0,
+    "other": 0
+   }
+  },
+  {
+   "id": "R3-MOZ-w42",
+   "country": "Mozambique",
+   "week": "12–18 Oct",
+   "pool": 4,
+   "cloud": 1,
+   "web_b": 2,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 1,
+    "cloud": 0,
+    "webB": 1,
+    "other": 2
+   }
+  },
+  {
+   "id": "R3-MOZ-w43",
+   "country": "Mozambique",
+   "week": "19–25 Oct",
+   "pool": 2,
+   "cloud": 0,
+   "web_b": 1,
+   "gdelt_project": 1,
+   "squares": {
+    "both": 0,
+    "cloud": 0,
+    "webB": 1,
+    "other": 1
+   }
+  },
+  {
+   "id": "MMR-w43",
+   "country": "Myanmar",
+   "week": "19–25 Oct",
+   "pool": 17,
+   "cloud": 8,
+   "web_b": 8,
+   "gdelt_project": 2,
+   "squares": {
+    "both": 4,
+    "cloud": 4,
+    "webB": 4,
+    "other": 5
+   }
+  },
+  {
+   "id": "MMR-w44",
+   "country": "Myanmar",
+   "week": "26–31 Oct",
+   "pool": 8,
+   "cloud": 4,
+   "web_b": 6,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 2,
+    "cloud": 2,
+    "webB": 4,
+    "other": 0
+   }
+  },
+  {
+   "id": "NGA-w40",
+   "country": "Nigeria",
+   "week": "1–4 Oct",
+   "pool": 18,
+   "cloud": 15,
+   "web_b": 10,
+   "gdelt_project": 13,
+   "squares": {
+    "both": 9,
+    "cloud": 6,
+    "webB": 1,
+    "other": 2
+   }
+  },
+  {
+   "id": "PAK-w43",
+   "country": "Pakistan",
+   "week": "19–25 Oct",
+   "pool": 26,
+   "cloud": 18,
+   "web_b": 9,
+   "gdelt_project": 18,
+   "squares": {
+    "both": 6,
+    "cloud": 12,
+    "webB": 3,
+    "other": 5
+   }
+  },
+  {
+   "id": "R2-PAK-w47",
+   "country": "Pakistan",
+   "week": "16–22 Nov",
+   "pool": 35,
+   "cloud": 23,
+   "web_b": 7,
+   "gdelt_project": 18,
+   "squares": {
+    "both": 4,
+    "cloud": 19,
+    "webB": 3,
+    "other": 9
+   }
+  },
+  {
+   "id": "R3-RUS-w43",
+   "country": "Russia",
+   "week": "19–25 Oct",
+   "pool": 16,
+   "cloud": 12,
+   "web_b": 5,
+   "gdelt_project": 7,
+   "squares": {
+    "both": 5,
+    "cloud": 7,
+    "webB": 0,
+    "other": 4
+   }
+  },
+  {
+   "id": "R3-RUS-w44",
+   "country": "Russia",
+   "week": "26 Oct – 1 Nov",
+   "pool": 19,
+   "cloud": 13,
+   "web_b": 4,
+   "gdelt_project": 11,
+   "squares": {
+    "both": 4,
+    "cloud": 9,
+    "webB": 0,
+    "other": 6
+   }
+  },
+  {
+   "id": "R3-SAU-w41",
+   "country": "Saudi Arabia",
+   "week": "5–11 Oct",
+   "pool": 7,
+   "cloud": 7,
+   "web_b": 4,
+   "gdelt_project": 6,
+   "squares": {
+    "both": 4,
+    "cloud": 3,
+    "webB": 0,
+    "other": 0
+   }
+  },
+  {
+   "id": "SOM-w41",
+   "country": "Somalia",
+   "week": "5–11 Oct",
+   "pool": 4,
+   "cloud": 3,
+   "web_b": 1,
+   "gdelt_project": 0,
+   "squares": {
+    "both": 1,
+    "cloud": 2,
+    "webB": 0,
+    "other": 1
+   }
+  },
+  {
+   "id": "R3-ZAF-w42",
+   "country": "South Africa",
+   "week": "12–18 Oct",
+   "pool": 5,
+   "cloud": 5,
+   "web_b": 3,
+   "gdelt_project": 4,
+   "squares": {
+    "both": 3,
+    "cloud": 2,
+    "webB": 0,
+    "other": 0
+   }
+  },
+  {
+   "id": "R3-ZAF-w43",
+   "country": "South Africa",
+   "week": "19–25 Oct",
+   "pool": 4,
+   "cloud": 3,
+   "web_b": 3,
+   "gdelt_project": 2,
+   "squares": {
+    "both": 2,
+    "cloud": 1,
+    "webB": 1,
+    "other": 0
+   }
+  },
+  {
+   "id": "R2-YEM-w44",
+   "country": "Yemen",
+   "week": "26 Oct – 1 Nov",
+   "pool": 61,
+   "cloud": 55,
+   "web_b": 5,
+   "gdelt_project": 7,
+   "squares": {
+    "both": 3,
+    "cloud": 52,
+    "webB": 2,
+    "other": 4
+   }
+  }
+ ],
+ "news": {
+  "rows": [
+   {
+    "id": "EL01",
+    "what": "Bulgaria: Presidential election, 1st round",
+    "list": "Election calendar",
+    "question": "elections in or affecting Bulgaria around October 25 2026",
+    "found": {
+     "cloud": true,
+     "web_a": true,
+     "web_b": true,
+     "web_c": true
+    }
+   },
+   {
+    "id": "WK1094",
+    "what": "The Bank of Canada raises its policy interest rate by 25 basis points to 2.5%, its first increase since July 2023, citing persistent inflation driven partly by higher oil and gasoline prices linked to the Iran war",
+    "list": "Wikipedia Current Events",
+    "question": "business and economic developments in or affecting Canada around October 28 2026",
+    "found": {
+     "cloud": true,
+     "web_a": true,
+     "web_b": true,
+     "web_c": false
+    }
+   },
+   {
+    "id": "WK1245",
+    "what": "Four workers are killed after a methane gas explosion at a mine in Chita, Boyacá Department, Colombia",
+    "list": "Wikipedia Current Events",
+    "question": "disasters and accidents in or affecting Colombia around November 14 2026",
+    "found": {
+     "cloud": true,
+     "web_a": true,
+     "web_b": true,
+     "web_c": false
+    }
+   },
+   {
+    "id": "WK010",
+    "what": "Hackers steal approximately €100 million (US$112 million) from French bank Crédit Mutuel through unauthorized transactions using the bank's account",
+    "list": "Wikipedia Current Events",
+    "question": "crimes, arrests, trials and court rulings in or affecting France around November 4 2026",
+    "found": {
+     "cloud": true,
+     "web_a": false,
+     "web_b": false,
+     "web_c": false
+    }
+   },
+   {
+    "id": "CB04",
+    "what": "United Kingdom: Bank of England raises Bank Rate to 4.00%",
+    "list": "Rate-change list",
+    "question": "central bank interest rate decisions in or affecting United Kingdom around November 5 2026",
+    "found": {
+     "cloud": false,
+     "web_a": true,
+     "web_b": true,
+     "web_c": true
+    }
+   },
+   {
+    "id": "WK1266",
+    "what": "Eight people are found shot and killed inside a vehicle in Msunduzi Local Municipality, KwaZulu-Natal, South Africa",
+    "list": "Wikipedia Current Events",
+    "question": "crimes, arrests, trials and court rulings in or affecting South Africa around November 16 2026",
+    "found": {
+     "cloud": false,
+     "web_a": true,
+     "web_b": false,
+     "web_c": false
+    }
+   }
+  ],
+  "items": 351,
+  "found": {
+   "cloud": 326,
+   "web_a": 207,
+   "web_b": 253,
+   "web_c": 147
+  }
+ }
+}

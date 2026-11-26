@@ -1,5 +1,18 @@
 # Changelog
 
+## Presentation, 26 November 2026
+
+- **The conflict result is stated as a share of the pool.** GDELT Cloud returned 63% of the 615 distinct armed-conflict
+  incidents any service found, the best AI web search 26% (2.5×; second juror 63% against 24%). It was stated as
+  incidents a week (9.7 against 3.9), which read as a global count; it is an average per country-week.
+- **Week by week (new column):** the same share taken in each question and averaged, so a quiet week counts as much as
+  a busy one: GDELT Cloud 62%, web search B 41% (second juror 60%, 35%). `mean_question_share` and
+  `questions_with_pool` in `results/pooled_summary.csv`.
+- **Worked examples (new file):** `results/pooled_examples.json`, real rows from the pooled run: DR Congo 5–11 October
+  and Ethiopia 12–18 October in full (each incident, which service returned it, and whether the second juror counted
+  it), the pool of every question split by who found each incident, and six news items. Shown on the results page.
+- No verdict, label or count changed.
+
 ## Documentation, 26 November 2026
 
 - **Comparing runs** (`METHOD.md`): which numbers compare across runs and which only within one, how to add a service

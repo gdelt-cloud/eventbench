@@ -15,7 +15,7 @@
 
 > **Release 2026.11.2, 25 November 2026.** Adds how often a coded event row is right against its own article: on the same 149 articles, 88% of GDELT Cloud's rows against 9% of the GDELT Project's; on a fully blind conflict sample, 81% against 5%. See [Precision](#precision-of-what-each-service-returned-how-much-was-right).
 >
-> **Release 2026.11.1, 25 November 2026 (corrected).** The conflict comparison first published in release 2026.11 ("2.1×") is withdrawn: GDELT Cloud's searches used each incident's place and dates, it alone got a second look and a recheck, and incidents with no deaths were counted. Every conflict figure is now like for like, and a new run judges every service against every lethal incident any of them found (the pooled truth, [METHOD.md](METHOD.md#pooled-truth-release-2026111)). **Headline:** asked who was killed in attacks, clashes or violence in 40 country-weeks across 23 countries, GDELT Cloud returned **2.5×** as many distinct armed-conflict incidents as the best AI web search (9.7 against 3.9 a week; second juror 11.2 against 4.2), ahead in 27 of the 40 weeks; against the raw GDELT Project event stream it was about level on armed conflict (9.7 against 7.6; second juror 11.2 against 10.9) from about half as many records, and ahead on all lethal violence (25.9 against 15.5). Against the reference lists alone, counting only lethal incidents: 32% against 27% for the best AI web search. News results are unchanged: 93% against 72%. See [CHANGELOG.md](CHANGELOG.md).
+> **Release 2026.11.1, 25 November 2026 (corrected).** The conflict comparison first published in release 2026.11 ("2.1×") is withdrawn: GDELT Cloud's searches used each incident's place and dates, it alone got a second look and a recheck, and incidents with no deaths were counted. Every conflict figure is now like for like, and a new run judges every service against every lethal incident any of them found (the pooled truth, [METHOD.md](METHOD.md#pooled-truth-release-2026111)). **Headline:** asked who was killed in attacks, clashes or violence in 40 country-weeks across 23 countries, GDELT Cloud returned **63%** of the distinct armed-conflict incidents any service found, against **26%** for the best AI web search (**2.5×**; second juror 63% against 24%), ahead in 27 of the 40 weeks. Averaged week by week, so a quiet week counts as much as a busy one: 62% against 41%. Against the raw GDELT Project event stream it was about level on armed conflict (50%; second juror 61%) from about half as many records, and ahead on all lethal violence (74% against 44%). Against the reference lists alone, counting only lethal incidents: 32% against 27% for the best AI web search. News results are unchanged: 93% against 72%. See [CHANGELOG.md](CHANGELOG.md).
 
 
 When something happens in the world, does a data service give you a record of it? Is the record right? What does it tell you?
@@ -70,25 +70,27 @@ Details and sampling: [METHOD.md](METHOD.md) and [SUITE.md](SUITE.md).
 
 The question, for 40 country-weeks in 23 countries: *people killed in attacks, clashes or violence in {country}, {week}*. Every record any service returned, plus the reference incidents for the week, was pooled blind; two jurors from different model families (`juror_a`, `juror_b`) named each lethal incident in it, and each is scored on its own. Armed conflict is every incident type but criminal homicide.
 
-| Distinct lethal incidents a week (juror a / juror b) | Armed conflict | All lethal violence |
-|---|---:|---:|
-| **GDELT Cloud**, every record | **9.7 / 11.2** | **25.9 / 24.4** |
-| GDELT Cloud, first page of each list (3 calls) | 4.9 / 5.3 | 7.3 / 7.2 |
-| GDELT Cloud, Events only | 2.0 / 2.3 | 2.4 / 2.6 |
-| GDELT Project 2.0, CAMEO 18–20 rows located in the country | 7.6 / 10.9 | 15.5 / 19.0 |
-| AI web search B | 3.9 / 4.2 | 5.1 / 5.4 |
-| AI web search A | 1.2 / 1.2 | 1.2 / 1.2 |
-| AI web search C | 0.6 / 0.8 | 0.6 / 0.8 |
-| AI web search A, B or C | 4.4 / 4.7 | 5.5 / 5.9 |
-| Pool (incidents in 40 weeks) | 615 / 712 | 1,404 / 1,374 |
+A service's figure is its **share of the pool**: the distinct incidents it returned, of every incident any service returned (and the reference incidents) across the 40 questions. **Week by week** is the same share taken in each country-week and averaged, so a quiet week counts as much as a busy one; it narrows the gap because web search returns at most 20–25 results and keeps up in small weeks. One question can cover many incidents: from none (Burkina Faso, 12–18 October) to 61 (Yemen, 26 October – 1 November), first juror. The page's worked examples lay out real rows: [gdeltcloud.com/benchmarks/events#examples](https://gdeltcloud.com/benchmarks/events#examples).
 
-- **GDELT Cloud against web search B, paired over the weeks:** armed conflict +5.7 a week (95% bootstrap interval +3.3 to +9.0; juror b +7.0, +3.9 to +11.2), ahead in 27 of 40 weeks, tied in 7, behind in 6. First page only: +1.0 (+0.05 to +2.2). All lethal violence: +20.8 (+11.3 to +33.8).
-- **GDELT Cloud against the GDELT Project:** armed conflict +2.0 a week (−1.3 to +5.7; juror b +0.3, −3.6 to +4.2), so level within the noise; all lethal violence +10.4 (+4.0 to +18.0; juror b +5.4, 0.0 to +11.3). The GDELT Project's 30,037 records were 6–12% on topic (by juror); GDELT Cloud's 16,535, 9–11%.
+| Share of the pool (juror a / juror b) | Armed conflict | Armed conflict, week by week | All lethal violence |
+|---|---:|---:|---:|
+| **GDELT Cloud**, every record | **63% / 63%** | **62% / 60%** | **74% / 71%** |
+| GDELT Cloud, first page of each list (3 calls) | 32% / 30% | 42% / 38% | 21% / 21% |
+| GDELT Cloud, Events only | 13% / 13% | 14% / 13% | 7% / 8% |
+| GDELT Project 2.0, CAMEO 18–20 rows located in the country | 50% / 61% | 41% / 54% | 44% / 55% |
+| AI web search B | 26% / 24% | 41% / 35% | 15% / 16% |
+| AI web search A | 8% / 7% | 13% / 11% | 3% / 3% |
+| AI web search C | 4% / 4% | 6% / 8% | 2% / 2% |
+| AI web search A, B or C | 28% / 26% | 43% / 38% | 16% / 17% |
+| Pool (incidents in 40 questions) | 615 / 712 | | 1,404 / 1,374 |
+
+- **GDELT Cloud against web search B, paired over the weeks:** armed conflict +5.7 incidents per country-week (95% bootstrap interval +3.3 to +9.0; juror b +7.0, +3.9 to +11.2), ahead in 27 of 40 weeks, tied in 7, behind in 6. First page only: +1.0 (+0.05 to +2.2). All lethal violence: +20.8 (+11.3 to +33.8).
+- **GDELT Cloud against the GDELT Project:** armed conflict +2.0 incidents per country-week (−1.3 to +5.7; juror b +0.3, −3.6 to +4.2), so level within the noise; all lethal violence +10.4 (+4.0 to +18.0; juror b +5.4, 0.0 to +11.3). The GDELT Project's 30,037 records were 6–12% on topic (by juror); GDELT Cloud's 16,535, 9–11%.
 - **By type** (share of the pool, juror a; GDELT Cloud, the GDELT Project, web B): battles 66%, 39%, 29%; strikes, shelling and bombs 55%, 55%, 27%; attacks on civilians 59%, 51%, 27%; killings by police or security forces 70%, 55%, 15%; mob violence 69%, 46%, 46%; criminal homicide 82%, 40%, 6%.
 - **By country:** GDELT Cloud leads most in India, Brazil, Yemen, Colombia, Pakistan and Russia; web search found more in Myanmar and Ethiopia, and the two are level in the Sahel and Haiti weeks.
 - **Reference incidents inside those weeks:** UCDP 24 of 70 (GDELT Project 11, web B 19), SATP 3 of 8 (2, 0), Indepaz 4 of 7 (1, 1).
 - **Blind audit** of a sample of incidents only one side found, by a third model: 85% of GDELT Cloud's armed-conflict incidents were real, in the week and not a repeat, against 79% of web search's and 63% of the GDELT Project's; for criminal homicide, 56% against 75% and 64%.
-- **Precision is the price:** 11% of GDELT Cloud's 413 records a week were about a lethal incident in the country and week, against 43% of web search B's 25.
+- **Precision is the price:** 11% of GDELT Cloud's 413 records per country-week were about a lethal incident in the country and week, against 43% of web search B's 25.
 - Wider GDELT Cloud filters (gang, kidnapping and prison crime codes, or violent Events with no death count) added 1 incident in 40 weeks.
 
 Tables: `results/pooled_*.csv`, rebuilt from `judgments/pool/` by `python3 pool_report.py`.
@@ -207,7 +209,7 @@ Two different checks. Accuracy reads the source article and checks every field. 
 
 **Where web search loses.**
 - A results page is a ranking, not a list.
-- One monitoring question returned 1–5 distinct lethal incidents a week at each service's maximum results, often the day's dominant story rather than the one you need.
+- One monitoring question returned 1–5 distinct lethal incidents at each service's maximum results, often the day's dominant story rather than the one you need.
 
 **Why everyone's conflict recall is low.**
 - UCDP counts single deaths and builds its list from sources no news crawl reaches, such as broadcast monitoring, army communiqués, NGO monitors and local radio.
@@ -218,7 +220,7 @@ Two different checks. Accuracy reads the source article and checks every field. 
 | Criticism | Answer |
 |---|---|
 | "UCDP is the wrong denominator." | It is independent of every service, public, and counts single deaths, so it is hard for everyone. We add Indepaz, SATP and five non-conflict lists, and report each panel separately. |
-| "Web search was not given a fair chance." | Each web service was asked in the query style its own documentation recommends, with its own news or date-window mode, and in the pooled run at its maximum results per call. At one call each on the reference lists, web search B leads: 27% against GDELT Cloud's 23%. GDELT Cloud's lead comes from listing everything that matched, which is what a monitoring question asks for: its first page alone is slightly ahead of web search B on armed conflict (4.9 against 3.9 a week), its full lists 2.5×. The next release adds a deeper-search configuration and a lookup mode where web search is strongest. |
+| "Web search was not given a fair chance." | Each web service was asked in the query style its own documentation recommends, with its own news or date-window mode, and in the pooled run at its maximum results per call. At one call each on the reference lists, web search B leads: 27% against GDELT Cloud's 23%. GDELT Cloud's lead comes from listing everything that matched, which is what a monitoring question asks for: its first page alone is slightly ahead of web search B on armed conflict (32% of the pool against 26%), its full lists 2.5×. The next release adds a deeper-search configuration and a lookup mode where web search is strongest. |
 | "Web search + LLM is as good as GDELT Cloud." | Its 97% is relevance: the LLM keeps records of the kind asked. It does not check fields against the source, it adds no recall (A 17% against A's 18%, B 23% against 25%, C 8% against 12%), and its records carry fewer fields. It adds about 0.06¢ and 7 seconds a question. |
 | "An AI judged it." | Reviewers were Claude models, a different model family from the one GDELT Cloud uses for coding. Records were shuffled and stripped of source names. A second reviewer re-judged 40 incidents (κ = 0.83). The pooled run had two jurors from different labs judging every record (κ = 0.82), and a third model audited a sample blind. Every verdict is published in `judgments/`. |
 | "You picked categories that suit you." | Conflict and non-conflict lists were sampled at random or taken in full, across every category we code, including those where Cloud loses. |

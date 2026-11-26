@@ -133,8 +133,12 @@ def main():
             pool_n = agg[scope]['_']['pool']; refs_n = agg[scope]['_']['refs']
             for s, (name, _) in SERVICES.items():
                 x = agg[scope][s]; lo, hi = wilson(x['on_topic'], x['records'])
+                # The same share taken week by week and averaged, so a 61-incident week counts no more than a 2-incident one.
+                # Weeks with an empty pool have no share and are left out.
+                wk = [r[s] / r['pool'] for r in per_q[scope] if r['pool']]
                 summary.append({'juror': j, 'scope': scope, 'service': s, 'description': name, 'questions': nq, 'pool': pool_n,
                                 'incidents': x['delivered'], 'per_question': round(x['delivered'] / nq, 2), 'share_of_pool': round(x['delivered'] / pool_n, 4) if pool_n else '',
+                                'mean_question_share': round(sum(wk) / len(wk), 4) if wk else '', 'questions_with_pool': len(wk),
                                 'reference_incidents': refs_n, 'reference_incidents_found': x['refs'], 'records': x['records'], 'records_on_topic': x['on_topic'],
                                 'on_topic_share': round(x['on_topic'] / x['records'], 4) if x['records'] else '', 'on_topic_lo': lo, 'on_topic_hi': hi})
             for s in ('cloud', 'cloud_first_page', 'cloud_deaths_flag', 'cloud_events'):

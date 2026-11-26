@@ -374,14 +374,19 @@ a{color:var(--cloud)}
 
 
 def pooled_lede():
-    """The pooled headline, from results/pooled_compare.csv (pool_report.py): armed conflict, first juror."""
-    rows = read_csv('results/pooled_compare.csv') if path('results/pooled_compare.csv').exists() else []
-    r = next((x for x in rows if x['scope'] == 'armed_conflict' and x['service'] == 'cloud' and x['versus'] == 'web_b'), None)
-    if not r or not r['ratio']:
+    """The pooled headline, from results/pooled_summary.csv and pooled_compare.csv (pool_report.py): armed conflict, first juror,
+    as each service's share of every incident any service found, with the same share averaged week by week beside it."""
+    if not (path('results/pooled_compare.csv').exists() and path('results/pooled_summary.csv').exists()):
         return ''
-    return (f'Asked who was killed in armed conflict in a country and week, GDELT Cloud returned {float(r["ratio"]):.1f}× as many distinct incidents '
-            f'as the best AI web search ({float(r["per_question"]):.1f} against {float(r["versus_per_question"]):.1f} a week, '
-            f'{int(r["questions_ahead"]) + int(r["questions_tied"]) + int(r["questions_behind"])} country-weeks, judged against every incident any service found). ')
+    cmp = next((x for x in read_csv('results/pooled_compare.csv') if x['juror'] == 'juror_a' and x['scope'] == 'armed_conflict' and x['service'] == 'cloud' and x['versus'] == 'web_b'), None)
+    row = {x['service']: x for x in read_csv('results/pooled_summary.csv') if x['juror'] == 'juror_a' and x['scope'] == 'armed_conflict'}
+    if not cmp or not cmp['ratio'] or 'cloud' not in row or 'web_b' not in row:
+        return ''
+    c, w = row['cloud'], row['web_b']
+    pc = lambda v: f'{round(float(v) * 100)}%'
+    weekly = f'; averaged week by week, {pc(c["mean_question_share"])} against {pc(w["mean_question_share"])}' if c.get('mean_question_share') and w.get('mean_question_share') else ''
+    return (f'Asked who was killed in armed conflict in a country and week, GDELT Cloud returned {pc(c["share_of_pool"])} of the {c["pool"]} distinct incidents '
+            f'any service found in {c["questions"]} country-weeks, against {pc(w["share_of_pool"])} for the best AI web search ({float(cmp["ratio"]):.1f}×{weekly}). ')
 
 
 def page():

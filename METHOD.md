@@ -158,6 +158,9 @@ the way shared search evaluations (TREC) have long pooled the results of every t
    every incident any record was labelled with. For each service, the incidents it delivered, its share of
    the pool, the share of its records that were on topic, and its records per question; GDELT Cloud also as
    its first page of each list (one call per route). Paired over the questions with a bootstrap interval.
+   The share of the pool leads. The same share taken in each question and averaged (`mean_question_share`,
+   "week by week") is published beside it: the pooled share weighs a busy week more than a quiet one, and a
+   service capped at 20–25 results keeps up in quiet weeks.
 5. **Incident types** (`judgments/pool/incident_types.csv`, rules in `JUDGE_POOL.md`): each pooled incident
    gets one type. *Armed conflict* is every type but criminal homicide, and it is the headline: the web
    search brief names armed groups, gangs and security forces, not ordinary murder.
@@ -171,7 +174,9 @@ records (κ = 0.71): κ 0.80 on GDELT Cloud's records, 0.81 on web search's and 
 no text (`results/pooled_agreement.csv`). GDELT Cloud
 was asked through `bench.py monitor` on 25 November 2026; web search A, B and C at 20, 25 and 20 results. The key
 (`key.json`) names each record's source and its URL or id, and each GDELT Cloud record's position in the API's
-answer; record text is not published. `python3 pool_report.py` rebuilds every `results/pooled_*.csv` table.
+answer; record text is not published, except GDELT Cloud's own titles in the worked examples
+(`results/pooled_examples.json`: two country-weeks in full, every question's pool, six news items; web search and GDELT
+Project records appear by domain only). `python3 pool_report.py` rebuilds every `results/pooled_*.csv` table.
 
 A pooled share measures what each service delivered against what the tested services found together. It is
 not a share of everything that happened: the reference-list recall above stays beside it as the check no
